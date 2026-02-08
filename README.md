@@ -4,7 +4,7 @@ In the interest of LOCKSS, I'm sharing the content I got from the internet archi
 
 If you like this and want to support more data rescue efforts focusing on educational resources, let me know. Anywho, more elaborate information:
 
-# What's in a CIA World Factbook Lesson
+# What's in a CIA World Factbook JSON
 
 Each of the 254 pages is a complete country profile, structured into up to 15 sections. Here's what a reader will find:
 
