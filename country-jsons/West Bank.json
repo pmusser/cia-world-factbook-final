@@ -1,0 +1,4571 @@
+{
+  "componentChunkName": "component---src-templates-country-js",
+  "path": "/countries/west-bank/",
+  "result": {
+    "data": {
+      "country": {
+        "name": "West Bank",
+        "region": "Middle East",
+        "locations": [
+          "place"
+        ],
+        "updated": "December 23, 2025",
+        "rank": true,
+        "flag": null,
+        "map": {
+          "childImageSharp": {
+            "gatsbyImageData": {
+              "layout": "fullWidth",
+              "images": {
+                "fallback": {
+                  "src": "/the-world-factbook/static/5ad8e97b0659f3a84346a6f55d1e7b40/f5a28/WE-map.jpg",
+                  "srcSet": "/the-world-factbook/static/5ad8e97b0659f3a84346a6f55d1e7b40/f5a28/WE-map.jpg 331w",
+                  "sizes": "100vw"
+                },
+                "sources": [
+                  {
+                    "srcSet": "/the-world-factbook/static/5ad8e97b0659f3a84346a6f55d1e7b40/b03a5/WE-map.webp 331w",
+                    "type": "image/webp",
+                    "sizes": "100vw"
+                  }
+                ]
+              },
+              "width": 1,
+              "height": 2.1601208459214503
+            }
+          }
+        },
+        "locatorMap": {
+          "childImageSharp": {
+            "gatsbyImageData": {
+              "layout": "fullWidth",
+              "images": {
+                "fallback": {
+                  "src": "/the-world-factbook/static/377f5cc7c6b0abf08df26b24769c21ff/1f866/WE-locator-map.jpg",
+                  "srcSet": "/the-world-factbook/static/377f5cc7c6b0abf08df26b24769c21ff/1f866/WE-locator-map.jpg 432w",
+                  "sizes": "100vw"
+                },
+                "sources": [
+                  {
+                    "srcSet": "/the-world-factbook/static/377f5cc7c6b0abf08df26b24769c21ff/5c405/WE-locator-map.webp 432w",
+                    "type": "image/webp",
+                    "sizes": "100vw"
+                  }
+                ]
+              },
+              "width": 1,
+              "height": 1.162037037037037
+            }
+          }
+        },
+        "images": [
+          {
+            "altText": "A scene from the Old City in East Jerusalem.",
+            "caption": "A scene from the Old City in East Jerusalem.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/705968f2335f1b324aecc227d6fd6160/5a7f1/WE_001_large.jpg",
+                      "srcSet": "/the-world-factbook/static/705968f2335f1b324aecc227d6fd6160/5a7f1/WE_001_large.jpg 398w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/705968f2335f1b324aecc227d6fd6160/ce70c/WE_001_large.webp 398w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 1.5075376884422111
+                }
+              }
+            }
+          },
+          {
+            "altText": "The hallway leading to the Dome of the Rock in East Jerusalem.",
+            "caption": "The hallway leading to the Dome of the Rock in East Jerusalem.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/825a5765fd1339d5f9b9b8153b9d2ae7/5a7f1/WE_008_large.jpg",
+                      "srcSet": "/the-world-factbook/static/825a5765fd1339d5f9b9b8153b9d2ae7/5a7f1/WE_008_large.jpg 398w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/825a5765fd1339d5f9b9b8153b9d2ae7/ce70c/WE_008_large.webp 398w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 1.5075376884422111
+                }
+              }
+            }
+          },
+          {
+            "altText": "The Dome of the Rock, located on Haram al-Sharif (also known as the Temple Mount), in East Jerusalem.",
+            "caption": "The Dome of the Rock, located on Haram al-Sharif (also known as the Temple Mount), in East Jerusalem.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/98e99283b39d4fc69722db577083865a/d62c3/West_Bank_Dome_of_the_Rock.jpg",
+                      "srcSet": "/the-world-factbook/static/98e99283b39d4fc69722db577083865a/d62c3/West_Bank_Dome_of_the_Rock.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/98e99283b39d4fc69722db577083865a/684e9/West_Bank_Dome_of_the_Rock.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.6633333333333333
+                }
+              }
+            }
+          },
+          {
+            "altText": "The Dome of the Rock, located on Haram al-Sharif (also known as the Temple Mount), in East Jerusalem.",
+            "caption": "The Dome of the Rock, located on Haram al-Sharif (also known as the Temple Mount), in East Jerusalem.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/58deccd2842ff7f1f420502dee62f2e4/d62c3/WE_006_large.jpg",
+                      "srcSet": "/the-world-factbook/static/58deccd2842ff7f1f420502dee62f2e4/d62c3/WE_006_large.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/58deccd2842ff7f1f420502dee62f2e4/684e9/WE_006_large.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.6633333333333333
+                }
+              }
+            }
+          },
+          {
+            "altText": "A view of the Western Wall (also known as the Wailing Wall or Buraq Wall) with the Dome of the Rock located above it. Both sites are in East Jerusalem.",
+            "caption": "A view of the Western Wall (also known as the Wailing Wall or Buraq Wall) with the Dome of the Rock located above it. Both sites are in East Jerusalem.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/a6a14f4ea20a347421ff89c88e564623/96f94/West_Bank_Wailing_wall_and_Dome.jpg",
+                      "srcSet": "/the-world-factbook/static/a6a14f4ea20a347421ff89c88e564623/96f94/West_Bank_Wailing_wall_and_Dome.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/a6a14f4ea20a347421ff89c88e564623/f9f9e/West_Bank_Wailing_wall_and_Dome.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.6683333333333333
+                }
+              }
+            }
+          },
+          {
+            "altText": "The Western Wall (also known as the Wailing Wall or Buraq Wall) is an ancient limestone wall in the Old City of Jerusalem that Herod the Great erected as part of the expansion of the Second Jewish Temple in 19 B.C. The wall is now part of a larger wall around the Muslim Dome of the Rock and Al-Aqṣā Mosque. This photo depicts Jewish pilgrims in prayer.",
+            "caption": "The Western Wall (also known as the Wailing Wall or Buraq Wall) is an ancient limestone wall in the Old City of Jerusalem that Herod the Great erected as part of the expansion of the Second Jewish Temple in 19 B.C. The wall is now part of a larger wall around the Muslim Dome of the Rock and Al-Aqṣā Mosque. This photo depicts Jewish pilgrims in prayer.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/83630b8e57086039df348538397de651/3f4ea/Israel_Wailing_Wall.jpg",
+                      "srcSet": "/the-world-factbook/static/83630b8e57086039df348538397de651/3f4ea/Israel_Wailing_Wall.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/83630b8e57086039df348538397de651/9ff6b/Israel_Wailing_Wall.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.6666666666666666
+                }
+              }
+            }
+          },
+          {
+            "altText": "Inside the Church of the Holy Sepulcher, built over the site traditionally identified as the tomb of Christ, in East Jerusalem.",
+            "caption": "Inside the Church of the Holy Sepulcher, built over the site traditionally identified as the tomb of Christ, in East Jerusalem.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/53a7702f1045d4b6f9e70995078af1c5/d62c3/WE_005_large.jpg",
+                      "srcSet": "/the-world-factbook/static/53a7702f1045d4b6f9e70995078af1c5/d62c3/WE_005_large.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/53a7702f1045d4b6f9e70995078af1c5/684e9/WE_005_large.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.6633333333333333
+                }
+              }
+            }
+          },
+          {
+            "altText": "The dome of the Church of the Holy Sepulcher in East Jerusalem.",
+            "caption": "The dome of the Church of the Holy Sepulcher in East Jerusalem.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/e80be2fc1399b4c37a083a2714da4508/5a7f1/WE_004_large.jpg",
+                      "srcSet": "/the-world-factbook/static/e80be2fc1399b4c37a083a2714da4508/5a7f1/WE_004_large.jpg 398w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/e80be2fc1399b4c37a083a2714da4508/ce70c/WE_004_large.webp 398w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 1.5075376884422111
+                }
+              }
+            }
+          },
+          {
+            "altText": "Jerusalem lies on a plateau between the Mediterranean and the Dead Sea. It is one of the oldest cities in the world and is considered holy to the three major Abrahamic religions: Judaism, Christianity, and Islam. In 1538, the city walls were rebuilt around Jerusalem and now define the Old City. Shown in the center of this view is the Dome of the Rock in East Jerusalem.",
+            "caption": "Jerusalem lies on a plateau between the Mediterranean and the Dead Sea. It is one of the oldest cities in the world and is considered holy to the three major Abrahamic religions: Judaism, Christianity, and Islam. In 1538, the city walls were rebuilt around Jerusalem and now define the Old City. Shown in the center of this view is the Dome of the Rock in East Jerusalem.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/58d548fb864270f3b1e6024ab0c33818/3f4ea/Israel_Jerusalem.jpg",
+                      "srcSet": "/the-world-factbook/static/58d548fb864270f3b1e6024ab0c33818/3f4ea/Israel_Jerusalem.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/58d548fb864270f3b1e6024ab0c33818/9ff6b/Israel_Jerusalem.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.6666666666666666
+                }
+              }
+            }
+          },
+          {
+            "altText": "A nighttime view of Jerusalem and East Jerusalem, taken from the Mount of Olives.",
+            "caption": "A nighttime view of Jerusalem and East Jerusalem, taken from the Mount of Olives.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/ad88df1a3b75f5d910a58130c1afbf9d/d62c3/WE_003_large.jpg",
+                      "srcSet": "/the-world-factbook/static/ad88df1a3b75f5d910a58130c1afbf9d/d62c3/WE_003_large.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/ad88df1a3b75f5d910a58130c1afbf9d/684e9/WE_003_large.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.6633333333333333
+                }
+              }
+            }
+          },
+          {
+            "altText": "A Bedouin encampment on the road to Jericho from Jerusalem. Bedouins are constantly on the move to feed and water their herds.",
+            "caption": "A Bedouin encampment on the road to Jericho from Jerusalem. Bedouins are constantly on the move to feed and water their herds.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/802f1818f4024f5a1e7d6ba1db345fb7/d62c3/WE_009_large.jpg",
+                      "srcSet": "/the-world-factbook/static/802f1818f4024f5a1e7d6ba1db345fb7/d62c3/WE_009_large.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/802f1818f4024f5a1e7d6ba1db345fb7/684e9/WE_009_large.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.6633333333333333
+                }
+              }
+            }
+          }
+        ],
+        "special": []
+      },
+      "fields": {
+        "nodes": [
+          {
+            "name": "Age structure",
+            "data": "<strong>0-14 years:</strong> 36.7% (male 609,497/female 579,227)<br><br><strong>15-64 years:</strong> 59.5% (male 979,719/female 949,746)<br><br><strong>65 years and over:</strong> 3.9% (2024 est.) (male 59,234/female 65,946)",
+            "subfields": [
+              {
+                "label": "65 years and over",
+                "ranking": null
+              },
+              {
+                "label": "15-64 years",
+                "ranking": null
+              },
+              {
+                "label": "0-14 years",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "341",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "0-14 years",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "15-64 years",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "65 years and over",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": [
+              {
+                "type": "image",
+                "label": "2024 population pyramid",
+                "altText": "This is the population pyramid for the West Bank. A population pyramid illustrates the age and sex structure of a country's population and may provide insights about political and social stability, as well as economic development. The population is distributed along the horizontal axis, with males shown on the left and females on the right. The male and female populations are broken down into 5-year age groups represented as horizontal bars along the vertical axis, with the youngest age groups at the bottom and the oldest at the top. The shape of the population pyramid gradually evolves over time based on fertility, mortality, and international migration trends. <br/><br/>For additional information, please see the entry for Population pyramid on the Definitions and Notes page.",
+                "caption": "This is the population pyramid for the West Bank. A population pyramid illustrates the age and sex structure of a country's population and may provide insights about political and social stability, as well as economic development. The population is distributed along the horizontal axis, with males shown on the left and females on the right. The male and female populations are broken down into 5-year age groups represented as horizontal bars along the vertical axis, with the youngest age groups at the bottom and the oldest at the top. The shape of the population pyramid gradually evolves over time based on fertility, mortality, and international migration trends. <br/><br/>For additional information, please see the entry for Population pyramid on the Definitions and Notes page.",
+                "localFile": {
+                  "publicURL": "/the-world-factbook/static/e4268590d01d753fe02e1cd8017c6beb/we_popgraph2024.jpeg",
+                  "childImageSharp": {
+                    "gatsbyImageData": {
+                      "layout": "constrained",
+                      "images": {
+                        "fallback": {
+                          "src": "/the-world-factbook/static/e4268590d01d753fe02e1cd8017c6beb/60be0/we_popgraph2024.jpg",
+                          "srcSet": "/the-world-factbook/static/e4268590d01d753fe02e1cd8017c6beb/a2e79/we_popgraph2024.jpg 245w,\n/the-world-factbook/static/e4268590d01d753fe02e1cd8017c6beb/d9c3e/we_popgraph2024.jpg 490w,\n/the-world-factbook/static/e4268590d01d753fe02e1cd8017c6beb/60be0/we_popgraph2024.jpg 980w",
+                          "sizes": "(min-width: 980px) 980px, 100vw"
+                        },
+                        "sources": []
+                      },
+                      "width": 980,
+                      "height": 600
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "name": "Geographic coordinates",
+            "data": "32 00 N, 35 15 E",
+            "subfields": [
+              {
+                "label": "Geographic coordinates",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "277",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Geographic coordinates",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Sex ratio",
+            "data": "<strong>at birth:</strong> 1.06 male(s)/female<br><br><strong>0-14 years:</strong> 1.05 male(s)/female<br><br><strong>15-64 years:</strong> 1.03 male(s)/female<br><br><strong>65 years and over:</strong> 0.9 male(s)/female<br><br><strong>total population:</strong> 1.03 male(s)/female (2024 est.)",
+            "subfields": [
+              {
+                "label": "total population",
+                "ranking": null
+              },
+              {
+                "label": "65 years and over",
+                "ranking": null
+              },
+              {
+                "label": "15-64 years",
+                "ranking": null
+              },
+              {
+                "label": "0-14 years",
+                "ranking": null
+              },
+              {
+                "label": "at birth",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "351",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "at birth",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "0-14 years",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "15-64 years",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "65 years and over",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "total population",
+                    "position": 5
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Natural hazards",
+            "data": "droughts",
+            "subfields": [
+              {
+                "label": "Natural hazards",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "292",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Natural hazards",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Area - comparative",
+            "data": "slightly smaller than Delaware",
+            "subfields": [
+              {
+                "label": "Area - comparative",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "280",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Area - comparative",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Background",
+            "data": "<p><span class=\"TextRun SCXW135172474 BCX8\" lang=\"EN-US\" xml:lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW135172474 BCX8\" data-ccp-parastyle=\"Normal (Web)\">The landlocked West Bank -- the larger of the two Palestinian territories -- </span><span class=\"NormalTextRun SCXW135172474 BCX8\" data-ccp-parastyle=\"Normal (Web)\">is home to some three million Palestinians. Inhabited since at least the 15th century B.C., the </span></span><span class=\"TrackChangeTextInsertion TrackedChange SCXW135172474 BCX8\"><span class=\"TextRun SCXW135172474 BCX8\" lang=\"EN-US\" xml:lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW135172474 BCX8\" data-ccp-parastyle=\"Normal (Web)\">area currently </span></span></span><span class=\"TrackChangeTextInsertion TrackedChange SCXW135172474 BCX8\"><span class=\"TextRun SCXW135172474 BCX8\" lang=\"EN-US\" xml:lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW135172474 BCX8\" data-ccp-parastyle=\"Normal (Web)\">known as the </span></span></span><span class=\"TextRun SCXW135172474 BCX8\" lang=\"EN-US\" xml:lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW135172474 BCX8\" data-ccp-parastyle=\"Normal (Web)\">West Bank has</span></span><span class=\"TextRun SCXW135172474 BCX8\" lang=\"EN-US\" xml:lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW135172474 BCX8\" data-ccp-parastyle=\"Normal (Web)\">&nbsp;been dominated by </span></span><span class=\"TrackChangeTextInsertion TrackedChange SCXW135172474 BCX8\"><span class=\"TextRun SCXW135172474 BCX8\" lang=\"EN-US\" xml:lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW135172474 BCX8\" data-ccp-parastyle=\"Normal (Web)\">a suc</span></span></span><span class=\"TrackChangeTextInsertion TrackedChange SCXW135172474 BCX8\"><span class=\"TextRun SCXW135172474 BCX8\" lang=\"EN-US\" xml:lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW135172474 BCX8\" data-ccp-parastyle=\"Normal (Web)\">cession of </span></span></span><span class=\"TextRun SCXW135172474 BCX8\" lang=\"EN-US\" xml:lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW135172474 BCX8\" data-ccp-parastyle=\"Normal (Web)\">different</span></span><span class=\"TrackChangeTextDeletionMarker TrackedChange SCXW135172474 BCX8\"><span class=\"TextRun SCXW135172474 BCX8\" lang=\"EN-US\" xml:lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun TrackChangeTextDeletion SCXW135172474 BCX8\" data-ccp-parastyle=\"Normal (Web)\">&nbsp;</span></span></span><span class=\"TrackChangeTextInsertion TrackedChange SCXW135172474 BCX8\"><span class=\"TextRun SCXW135172474 BCX8\" lang=\"EN-US\" xml:lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun CommentStart CommentHighlightPipeRest CommentHighlightRest SCXW135172474 BCX8\" data-ccp-parastyle=\"Normal (Web)\">powers</span></span></span><span class=\"TrackChangeTextInsertion TrackedChange SCXW135172474 BCX8\"><span class=\"TextRun SCXW135172474 BCX8\" lang=\"EN-US\" xml:lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW135172474 BCX8\" data-ccp-parastyle=\"Normal (Web)\">. In the early 16th century</span></span></span><span class=\"TrackChangeTextInsertion TrackedChange TrackChangeHoverSelectColorRed SCXW135172474 BCX8\"><span class=\"TextRun SCXW135172474 BCX8\" lang=\"EN-US\" xml:lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun TrackChangeHoverSelectHighlightRed SCXW135172474 BCX8\" data-ccp-parastyle=\"Normal (Web)\">, </span></span></span><span class=\"TextRun SCXW135172474 BCX8\" lang=\"EN-US\" xml:lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW135172474 BCX8\" data-ccp-parastyle=\"Normal (Web)\">it was incorporated into the Ottoman Empire. The </span></span><span class=\"TextRun SCXW135172474 BCX8\" lang=\"EN-US\" xml:lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW135172474 BCX8\" data-ccp-parastyle=\"Normal (Web)\">West Bank fell to British forces during World War I, becoming part of the British Mandate of Palestine. After the 1948 </span><span class=\"NormalTextRun ContextualSpellingAndGrammarErrorV2Themed SCXW135172474 BCX8\" data-ccp-parastyle=\"Normal (Web)\">Arab-Israeli</span><span class=\"NormalTextRun SCXW135172474 BCX8\" data-ccp-parastyle=\"Normal (Web)\"> War, Transjordan (later renamed Jordan) captured the West Bank and annexed it in 1950; </span><span class=\"NormalTextRun SCXW135172474 BCX8\" data-ccp-parastyle=\"Normal (Web)\">Israel then captured it in the Six-Day War in 1967. Under the Oslo Accords -- a series of agreements that were signed between 1993 and 1999 -- Israel transferred to the newly created Palestinian Authority (PA) security and civilian responsibility </span></span><span class=\"TrackChangeTextDeletionMarker TrackedChange SCXW135172474 BCX8\"><span class=\"TextRun SCXW135172474 BCX8\" lang=\"EN-US\" xml:lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun TrackChangeTextDeletion SCXW135172474 BCX8\" data-ccp-parastyle=\"Normal (Web)\">for</span></span></span><span class=\"TrackChangeTextInsertion TrackedChange SCXW135172474 BCX8\"><span class=\"TextRun SCXW135172474 BCX8\" lang=\"EN-US\" xml:lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW135172474 BCX8\" data-ccp-parastyle=\"Normal (Web)\"> the </span></span></span><span class=\"TrackChangeTextDeletionMarker TrackedChange SCXW135172474 BCX8\"><span class=\"TextRun SCXW135172474 BCX8\" lang=\"EN-US\" xml:lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun TrackChangeTextDeletion SCXW135172474 BCX8\" data-ccp-parastyle=\"Normal (Web)\">many </span></span></span><span class=\"TextRun SCXW135172474 BCX8\" lang=\"EN-US\" xml:lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW135172474 BCX8\" data-ccp-parastyle=\"Normal (Web)\">Palestinian-populated areas of the West Bank,</span><span class=\"NormalTextRun SCXW135172474 BCX8\" data-ccp-parastyle=\"Normal (Web)\"> as well as the Gaza Strip.</span></span></p> <p><span class=\"TextRun SCXW99766467 BCX8\" lang=\"EN-US\" xml:lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW99766467 BCX8\" data-ccp-parastyle=\"Normal (Web)\">In addition to establishing the PA as an interim government, the Oslo Accords divided the West Bank into three areas, with one fully managed by the PA</span></span><span class=\"TrackChangeTextInsertion TrackedChange SCXW99766467 BCX8\"><span class=\"TextRun SCXW99766467 BCX8\" lang=\"EN-US\" xml:lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW99766467 BCX8\" data-ccp-parastyle=\"Normal (Web)\"> (Area A)</span></span></span><span class=\"TextRun SCXW99766467 BCX8\" lang=\"EN-US\" xml:lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW99766467 BCX8\" data-ccp-parastyle=\"Normal (Web)\">, another fully managed by Israel</span></span><span class=\"TrackChangeTextInsertion TrackedChange SCXW99766467 BCX8\"><span class=\"TextRun SCXW99766467 BCX8\" lang=\"EN-US\" xml:lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW99766467 BCX8\" data-ccp-parastyle=\"Normal (Web)\"> (Area C)</span></span></span><span class=\"TextRun SCXW99766467 BCX8\" lang=\"EN-US\" xml:lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW99766467 BCX8\" data-ccp-parastyle=\"Normal (Web)\">, and a third with shared control </span></span><span class=\"TrackChangeTextInsertion TrackedChange SCXW99766467 BCX8\"><span class=\"TextRun SCXW99766467 BCX8\" lang=\"EN-US\" xml:lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW99766467 BCX8\" data-ccp-parastyle=\"Normal (Web)\">(Area B) </span></span></span><span class=\"TextRun SCXW99766467 BCX8\" lang=\"EN-US\" xml:lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW99766467 BCX8\" data-ccp-parastyle=\"Normal (Web)\">until a permanent agreement could be reached between the Palestine Liberation Organization (PLO) and Israel. In 2000, a violent <em>intifada</em>, or uprising, began across the Palestinian territories,</span></span><span class=\"TrackChangeTextDeletionMarker TrackedChange SCXW99766467 BCX8\"><span class=\"TextRun SCXW99766467 BCX8\" lang=\"EN-US\" xml:lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun TrackChangeTextDeletion SCXW99766467 BCX8\" data-ccp-parastyle=\"Normal (Web)\">&nbsp;</span></span></span><span class=\"TextRun SCXW99766467 BCX8\" lang=\"EN-US\" xml:lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun CommentStart CommentHighlightPipeRest CommentHighlightRest SCXW99766467 BCX8\" data-ccp-parastyle=\"Normal (Web)\">and</span><span class=\"NormalTextRun CommentHighlightPipeRest SCXW99766467 BCX8\" data-ccp-parastyle=\"Normal (Web)\"> in 2001, negotiations for a permanent agreement between the PLO and Israel on final status issues stalled. </span><span class=\"NormalTextRun SCXW99766467 BCX8\" data-ccp-parastyle=\"Normal (Web)\">Subsequent</span><span class=\"NormalTextRun SCXW99766467 BCX8\" data-ccp-parastyle=\"Normal (Web)\"> attempts to re-start direct negotiations have not resulted in progress toward </span><span class=\"NormalTextRun SCXW99766467 BCX8\" data-ccp-parastyle=\"Normal (Web)\">determining</span><span class=\"NormalTextRun SCXW99766467 BCX8\" data-ccp-parastyle=\"Normal (Web)\"> final status of the area.</span></span><span class=\"EOP SCXW99766467 BCX8\" data-ccp-props=\"{&quot;134233117&quot;:true,&quot;134233118&quot;:true}\">&nbsp;</span></p> <p><span class=\"TextRun SCXW161512036 BCX8\" lang=\"EN-US\" xml:lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW161512036 BCX8\" data-ccp-parastyle=\"Normal (Web)\">The PA last held national elections in 2006, when the Islamic Resistance Movement (</span><span class=\"NormalTextRun CommentStart CommentHighlightPipeRest CommentHighlightRest SCXW161512036 BCX8\" data-ccp-parastyle=\"Normal (Web)\">H</span></span><span class=\"TrackChangeTextInsertion TrackedChange SCXW161512036 BCX8\"><span class=\"TextRun SCXW161512036 BCX8\" lang=\"EN-US\" xml:lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun CommentHighlightRest SCXW161512036 BCX8\" data-ccp-parastyle=\"Normal (Web)\">AMAS</span></span></span><span class=\"TextRun SCXW161512036 BCX8\" lang=\"EN-US\" xml:lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun CommentHighlightPipeRest SCXW161512036 BCX8\" data-ccp-parastyle=\"Normal (Web)\">) won a majority of seats in the Palestinian Legislative Council (PLC). Fatah, the dominant Palestinian political faction in the West Bank, and <span class=\"NormalTextRun CommentStart CommentHighlightPipeRest CommentHighlightRest SCXW161512036 BCX8\" data-ccp-parastyle=\"Normal (Web)\">H</span><span class=\"TrackChangeTextInsertion TrackedChange SCXW161512036 BCX8\"><span class=\"NormalTextRun CommentHighlightRest SCXW161512036 BCX8\" data-ccp-parastyle=\"Normal (Web)\">AMAS </span></span></span></span><span class=\"TextRun SCXW161512036 BCX8\" lang=\"EN-US\" xml:lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW161512036 BCX8\" data-ccp-parastyle=\"Normal (Web)\">failed to</span> <span class=\"NormalTextRun SCXW161512036 BCX8\" data-ccp-parastyle=\"Normal (Web)\">maintain</span><span class=\"NormalTextRun SCXW161512036 BCX8\" data-ccp-parastyle=\"Normal (Web)\"> a unity government, leading to violent clashes between their respective supporters and</span></span><span class=\"TrackChangeTextInsertion TrackedChange SCXW161512036 BCX8\"><span class=\"TextRun SCXW161512036 BCX8\" lang=\"EN-US\" xml:lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW161512036 BCX8\" data-ccp-parastyle=\"Normal (Web)\"> to</span></span></span><span class=\"TextRun SCXW161512036 BCX8\" lang=\"EN-US\" xml:lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW161512036 BCX8\" data-ccp-parastyle=\"Normal (Web)\"> <span class=\"NormalTextRun CommentStart CommentHighlightPipeRest CommentHighlightRest SCXW161512036 BCX8\" data-ccp-parastyle=\"Normal (Web)\">H</span><span class=\"TrackChangeTextInsertion TrackedChange SCXW161512036 BCX8\"><span class=\"NormalTextRun CommentHighlightRest SCXW161512036 BCX8\" data-ccp-parastyle=\"Normal (Web)\">AMAS'</span></span></span></span><span class=\"TextRun SCXW161512036 BCX8\" lang=\"EN-US\" xml:lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW161512036 BCX8\" data-ccp-parastyle=\"Normal (Web)\">s violent seizure of all PA military and governmental institutions in the Gaza Strip in 2007. In 2018, the Palestinian Constitutional Court dissolved the PLC. In recent years, Fatah and <span class=\"NormalTextRun CommentStart CommentHighlightPipeRest CommentHighlightRest SCXW161512036 BCX8\" data-ccp-parastyle=\"Normal (Web)\">H</span><span class=\"TrackChangeTextInsertion TrackedChange SCXW161512036 BCX8\"><span class=\"NormalTextRun CommentHighlightRest SCXW161512036 BCX8\" data-ccp-parastyle=\"Normal (Web)\">AMAS </span></span></span></span><span class=\"TextRun SCXW161512036 BCX8\" lang=\"EN-US\" xml:lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW161512036 BCX8\" data-ccp-parastyle=\"Normal (Web)\">have made several attempts at reconciliation, but the factions have been unable to implement agreements.</span></span><span class=\"EOP SCXW161512036 BCX8\" data-ccp-props=\"{&quot;134233117&quot;:true,&quot;134233118&quot;:true}\">&nbsp;</span></p>",
+            "subfields": [
+              {
+                "label": "Summary",
+                "ranking": null
+              },
+              {
+                "label": "Background",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "325",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Background",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Summary",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Environmental issues",
+            "data": "adequacy of freshwater supply; sewage treatment",
+            "subfields": [
+              {
+                "label": "Environmental issues",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "293",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Environmental issues",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Population below poverty line",
+            "data": "29.2% (2016 est.)<br><br><b>note:</b> % of population with income below national poverty line; entry includes West Bank and Gaza Strip",
+            "subfields": [
+              {
+                "label": "population",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "221",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "population",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Household income or consumption by percentage share",
+            "data": "<strong>lowest 10%:</strong> 2.5% (2023 est.)<br><br><strong>highest 10%:</strong> 27.1% (2023 est.)<br><br><b>note:</b> % share of income accruing to lowest and highest 10% of population; entry includes West Bank and Gaza Strip",
+            "subfields": [
+              {
+                "label": "highest 10%",
+                "ranking": null
+              },
+              {
+                "label": "lowest 10%",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "222",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "lowest 10%",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "highest 10%",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Exports - commodities",
+            "data": "scrap iron, tropical fruits, olive oil, building stone, prepared meat (2023)<br><br><b>note:</b> top five export commodities based on value in dollars; entry includes the West Bank and the Gaza Strip",
+            "subfields": [
+              {
+                "label": "Exports - commodities",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "240",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Exports - commodities",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Agricultural products",
+            "data": "tomatoes, cucumbers, olives, poultry, milk, potatoes, sheep milk, eggplants, gourds",
+            "subfields": [
+              {
+                "label": "Agricultural products",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "215",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Agricultural products",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Military and security forces",
+            "data": "per the Oslo Accords, the Palestinian Authority (PA) is not permitted a conventional military but maintains security and police forces; PA security personnel have operated exclusively in the West Bank since HAMAS seized power in the Gaza Strip in 2007; PA forces include the Palestinian National Security Forces, Presidential Guard, Civil Police, Civil Defense, Preventive Security Organization, the General Intelligence Organization, and the Military Intelligence Organization (2024)<br><br><strong>note:</strong> the National Security Forces conduct gendarmerie-style security operations in circumstances that exceed the capabilities of the Civil Police; it is the largest branch of the PA security services and acts as the internal Palestinian security force; the Presidential Guard protects facilities and provides dignitary protection; the Preventive Security Organization is responsible for internal intelligence gathering and investigations related to internal security cases, including political dissent",
+            "subfields": [
+              {
+                "label": "Military branches",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "331",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Military branches",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Budget",
+            "data": "<strong>revenues:</strong> $1.409 billion (2021 est.)<br><br><strong>expenditures:</strong> $1.499 billion (2021 est.)<br><br><b>note:</b> central government revenues and expenditures (excluding grants and social security funds) converted to US dollars at average official exchange rate for year indicated",
+            "subfields": [
+              {
+                "label": "expenditures",
+                "ranking": null
+              },
+              {
+                "label": "revenues",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "224",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "revenues",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "expenditures",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Imports - commodities",
+            "data": "cement, raw sugar, cars, baked goods, perfumes (2023)<br><br><b>note:</b> top five import commodities based on value in dollars; entry includes the West Bank and the Gaza Strip",
+            "subfields": [
+              {
+                "label": "Imports - commodities",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "243",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Imports - commodities",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Climate",
+            "data": "temperate; temperature and precipitation vary with altitude, warm to hot summers, cool to mild winters",
+            "subfields": [
+              {
+                "label": "Climate",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "284",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Climate",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "ten driest places on Earth (average annual precipitation)",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "ten wettest places on Earth (average annual precipitation)",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "ten coldest places on Earth (lowest average monthly temperature)",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "ten hottest places on Earth (highest average monthly temperature)",
+                    "position": 5
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Coastline",
+            "data": "0 km (landlocked)",
+            "subfields": [
+              {
+                "label": "Coastline",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "282",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Coastline",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Exchange rates",
+            "data": "new Israeli shekels (ILS) per US dollar -<br><br><strong>Exchange rates:</strong><br>3.7 (2024 est.)<br>3.67 (2023 est.)<br>3.36 (2022 est.)<br>3.23 (2021 est.)<br>3.442 (2020 est.)",
+            "subfields": [
+              {
+                "label": "Exchange rates 2024",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2023",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2022",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2021",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2020",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2019",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2018",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2017",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2016",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2015",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2014",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2013",
+                "ranking": null
+              },
+              {
+                "label": "Currency",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "249",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Currency",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Exchange rates",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Industries",
+            "data": "small-scale manufacturing, quarrying, textiles, soap, olive-wood carvings, and mother-of-pearl souvenirs",
+            "subfields": [
+              {
+                "label": "Industries",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "216",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Industries",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Land boundaries",
+            "data": "<strong>total:</strong> 478 km<br><br><strong>border countries (2):</strong> Israel 330 km; Jordan 148 km",
+            "subfields": [
+              {
+                "label": "regional borders",
+                "ranking": null
+              },
+              {
+                "label": "border countries (2)",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "281",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "total",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "border countries",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "border sovereign base areas",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "metropolitan France - total",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "French Guiana - total",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "regional borders",
+                    "position": 6
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Land use",
+            "data": "<strong>agricultural land:</strong> 64.9% (2023 est.)<br><br>arable land: 7% (2023 est.)<br><br>permanent crops: 11.8% (2023 est.)<br><br>permanent pasture: 46.1% (2023 est.)<br><br><strong>forest:</strong> 1.8% (2023 est.)<br><br><strong>other:</strong> 32.1% (2023 est.)<br><br><strong>note:</strong> includes Gaza Strip",
+            "subfields": [
+              {
+                "label": "other",
+                "ranking": null
+              },
+              {
+                "label": "forest",
+                "ranking": null
+              },
+              {
+                "label": "permanent pasture",
+                "ranking": null
+              },
+              {
+                "label": "permanent crops",
+                "ranking": null
+              },
+              {
+                "label": "arable land",
+                "ranking": null
+              },
+              {
+                "label": "agricultural land",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "288",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "agricultural land",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "agricultural land: arable land",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "agricultural land: permanent crops",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "agricultural land: permanent pasture",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "forest",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "other",
+                    "position": 6
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Literacy",
+            "data": "<strong>total population:</strong> 98% (2022 est.)<br><br><strong>male:</strong> 99% (2022 est.)<br><br><strong>female:</strong> 97% (2022 est.)<br><br><strong>note:</strong> estimates are for Gaza and the West Bank",
+            "subfields": [
+              {
+                "label": "female",
+                "ranking": null
+              },
+              {
+                "label": "male",
+                "ranking": null
+              },
+              {
+                "label": "total population",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "370",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "total population",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "male",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "female",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Maritime claims",
+            "data": "none (landlocked)",
+            "subfields": [],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "283",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "territorial sea",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "contiguous zone",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "exclusive economic zone",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "continental shelf",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "exclusive fishing zone",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Environment (Protection and Preservation) Zone",
+                    "position": 6
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Natural resources",
+            "data": "arable land",
+            "subfields": [
+              {
+                "label": "Natural resources",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "287",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Natural resources",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Geography - note",
+            "data": "landlocked; highlands are main recharge area for Israel's coastal aquifers (2017)",
+            "subfields": [
+              {
+                "label": "Geography - note",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "295",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Geography - note",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Terrain",
+            "data": "mostly rugged, dissected upland in west, flat plains descending to Jordan River Valley to the east",
+            "subfields": [
+              {
+                "label": "terrain",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "285",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "terrain",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "top ten world caves",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Country name",
+            "data": "<strong>conventional long form:</strong> none<br><br><strong>conventional short form:</strong> West Bank<br><br><strong>etymology:</strong> name refers to the location of the British Mandate of Palestine that was occupied and administered by Jordan in 1948, on the west bank of the Jordan River; the designation was retained after the 1967 Six-Day War and subsequent changes in administration",
+            "subfields": [
+              {
+                "label": "abbreviation",
+                "ranking": null
+              },
+              {
+                "label": "former",
+                "ranking": null
+              },
+              {
+                "label": "local short form",
+                "ranking": null
+              },
+              {
+                "label": "local long form",
+                "ranking": null
+              },
+              {
+                "label": "etymology",
+                "ranking": null
+              },
+              {
+                "label": "conventional short form",
+                "ranking": null
+              },
+              {
+                "label": "conventional long form",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "296",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "conventional long form",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "conventional short form",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "local long form",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "local short form",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "official long form",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "official short form",
+                    "position": 6
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "former",
+                    "position": 7
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "abbreviation",
+                    "position": 8
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "etymology",
+                    "position": 9
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Location",
+            "data": "Middle East, west of Jordan, east of Israel",
+            "subfields": [
+              {
+                "label": "Location",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "276",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Location",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Map references",
+            "data": "Middle East",
+            "subfields": [
+              {
+                "label": "Map references",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "278",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Map references",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Irrigated land",
+            "data": "(2013) 151 sq km; note - includes Gaza Strip",
+            "subfields": [
+              {
+                "label": "Irrigated land",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "289",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Irrigated land",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Internet users",
+            "data": "<strong>percent of population:</strong> 87% (2023 est.)<br><br><strong>note:</strong> includes the Gaza Strip",
+            "subfields": [
+              {
+                "label": "percent of population",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "204",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "percent of population",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Internet country code",
+            "data": ".ps<br><br><strong>note:</strong>&nbsp;IANA has designated .ps for the West Bank, same as Gaza Strip",
+            "subfields": [
+              {
+                "label": "Internet country code",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "202",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Internet country code",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Refugees and internally displaced persons",
+            "data": "<strong>IDPs:</strong> 2,032,011 (2024 est.)",
+            "subfields": [
+              {
+                "label": "IDPs",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "327",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "refugees",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "IDPs",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "stateless persons",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "GDP (official exchange rate)",
+            "data": "$13.711 billion (2024 est.)<br><br><b>note:</b> data in current dollars at official exchange rate; entry includes West Bank and Gaza Strip",
+            "subfields": [
+              {
+                "label": "GDP (official exchange rate)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "209",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "GDP (official exchange rate)",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "School life expectancy (primary to tertiary education)",
+            "data": "<strong>total:</strong> 13 years (2023 est.)<br><br><strong>male:</strong> 12 years (2023 est.)<br><br><strong>female:</strong> 14 years (2023 est.)<br><br><strong>note:</strong> data represent Gaza Strip and the West Bank",
+            "subfields": [
+              {
+                "label": "female",
+                "ranking": null
+              },
+              {
+                "label": "male",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "371",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "total",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "male",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "female",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Urbanization",
+            "data": "<strong>urban population:</strong> 77.6% of total population (2023)<br><br><strong>rate of urbanization:</strong> 2.85% annual rate of change (2020-25 est.)<br><br><strong>note:</strong> data represent Gaza Strip and the West Bank",
+            "subfields": [
+              {
+                "label": "urban population",
+                "ranking": null
+              },
+              {
+                "label": "rate of urbanization",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "349",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "urban population",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "rate of urbanization",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Broadcast media",
+            "data": "the Palestinian Authority operates 1 TV and 1 radio station; about 20 private TV and 40 radio stations; Jordanian TV and satellite TV accessible",
+            "subfields": [
+              {
+                "label": "Broadcast media",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "199",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Broadcast media",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Drinking water source",
+            "data": "<strong>improved:</strong><br><br>urban: 98% of population (2022 est.)<br><br>rural: 100% of population (2022 est.)<br><br>total: 98.4% of population (2022 est.)<br><br><strong>unimproved:</strong><br><br>urban: 2% of population (2022 est.)<br><br>total: 1.6% of population (2022 est.)<br><br><strong>note:</strong> includes Gaza Strip and the West Bank",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": null
+              },
+              {
+                "label": "urban",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": null
+              },
+              {
+                "label": "rural",
+                "ranking": null
+              },
+              {
+                "label": "urban",
+                "ranking": null
+              },
+              {
+                "label": "rural",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "361",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "improved: urban",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "improved: rural",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "improved: total",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "unimproved: urban",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "unimproved: rural",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "unimproved: total",
+                    "position": 6
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Physician density",
+            "data": "3.25 physicians/1,000 population (2020)",
+            "subfields": [
+              {
+                "label": "total physician density",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "359",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "total physician density",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Hospital bed density",
+            "data": "1.3 beds/1,000 population (2019 est.)",
+            "subfields": [
+              {
+                "label": "total hospital bed density",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "360",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "total hospital bed density",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "GDP - composition, by end use",
+            "data": "<strong>household consumption:</strong> 95.5% (2024 est.)<br><br><strong>government consumption:</strong> 20.7% (2024 est.)<br><br><strong>investment in fixed capital:</strong> 24.7% (2023 est.)<br><br><strong>investment in inventories:</strong> 1.7% (2024 est.)<br><br><strong>exports of goods and services:</strong> 21% (2024 est.)<br><br><strong>imports of goods and services:</strong> -60.3% (2024 est.)<br><br><b>note:</b> figures may not total 100% due to rounding or gaps in data collection",
+            "subfields": [
+              {
+                "label": "imports of goods and services",
+                "ranking": null
+              },
+              {
+                "label": "exports of goods and services",
+                "ranking": null
+              },
+              {
+                "label": "investment in inventories",
+                "ranking": null
+              },
+              {
+                "label": "government consumption",
+                "ranking": null
+              },
+              {
+                "label": "household consumption",
+                "ranking": null
+              },
+              {
+                "label": "investment in fixed capital",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "213",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "household consumption",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "government consumption",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "investment in fixed capital",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "investment in inventories",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "exports of goods and services",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "imports of goods and services",
+                    "position": 6
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Dependency ratios",
+            "data": "<strong>total dependency ratio:</strong> 68.1 (2024 est.)<br><br><strong>youth dependency ratio:</strong> 61.6 (2024 est.)<br><br><strong>elderly dependency ratio:</strong> 6.5 (2024 est.)<br><br><strong>potential support ratio:</strong> 15.4 (2024 est.)",
+            "subfields": [
+              {
+                "label": "potential support ratio",
+                "ranking": null
+              },
+              {
+                "label": "elderly dependency ratio",
+                "ranking": null
+              },
+              {
+                "label": "youth dependency ratio",
+                "ranking": null
+              },
+              {
+                "label": "total dependency ratio",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "342",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "total dependency ratio",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "youth dependency ratio",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "elderly dependency ratio",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "potential support ratio",
+                    "position": 4
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Population distribution",
+            "data": "the most populous Palestinian communities in the West Bank are located in the central ridge and western half of its territory; Jewish settlements are located throughout the West Bank, the most populous in the Seam Zone -- between the 1949 Armistice Line and the separation barrier -- and around Jerusalem",
+            "subfields": [
+              {
+                "label": "Population distribution",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "348",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Population distribution",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Electricity access",
+            "data": "<strong>electrification - total population:</strong> 100% (2022 est.)<br><br><strong>note:</strong> includes the West Bank and the Gaza Strip",
+            "subfields": [
+              {
+                "label": "electrification - total population",
+                "ranking": null
+              },
+              {
+                "label": "electrification - rural areas",
+                "ranking": null
+              },
+              {
+                "label": "electrification - urban areas",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "251",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "electrification - total population",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "electrification - urban areas",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "electrification - rural areas",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Sanitation facility access",
+            "data": "<strong>improved:</strong><br><br>urban: 100% of population (2022 est.)<br><br>rural: 99% of population (2022 est.)<br><br>total: 99.8% of population (2022 est.)<br><br><strong>unimproved:</strong><br><br>urban: 0% of population (2022 est.)<br><br>rural: 1% of population (2022 est.)<br><br>total: 0.2% of population (2022 est.)<br><br><strong>note:</strong> includes Gaza Strip and the West Bank",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": null
+              },
+              {
+                "label": "rural",
+                "ranking": null
+              },
+              {
+                "label": "urban",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": null
+              },
+              {
+                "label": "rural",
+                "ranking": null
+              },
+              {
+                "label": "urban",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "398",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "improved: urban",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "improved: rural",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "improved: total",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "unimproved: urban",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "unimproved: rural",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "unimproved: total",
+                    "position": 6
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Ethnic groups",
+            "data": "Palestinian Arab, Jewish, other",
+            "subfields": [
+              {
+                "label": "Ethnic groups",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "400",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Ethnic groups",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Religions",
+            "data": "Muslim 80-85% (predominantly Sunni), Jewish 12-14%, Christian 1-2.5% (mainly Greek Orthodox), other, unaffiliated, unspecified &lt;1% (2012 est.)",
+            "subfields": [
+              {
+                "label": "Religions",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "401",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Religions",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Languages",
+            "data": "Arabic, Hebrew (spoken by Israeli settlers and many Palestinians), English (widely understood)<br><br><strong>major-language sample(s):</strong> <br />كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br /><br />The World Factbook, the indispensable source for basic information.",
+            "subfields": [
+              {
+                "label": "major-language sample(s)",
+                "ranking": null
+              },
+              {
+                "label": "Languages",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "402",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Languages",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "major-language sample(s)",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": [
+              {
+                "type": "audio",
+                "label": "Arabic audio sample",
+                "altText": "Arabic audio sample",
+                "caption": "Arabic audio sample",
+                "localFile": {
+                  "publicURL": "/the-world-factbook/static/75d33021878a03953bb0cfe236a612e9/Arabic.mp3",
+                  "childImageSharp": null
+                }
+              }
+            ]
+          },
+          {
+            "name": "Elevation",
+            "data": "<strong>highest point:</strong> Khallat al Batrakh 1,020 m<br><br><strong>lowest point:</strong> Dead Sea -431 m",
+            "subfields": [
+              {
+                "label": "highest point",
+                "ranking": null
+              },
+              {
+                "label": "lowest point",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "407",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "highest point",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "lowest point",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "mean elevation",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "mean depth",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "ocean zones",
+                    "position": 5
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Health expenditure",
+            "data": "13.5% of national budget (2022 est.)<br><br><strong>note:</strong> includes Gaza Strip and the West Bank",
+            "subfields": [
+              {
+                "label": "Health expenditure (as % of national budget)",
+                "ranking": null
+              },
+              {
+                "label": "Health expenditure (as % of GDP)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "409",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Health expenditure (as % of GDP)",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Health expenditure (as % of national budget)",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Military expenditures",
+            "data": "not available",
+            "subfields": [],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "330",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Military Expenditures",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Military - note",
+            "data": "Palestinian Authority security forces maintain security control of 17.5% (called Area A) of the West Bank, as agreed by the Palestine Liberation Organization and Israel in the Oslo Accords, although Israeli security forces frequently conducted security operations there; Israeli security forces maintain responsibility for the remaining 82.5% of the West Bank, including Area B (22.5%), where the Palestinian Authority has administrative control, and Area C (60%), where Israel maintains administrative control (2024)",
+            "subfields": [
+              {
+                "label": "Military - note",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "332",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Military - note",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Military and security service personnel strengths",
+            "data": "the PA police and security forces have approximately 28,000 active personnel, including about 11,500 National Security Forces (2024)",
+            "subfields": [
+              {
+                "label": "Military and security forces personnel strengths",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "410",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Military and security forces personnel strengths",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Terrorist group(s)",
+            "data": "<strong>Terrorist group(s):</strong> Al-Aqsa Martyrs Brigade; HAMAS; Palestine Islamic Jihad; Palestine Liberation Front; Popular Front for the Liberation of Palestine<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in the <a title=\"Terrorism\" href=\"/references/terrorist-organizations\">Terrorism</a> reference guide",
+            "subfields": [
+              {
+                "label": "Terrorist group(s)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "413",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Terrorist group(s)",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Total water withdrawal",
+            "data": "<strong>municipal:</strong> 251 million cubic meters (2022)<br><br><strong>industrial:</strong> 37 million cubic meters (2022)<br><br><strong>agricultural:</strong> 158 million cubic meters (2022)<br><br><strong>note:</strong> data represent combined total from the Gaza Strip and the West Bank.",
+            "subfields": [
+              {
+                "label": "agricultural",
+                "ranking": null
+              },
+              {
+                "label": "industrial",
+                "ranking": null
+              },
+              {
+                "label": "municipal",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "417",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "municipal",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "industrial",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "agricultural",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Total renewable water resources",
+            "data": "837 million cubic meters (2022 est.)<br><br><strong>note:</strong> data represent combined total from the Gaza Strip and the West Bank.",
+            "subfields": [
+              {
+                "label": "Total renewable water sources",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "290",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Total renewable water sources",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Waste and recycling",
+            "data": "<strong>municipal solid waste generated annually:</strong> 1.387 million tons (2024 est.)<br><br><strong>note:</strong> data represent combined total from the Gaza Strip and the West Bank.",
+            "subfields": [
+              {
+                "label": "municipal solid waste generated annually",
+                "ranking": null
+              },
+              {
+                "label": "percent of municipal solid waste recycled",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "422",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "municipal solid waste generated annually",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "percent of municipal solid waste recycled",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Major lakes (area sq km)",
+            "data": "<strong>salt water lake(s):</strong> Dead Sea (shared with Jordan and Israel) - 1,020 sq km<br />note - endorheic hypersaline lake; 9.6 times saltier than the ocean; lake shore is 431 meters below sea level",
+            "subfields": [
+              {
+                "label": "salt water lake(s)",
+                "ranking": null
+              },
+              {
+                "label": "fresh water lake(s)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "427",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "fresh water lake(s)",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "salt water lake(s)",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "National heritage",
+            "data": "<strong>total World Heritage Sites:</strong> 4 (all cultural)<br><br><strong>selected World Heritage Site locales:</strong> Ancient Jericho/Tell es-Sultan; Birthplace of Jesus: Church of the Nativity and the Pilgrimage Route, Bethlehem; Hebron/Al-Khalil Old Town; Land of Olives and Vines &ndash; Cultural Landscape of Southern Jerusalem, Battir",
+            "subfields": [
+              {
+                "label": "selected World Heritage Site locales",
+                "ranking": null
+              },
+              {
+                "label": "total World Heritage Sites",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "426",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "total World Heritage Sites",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "selected World Heritage Site locales",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Child marriage",
+            "data": "<strong>women married by age 15:</strong> 0.7% (2020)<br><br><strong>women married by age 18:</strong> 13.4% (2020)<br><br><strong>note:</strong> includes both the Gaza Strip and the West Bank",
+            "subfields": [
+              {
+                "label": "women married by age 18",
+                "ranking": null
+              },
+              {
+                "label": "women married by age 15",
+                "ranking": null
+              },
+              {
+                "label": "men married by age 18",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "431",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "women married by age 15",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "women married by age 18",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "men married by age 18",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Electricity generation sources",
+            "data": "<strong>fossil fuels:</strong> 66.5% of total installed capacity (2023 est.)<br><br><strong>solar:</strong> 33.5% of total installed capacity (2023 est.)<br><br><strong>note:</strong> includes the West Bank and the Gaza Strip",
+            "subfields": [
+              {
+                "label": "solar",
+                "ranking": null
+              },
+              {
+                "label": "fossil fuels",
+                "ranking": null
+              },
+              {
+                "label": "biomass and waste",
+                "ranking": null
+              },
+              {
+                "label": "geothermal",
+                "ranking": null
+              },
+              {
+                "label": "tide and wave",
+                "ranking": null
+              },
+              {
+                "label": "hydroelectricity",
+                "ranking": null
+              },
+              {
+                "label": "wind",
+                "ranking": null
+              },
+              {
+                "label": "nuclear",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "436",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "fossil fuels",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "nuclear",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "solar",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "wind",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "hydroelectricity",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "tide and wave",
+                    "position": 6
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "geothermal",
+                    "position": 7
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "biomass and waste",
+                    "position": 8
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Petroleum",
+            "data": "<strong>refined petroleum consumption:</strong> 29,000 bbl/day (2023 est.)<br><br><strong>note:</strong> includes the West Bank and the Gaza Strip",
+            "subfields": [
+              {
+                "label": "refined petroleum consumption",
+                "ranking": null
+              },
+              {
+                "label": "crude oil estimated reserves",
+                "ranking": null
+              },
+              {
+                "label": "total petroleum production",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "438",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "total petroleum production",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "refined petroleum consumption",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "crude oil estimated reserves",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Gross reproduction rate",
+            "data": "1.69 (2024 est.)",
+            "subfields": [
+              {
+                "label": "Gross reproduction rate",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "448",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Gross reproduction rate",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Currently married women (ages 15-49)",
+            "data": "62.4% (2020 est.)<br><br><strong>note:</strong> data includes Gaza and the West Bank",
+            "subfields": [
+              {
+                "label": "Currently married women (ages 15-49)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "447",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Currently married women (ages 15-49)",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Remittances",
+            "data": "5.4% of GDP (2024 est.)<br>18.2% of GDP (2023 est.)<br>24% of GDP (2022 est.)<br><br><b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities; entry includes West Bank and Gaza Strip",
+            "subfields": [
+              {
+                "label": "Remittances 2024",
+                "ranking": null
+              },
+              {
+                "label": "Remittances 2023",
+                "ranking": null
+              },
+              {
+                "label": "Remittances 2022",
+                "ranking": null
+              },
+              {
+                "label": "Remittances 2021",
+                "ranking": null
+              },
+              {
+                "label": "Remittances 2020",
+                "ranking": null
+              },
+              {
+                "label": "Remittances 2019",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "449",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Remittances",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Exports - partners",
+            "data": "Jordan 51%, Turkey 12%, UAE 8%, Saudi Arabia 5%, UK 4% (2023)<br><br><b>note:</b> top five export partners based on percentage share of exports; entry includes the West Bank and the Gaza Strip",
+            "subfields": [
+              {
+                "label": "Exports - partners",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "241",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Exports - partners",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Imports - partners",
+            "data": "Egypt 25%, Jordan 17%, China 8%, Germany 7%, UAE 7% (2023)<br><br><b>note:</b> top five import partners based on percentage share of imports; entry includes the West Bank and the Gaza Strip",
+            "subfields": [
+              {
+                "label": "Imports - partners",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "403",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Imports - partners",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Coal",
+            "data": "<strong>exports:</strong> 1 metric tons (2023 est.)<br><br><strong>note:</strong> includes the West Bank and the Gaza Strip",
+            "subfields": [
+              {
+                "label": "exports",
+                "ranking": null
+              },
+              {
+                "label": "proven reserves",
+                "ranking": null
+              },
+              {
+                "label": "imports",
+                "ranking": null
+              },
+              {
+                "label": "consumption",
+                "ranking": null
+              },
+              {
+                "label": "production",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "437",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "production",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "consumption",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "exports",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "imports",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "proven reserves",
+                    "position": 5
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Particulate matter emissions",
+            "data": "31.3  micrograms per cubic meter (2019 est.)",
+            "subfields": [
+              {
+                "label": "particulate matter emissions",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "472",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "particulate matter emissions",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Labor force",
+            "data": "1.391 million (2022 est.)<br><br><b>note:</b> number of people ages 15 or older who are employed or seeking work; entry includes West Bank and Gaza Strip",
+            "subfields": [
+              {
+                "label": "Labor force",
+                "ranking": 137
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "218",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Labor force",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Youth unemployment rate (ages 15-24)",
+            "data": "<strong>total:</strong> 36.1% (2022 est.)<br><br><strong>male:</strong> 31.6% (2022 est.)<br><br><strong>female:</strong> 56.6% (2022 est.)<br><br><b>note:</b> % of labor force ages 15-24 seeking employment",
+            "subfields": [
+              {
+                "label": "female",
+                "ranking": null
+              },
+              {
+                "label": "male",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": 13
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "373",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "male",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "female",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Net migration rate",
+            "data": "-3.8 migrant(s)/1,000 population (2024 est.)",
+            "subfields": [
+              {
+                "label": "total net migration rate",
+                "ranking": 191
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "347",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total net migration rate",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Median age",
+            "data": "<strong>total:</strong> 21.9 years (2024 est.)<br><br><strong>male:</strong> 21.6 years<br><br><strong>female:</strong> 22.1 years",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": 189
+              },
+              {
+                "label": "female",
+                "ranking": null
+              },
+              {
+                "label": "male",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "343",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "male",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "female",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Maternal mortality ratio",
+            "data": "16 deaths/100,000 live births (2023 est.)<br><br><strong>note:</strong> data represent Gaza Strip and the West Bank",
+            "subfields": [
+              {
+                "label": "total maternal mortality ratio",
+                "ranking": 132
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "353",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total maternal mortality ratio",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Reserves of foreign exchange and gold",
+            "data": "$1.328 billion (2024 est.)<br>$1.323 billion (2023 est.)<br>$896.9 million (2022 est.)<br><br><b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars; entry includes West Bank and Gaza Strip",
+            "subfields": [
+              {
+                "label": "Reserves of foreign exchange and gold 2024",
+                "ranking": 138
+              },
+              {
+                "label": "Reserves of foreign exchange and gold 2023",
+                "ranking": null
+              },
+              {
+                "label": "Reserves of foreign exchange and gold 2022",
+                "ranking": null
+              },
+              {
+                "label": "Reserves of foreign exchange and gold 2021",
+                "ranking": null
+              },
+              {
+                "label": "Reserves of foreign exchange and gold 2020",
+                "ranking": null
+              },
+              {
+                "label": "Reserves of foreign exchange and gold 2019",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "245",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Reserves of foreign exchange and gold",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Total fertility rate",
+            "data": "3.49 children born/woman (2024 est.)",
+            "subfields": [
+              {
+                "label": "total fertility rate",
+                "ranking": 34
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "356",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total fertility rate",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Unemployment rate",
+            "data": "24.5% (2022 est.)<br>26.4% (2021 est.)<br>25.9% (2020 est.)<br><br><b>note:</b> % of labor force seeking employment; entry includes West Bank and Gaza Strip",
+            "subfields": [
+              {
+                "label": "Unemployment rate 2022",
+                "ranking": 186
+              },
+              {
+                "label": "Unemployment rate 2021",
+                "ranking": null
+              },
+              {
+                "label": "Unemployment rate 2020",
+                "ranking": null
+              },
+              {
+                "label": "Unemployment rate 2019",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "220",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Unemployment rate",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Population",
+            "data": "<strong>total:</strong> 3,243,369 (2024 est.)<br><br><strong>male:</strong> 1,648,450<br><br><strong>female:</strong> 1,594,919<br><br><strong>note:</strong> approximately 468,300 Israeli settlers live in the West Bank (2022); approximately 236,600 Israeli settlers live in East Jerusalem (2021)",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": 135
+              },
+              {
+                "label": "female",
+                "ranking": 136
+              },
+              {
+                "label": "male",
+                "ranking": 136
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "335",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "male",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "female",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Carbon dioxide emissions",
+            "data": "3.913 million metric tonnes of CO2 (2023 est.)<br><br><strong>from petroleum and other liquids:</strong> 3.913 million metric tonnes of CO2 (2023 est.)<br><br><strong>note:</strong> includes the West Bank and the Gaza Strip",
+            "subfields": [
+              {
+                "label": "from petroleum and other liquids",
+                "ranking": null
+              },
+              {
+                "label": "total emissions",
+                "ranking": 143
+              },
+              {
+                "label": "from consumed natural gas",
+                "ranking": null
+              },
+              {
+                "label": "from coal and metallurgical coke",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "274",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total emissions",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "from coal and metallurgical coke",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "from petroleum and other liquids",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "from consumed natural gas",
+                    "position": 4
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Area",
+            "data": "<strong>total :</strong> 5,860 sq km<br><br><strong>land:</strong> 5,640 sq km<br><br><strong>water:</strong> 220 sq km<br><br><strong>note:</strong> includes West Bank, Latrun Salient, and the northwest quarter of the Dead Sea, but excludes Mt. Scopus; East Jerusalem and Jerusalem No Man's Land are also included only as a means of depicting the entire area occupied by Israel in 1967",
+            "subfields": [
+              {
+                "label": "water",
+                "ranking": null
+              },
+              {
+                "label": "land",
+                "ranking": null
+              },
+              {
+                "label": "total ",
+                "ranking": 171
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "279",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total ",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "land",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "water",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "rank by area (sq km)",
+                    "position": 4
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Taxes and other revenues",
+            "data": "21.5% (of GDP) (2021 est.)<br><br><b>note:</b> central government tax revenue as a % of GDP; entry includes West Bank and Gaza Strip",
+            "subfields": [
+              {
+                "label": "Taxes and other revenue",
+                "ranking": 39
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "225",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Taxes and other revenue",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Real GDP (purchasing power parity)",
+            "data": "$20.339 billion (2024 est.)<br>$27.694 billion (2023 est.)<br>$29.016 billion (2022 est.)<br><br><b>note:</b> data in 2021 dollars; entry includes West Bank and Gaza Strip",
+            "subfields": [
+              {
+                "label": "Real GDP (purchasing power parity) 2024",
+                "ranking": 154
+              },
+              {
+                "label": "Real GDP (purchasing power parity) 2023",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP (purchasing power parity) 2022",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP (purchasing power parity) 2021",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP (purchasing power parity) 2020",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP (purchasing power parity) 2019",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "208",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Real GDP (purchasing power parity)",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Airports",
+            "data": "1 (2025)",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": 211
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "379",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Infant mortality rate",
+            "data": "<strong>total:</strong> 15.1 deaths/1,000 live births (2024 est.)<br><br><strong>male:</strong> 17.5 deaths/1,000 live births<br><br><strong>female:</strong> 12.6 deaths/1,000 live births",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": 93
+              },
+              {
+                "label": "female",
+                "ranking": null
+              },
+              {
+                "label": "male",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "354",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "male",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "female",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Telephones - mobile cellular",
+            "data": "<strong>total subscriptions:</strong> 4.15 million (2023 est.)<br><br><strong>subscriptions per 100 inhabitants:</strong> 78 (2021 est.)<br><br><b>note:</b> entry includes the West Bank and the Gaza Strip",
+            "subfields": [
+              {
+                "label": "total subscriptions",
+                "ranking": 133
+              },
+              {
+                "label": "subscriptions per 100 inhabitants",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "197",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total subscriptions",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "subscriptions per 100 inhabitants",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Gini Index coefficient - distribution of family income",
+            "data": "36.4 (2023 est.)<br><br><b>note:</b> index (0-100) of income distribution; higher values represent greater inequality; entry includes West Bank and Gaza Strip",
+            "subfields": [
+              {
+                "label": "Gini Index coefficient - distribution of family income 2023",
+                "ranking": 62
+              },
+              {
+                "label": "Gini Index coefficient - distribution of family income 2016",
+                "ranking": null
+              },
+              {
+                "label": "Gini Index coefficient - distribution of family income 2011",
+                "ranking": null
+              },
+              {
+                "label": "Gini Index coefficient - distribution of family income 2010",
+                "ranking": null
+              },
+              {
+                "label": "Gini Index coefficient - distribution of family income 2009",
+                "ranking": null
+              },
+              {
+                "label": "Gini Index coefficient - distribution of family income 2007",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "223",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Gini Index coefficient - distribution of family income",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Inflation rate (consumer prices)",
+            "data": "53.7% (2024 est.)<br>5.9% (2023 est.)<br>3.7% (2022 est.)<br><br><b>note:</b> annual % change based on consumer prices; entry includes West Bank and Gaza Strip",
+            "subfields": [
+              {
+                "label": "Inflation rate (consumer prices) 2024",
+                "ranking": 204
+              },
+              {
+                "label": "Inflation rate (consumer prices) 2023",
+                "ranking": null
+              },
+              {
+                "label": "Inflation rate (consumer prices) 2022",
+                "ranking": null
+              },
+              {
+                "label": "Inflation rate (consumer prices) 2021",
+                "ranking": null
+              },
+              {
+                "label": "Inflation rate (consumer prices) 2020",
+                "ranking": null
+              },
+              {
+                "label": "Inflation rate (consumer prices) 2019",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "229",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Inflation rate (consumer prices)",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Current account balance",
+            "data": "-$2.899 billion (2024 est.)<br>-$2.895 billion (2023 est.)<br>-$2.037 billion (2022 est.)<br><br><b>note:</b> balance of payments - net trade and primary/secondary income in current dollars; entry includes West Bank and Gaza Strip",
+            "subfields": [
+              {
+                "label": "Current account balance 2024",
+                "ranking": 157
+              },
+              {
+                "label": "Current account balance 2023",
+                "ranking": null
+              },
+              {
+                "label": "Current account balance 2022",
+                "ranking": null
+              },
+              {
+                "label": "Current account balance 2021",
+                "ranking": null
+              },
+              {
+                "label": "Current account balance 2020",
+                "ranking": null
+              },
+              {
+                "label": "Current account balance 2019",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "238",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Current account balance",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Real GDP per capita",
+            "data": "$3,800 (2024 est.)<br>$5,400 (2023 est.)<br>$5,800 (2022 est.)<br><br><b>note:</b> data in 2021 dollars; entry includes West Bank and Gaza Strip",
+            "subfields": [
+              {
+                "label": "Real GDP per capita 2024",
+                "ranking": 185
+              },
+              {
+                "label": "Real GDP per capita 2023",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP per capita 2022",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP per capita 2021",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP per capita 2020",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP per capita 2019",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "211",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Real GDP per capita",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Broadband - fixed subscriptions",
+            "data": "<strong>total:</strong> 431,000 (2023 est.)<br><br><strong>subscriptions per 100 inhabitants:</strong> 8 (2023 est.)<br><br><strong>note:</strong> includes the Gaza Strip",
+            "subfields": [
+              {
+                "label": "subscriptions per 100 inhabitants",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": 104
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "206",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "subscriptions per 100 inhabitants",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Energy consumption per capita",
+            "data": "14.991 million Btu/person (2023 est.)<br><br><strong>note:</strong> includes the West Bank and the Gaza Strip",
+            "subfields": [
+              {
+                "label": "Total energy consumption per capita 2023",
+                "ranking": 140
+              },
+              {
+                "label": "Total energy consumption per capita 2022",
+                "ranking": null
+              },
+              {
+                "label": "Total energy consumption per capita 2019",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "441",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Total energy consumption per capita",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Death rate",
+            "data": "3.3 deaths/1,000 population (2024 est.)",
+            "subfields": [
+              {
+                "label": "total population death rate",
+                "ranking": 223
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "346",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total population death rate",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Birth rate",
+            "data": "27.8 births/1,000 population (2024 est.)",
+            "subfields": [
+              {
+                "label": "total population birth rate",
+                "ranking": 32
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "345",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total population birth rate",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Electricity",
+            "data": "<strong>installed generating capacity:</strong> 352,000 kW (2023 est.)<br><br><strong>consumption:</strong> 6.956 billion kWh (2023 est.)<br><br><strong>imports:</strong> 6.925 billion kWh (2023 est.)<br><br><strong>transmission/distribution losses:</strong> 988 million kWh (2023 est.)<br><br><strong>note:</strong> includes the West Bank and the Gaza Strip",
+            "subfields": [
+              {
+                "label": "transmission/distribution losses",
+                "ranking": 97
+              },
+              {
+                "label": "imports",
+                "ranking": 37
+              },
+              {
+                "label": "consumption",
+                "ranking": 118
+              },
+              {
+                "label": "installed generating capacity",
+                "ranking": 157
+              },
+              {
+                "label": "exports",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "435",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "installed generating capacity",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "consumption",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "exports",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "imports",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "transmission/distribution losses",
+                    "position": 5
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Children under the age of 5 years underweight",
+            "data": "2.1% (2020 est.)<br><br><strong>note:</strong> estimate is for Gaza Strip and the West Bank",
+            "subfields": [
+              {
+                "label": "underweight rate",
+                "ranking": 102
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "368",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "underweight rate",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Imports",
+            "data": "$8.264 billion (2024 est.)<br>$11.637 billion (2023 est.)<br>$12.257 billion (2022 est.)<br><br><strong>note:</strong> balance of payments - imports of goods and services in current dollars; entry includes West Bank and Gaza Strip",
+            "subfields": [
+              {
+                "label": "Imports 2024",
+                "ranking": 131
+              },
+              {
+                "label": "Imports 2023",
+                "ranking": null
+              },
+              {
+                "label": "Imports 2022",
+                "ranking": null
+              },
+              {
+                "label": "Imports 2021",
+                "ranking": null
+              },
+              {
+                "label": "Imports 2020",
+                "ranking": null
+              },
+              {
+                "label": "Imports 2019",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "242",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Imports",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Exports",
+            "data": "$2.885 billion (2024 est.)<br>$3.413 billion (2023 est.)<br>$3.533 billion (2022 est.)<br><br><b>note:</b> balance of payments - exports of goods and services in current dollars; entry includes West Bank and Gaza Strip",
+            "subfields": [
+              {
+                "label": "Exports 2024",
+                "ranking": 156
+              },
+              {
+                "label": "Exports 2023",
+                "ranking": null
+              },
+              {
+                "label": "Exports 2022",
+                "ranking": null
+              },
+              {
+                "label": "Exports 2021",
+                "ranking": null
+              },
+              {
+                "label": "Exports 2020",
+                "ranking": null
+              },
+              {
+                "label": "Exports 2019",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "239",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Exports",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Heliports",
+            "data": "2 (2025)",
+            "subfields": [
+              {
+                "label": "Heliports",
+                "ranking": 134
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "382",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Heliports",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Telephones - fixed lines",
+            "data": "<strong>total subscriptions:</strong> 384,000 (2023 est.)<br><br><strong>subscriptions per 100 inhabitants:</strong> 7 (2023 est.)<br><br><b>note:</b> entry includes the West Bank and the Gaza Strip",
+            "subfields": [
+              {
+                "label": "subscriptions per 100 inhabitants",
+                "ranking": null
+              },
+              {
+                "label": "total subscriptions",
+                "ranking": 100
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "196",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total subscriptions",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "subscriptions per 100 inhabitants",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Life expectancy at birth",
+            "data": "<strong>total population:</strong> 76.5 years (2024 est.)<br><br><strong>male:</strong> 74.4 years<br><br><strong>female:</strong> 78.8 years",
+            "subfields": [
+              {
+                "label": "total population",
+                "ranking": 108
+              },
+              {
+                "label": "female",
+                "ranking": null
+              },
+              {
+                "label": "male",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "355",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total population",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "male",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "female",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Real GDP growth rate",
+            "data": "-26.6% (2024 est.)<br>-4.6% (2023 est.)<br>4.1% (2022 est.)<br><br><b>note:</b> annual GDP % growth based on constant local currency; entry includes West Bank and Gaza Strip",
+            "subfields": [
+              {
+                "label": "Real GDP growth rate 2024",
+                "ranking": 216
+              },
+              {
+                "label": "Real GDP growth rate 2023",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP growth rate 2022",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP growth rate 2021",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP growth rate 2020",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP growth rate 2019",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "210",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Real GDP growth rate",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Industrial production growth rate",
+            "data": "-32.2% (2024 est.)<br><br><b>note:</b> annual % change in industrial value added based on constant local currency; entry includes West Bank and Gaza Strip",
+            "subfields": [
+              {
+                "label": "Industrial production growth rate",
+                "ranking": 194
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "217",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Industrial production growth rate",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "GDP - composition, by sector of origin",
+            "data": "<strong>agriculture:</strong> 5.7% (2022 est.)<br><br><strong>industry:</strong> 17.4% (2022 est.)<br><br><strong>services:</strong> 58.3% (2022 est.)<br><br><b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data",
+            "subfields": [
+              {
+                "label": "services",
+                "ranking": 101
+              },
+              {
+                "label": "industry",
+                "ranking": 152
+              },
+              {
+                "label": "agriculture",
+                "ranking": 105
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "214",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "agriculture",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "industry",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "services",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Education expenditure",
+            "data": "5.4% of GDP (2021 est.)<br><br><strong>note:</strong> includes Gaza Strip and the West Bank",
+            "subfields": [
+              {
+                "label": "Education expenditure (% GDP)",
+                "ranking": 46
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "369",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Education expenditure (% GDP)",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Education expenditure (% national budget)",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Population growth rate",
+            "data": "2.07% (2024 est.)",
+            "subfields": [
+              {
+                "label": "total population growth rate",
+                "ranking": 37
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "344",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total population growth rate",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          }
+        ]
+      },
+      "travelFact": null,
+      "rep": {
+        "seo": {
+          "metaDesc": "",
+          "title": "$title - The World Factbook",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": null
+        }
+      }
+    },
+    "pageContext": {
+      "id": "4f4bd201-ca8a-5397-90f3-3d5861d69f7b",
+      "placeCode": "WE",
+      "uriBase": "/countries/"
+    }
+  },
+  "staticQueryHashes": [
+    "2962548448",
+    "3419350533",
+    "4121375890",
+    "4279206597",
+    "800385335"
+  ],
+  "slicesMap": {}
+}

@@ -1,0 +1,3195 @@
+{
+  "componentChunkName": "component---src-templates-country-js",
+  "path": "/countries/wallis-and-futuna/",
+  "result": {
+    "data": {
+      "country": {
+        "name": "Wallis and Futuna",
+        "region": "Australia and Oceania",
+        "locations": [
+          "place"
+        ],
+        "updated": "July 07, 2025",
+        "rank": true,
+        "flag": {
+          "childImageSharp": {
+            "gatsbyImageData": {
+              "layout": "fullWidth",
+              "images": {
+                "fallback": {
+                  "src": "/the-world-factbook/static/a90e16006ee292e8e781436090ca3d49/cf2d1/WF-flag.jpg",
+                  "srcSet": "/the-world-factbook/static/a90e16006ee292e8e781436090ca3d49/cf2d1/WF-flag.jpg 500w",
+                  "sizes": "100vw"
+                },
+                "sources": [
+                  {
+                    "srcSet": "/the-world-factbook/static/a90e16006ee292e8e781436090ca3d49/d731e/WF-flag.webp 500w",
+                    "type": "image/webp",
+                    "sizes": "100vw"
+                  }
+                ]
+              },
+              "width": 1,
+              "height": 0.6639999999999999
+            }
+          }
+        },
+        "map": {
+          "childImageSharp": {
+            "gatsbyImageData": {
+              "layout": "fullWidth",
+              "images": {
+                "fallback": {
+                  "src": "/the-world-factbook/static/6b120512aa7bee6d4159192ce513662c/b816c/WF-map.jpg",
+                  "srcSet": "/the-world-factbook/static/6b120512aa7bee6d4159192ce513662c/b816c/WF-map.jpg 330w",
+                  "sizes": "100vw"
+                },
+                "sources": [
+                  {
+                    "srcSet": "/the-world-factbook/static/6b120512aa7bee6d4159192ce513662c/c00bf/WF-map.webp 330w",
+                    "type": "image/webp",
+                    "sizes": "100vw"
+                  }
+                ]
+              },
+              "width": 1,
+              "height": 1.0727272727272728
+            }
+          }
+        },
+        "locatorMap": {
+          "childImageSharp": {
+            "gatsbyImageData": {
+              "layout": "fullWidth",
+              "images": {
+                "fallback": {
+                  "src": "/the-world-factbook/static/6b7231de261749fd111f33e7d0796c9f/577f5/WF-locator-map.jpg",
+                  "srcSet": "/the-world-factbook/static/6b7231de261749fd111f33e7d0796c9f/bd349/WF-locator-map.jpg 750w,\n/the-world-factbook/static/6b7231de261749fd111f33e7d0796c9f/577f5/WF-locator-map.jpg 772w",
+                  "sizes": "100vw"
+                },
+                "sources": [
+                  {
+                    "srcSet": "/the-world-factbook/static/6b7231de261749fd111f33e7d0796c9f/be8a2/WF-locator-map.webp 750w,\n/the-world-factbook/static/6b7231de261749fd111f33e7d0796c9f/bdf01/WF-locator-map.webp 772w",
+                    "type": "image/webp",
+                    "sizes": "100vw"
+                  }
+                ]
+              },
+              "width": 1,
+              "height": 0.6347150259067358
+            }
+          }
+        },
+        "images": [],
+        "special": []
+      },
+      "fields": {
+        "nodes": [
+          {
+            "name": "Dependency status",
+            "data": "overseas collectivity of France",
+            "subfields": [
+              {
+                "label": "Dependency status",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "298",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Diplomatic representation from the US",
+            "data": "none (overseas collectivity of France)",
+            "subfields": [
+              {
+                "label": "email address and website",
+                "ranking": null
+              },
+              {
+                "label": "consulate(s)",
+                "ranking": null
+              },
+              {
+                "label": "branch office(s)",
+                "ranking": null
+              },
+              {
+                "label": "consulate(s) general",
+                "ranking": null
+              },
+              {
+                "label": "FAX",
+                "ranking": null
+              },
+              {
+                "label": "telephone",
+                "ranking": null
+              },
+              {
+                "label": "mailing address",
+                "ranking": null
+              },
+              {
+                "label": "embassy",
+                "ranking": null
+              },
+              {
+                "label": "chief of mission",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "319",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Age structure",
+            "data": "<strong>0-14 years:</strong> 19.8% (male 1,643/female 1,511)<br><br><strong>15-64 years:</strong> 67.5% (male 5,535/female 5,247)<br><br><strong>65 years and over:</strong> 12.7% (2024 est.) (male 1,023/female 1,005)",
+            "subfields": [
+              {
+                "label": "65 years and over",
+                "ranking": null
+              },
+              {
+                "label": "15-64 years",
+                "ranking": null
+              },
+              {
+                "label": "0-14 years",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "341",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": [
+              {
+                "type": "image",
+                "altText": "2024 population pyramid",
+                "caption": "This is the population pyramid for Wallis and Futuna. A population pyramid illustrates the age and sex structure of a country's population and may provide insights about political and social stability, as well as economic development. The population is distributed along the horizontal axis, with males shown on the left and females on the right. The male and female populations are broken down into 5-year age groups represented as horizontal bars along the vertical axis, with the youngest age groups at the bottom and the oldest at the top. The shape of the population pyramid gradually evolves over time based on fertility, mortality, and international migration trends. <br/><br/>For additional information, please see the entry for Population pyramid on the Definitions and Notes page.",
+                "localFile": {
+                  "publicURL": "/the-world-factbook/static/f44b2bb6a50e6b1ac25b868c408e06fb/wf_popgraph2024.jpeg",
+                  "childImageSharp": {
+                    "gatsbyImageData": {
+                      "layout": "constrained",
+                      "images": {
+                        "fallback": {
+                          "src": "/the-world-factbook/static/f44b2bb6a50e6b1ac25b868c408e06fb/60be0/wf_popgraph2024.jpg",
+                          "srcSet": "/the-world-factbook/static/f44b2bb6a50e6b1ac25b868c408e06fb/a2e79/wf_popgraph2024.jpg 245w,\n/the-world-factbook/static/f44b2bb6a50e6b1ac25b868c408e06fb/d9c3e/wf_popgraph2024.jpg 490w,\n/the-world-factbook/static/f44b2bb6a50e6b1ac25b868c408e06fb/60be0/wf_popgraph2024.jpg 980w",
+                          "sizes": "(min-width: 980px) 980px, 100vw"
+                        },
+                        "sources": []
+                      },
+                      "width": 980,
+                      "height": 600
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "name": "Geographic coordinates",
+            "data": "13 18 S, 176 12 W",
+            "subfields": [
+              {
+                "label": "Geographic coordinates",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "277",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Sex ratio",
+            "data": "<strong>at birth:</strong> 1.05 male(s)/female<br><br><strong>0-14 years:</strong> 1.09 male(s)/female<br><br><strong>15-64 years:</strong> 1.05 male(s)/female<br><br><strong>65 years and over:</strong> 1.02 male(s)/female<br><br><strong>total population:</strong> 1.06 male(s)/female (2024 est.)",
+            "subfields": [
+              {
+                "label": "total population",
+                "ranking": null
+              },
+              {
+                "label": "65 years and over",
+                "ranking": null
+              },
+              {
+                "label": "15-64 years",
+                "ranking": null
+              },
+              {
+                "label": "0-14 years",
+                "ranking": null
+              },
+              {
+                "label": "at birth",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "351",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Natural hazards",
+            "data": "cyclones; tsunamis",
+            "subfields": [
+              {
+                "label": "Natural hazards",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "292",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Area - comparative",
+            "data": "1.5 times the size of Washington, D.C.",
+            "subfields": [
+              {
+                "label": "Area - comparative",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "280",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Background",
+            "data": "<p style=\"margin: 0in; margin-bottom: .0001pt; line-height: 18.0pt; background: white;\">Around 800 B.C., the first settlers arrived on the islands of Wallis and Futuna, which are a natural midpoint between Fiji and Samoa. Around A.D. 1500, Tongans invaded Wallis, and a chiefdom system resembling Tonga&rsquo;s formal hierarchy developed on the island. Tongans attempted to settle Futuna but were repeatedly rebuffed. Samoans settled Futuna in the 1600s, and a slightly less centralized chiefdom system formed. Dutch explorers were the first Europeans to see the islands in 1616, followed intermittently by other Europeans, including British explorer Samuel WALLIS in 1767. French Catholic missionaries were the first Europeans to permanently settle Wallis and Futuna in 1837, and they converted most of the population of both islands by 1846. The missionaries and newly converted King LAVELUA of Uvea on Wallis asked France for a protectorate in 1842 following a local rebellion. France agreed, although the protectorate status would not be ratified until 1887. In 1888, King MUSULAMU of Alo and King TAMOLE of Sigave, both on Futuna, signed a treaty establishing a French protectorate; the Wallis and Futuna protectorate was integrated into the territory of New Caledonia the same year. France renegotiated the terms of the protectorate with the territory&rsquo;s three kings in 1910, expanding French authority.<br /><br />Wallis and Futuna was the only French colony to side with the Vichy regime during World War II, until the arrival of Free French and US troops in 1942. In 1959, inhabitants of the islands voted to separate from New Caledonia, becoming a French overseas territory in 1961. Despite the split, a significant Wallisian and Futunan community still lives in New Caledonia. In 2003, Wallis and Futuna became a French overseas collectivity. The islands joined the Pacific Islands Forum as an associate member in 2018, two years after France&rsquo;s other Pacific territories became full members of the organization.</p>",
+            "subfields": [
+              {
+                "label": "Summary",
+                "ranking": null
+              },
+              {
+                "label": "Background",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "325",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Environment - current issues",
+            "data": "deforestation (only small portions of the original forests remain) due to wood as the main fuel source; soil erosion; lack of natural freshwater resources; lack of soil fertility on the islands of Uvea and Futuna",
+            "subfields": [
+              {
+                "label": "Environment - current issues",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "293",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Exports - commodities",
+            "data": "seats (2023)<br><br><strong>note:</strong> top export commodities based on value in dollars over $500,000",
+            "subfields": [
+              {
+                "label": "Exports - commodities",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "240",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Administrative divisions",
+            "data": "3 administrative precincts (<em>circonscriptions</em>, singular - <em>circonscription</em>) Alo, Sigave, Uvea",
+            "subfields": [
+              {
+                "label": "Administrative divisions",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "302",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Agricultural products",
+            "data": "coconuts, breadfruit, yams, taro, bananas; pigs, goats; fish",
+            "subfields": [
+              {
+                "label": "Agricultural products",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "215",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Budget",
+            "data": "<strong>revenues:</strong> $32.54 million (2015 est.)<br><br><strong>expenditures:</strong> $34.18 million (2015 est.)",
+            "subfields": [
+              {
+                "label": "expenditures",
+                "ranking": null
+              },
+              {
+                "label": "revenues",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "224",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Capital",
+            "data": "<strong>name:</strong> Mata-Utu (on Ile Uvea)<br><br><strong>geographic coordinates:</strong> 13 57 S, 171 56 W<br><br><strong>time difference:</strong> UTC+12 (17 hours ahead of Washington, DC, during Standard Time)",
+            "subfields": [
+              {
+                "label": "etymology",
+                "ranking": null
+              },
+              {
+                "label": "time zone note",
+                "ranking": null
+              },
+              {
+                "label": "daylight saving time",
+                "ranking": null
+              },
+              {
+                "label": "time difference",
+                "ranking": null
+              },
+              {
+                "label": "geographic coordinates",
+                "ranking": null
+              },
+              {
+                "label": "name",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "301",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Imports - commodities",
+            "data": "refined petroleum, prepared meat, poultry, iron pipe fittings, animal food (2023)",
+            "subfields": [
+              {
+                "label": "Imports - commodities",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "243",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Climate",
+            "data": "tropical; hot, rainy season (November to April); cool, dry season (May to October); rains 250-300 cm per year (80% humidity); average temperature 26.6 degrees Celsius",
+            "subfields": [
+              {
+                "label": "Climate",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "284",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Coastline",
+            "data": "129 km",
+            "subfields": [
+              {
+                "label": "Coastline",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "282",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Constitution",
+            "data": "<strong>history:</strong> 4 October 1958 (French Constitution)<br><br><strong>amendment process:</strong> French constitution amendment procedures apply",
+            "subfields": [
+              {
+                "label": "amendment process",
+                "ranking": null
+              },
+              {
+                "label": "history",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "307",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Exchange rates",
+            "data": "Comptoirs Francais du Pacifique francs (XPF) per US dollar -<br><br><strong>Exchange rates:</strong><br>110.347 (2023 est.)<br>113.474 (2022 est.)<br>100.88 (2021 est.)<br>104.711 (2020 est.)<br>110.347 (2019 est.)",
+            "subfields": [
+              {
+                "label": "Exchange rates 2023",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2022",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2021",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2020",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2019",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2015",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2014",
+                "ranking": null
+              },
+              {
+                "label": "Currency",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "249",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Executive branch",
+            "data": "<strong>chief of state:</strong> President Emmanuel MACRON (since 14 May 2017); represented by Administrator Superior Blaise GOURTAY (since 1 August 2023)<br><br><strong>head of government:</strong> President of the Territorial Assembly Munipoese MULI'AKA'AKA (since 20 March 2022)<br><br><strong>cabinet:</strong> Council of the Territory appointed by the administrator superior on the advice of the Territorial Assembly<br><br><strong>election/appointment process:</strong> French president elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term); administrator superior appointed by the French president on the advice of the French Ministry of the Interior; the presidents of the Territorial Government and the Territorial Assembly elected by assembly members<br><br><strong>note:</strong> there are 3 traditional kings with limited powers",
+            "subfields": [
+              {
+                "label": "expected date of next election",
+                "ranking": null
+              },
+              {
+                "label": "most recent election date",
+                "ranking": null
+              },
+              {
+                "label": "election results",
+                "ranking": null
+              },
+              {
+                "label": "election/appointment process",
+                "ranking": null
+              },
+              {
+                "label": "cabinet",
+                "ranking": null
+              },
+              {
+                "label": "head of government",
+                "ranking": null
+              },
+              {
+                "label": "chief of state",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "312",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Flag description",
+            "data": "unofficial local flag has a red field with four white isosceles triangles in the middle, representing the three native kings of the islands and the French administrator; the apexes of the triangles are oriented inward and at right angles to each other; the flag of France, outlined in white on two sides, is in the upper hoist quadrant<br><br><strong>note:</strong> the design is derived from a red flag with a white cross that French missionaries introduced in the 19th century; the flag of France is used for official occasions",
+            "subfields": [
+              {
+                "label": "Flag description",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "320",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Independence",
+            "data": "none (overseas collectivity of France)",
+            "subfields": [
+              {
+                "label": "Independence",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "305",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Industries",
+            "data": "copra, handicrafts, fishing, lumber",
+            "subfields": [
+              {
+                "label": "Industries",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "216",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Judicial branch",
+            "data": "<strong>highest court(s):</strong> Court of Assizes or Cour d'Assizes (consists of 1 judge; court hears primarily serious criminal cases)<br><br><strong>judge selection and term of office:</strong> NA<br><br><strong>subordinate courts:</strong> courts of first instance; labor court<br><br><strong>note 1:</strong> appeals beyond the Court of Assizes are heard before the Court of Appeal or Cour d'Appel (in Noumea, New Caledonia)<br /><br /><strong>note 2:</strong> justice is generally administered under French law by the high administrator, but the 3 traditional kings administer customary law",
+            "subfields": [
+              {
+                "label": "subordinate courts",
+                "ranking": null
+              },
+              {
+                "label": "judge selection and term of office",
+                "ranking": null
+              },
+              {
+                "label": "highest court(s)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "314",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Land boundaries",
+            "data": "<strong>total:</strong> 0 km",
+            "subfields": [
+              {
+                "label": "regional borders",
+                "ranking": null
+              },
+              {
+                "label": "border countries",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "281",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Land use",
+            "data": "<strong>agricultural land:</strong> 42.9% (2022 est.)<br><br>arable land: 7.1% (2022 est.)<br><br>permanent crops: 35.7% (2022 est.)<br><br>permanent pasture: 0% (2022 est.)<br><br><strong>forest:</strong> 41.6% (2022 est.)<br><br><strong>other:</strong> 15.5% (2022 est.)",
+            "subfields": [
+              {
+                "label": "other",
+                "ranking": null
+              },
+              {
+                "label": "forest",
+                "ranking": null
+              },
+              {
+                "label": "permanent pasture",
+                "ranking": null
+              },
+              {
+                "label": "permanent crops",
+                "ranking": null
+              },
+              {
+                "label": "arable land",
+                "ranking": null
+              },
+              {
+                "label": "agricultural land",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "288",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Legal system",
+            "data": "French civil law",
+            "subfields": [
+              {
+                "label": "Legal system",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "308",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Legislative branch",
+            "data": "<strong>legislature name:</strong> Territorial Assembly (Assembl&eacute;e territoriale)<br><br><strong>legislative structure:</strong> unicameral<br><br><strong>number of seats:</strong> 20 (directly elected)<br><br><strong>electoral system:</strong> proportional representation<br><br><strong>scope of elections:</strong> full renewal<br><br><strong>term in office:</strong> 5 years<br><br><strong>most recent election date:</strong> 3/20/2022<br><br><strong>parties elected and seats per party:</strong> Ofa mo'oni ki tou fenua (2); Mauli fetokoniaki (2); 1 seat each from 16 other lists<br><br><strong>note:</strong> 1 senator is indirectly elected to the French Senate by an electoral college for a 6-year term, and 1 deputy is directly elected to the French National Assembly for a 5-year term",
+            "subfields": [
+              {
+                "label": "expected date of next election",
+                "ranking": null
+              },
+              {
+                "label": "parties elected and seats per party",
+                "ranking": null
+              },
+              {
+                "label": "most recent election date",
+                "ranking": null
+              },
+              {
+                "label": "scope of elections",
+                "ranking": null
+              },
+              {
+                "label": "electoral system",
+                "ranking": null
+              },
+              {
+                "label": "number of seats",
+                "ranking": null
+              },
+              {
+                "label": "chamber name",
+                "ranking": null
+              },
+              {
+                "label": "legislative structure",
+                "ranking": null
+              },
+              {
+                "label": "legislature name",
+                "ranking": null
+              },
+              {
+                "label": "percentage of women in chamber",
+                "ranking": null
+              },
+              {
+                "label": "term in office",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "313",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Maritime claims",
+            "data": "<strong>territorial sea:</strong> 12 nm<br><br><strong>exclusive economic zone:</strong> 200 nm",
+            "subfields": [
+              {
+                "label": "exclusive economic zone",
+                "ranking": null
+              },
+              {
+                "label": "territorial sea",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "283",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "International organization participation",
+            "data": "PIF (observer), SPC, UPU",
+            "subfields": [
+              {
+                "label": "International organization participation",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "317",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "National holiday",
+            "data": "Bastille Day, 14 July (1789)",
+            "subfields": [
+              {
+                "label": "National holiday",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "306",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Nationality",
+            "data": "<strong>noun:</strong> Wallisian(s), Futunan(s), or Wallis and Futuna Islanders<br><br><strong>adjective:</strong> Wallisian, Futunan, or Wallis and Futuna Islander",
+            "subfields": [
+              {
+                "label": "adjective",
+                "ranking": null
+              },
+              {
+                "label": "noun",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "336",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Natural resources",
+            "data": "NEGL",
+            "subfields": [
+              {
+                "label": "Natural resources",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "287",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Geography - note",
+            "data": "both island groups have fringing reefs; Wallis contains several prominent crater lakes",
+            "subfields": [
+              {
+                "label": "Geography - note",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "295",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Economic overview",
+            "data": "lower-middle-income, agrarian French dependency economy; heavily reliant on French subsidies; licenses fishing rights to Japan and South Korea; major remittances from New Caledonia; aging workforce; import-dependent; deforestation-fueled fragility",
+            "subfields": [
+              {
+                "label": "Summary",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "207",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Political parties",
+            "data": "Left Radical Party or PRG (formerly Radical Socialist Party or PRS and the Left Radical Movement or MRG)<br />Lua Kae Tahi (Giscardians)<br />Rally for Wallis and Futuna-The Republicans (Rassemblement pour Wallis and Futuna) or RPWF-LR&nbsp;<br />Socialist Party or PS<br />Taumu'a Lelei&nbsp;<br />Union Pour la Democratie Francaise or UDF",
+            "subfields": [
+              {
+                "label": "Political parties",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "315",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Suffrage",
+            "data": "18 years of age; universal",
+            "subfields": [
+              {
+                "label": "Suffrage",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "311",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Terrain",
+            "data": "volcanic origin; low hills",
+            "subfields": [
+              {
+                "label": "Terrain",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "285",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Government type",
+            "data": "parliamentary democracy (Territorial Assembly); overseas collectivity of France",
+            "subfields": [
+              {
+                "label": "Government type",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "299",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Military - note",
+            "data": "defense is the responsibility of France",
+            "subfields": [
+              {
+                "label": "Military - note",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "332",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Country name",
+            "data": "<strong>conventional long form:</strong> Territory of the Wallis and Futuna Islands<br><br><strong>conventional short form:</strong> Wallis and Futuna<br><br><strong>local long form:</strong> Territoire des Iles Wallis et Futuna<br><br><strong>local short form:</strong> Wallis et Futuna<br><br><strong>former:</strong> Hoorn Islands is the former name of the Futuna Islands<br><br><strong>etymology:</strong> Wallis Island is named after British Captain Samuel WALLIS, who visited in 1767; Futuna is a local name, and the meaning is unclear",
+            "subfields": [
+              {
+                "label": "abbreviation",
+                "ranking": null
+              },
+              {
+                "label": "etymology",
+                "ranking": null
+              },
+              {
+                "label": "former",
+                "ranking": null
+              },
+              {
+                "label": "local short form",
+                "ranking": null
+              },
+              {
+                "label": "local long form",
+                "ranking": null
+              },
+              {
+                "label": "conventional short form",
+                "ranking": null
+              },
+              {
+                "label": "conventional long form",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "296",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Location",
+            "data": "Oceania, islands in the South Pacific Ocean, about two-thirds of the way from Hawaii to New Zealand",
+            "subfields": [
+              {
+                "label": "Location",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "276",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Map references",
+            "data": "Oceania",
+            "subfields": [
+              {
+                "label": "Map references",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "278",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Irrigated land",
+            "data": "0.6 sq km (2022)",
+            "subfields": [
+              {
+                "label": "Irrigated land",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "289",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Diplomatic representation in the US",
+            "data": "none (overseas territory of France)",
+            "subfields": [
+              {
+                "label": "email address and website",
+                "ranking": null
+              },
+              {
+                "label": "honorary consulate(s)",
+                "ranking": null
+              },
+              {
+                "label": "embassy",
+                "ranking": null
+              },
+              {
+                "label": "consulate(s)",
+                "ranking": null
+              },
+              {
+                "label": "consulate(s) general",
+                "ranking": null
+              },
+              {
+                "label": "FAX",
+                "ranking": null
+              },
+              {
+                "label": "telephone",
+                "ranking": null
+              },
+              {
+                "label": "chancery",
+                "ranking": null
+              },
+              {
+                "label": "chief of mission",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "318",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Internet users",
+            "data": "<strong>percent of population:</strong> 45.8% (2021 est.)",
+            "subfields": [
+              {
+                "label": "percent of population",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "204",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Internet country code",
+            "data": ".wf",
+            "subfields": [
+              {
+                "label": "Internet country code",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "202",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Urbanization",
+            "data": "<strong>urban population:</strong> 0% of total population (2023)<br><br><strong>rate of urbanization:</strong> 0% annual rate of change (2020-25 est.)",
+            "subfields": [
+              {
+                "label": "urban population",
+                "ranking": null
+              },
+              {
+                "label": "rate of urbanization",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "349",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Broadcast media",
+            "data": "publicly owned French Overseas Network (RFO), which broadcasts to France's overseas departments, collectivities, and territories, is carried on the RFO Wallis and Fortuna TV and radio stations (2019)",
+            "subfields": [
+              {
+                "label": "Broadcast media",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "199",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "National anthem",
+            "data": "<strong>note:</strong> as a territory of France, \"La Marseillaise\" is official (see France)",
+            "subfields": [
+              {
+                "label": "lyrics/music",
+                "ranking": null
+              },
+              {
+                "label": "name",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "322",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": [
+              {
+                "type": "audio",
+                "altText": "",
+                "caption": "This is an audio of the National Anthem for Wallis and Futuna. The national anthem is generally a patriotic musical composition - usually in the form of a song or hymn of praise - that evokes and eulogizes the history, traditions, or struggles of a nation or its people. National anthems can be officially recognized as a national song by a country's constitution or by an enacted law, or simply by tradition. Although most anthems contain lyrics, some do not.",
+                "localFile": {
+                  "publicURL": "/the-world-factbook/static/ab3df4de316b1bc16c86c224e8aa67a7/WF.mp3",
+                  "childImageSharp": null
+                }
+              }
+            ]
+          },
+          {
+            "name": "Major urban areas - population",
+            "data": "1,000 MATA-UTU (capital) (2018)",
+            "subfields": [
+              {
+                "label": "Major urban areas - population",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "350",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "National symbol(s)",
+            "data": "red saltire (Saint Andrew's Cross) on a white square on a red field",
+            "subfields": [
+              {
+                "label": "National symbol(s)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "321",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Citizenship",
+            "data": "see France",
+            "subfields": [],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "310",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Sanitation facility access",
+            "data": "<strong>improved:</strong><br><br>urban: NA<br><br>rural: 92.9% of population<br><br>total: 92.9% of population<br><br><strong>unimproved:</strong><br><br>urban: NA<br><br>rural: 7.1% of population<br><br>total: 7.1% of population (2020 est.)",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": null
+              },
+              {
+                "label": "urban",
+                "ranking": null
+              },
+              {
+                "label": "urban",
+                "ranking": null
+              },
+              {
+                "label": "rural",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": null
+              },
+              {
+                "label": "rural",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "398",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Ethnic groups",
+            "data": "Polynesian",
+            "subfields": [
+              {
+                "label": "Ethnic groups",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "400",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Religions",
+            "data": "Roman Catholic 99%, other 1%",
+            "subfields": [
+              {
+                "label": "Religions",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "401",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Languages",
+            "data": "Wallisian (indigenous Polynesian language) 58.9%, Futunian 30.1%, French (official) 10.8%, other 0.2% (2003 est.)",
+            "subfields": [
+              {
+                "label": "Languages",
+                "ranking": null
+              },
+              {
+                "label": "major-language sample(s)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "402",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Elevation",
+            "data": "<strong>highest point:</strong> Mont Singavi (on Futuna) 522 m<br><br><strong>lowest point:</strong> Pacific Ocean 0 m",
+            "subfields": [
+              {
+                "label": "highest point",
+                "ranking": null
+              },
+              {
+                "label": "lowest point",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "407",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Contraceptive prevalence rate",
+            "data": "NA",
+            "subfields": [
+              {
+                "label": "total contraceptive prevalence rate",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "357",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Literacy",
+            "data": "<strong>total population:</strong> NA<br><br><strong>male:</strong> NA<br><br><strong>female:</strong> NA",
+            "subfields": [
+              {
+                "label": "female",
+                "ranking": null
+              },
+              {
+                "label": "male",
+                "ranking": null
+              },
+              {
+                "label": "total population",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "370",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Dependency ratios",
+            "data": "<strong>total dependency ratio:</strong> 48.1 (2024 est.)<br><br><strong>youth dependency ratio:</strong> 29.3 (2024 est.)<br><br><strong>elderly dependency ratio:</strong> 18.8 (2024 est.)<br><br><strong>potential support ratio:</strong> 5.3 (2024 est.)",
+            "subfields": [
+              {
+                "label": "potential support ratio",
+                "ranking": null
+              },
+              {
+                "label": "elderly dependency ratio",
+                "ranking": null
+              },
+              {
+                "label": "youth dependency ratio",
+                "ranking": null
+              },
+              {
+                "label": "total dependency ratio",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "342",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Drinking water source",
+            "data": "<strong>improved:</strong><br><br>urban: NA<br><br>rural: 99.1% of population<br><br>total: 99.1% of population<br><br><strong>unimproved:</strong><br><br>urban: NA<br><br>rural: 0.9% of population<br><br>total: 0.9% of population (2020)",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": null
+              },
+              {
+                "label": "rural",
+                "ranking": null
+              },
+              {
+                "label": "urban",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": null
+              },
+              {
+                "label": "rural",
+                "ranking": null
+              },
+              {
+                "label": "urban",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "361",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Exports - partners",
+            "data": "Denmark 35%, Sweden 14%, Netherlands 14%, Pakistan 9%, Poland 7% (2023)<br><br><b>note:</b> top five export partners based on percentage share of exports",
+            "subfields": [
+              {
+                "label": "Exports - partners",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "241",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Imports - partners",
+            "data": "Fiji 35%, France 32%, NZ 11%, Australia 6%, China 4% (2023)<br><br><b>note:</b> top five import partners based on percentage share of imports",
+            "subfields": [
+              {
+                "label": "Imports - partners",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "403",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Gross reproduction rate",
+            "data": "0.83 (2024 est.)",
+            "subfields": [
+              {
+                "label": "Gross reproduction rate",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "448",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Currently married women (ages 15-49)",
+            "data": "56% (2023)",
+            "subfields": [
+              {
+                "label": "Currently married women (ages 15-49)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "447",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Ports",
+            "data": "<strong>total ports:</strong> 1 (2024)<br><br><strong>large:</strong> 0<br><br><strong>medium:</strong> 0<br><br><strong>small:</strong> 0<br><br><strong>very small:</strong> 1<br><br><strong>ports with oil terminals:</strong> 0<br><br><strong>key ports:</strong> Mata-Utu",
+            "subfields": [
+              {
+                "label": "total ports",
+                "ranking": null
+              },
+              {
+                "label": "key ports",
+                "ranking": null
+              },
+              {
+                "label": "ports with oil terminals",
+                "ranking": null
+              },
+              {
+                "label": "very small",
+                "ranking": null
+              },
+              {
+                "label": "small",
+                "ranking": null
+              },
+              {
+                "label": "medium",
+                "ranking": null
+              },
+              {
+                "label": "large",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "465",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "National color(s)",
+            "data": "red, white",
+            "subfields": [
+              {
+                "label": "National color(s)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "470",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Net migration rate",
+            "data": "-3.6 migrant(s)/1,000 population (2024 est.)",
+            "subfields": [
+              {
+                "label": "total net migration rate",
+                "ranking": 189
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "347",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Median age",
+            "data": "<strong>total:</strong> 36.3 years (2024 est.)<br><br><strong>male:</strong> 35.5 years<br><br><strong>female:</strong> 37.3 years",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": 92
+              },
+              {
+                "label": "female",
+                "ranking": null
+              },
+              {
+                "label": "male",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "343",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Total fertility rate",
+            "data": "1.71 children born/woman (2024 est.)",
+            "subfields": [
+              {
+                "label": "total fertility rate",
+                "ranking": 160
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "356",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Population",
+            "data": "<strong>total:</strong> 15,964 (2024 est.)<br><br><strong>male:</strong> 8,201<br><br><strong>female:</strong> 7,763",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": 220
+              },
+              {
+                "label": "female",
+                "ranking": 220
+              },
+              {
+                "label": "male",
+                "ranking": 220
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "335",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Area",
+            "data": "<strong>total :</strong> 142 sq km<br><br><strong>land:</strong> 142 sq km<br><br><strong>water:</strong> 0 sq km<br><br><strong>note:</strong> includes Ile Uvea (Wallis Island), Ile Futuna (Futuna Island), Ile Alofi, and 20 islets",
+            "subfields": [
+              {
+                "label": "water",
+                "ranking": null
+              },
+              {
+                "label": "land",
+                "ranking": null
+              },
+              {
+                "label": "total ",
+                "ranking": 221
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "279",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Airports",
+            "data": "2 (2025)",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": 197
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "379",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Infant mortality rate",
+            "data": "<strong>total:</strong> 3.9 deaths/1,000 live births (2024 est.)<br><br><strong>male:</strong> 3.8 deaths/1,000 live births<br><br><strong>female:</strong> 3.9 deaths/1,000 live births",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": 188
+              },
+              {
+                "label": "female",
+                "ranking": null
+              },
+              {
+                "label": "male",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "354",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Telephones - mobile cellular",
+            "data": "<strong>total subscriptions:</strong> 0 (2018)<br><br><strong>subscriptions per 100 inhabitants:</strong> 0 (2019)",
+            "subfields": [
+              {
+                "label": "subscriptions per 100 inhabitants",
+                "ranking": null
+              },
+              {
+                "label": "total subscriptions",
+                "ranking": 225
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "197",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Inflation rate (consumer prices)",
+            "data": "0.9% (2015)",
+            "subfields": [
+              {
+                "label": "Inflation rate (consumer prices) 2015",
+                "ranking": 19
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "229",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Death rate",
+            "data": "6 deaths/1,000 population (2024 est.)",
+            "subfields": [
+              {
+                "label": "total population death rate",
+                "ranking": 153
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "346",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Birth rate",
+            "data": "11.8 births/1,000 population (2024 est.)",
+            "subfields": [
+              {
+                "label": "total population birth rate",
+                "ranking": 151
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "345",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Merchant marine",
+            "data": "<strong>total:</strong> 1 (2023)<br><br><strong>by type:</strong> general cargo 1",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": 183
+              },
+              {
+                "label": "by type",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "387",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Telephones - fixed lines",
+            "data": "<strong>total subscriptions:</strong> 3,000 (2021 est.)<br><br><strong>subscriptions per 100 inhabitants:</strong> 26 (2021 est.)",
+            "subfields": [
+              {
+                "label": "subscriptions per 100 inhabitants",
+                "ranking": null
+              },
+              {
+                "label": "total subscriptions",
+                "ranking": 207
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "196",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Life expectancy at birth",
+            "data": "<strong>total population:</strong> 81.1 years (2024 est.)<br><br><strong>male:</strong> 78.2 years<br><br><strong>female:</strong> 84.2 years",
+            "subfields": [
+              {
+                "label": "total population",
+                "ranking": 45
+              },
+              {
+                "label": "female",
+                "ranking": null
+              },
+              {
+                "label": "male",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "355",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Population growth rate",
+            "data": "0.22% (2024 est.)",
+            "subfields": [
+              {
+                "label": "total population growth rate",
+                "ranking": 174
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "344",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          }
+        ]
+      },
+      "travelFact": null,
+      "rep": {
+        "seo": {
+          "metaDesc": "",
+          "title": "$title - The World Factbook",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": null
+        }
+      }
+    },
+    "pageContext": {
+      "id": "60a96b62-9138-517a-a159-881846658cfc",
+      "placeCode": "WF",
+      "uriBase": "/countries/"
+    }
+  },
+  "staticQueryHashes": [
+    "2962548448",
+    "3419350533",
+    "4121375890",
+    "4279206597",
+    "800385335"
+  ],
+  "slicesMap": {}
+}

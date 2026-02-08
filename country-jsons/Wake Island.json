@@ -1,0 +1,1368 @@
+{
+  "componentChunkName": "component---src-templates-country-js",
+  "path": "/countries/wake-island/",
+  "result": {
+    "data": {
+      "country": {
+        "name": "Wake Island",
+        "region": "Australia and Oceania",
+        "locations": [
+          "place"
+        ],
+        "updated": "July 07, 2025",
+        "rank": true,
+        "flag": {
+          "childImageSharp": {
+            "gatsbyImageData": {
+              "layout": "fullWidth",
+              "images": {
+                "fallback": {
+                  "src": "/the-world-factbook/static/ee588cf04d974c70ba0b0169ed7e1050/24d46/WQ-flag.jpg",
+                  "srcSet": "/the-world-factbook/static/ee588cf04d974c70ba0b0169ed7e1050/24d46/WQ-flag.jpg 420w",
+                  "sizes": "100vw"
+                },
+                "sources": [
+                  {
+                    "srcSet": "/the-world-factbook/static/ee588cf04d974c70ba0b0169ed7e1050/2bfdb/WQ-flag.webp 420w",
+                    "type": "image/webp",
+                    "sizes": "100vw"
+                  }
+                ]
+              },
+              "width": 1,
+              "height": 0.5261904761904762
+            }
+          }
+        },
+        "map": {
+          "childImageSharp": {
+            "gatsbyImageData": {
+              "layout": "fullWidth",
+              "images": {
+                "fallback": {
+                  "src": "/the-world-factbook/static/04a1fab2ca02c73e2207255a6fdf561a/aaead/WQ-map.jpg",
+                  "srcSet": "/the-world-factbook/static/04a1fab2ca02c73e2207255a6fdf561a/aaead/WQ-map.jpg 330w",
+                  "sizes": "100vw"
+                },
+                "sources": [
+                  {
+                    "srcSet": "/the-world-factbook/static/04a1fab2ca02c73e2207255a6fdf561a/aebbf/WQ-map.webp 330w",
+                    "type": "image/webp",
+                    "sizes": "100vw"
+                  }
+                ]
+              },
+              "width": 1,
+              "height": 1.0757575757575757
+            }
+          }
+        },
+        "locatorMap": {
+          "childImageSharp": {
+            "gatsbyImageData": {
+              "layout": "fullWidth",
+              "images": {
+                "fallback": {
+                  "src": "/the-world-factbook/static/9622b06cb9c580decc8b0e078742a38e/577f5/WQ-locator-map.jpg",
+                  "srcSet": "/the-world-factbook/static/9622b06cb9c580decc8b0e078742a38e/bd349/WQ-locator-map.jpg 750w,\n/the-world-factbook/static/9622b06cb9c580decc8b0e078742a38e/577f5/WQ-locator-map.jpg 772w",
+                  "sizes": "100vw"
+                },
+                "sources": [
+                  {
+                    "srcSet": "/the-world-factbook/static/9622b06cb9c580decc8b0e078742a38e/be8a2/WQ-locator-map.webp 750w,\n/the-world-factbook/static/9622b06cb9c580decc8b0e078742a38e/bdf01/WQ-locator-map.webp 772w",
+                    "type": "image/webp",
+                    "sizes": "100vw"
+                  }
+                ]
+              },
+              "width": 1,
+              "height": 0.6347150259067358
+            }
+          }
+        },
+        "images": [
+          {
+            "altText": "United States Marine Corps memorial to the defenders of Wake Island in December 1941, during World War II. Photo courtesy of the US Air Force.",
+            "caption": "United States Marine Corps memorial to the defenders of Wake Island in December 1941, during World War II. Photo courtesy of the US Air Force.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/48821daa9988f9b7d852729a775cc4bb/a5010/Wake_memorial.jpg",
+                      "srcSet": "/the-world-factbook/static/48821daa9988f9b7d852729a775cc4bb/a5010/Wake_memorial.jpg 399w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/48821daa9988f9b7d852729a775cc4bb/8996b/Wake_memorial.webp 399w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 1.5037593984962405
+                }
+              }
+            }
+          },
+          {
+            "altText": "An aerial view of Wilkes Island, one of the three islands making up Wake Atoll. Located on the west side of the atoll, Wilkes Island is now home to a bird sanctuary. Photo courtesy of the US Air Force.",
+            "caption": "An aerial view of Wilkes Island, one of the three islands making up Wake Atoll. Located on the west side of the atoll, Wilkes Island is now home to a bird sanctuary. Photo courtesy of the US Air Force.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/e0d4ebe95080046967f242e0bc526471/8cae6/wilkes_island_wake_atoll.png",
+                      "srcSet": "/the-world-factbook/static/e0d4ebe95080046967f242e0bc526471/8cae6/wilkes_island_wake_atoll.png 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/e0d4ebe95080046967f242e0bc526471/381e5/wilkes_island_wake_atoll.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.5633333333333334
+                }
+              }
+            }
+          },
+          {
+            "altText": "Wake island bird sanctuary. Image courtesy of the US Air Force.",
+            "caption": "Wake island bird sanctuary. Image courtesy of the US Air Force.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/875662d6c5c82dc6be32eb9752808f1b/35886/Wake_Island_bird_sanctuary.jpg",
+                      "srcSet": "/the-world-factbook/static/875662d6c5c82dc6be32eb9752808f1b/35886/Wake_Island_bird_sanctuary.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/875662d6c5c82dc6be32eb9752808f1b/decec/Wake_Island_bird_sanctuary.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.665
+                }
+              }
+            }
+          }
+        ],
+        "special": []
+      },
+      "fields": {
+        "nodes": [
+          {
+            "name": "Dependency status",
+            "data": "unincorporated, unorganized territory of the US; administered by the Department of the Interior; the 11th US Air Force currently conducts activities on the atoll, and it is managed from Pacific Air Force Support Center",
+            "subfields": [
+              {
+                "label": "Dependency status",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "298",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Geographic coordinates",
+            "data": "19 17 N, 166 39 E",
+            "subfields": [
+              {
+                "label": "Geographic coordinates",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "277",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Natural hazards",
+            "data": "subject to occasional typhoons",
+            "subfields": [
+              {
+                "label": "Natural hazards",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "292",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Area - comparative",
+            "data": "about 11 times the size of the National Mall in Washington, D.C.",
+            "subfields": [
+              {
+                "label": "Area - comparative",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "280",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Background",
+            "data": "<p>Early Micronesian and Polynesian settlers probably visited Wake Island, and oral legends tell of periodic voyages to the islands by people from the Marshall Islands. Wake Island was uninhabited when Spanish explorer Alvaro de Mendana de NEYRA became the first European to see it in 1568 and still had no inhabitants when English captain Samuel WAKE sailed by it in 1796. The United States Exploring Expedition visited the island in 1841, and the US annexed it in 1899 to use as a cable and refueling station for its newly acquired Pacific territories of Hawaii, the Philippines, and Guam. In the 1930s, Pan American Airways built facilities on Wake Island so that it could be used as a stopover for flights from the US to China. In 1941, the US began to install military assets on Wake Island, and Japan then captured the island and held it until the end of World War II. In 1946, commercial airlines resumed using Wake Island as a refueling stop.&nbsp;<br /><br />In 1973, the Marshall Islands claimed Wake Island, based on the oral legends, although the US has not recognized these claims. In 1974, the US military took exclusive control of the island&rsquo;s airstrip and restricted visitors. In 1978, Bikini Islanders from the Marshall Islands, who were evacuated in the 1950s and 1960s because of US nuclear tests, considered rehoming on Wake Island, but the US military rejected that plan. Since the 1970s, the island has been important for missile defense testing. In 2009, Wake Island was included in the Pacific Remote Islands Marine National Monument.</p>",
+            "subfields": [
+              {
+                "label": "Summary",
+                "ranking": null
+              },
+              {
+                "label": "Background",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "325",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Environment - current issues",
+            "data": "limited potable water; hazardous waste disposal",
+            "subfields": [
+              {
+                "label": "Environment - current issues",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "293",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Climate",
+            "data": "tropical",
+            "subfields": [
+              {
+                "label": "ten hottest places on Earth (highest average monthly temperature)",
+                "ranking": null
+              },
+              {
+                "label": "ten coldest places on Earth (lowest average monthly temperature)",
+                "ranking": null
+              },
+              {
+                "label": "ten wettest places on Earth (average annual precipitation)",
+                "ranking": null
+              },
+              {
+                "label": "Climate",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "284",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Coastline",
+            "data": "19.3 km",
+            "subfields": [
+              {
+                "label": "Coastline",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "282",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Flag description",
+            "data": "the US flag is used",
+            "subfields": [
+              {
+                "label": "Flag description",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "320",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Land boundaries",
+            "data": "<strong>total:</strong> 0 km",
+            "subfields": [
+              {
+                "label": "regional borders",
+                "ranking": null
+              },
+              {
+                "label": "border countries",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "281",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Land use",
+            "data": "<strong>agricultural land:</strong> 0% (2018 est.)<br><br><strong>other:</strong> 100% (2018 est.)",
+            "subfields": [
+              {
+                "label": "other",
+                "ranking": null
+              },
+              {
+                "label": "agricultural land",
+                "ranking": null
+              },
+              {
+                "label": "forest",
+                "ranking": null
+              },
+              {
+                "label": "permanent pasture",
+                "ranking": null
+              },
+              {
+                "label": "permanent crops",
+                "ranking": null
+              },
+              {
+                "label": "arable land",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "288",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Legal system",
+            "data": "US common law",
+            "subfields": [
+              {
+                "label": "Legal system",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "308",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Maritime claims",
+            "data": "<strong>territorial sea:</strong> 12 nm<br><br><strong>exclusive economic zone:</strong> 200 nm",
+            "subfields": [
+              {
+                "label": "exclusive economic zone",
+                "ranking": null
+              },
+              {
+                "label": "territorial sea",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "283",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Natural resources",
+            "data": "none",
+            "subfields": [
+              {
+                "label": "Natural resources",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "287",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Geography - note",
+            "data": "strategic location in the North Pacific Ocean",
+            "subfields": [
+              {
+                "label": "Geography - note",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "295",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Terrain",
+            "data": "atoll of three low coral islands, Peale, Wake, and Wilkes, built up on an underwater volcano; central lagoon is former crater, islands are part of the rim",
+            "subfields": [
+              {
+                "label": "Terrain",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "285",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Military - note",
+            "data": "defense is the responsibility of the US; the island serves as a trans-Pacific refueling stop for military aircraft and supports US Missile Defense Agency (MDA) testing activities; Wake is managed by the US Air Force (2025)",
+            "subfields": [
+              {
+                "label": "Military - note",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "332",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Country name",
+            "data": "<strong>conventional long form:</strong> none<br><br><strong>conventional short form:</strong> Wake Island<br><br><strong>etymology:</strong> the name comes from one of two explorers who sighted the islands in the late 1700s; British Captain William WAKE visited in 1792, as did his relative, British Captain Samuel WAKE, in 1796, and sources disagree on which captain claimed the honor of naming the island",
+            "subfields": [
+              {
+                "label": "abbreviation",
+                "ranking": null
+              },
+              {
+                "label": "former",
+                "ranking": null
+              },
+              {
+                "label": "local short form",
+                "ranking": null
+              },
+              {
+                "label": "local long form",
+                "ranking": null
+              },
+              {
+                "label": "etymology",
+                "ranking": null
+              },
+              {
+                "label": "conventional short form",
+                "ranking": null
+              },
+              {
+                "label": "conventional long form",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "296",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Location",
+            "data": "Oceania, atoll in the North Pacific Ocean, about two-thirds of the way from Hawaii to the Northern Mariana Islands",
+            "subfields": [
+              {
+                "label": "Location",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "276",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Map references",
+            "data": "Oceania",
+            "subfields": [
+              {
+                "label": "Map references",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "278",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Irrigated land",
+            "data": "0 sq km (2022)",
+            "subfields": [
+              {
+                "label": "Irrigated land",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "289",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Broadcast media",
+            "data": "US Armed Forces Radio and Television Service (AFRTS) provides satellite radio/TV broadcasts (2018)",
+            "subfields": [
+              {
+                "label": "Broadcast media",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "199",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Citizenship",
+            "data": "see United States",
+            "subfields": [],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "310",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Independence",
+            "data": "none (territory of the US)",
+            "subfields": [
+              {
+                "label": "Independence",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "305",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Elevation",
+            "data": "<strong>highest point:</strong> unnamed location 8 m<br><br><strong>lowest point:</strong> Pacific Ocean 0 m",
+            "subfields": [
+              {
+                "label": "highest point",
+                "ranking": null
+              },
+              {
+                "label": "lowest point",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "407",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Electricity access",
+            "data": "<strong>electrification - total population:</strong> 100% (2021)",
+            "subfields": [
+              {
+                "label": "electrification - total population",
+                "ranking": null
+              },
+              {
+                "label": "electrification - rural areas",
+                "ranking": null
+              },
+              {
+                "label": "electrification - urban areas",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "251",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Petroleum",
+            "data": "<strong>refined petroleum consumption:</strong> 8,000 bbl/day (2023 est.)",
+            "subfields": [
+              {
+                "label": "refined petroleum consumption",
+                "ranking": null
+              },
+              {
+                "label": "crude oil estimated reserves",
+                "ranking": null
+              },
+              {
+                "label": "total petroleum production",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "438",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Ports",
+            "data": "<strong>total ports:</strong> 1 (2024)<br><br><strong>large:</strong> 0<br><br><strong>medium:</strong> 0<br><br><strong>small:</strong> 0<br><br><strong>very small:</strong> 1<br><br><strong>ports with oil terminals:</strong> 1<br><br><strong>key ports:</strong> Wake Island",
+            "subfields": [
+              {
+                "label": "total ports",
+                "ranking": null
+              },
+              {
+                "label": "key ports",
+                "ranking": null
+              },
+              {
+                "label": "ports with oil terminals",
+                "ranking": null
+              },
+              {
+                "label": "very small",
+                "ranking": null
+              },
+              {
+                "label": "small",
+                "ranking": null
+              },
+              {
+                "label": "medium",
+                "ranking": null
+              },
+              {
+                "label": "large",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "465",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Population",
+            "data": "<strong>total:</strong> no permanent inhabitants<br><br><strong>note:</strong> personnel maintain and operate the airfield and weather station",
+            "subfields": [
+              {
+                "label": "female",
+                "ranking": null
+              },
+              {
+                "label": "male",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "335",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Carbon dioxide emissions",
+            "data": "1.214 million metric tonnes of CO2 (2023 est.)<br><br><strong>from petroleum and other liquids:</strong> 1.214 million metric tonnes of CO2 (2023 est.)",
+            "subfields": [
+              {
+                "label": "from petroleum and other liquids",
+                "ranking": null
+              },
+              {
+                "label": "total emissions",
+                "ranking": 169
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "274",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Area",
+            "data": "<strong>total :</strong> 7 sq km<br><br><strong>land:</strong> 6.5 sq km<br><br><strong>water:</strong> 0 sq km",
+            "subfields": [
+              {
+                "label": "water",
+                "ranking": null
+              },
+              {
+                "label": "land",
+                "ranking": null
+              },
+              {
+                "label": "total ",
+                "ranking": 242
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "279",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Airports",
+            "data": "1 (2025)",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": 226
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "379",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Energy consumption per capita",
+            "data": "(2019)",
+            "subfields": [],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "441",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          }
+        ]
+      },
+      "travelFact": null,
+      "rep": {
+        "seo": {
+          "metaDesc": "",
+          "title": "$title - The World Factbook",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": null
+        }
+      }
+    },
+    "pageContext": {
+      "id": "03120019-a3a4-55eb-92ac-f4a89e8fd799",
+      "placeCode": "WQ",
+      "uriBase": "/countries/"
+    }
+  },
+  "staticQueryHashes": [
+    "2962548448",
+    "3419350533",
+    "4121375890",
+    "4279206597",
+    "800385335"
+  ],
+  "slicesMap": {}
+}

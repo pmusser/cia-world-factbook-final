@@ -1,0 +1,5560 @@
+{
+  "componentChunkName": "component---src-templates-country-js",
+  "path": "/countries/south-sudan/",
+  "result": {
+    "data": {
+      "country": {
+        "name": "South Sudan",
+        "region": "Africa",
+        "locations": [
+          "place",
+          "summary"
+        ],
+        "updated": "December 04, 2025",
+        "rank": true,
+        "flag": {
+          "childImageSharp": {
+            "gatsbyImageData": {
+              "layout": "fullWidth",
+              "images": {
+                "fallback": {
+                  "src": "/the-world-factbook/static/8174bda0be67b21af4704aebcf9cefcd/c9d87/OD-flag.jpg",
+                  "srcSet": "/the-world-factbook/static/8174bda0be67b21af4704aebcf9cefcd/c9d87/OD-flag.jpg 500w",
+                  "sizes": "100vw"
+                },
+                "sources": [
+                  {
+                    "srcSet": "/the-world-factbook/static/8174bda0be67b21af4704aebcf9cefcd/cd5ef/OD-flag.webp 500w",
+                    "type": "image/webp",
+                    "sizes": "100vw"
+                  }
+                ]
+              },
+              "width": 1,
+              "height": 0.5
+            }
+          }
+        },
+        "map": {
+          "childImageSharp": {
+            "gatsbyImageData": {
+              "layout": "fullWidth",
+              "images": {
+                "fallback": {
+                  "src": "/the-world-factbook/static/ec4ac5702f17d1ef8e8619858b83a138/4e8b4/OD-map.jpg",
+                  "srcSet": "/the-world-factbook/static/ec4ac5702f17d1ef8e8619858b83a138/4e8b4/OD-map.jpg 331w",
+                  "sizes": "100vw"
+                },
+                "sources": [
+                  {
+                    "srcSet": "/the-world-factbook/static/ec4ac5702f17d1ef8e8619858b83a138/f5b93/OD-map.webp 331w",
+                    "type": "image/webp",
+                    "sizes": "100vw"
+                  }
+                ]
+              },
+              "width": 1,
+              "height": 1.0725075528700907
+            }
+          }
+        },
+        "locatorMap": {
+          "childImageSharp": {
+            "gatsbyImageData": {
+              "layout": "fullWidth",
+              "images": {
+                "fallback": {
+                  "src": "/the-world-factbook/static/cefd91798ffd1d915548f84006dc20fb/4d053/OD-locator-map.jpg",
+                  "srcSet": "/the-world-factbook/static/cefd91798ffd1d915548f84006dc20fb/4d053/OD-locator-map.jpg 507w",
+                  "sizes": "100vw"
+                },
+                "sources": [
+                  {
+                    "srcSet": "/the-world-factbook/static/cefd91798ffd1d915548f84006dc20fb/2d488/OD-locator-map.webp 507w",
+                    "type": "image/webp",
+                    "sizes": "100vw"
+                  }
+                ]
+              },
+              "width": 1,
+              "height": 0.9763313609467457
+            }
+          }
+        },
+        "images": [],
+        "special": []
+      },
+      "fields": {
+        "nodes": [
+          {
+            "name": "Diplomatic representation from the US",
+            "data": "<strong>chief of mission:</strong> Ambassador Michael J. ADLER <span class=\"breadcrumb_last\" aria-current=\"page\">(since 24 August 2022)<br /></span><br><br><strong>embassy:</strong> Kololo Road adjacent to the EU's compound, Juba<br><br><strong>mailing address:</strong> 4420 Juba Place, Washington DC&nbsp; 20521-4420<br><br><strong>telephone:</strong> [211] 912-105-188<br><br><strong>email address and website:</strong> <br />ACSJuba@state.gov<br /><br /><a href=\"https://ss.usembassy.gov/\" target=\"_blank\" rel=\"noopener\">https://ss.usembassy.gov/</a>",
+            "subfields": [
+              {
+                "label": "email address and website",
+                "ranking": null
+              },
+              {
+                "label": "consulate(s)",
+                "ranking": null
+              },
+              {
+                "label": "branch office(s)",
+                "ranking": null
+              },
+              {
+                "label": "consulate(s) general",
+                "ranking": null
+              },
+              {
+                "label": "FAX",
+                "ranking": null
+              },
+              {
+                "label": "mailing address",
+                "ranking": null
+              },
+              {
+                "label": "telephone",
+                "ranking": null
+              },
+              {
+                "label": "embassy",
+                "ranking": null
+              },
+              {
+                "label": "chief of mission",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "319",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "chief of mission",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "embassy",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "mailing address",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "telephone",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "FAX",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "email address and website",
+                    "position": 6
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "consulate(s) general",
+                    "position": 7
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "branch office(s)",
+                    "position": 8
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "consulate(s)",
+                    "position": 9
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "consular agent",
+                    "position": 10
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "office",
+                    "position": 11
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "other offices",
+                    "position": 12
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Age structure",
+            "data": "<strong>0-14 years:</strong> 42.1% (male 2,725,520/female 2,619,035)<br><br><strong>15-64 years:</strong> 55.3% (male 3,568,064/female 3,458,804)<br><br><strong>65 years and over:</strong> 2.6% (2024 est.) (male 182,757/female 149,534)",
+            "subfields": [
+              {
+                "label": "65 years and over",
+                "ranking": null
+              },
+              {
+                "label": "15-64 years",
+                "ranking": null
+              },
+              {
+                "label": "0-14 years",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "341",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "0-14 years",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "15-64 years",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "65 years and over",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": [
+              {
+                "type": "image",
+                "label": "2024 population pyramid",
+                "altText": "This is the population pyramid for South Sudan. A population pyramid illustrates the age and sex structure of a country's population and may provide insights about political and social stability, as well as economic development. The population is distributed along the horizontal axis, with males shown on the left and females on the right. The male and female populations are broken down into 5-year age groups represented as horizontal bars along the vertical axis, with the youngest age groups at the bottom and the oldest at the top. The shape of the population pyramid gradually evolves over time based on fertility, mortality, and international migration trends. <br/><br/>For additional information, please see the entry for Population pyramid on the Definitions and Notes page.",
+                "caption": "This is the population pyramid for South Sudan. A population pyramid illustrates the age and sex structure of a country's population and may provide insights about political and social stability, as well as economic development. The population is distributed along the horizontal axis, with males shown on the left and females on the right. The male and female populations are broken down into 5-year age groups represented as horizontal bars along the vertical axis, with the youngest age groups at the bottom and the oldest at the top. The shape of the population pyramid gradually evolves over time based on fertility, mortality, and international migration trends. <br/><br/>For additional information, please see the entry for Population pyramid on the Definitions and Notes page.",
+                "localFile": {
+                  "publicURL": "/the-world-factbook/static/ac4996a6bc1e0c1801a4c4bd5e9ec2fb/od_popgraph2024.jpeg",
+                  "childImageSharp": {
+                    "gatsbyImageData": {
+                      "layout": "constrained",
+                      "images": {
+                        "fallback": {
+                          "src": "/the-world-factbook/static/ac4996a6bc1e0c1801a4c4bd5e9ec2fb/60be0/od_popgraph2024.jpg",
+                          "srcSet": "/the-world-factbook/static/ac4996a6bc1e0c1801a4c4bd5e9ec2fb/a2e79/od_popgraph2024.jpg 245w,\n/the-world-factbook/static/ac4996a6bc1e0c1801a4c4bd5e9ec2fb/d9c3e/od_popgraph2024.jpg 490w,\n/the-world-factbook/static/ac4996a6bc1e0c1801a4c4bd5e9ec2fb/60be0/od_popgraph2024.jpg 980w",
+                          "sizes": "(min-width: 980px) 980px, 100vw"
+                        },
+                        "sources": []
+                      },
+                      "width": 980,
+                      "height": 600
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "name": "Geographic coordinates",
+            "data": "8 00 N, 30 00 E",
+            "subfields": [
+              {
+                "label": "Geographic coordinates",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "277",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Geographic coordinates",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Sex ratio",
+            "data": "<strong>at birth:</strong> 1.05 male(s)/female<br><br><strong>0-14 years:</strong> 1.04 male(s)/female<br><br><strong>15-64 years:</strong> 1.03 male(s)/female<br><br><strong>65 years and over:</strong> 1.22 male(s)/female<br><br><strong>total population:</strong> 1.04 male(s)/female (2024 est.)",
+            "subfields": [
+              {
+                "label": "total population",
+                "ranking": null
+              },
+              {
+                "label": "at birth",
+                "ranking": null
+              },
+              {
+                "label": "65 years and over",
+                "ranking": null
+              },
+              {
+                "label": "15-64 years",
+                "ranking": null
+              },
+              {
+                "label": "0-14 years",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "351",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "at birth",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "0-14 years",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "15-64 years",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "65 years and over",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "total population",
+                    "position": 5
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Area - comparative",
+            "data": "more than four times the size of Georgia; slightly smaller than Texas",
+            "subfields": [
+              {
+                "label": "Area - comparative",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "280",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Area - comparative",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": [
+              {
+                "type": "image",
+                "label": "Area comparison map",
+                "altText": "<p>more than four times the size of Georgia; slightly smaller than Texas</p>",
+                "caption": "<p>more than four times the size of Georgia; slightly smaller than Texas</p>",
+                "localFile": {
+                  "publicURL": "/the-world-factbook/static/ca0338faeb5b42ca6e6b67d4c0aa52f9/OD_area.jpg",
+                  "childImageSharp": {
+                    "gatsbyImageData": {
+                      "layout": "constrained",
+                      "images": {
+                        "fallback": {
+                          "src": "/the-world-factbook/static/ca0338faeb5b42ca6e6b67d4c0aa52f9/66a5e/OD_area.jpg",
+                          "srcSet": "/the-world-factbook/static/ca0338faeb5b42ca6e6b67d4c0aa52f9/560dc/OD_area.jpg 128w,\n/the-world-factbook/static/ca0338faeb5b42ca6e6b67d4c0aa52f9/63229/OD_area.jpg 256w,\n/the-world-factbook/static/ca0338faeb5b42ca6e6b67d4c0aa52f9/66a5e/OD_area.jpg 512w",
+                          "sizes": "(min-width: 512px) 512px, 100vw"
+                        },
+                        "sources": []
+                      },
+                      "width": 512,
+                      "height": 600
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "name": "Military service age and obligation",
+            "data": "18 is the legal minimum age for compulsory (men) and voluntary (men and women) military service; 12-24 months service (2023)",
+            "subfields": [
+              {
+                "label": "Military service age and obligation",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "333",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Military service age and obligation",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Background",
+            "data": "<p>South Sudan, which gained independence from Sudan in 2011, is the world&rsquo;s newest country. Home to a diverse array of mainly Nilotic ethnolinguistic groups that settled in the territory in the 15th through 19th centuries, South Sudanese society is heavily dependent on seasonal migration and seasonal fluctuations in precipitation. Modern-day South Sudan was conquered first by Egypt and later ruled jointly by Egyptian-British colonial administrators in the late 19th century. Christian missionaries helped spread the English language and Christianity in the area, leading to significant cultural differences with the northern part of Sudan, where Arabic and Islam are dominant. When Sudan gained its independence in 1956, the southern region received assurances that it would participate fully in the political system. However, the Arab government in Khartoum reneged on its promises, prompting two periods of civil war (1955-1972 and 1983-2005) in which as many as 2.5 million people died -- mostly civilians -- due largely to starvation and drought. The second Sudanese civil war was one of the deadliest since WWII and left southern Sudanese society devastated. Peace talks resulted in a US-backed Comprehensive Peace Agreement in 2005, which granted the South six years of autonomy followed by a referendum on final status. The result of this referendum, held in 2011, was a vote of 98% in favor of secession.<br /><br />Since independence, South Sudan has struggled to form a viable governing system and has been plagued by widespread corruption, political conflict, and communal violence. In 2013, conflict erupted between forces loyal to President Salva KIIR, a Dinka, and forces loyal to Vice President Riek MACHAR, a Nuer. The conflict quickly spread through the country along ethnic lines, killing tens of thousands and creating a humanitarian crisis with millions of South Sudanese displaced. KIIR and MACHAR signed a peace agreement in 2015 that created a Transitional Government of National Unity the next year. However, renewed fighting broke out in Juba between KIIR and MACHAR&rsquo;s forces, plunging the country back into conflict and drawing in additional armed opposition groups. A \"revitalized\" peace agreement was signed in 2018, mostly ending the fighting and laying the groundwork for a unified national army, a transitional government, and elections. The transitional government was formed in 2020, when MACHAR returned to Juba as first vice president. Since 2020, implementation of the peace agreement has been stalled amid wrangling over power-sharing, which has contributed to an uptick in communal violence and the country&rsquo;s worst food crisis since independence, with 7 of 11 million South Sudanese citizens in need of humanitarian assistance. The transitional period was extended an additional two years in 2022, pushing elections to late 2024.</p>",
+            "subfields": [
+              {
+                "label": "Summary",
+                "ranking": null
+              },
+              {
+                "label": "Background",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "325",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Background",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Summary",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Military expenditures",
+            "data": "2% of GDP (2024 est.)<br>2% of GDP (2023 est.)<br>2% of GDP (2022 est.)<br>2% of GDP (2021 est.)<br>2% of GDP (2020 est.)",
+            "subfields": [
+              {
+                "label": "Military Expenditures 2024",
+                "ranking": null
+              },
+              {
+                "label": "Military Expenditures 2023",
+                "ranking": null
+              },
+              {
+                "label": "Military Expenditures 2022",
+                "ranking": null
+              },
+              {
+                "label": "Military Expenditures 2021",
+                "ranking": null
+              },
+              {
+                "label": "Military Expenditures 2020",
+                "ranking": null
+              },
+              {
+                "label": "Military Expenditures 2019",
+                "ranking": null
+              },
+              {
+                "label": "Military Expenditures 2018",
+                "ranking": null
+              },
+              {
+                "label": "Military Expenditures 2017",
+                "ranking": null
+              },
+              {
+                "label": "Military Expenditures 2016",
+                "ranking": null
+              },
+              {
+                "label": "Military Expenditures 2015",
+                "ranking": null
+              },
+              {
+                "label": "Military Expenditures 2014",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "330",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Military Expenditures",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Population below poverty line",
+            "data": "82.3% (2016 est.)<br><br><b>note:</b> % of population with income below national poverty line",
+            "subfields": [
+              {
+                "label": "population",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "221",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "population",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Administrative divisions",
+            "data": "10 states; Central Equatoria, Eastern Equatoria, Jonglei, Lakes, Northern Bahr el Ghazal, Unity, Upper Nile, Warrap, Western Bahr el Ghazal, Western Equatoria<br><br><strong>note:</strong> in 2015, 28 new states were created, and 4 additional states in 2017; after the 2020 peace agreement, the country was again reorganized into the 10 original states, plus 2 administrative areas, Pibor and Ruweng, and 1 special administrative status area, Abyei (which is disputed between South Sudan and Sudan)",
+            "subfields": [
+              {
+                "label": "Administrative divisions",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "302",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Administrative divisions",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Agricultural products",
+            "data": "milk, cassava, sorghum, goat milk, vegetables, fruits, groundnuts, sesame seeds, beef, maize (2023)<br><br><b>note:</b> top ten agricultural products based on tonnage",
+            "subfields": [
+              {
+                "label": "Agricultural products",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "215",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Agricultural products",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Military and security forces",
+            "data": "South Sudan People&rsquo;s Defense Force (SSPDF): Land Forces (includes Presidential Guard), Air Forces, Marine (Riverine) Forces, Reserve Forces; National (or Necessary) Unified Forces (NUF)<br /><br />Ministry of Interior: South Sudan National Police Service (SSNPS) (2025)<br><br><strong>note 1: </strong>the NUF are being formed by retraining rebel and pro-government militia fighters into military, police, and other government security forces; the first operational NUF deployed in November 2023<strong><br /><br />note 2:</strong>&nbsp;numerous irregular forces operate in the country with official knowledge, including militias operated by the National Security Service (an internal security force under the Ministry of National Security) and proxy forces",
+            "subfields": [
+              {
+                "label": "Military branches",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "331",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Military branches",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Budget",
+            "data": "<strong>revenues:</strong> $2.513 billion (2023 est.)<br><br><strong>expenditures:</strong> $1.984 billion (2023 est.)<br><br><b>note:</b> central government revenues and expenses (excluding grants/extrabudgetary units/social security funds) converted to US dollars at average official exchange rate for year indicated",
+            "subfields": [
+              {
+                "label": "expenditures",
+                "ranking": null
+              },
+              {
+                "label": "revenues",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "224",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "revenues",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "expenditures",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Capital",
+            "data": "<strong>name:</strong> Juba<br><br><strong>geographic coordinates:</strong> 04 51 N, 31 37 E<br><br><strong>time difference:</strong> UTC+2 (8 hours ahead of Washington, DC, during Standard Time)<br><br><strong>etymology:</strong> the name comes from the name of a small Bari village that was located near the present-day city",
+            "subfields": [
+              {
+                "label": "etymology",
+                "ranking": null
+              },
+              {
+                "label": "time zone note",
+                "ranking": null
+              },
+              {
+                "label": "daylight saving time",
+                "ranking": null
+              },
+              {
+                "label": "time difference",
+                "ranking": null
+              },
+              {
+                "label": "geographic coordinates",
+                "ranking": null
+              },
+              {
+                "label": "name",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "301",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "name",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "geographic coordinates",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "time difference",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "daylight saving time",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "time zone note",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "etymology",
+                    "position": 6
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Climate",
+            "data": "hot with seasonal rainfall influenced by the annual shift of the Inter-Tropical Convergence Zone; rainfall heaviest in upland areas of the south and diminishes to the north",
+            "subfields": [
+              {
+                "label": "Climate",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "284",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Climate",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "ten driest places on Earth (average annual precipitation)",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "ten wettest places on Earth (average annual precipitation)",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "ten coldest places on Earth (lowest average monthly temperature)",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "ten hottest places on Earth (highest average monthly temperature)",
+                    "position": 5
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Coastline",
+            "data": "0 km (landlocked)",
+            "subfields": [
+              {
+                "label": "Coastline",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "282",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Coastline",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Constitution",
+            "data": "<strong>history:</strong> previous 2005 (pre-independence); latest signed 7 July 2011, effective 9 July 2011 (Transitional Constitution of the Republic of South Sudan, 2011)<br><br><strong>amendment process:</strong> proposed by the National Legislature or by the president of the republic; passage requires submission of the proposal to the Legislature at least one month prior to consideration, approval by at least two-thirds majority vote in both houses of the Legislature, and assent of the president",
+            "subfields": [
+              {
+                "label": "amendment process",
+                "ranking": null
+              },
+              {
+                "label": "history",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "307",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "history",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "amendment process",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Exchange rates",
+            "data": "South Sudanese pounds (SSP) per US dollar -<br><br><strong>Exchange rates:</strong><br>2,163.104 (2024 est.)<br>930.331 (2023 est.)<br>534.511 (2022 est.)<br>306.355 (2021 est.)<br>165.907 (2020 est.)",
+            "subfields": [
+              {
+                "label": "Exchange rates 2024",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2023",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2022",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2021",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2020",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2019",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2018",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2017",
+                "ranking": null
+              },
+              {
+                "label": "Currency",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "249",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Currency",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Exchange rates",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Executive branch",
+            "data": "<strong>chief of state:</strong> President Salva KIIR Mayardit (since 9 July 2011)<br><br><strong>head of government:</strong> President Salva KIIR Mayardit (since 9 July 2011)<br><br><strong>cabinet:</strong> National Council of Ministers appointed by the president, approved by the Transitional National Legislative Assembly<br><br><strong>election/appointment process:</strong> president directly elected by simple-majority popular vote for a 4-year term (eligible for a second term)<br><br><strong>most recent election date:</strong> 11-15 April 2010<br><br><strong>election results:</strong> <em><br />2010:</em> Salva KIIR Mayardit elected leader of then-Southern Sudan; percent of vote - Salva KIIR Mayardit (SPLM) 93%, Lam AKOL (SPLM-DC) 7%<br><br><strong>expected date of next election:</strong> scheduled for 2015 but has been postponed multiple times, currently to be held in December 2026<br><br><strong>note: </strong>the president is both chief of state and head of government",
+            "subfields": [
+              {
+                "label": "expected date of next election",
+                "ranking": null
+              },
+              {
+                "label": "most recent election date",
+                "ranking": null
+              },
+              {
+                "label": "election results",
+                "ranking": null
+              },
+              {
+                "label": "election/appointment process",
+                "ranking": null
+              },
+              {
+                "label": "cabinet",
+                "ranking": null
+              },
+              {
+                "label": "head of government",
+                "ranking": null
+              },
+              {
+                "label": "chief of state",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "312",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "chief of state",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "head of government",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "cabinet",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "election/appointment process",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "most recent election date",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "election results",
+                    "position": 6
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "expected date of next election",
+                    "position": 7
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "state counsellor",
+                    "position": 11
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Executive branch",
+                    "position": 12
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Flag",
+            "data": "<strong>description:</strong> three equal horizontal bands of black (top), red, and green; the red band is edged in white; a five-pointed gold star is in the middle of a blue isosceles triangle based on the left side<br /><br /><strong>meaning: </strong>black stands for the people, red for the blood shed in the struggle for freedom, green for the land, and blue for the Nile; the gold star represents the unity of the country's states<br><br><strong>note 1:</strong> similar to the flag of Kenya<br /><br /><strong>note 2:</strong> South Sudan has one of two national flags that display six colors as part of the primary design -- the other is South Africa's",
+            "subfields": [
+              {
+                "label": "Flag description",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "320",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Flag description",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Independence",
+            "data": "9 July 2011 (from Sudan)",
+            "subfields": [
+              {
+                "label": "Independence",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "305",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Independence",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Judicial branch",
+            "data": "<strong>highest court(s):</strong> Supreme Court of South Sudan (consists of a chief justice, deputy chief justice, and 5 additional justices); the 2011 Transitional Constitution of South Sudan calls for 9, rather than 5 additional justices<br><br><strong>judge selection and term of office:</strong> the 2011 Transitional Constitution of South Sudan calls for the establishment of a Judicial Service Council to recommend prospective justices to the president, and for the justices' tenures to be set by the National Legislature<br><br><strong>subordinate courts:</strong> national level - Courts of Appeal; High Courts; County Courts; state level - High Courts; County Courts; customary courts; other specialized courts and tribunals<br><br><strong>note:</strong> in mid-2022, the Government of South Sudan inaugurated an ad-hoc judiciary committee, a 12-member body led by two eminent jurists, that is charged with reviewing relevant laws, advising on judicial reform, and restructuring the judiciary",
+            "subfields": [
+              {
+                "label": "subordinate courts",
+                "ranking": null
+              },
+              {
+                "label": "judge selection and term of office",
+                "ranking": null
+              },
+              {
+                "label": "highest court(s)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "314",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "highest court(s)",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "judge selection and term of office",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "subordinate courts",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Land boundaries",
+            "data": "<strong>total:</strong> 6,018 km<br><br><strong>border countries (6):</strong> Central African Republic 1,055 km; Democratic Republic of the Congo 714 km; Ethiopia 1,299 km; Kenya 317 km; Sudan 2,158 km; Uganda 475 km<br><br><strong>note:</strong> South Sudan-Sudan boundary represents 1 January 1956 alignment; final alignment pending negotiations and demarcation; final sovereignty status of Abyei Area pending negotiations between South Sudan and Sudan",
+            "subfields": [
+              {
+                "label": "regional borders",
+                "ranking": null
+              },
+              {
+                "label": "border countries (6)",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "281",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "total",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "border countries",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "border sovereign base areas",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "metropolitan France - total",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "French Guiana - total",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "regional borders",
+                    "position": 6
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Legislative branch",
+            "data": "<strong>legislature name:</strong> Législature nationale (National Legislature)<br><br><strong>legislative structure:</strong> bicameral",
+            "subfields": [
+              {
+                "label": "expected date of next election",
+                "ranking": null
+              },
+              {
+                "label": "parties elected and seats per party",
+                "ranking": null
+              },
+              {
+                "label": "most recent election date",
+                "ranking": null
+              },
+              {
+                "label": "scope of elections",
+                "ranking": null
+              },
+              {
+                "label": "electoral system",
+                "ranking": null
+              },
+              {
+                "label": "number of seats",
+                "ranking": null
+              },
+              {
+                "label": "chamber name",
+                "ranking": null
+              },
+              {
+                "label": "legislative structure",
+                "ranking": null
+              },
+              {
+                "label": "legislature name",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "313",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "legislature name",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "legislative structure",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "chamber name",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "number of seats",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "electoral system",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "scope of elections",
+                    "position": 6
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "term in office",
+                    "position": 7
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "most recent election date",
+                    "position": 8
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "parties elected and seats per party",
+                    "position": 9
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "percentage of women in chamber",
+                    "position": 10
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "expected date of next election",
+                    "position": 11
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Maritime claims",
+            "data": "none (landlocked)",
+            "subfields": [],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "283",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "territorial sea",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "contiguous zone",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "exclusive economic zone",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "continental shelf",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "exclusive fishing zone",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Environment (Protection and Preservation) Zone",
+                    "position": 6
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "International organization participation",
+            "data": "AU, EAC, FAO, G-77, IBRD, ICAO, IDA, IFAD, IFC, IFRCS, IGAD, ILO, IMF, Interpol, IOM, IPU, ITU, MIGA, UN, UNCTAD, UNESCO, UPU, WCO, WHO, WMO",
+            "subfields": [
+              {
+                "label": "International organization participation",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "317",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "International organization participation",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "National holiday",
+            "data": "Independence Day, 9 July (2011)",
+            "subfields": [
+              {
+                "label": "National holiday",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "306",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "National holiday",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Nationality",
+            "data": "<strong>noun:</strong> South Sudanese (singular and plural)<br><br><strong>adjective:</strong> South Sudanese",
+            "subfields": [
+              {
+                "label": "adjective",
+                "ranking": null
+              },
+              {
+                "label": "noun",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "336",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "noun",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "adjective",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Natural resources",
+            "data": "hydropower, fertile agricultural land, gold, diamonds, petroleum, hardwoods, limestone, iron ore, copper, chromium ore, zinc, tungsten, mica, silver",
+            "subfields": [
+              {
+                "label": "Natural resources",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "287",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Natural resources",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Geography - note",
+            "data": "landlocked; The Sudd is a vast swamp in the north central region of South Sudan, formed by the White Nile; its size is variable but can reach some 15% of the country's total area during the rainy season; it is one of the world's largest wetlands",
+            "subfields": [
+              {
+                "label": "Geography - note",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "295",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Geography - note",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Economic overview",
+            "data": "low-income, oil-based Sahelian economy; extreme poverty and food insecurity; COVID-19 and ongoing violence threaten socioeconomic potential; environmentally fragile; ongoing land and property rights issues; natural resource rich but lacks infrastructure",
+            "subfields": [
+              {
+                "label": "Summary",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "207",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Summary",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Political parties",
+            "data": "Democratic Change or DC<br />Democratic Forum or DF<br />Labour Party or LPSS<br />South Sudan Opposition Alliance or SSOA<br />Sudan African National Union or SANU<br />Sudan People's Liberation Movement or SPLM<br />Sudan People&rsquo;s Liberation Movement-In Opposition or SPLM-IO<br />United Democratic Salvation Front or UDSF&nbsp;&nbsp;&nbsp;&nbsp;<br />United South Sudan African Party or USSAP<br />United South Sudan Party or USSP",
+            "subfields": [
+              {
+                "label": "Political parties",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "315",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Political parties",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Railways",
+            "data": "<strong>total:</strong> 248 km (2018)<br><br><strong>note:</strong> a narrow gauge, single-track railroad between Babonosa (Sudan) and Wau, the only existing rail system, was repaired in 2010 with $250 million in UN funds, but is not currently operational",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "384",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "total",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "standard gauge",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "narrow gauge",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "broad gauge",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "dual gauge",
+                    "position": 5
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Suffrage",
+            "data": "18 years of age; universal",
+            "subfields": [
+              {
+                "label": "Suffrage",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "311",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Suffrage",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Terrain",
+            "data": "plains in the north and center rise to southern highlands along the border with Uganda and Kenya; the White Nile, flowing north out of the uplands of Central Africa, is the major geographic feature of the country; The Sudd (a name derived from floating vegetation that hinders navigation) is a large swampy area of more than 100,000 sq km fed by the waters of the White Nile that dominates the center of the country",
+            "subfields": [
+              {
+                "label": "terrain",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "285",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "terrain",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "top ten world caves",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Government type",
+            "data": "presidential republic",
+            "subfields": [
+              {
+                "label": "Government type",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "299",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Government type",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Country name",
+            "data": "<strong>conventional long form:</strong> Republic of South Sudan<br><br><strong>conventional short form:</strong> South Sudan<br><br><strong>etymology:</strong> self-descriptive name from the country's geographic position within Sudan prior to independence; the name Sudan derives from the Arabic <em>balad-as-sudan</em>, meaning \"Land of the Black [peoples]\"",
+            "subfields": [
+              {
+                "label": "abbreviation",
+                "ranking": null
+              },
+              {
+                "label": "former",
+                "ranking": null
+              },
+              {
+                "label": "local short form",
+                "ranking": null
+              },
+              {
+                "label": "local long form",
+                "ranking": null
+              },
+              {
+                "label": "etymology",
+                "ranking": null
+              },
+              {
+                "label": "conventional short form",
+                "ranking": null
+              },
+              {
+                "label": "conventional long form",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "296",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "conventional long form",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "conventional short form",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "local long form",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "local short form",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "official long form",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "official short form",
+                    "position": 6
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "former",
+                    "position": 7
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "abbreviation",
+                    "position": 8
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "etymology",
+                    "position": 9
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Location",
+            "data": "East-Central Africa; south of Sudan, north of Uganda and Kenya, west of Ethiopia",
+            "subfields": [
+              {
+                "label": "Location",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "276",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Location",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Map references",
+            "data": "Africa",
+            "subfields": [
+              {
+                "label": "Map references",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "278",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Map references",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Irrigated land",
+            "data": "1,000 sq km (2012)",
+            "subfields": [
+              {
+                "label": "Irrigated land",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "289",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Irrigated land",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Diplomatic representation in the US",
+            "data": "<strong>chief of mission:</strong> Ambassador Santino Fardol Watod DICKEN (since 18 September 2024)<br><br><strong>chancery:</strong> 1015 31st Street NW, Suite 300, Washington, DC 20007<br><br><strong>telephone:</strong> [1] (202) 600-2238<br><br><strong>FAX:</strong> [1] (202) 644-9910<br><br><strong>email address and website:</strong> <br />info.ssdembassy@gmail.com<br /><br /><a href=\"https://www.ssembassydc.org/\">https://www.ssembassydc.org/</a>",
+            "subfields": [
+              {
+                "label": "email address and website",
+                "ranking": null
+              },
+              {
+                "label": "honorary consulate(s)",
+                "ranking": null
+              },
+              {
+                "label": "embassy",
+                "ranking": null
+              },
+              {
+                "label": "consulate(s)",
+                "ranking": null
+              },
+              {
+                "label": "consulate(s) general",
+                "ranking": null
+              },
+              {
+                "label": "FAX",
+                "ranking": null
+              },
+              {
+                "label": "telephone",
+                "ranking": null
+              },
+              {
+                "label": "chancery",
+                "ranking": null
+              },
+              {
+                "label": "chief of mission",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "318",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "chief of mission",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "chancery",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "telephone",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "FAX",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "email address and website",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "consulate(s) general",
+                    "position": 6
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "consulate(s)",
+                    "position": 7
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "trade office(s)",
+                    "position": 8
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "representative office",
+                    "position": 9
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "embassy",
+                    "position": 10
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "commissioner",
+                    "position": 11
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "office",
+                    "position": 12
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "HKETO offices",
+                    "position": 13
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "honorary consulate(s)",
+                    "position": 14
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "representative",
+                    "position": 15
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Taipei Economic and Cultural Offices (branch offices)",
+                    "position": 16
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Internet country code",
+            "data": ".ss",
+            "subfields": [
+              {
+                "label": "Internet country code",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "202",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Internet country code",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Refugees and internally displaced persons",
+            "data": "<strong>refugees:</strong> 517,471 (2024 est.)<br><br><strong>IDPs:</strong> 1,359,795 (2024 est.)<br><br><strong>stateless persons:</strong> 18,000 (2024 est.)",
+            "subfields": [
+              {
+                "label": "stateless persons",
+                "ranking": null
+              },
+              {
+                "label": "IDPs",
+                "ranking": null
+              },
+              {
+                "label": "refugees",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "327",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "refugees",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "IDPs",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "stateless persons",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "GDP (official exchange rate)",
+            "data": "$4.629 billion (2023 est.)<br><br><b>note:</b> data in current dollars at official exchange rate",
+            "subfields": [
+              {
+                "label": "GDP (official exchange rate)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "209",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "GDP (official exchange rate)",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Trafficking in persons",
+            "data": "<strong>tier rating:</strong> Tier 3 &mdash; South Sudan does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, South Sudan remained on Tier 3; for more details, go to: <a href=\"https://www.state.gov/reports/2025-trafficking-in-persons-report/south-sudan/\">https://www.state.gov/reports/2025-trafficking-in-persons-report/south-sudan/</a>",
+            "subfields": [
+              {
+                "label": "tier rating",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "328",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "tier rating",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Urbanization",
+            "data": "<strong>urban population:</strong> 21.2% of total population (2023)<br><br><strong>rate of urbanization:</strong> 4.12% annual rate of change (2020-25 est.)",
+            "subfields": [
+              {
+                "label": "urban population",
+                "ranking": null
+              },
+              {
+                "label": "rate of urbanization",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "349",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "urban population",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "rate of urbanization",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Broadcast media",
+            "data": "1 state-controlled TV channel and radio station; several community and commercial FM stations, mostly sponsored by outside aid donors; some foreign radio broadcasts available (2019)",
+            "subfields": [
+              {
+                "label": "Broadcast media",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "199",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Broadcast media",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Drinking water source",
+            "data": "<strong>improved:</strong><br><br>urban: 70% of population (2022 est.)<br><br>rural: 33.6% of population (2022 est.)<br><br>total: 41.2% of population (2022 est.)<br><br><strong>unimproved:</strong><br><br>urban: 30% of population (2022 est.)<br><br>rural: 66.4% of population (2022 est.)<br><br>total: 58.8% of population (2022 est.)",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": null
+              },
+              {
+                "label": "rural",
+                "ranking": null
+              },
+              {
+                "label": "urban",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": null
+              },
+              {
+                "label": "rural",
+                "ranking": null
+              },
+              {
+                "label": "urban",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "361",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "improved: urban",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "improved: rural",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "improved: total",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "unimproved: urban",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "unimproved: rural",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "unimproved: total",
+                    "position": 6
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "National anthem(s)",
+            "data": "<strong>title:</strong> \"South Sudan Oyee!\" (South Sudan, Hooray!)<br><br><strong>lyrics/music:</strong> collective/Mido SAMUEL and Juba University students&nbsp;<br><br><strong>history:</strong> adopted 2011; anthem selected in a national contest",
+            "subfields": [
+              {
+                "label": "history",
+                "ranking": null
+              },
+              {
+                "label": "history",
+                "ranking": null
+              },
+              {
+                "label": "lyrics/music",
+                "ranking": null
+              },
+              {
+                "label": "title",
+                "ranking": null
+              },
+              {
+                "label": "history",
+                "ranking": null
+              },
+              {
+                "label": "lyrics/music",
+                "ranking": null
+              },
+              {
+                "label": "title",
+                "ranking": null
+              },
+              {
+                "label": "lyrics/music",
+                "ranking": null
+              },
+              {
+                "label": "title",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "322",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "title",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "lyrics/music",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "history",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "title",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "lyrics/music",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "history",
+                    "position": 6
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "title",
+                    "position": 7
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "lyrics/music",
+                    "position": 8
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "history",
+                    "position": 9
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Major urban areas - population",
+            "data": "459,000 JUBA (capital) (2023)",
+            "subfields": [
+              {
+                "label": "Major urban areas - population",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "350",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Major urban areas - population",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "National symbol(s)",
+            "data": "African fish eagle",
+            "subfields": [
+              {
+                "label": "National symbol(s)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "321",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "National symbol(s)",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Dependency ratios",
+            "data": "<strong>total dependency ratio:</strong> 80.8 (2024 est.)<br><br><strong>youth dependency ratio:</strong> 76.1 (2024 est.)<br><br><strong>elderly dependency ratio:</strong> 4.7 (2024 est.)<br><br><strong>potential support ratio:</strong> 21.1 (2024 est.)",
+            "subfields": [
+              {
+                "label": "potential support ratio",
+                "ranking": null
+              },
+              {
+                "label": "elderly dependency ratio",
+                "ranking": null
+              },
+              {
+                "label": "youth dependency ratio",
+                "ranking": null
+              },
+              {
+                "label": "total dependency ratio",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "342",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "total dependency ratio",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "youth dependency ratio",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "elderly dependency ratio",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "potential support ratio",
+                    "position": 4
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Citizenship",
+            "data": "<strong>citizenship by birth:</strong> no<br><br><strong>citizenship by descent only:</strong> at least one parent must be a citizen of South Sudan<br><br><strong>dual citizenship recognized:</strong> yes<br><br><strong>residency requirement for naturalization:</strong> 10 years",
+            "subfields": [
+              {
+                "label": "residency requirement for naturalization",
+                "ranking": null
+              },
+              {
+                "label": "dual citizenship recognized",
+                "ranking": null
+              },
+              {
+                "label": "citizenship by descent only",
+                "ranking": null
+              },
+              {
+                "label": "citizenship by birth",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "310",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "citizenship by birth",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "citizenship by descent only",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "dual citizenship recognized",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "residency requirement for naturalization",
+                    "position": 4
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Population distribution",
+            "data": "clusters found in urban areas, particularly in the western interior and around the White Nile, as shown in this <a href=\"SOUTH_SUDAN_Population_density.jpg\" target=\"_blank\" rel=\"noopener\">population distribution map</a>",
+            "subfields": [
+              {
+                "label": "Population distribution",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "348",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Population distribution",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Electricity access",
+            "data": "<strong>electrification - total population:</strong> 8.4% (2022 est.)<br><br><strong>electrification - urban areas:</strong> 15%<br><br><strong>electrification - rural areas:</strong> 1.7%",
+            "subfields": [
+              {
+                "label": "electrification - total population",
+                "ranking": null
+              },
+              {
+                "label": "electrification - rural areas",
+                "ranking": null
+              },
+              {
+                "label": "electrification - urban areas",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "251",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "electrification - total population",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "electrification - urban areas",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "electrification - rural areas",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Civil aircraft registration country code prefix",
+            "data": "Z8",
+            "subfields": [
+              {
+                "label": "Civil aircraft registration country code prefix",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "378",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Civil aircraft registration country code prefix",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Sanitation facility access",
+            "data": "<strong>improved:</strong><br><br>urban: 60.6% of population (2022 est.)<br><br>rural: 15.5% of population (2022 est.)<br><br>total: 24.9% of population (2022 est.)<br><br><strong>unimproved:</strong><br><br>urban: 39.4% of population (2022 est.)<br><br>rural: 84.5% of population (2022 est.)<br><br>total: 75.1% of population (2022 est.)",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": null
+              },
+              {
+                "label": "rural",
+                "ranking": null
+              },
+              {
+                "label": "urban",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": null
+              },
+              {
+                "label": "rural",
+                "ranking": null
+              },
+              {
+                "label": "urban",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "398",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "improved: urban",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "improved: rural",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "improved: total",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "unimproved: urban",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "unimproved: rural",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "unimproved: total",
+                    "position": 6
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Ethnic groups",
+            "data": "Dinka (Jieng) approximately 35-40%, Nuer (Naath) approximately 15%, Shilluk (Chollo), Azande, Bari, Kakwa, Kuku, Murle, Mandari, Didinga, Ndogo, Bviri, Lndi, Anuak, Bongo, Lango, Dungotona, Acholi, Baka, Fertit (2011 est.)<br><br><strong>note: </strong>Figures are estimations due to population changes during South Sudan's civil war and the lack of updated demographic studies",
+            "subfields": [
+              {
+                "label": "Ethnic groups",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "400",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Ethnic groups",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Religions",
+            "data": "Christian 60.5%, folk religion 32.9%, Muslim 6.2%, other &lt;1%, unaffiliated &lt;1% (2020 est.)",
+            "subfields": [
+              {
+                "label": "Religions",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "401",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Religions",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Languages",
+            "data": "English (official), Arabic (includes Juba and Sudanese variants), ethnic languages include Dinka, Nuer, Bari, Zande, Shilluk<br><br><strong>major-language sample(s):</strong> <br />The World Factbook, the indispensable source for basic information. (English)<br /><br />كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)",
+            "subfields": [
+              {
+                "label": "major-language sample(s)",
+                "ranking": null
+              },
+              {
+                "label": "Languages",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "402",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Languages",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "major-language sample(s)",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": [
+              {
+                "type": "audio",
+                "label": "Arabic audio sample",
+                "altText": "Arabic audio sample",
+                "caption": "Arabic audio sample",
+                "localFile": {
+                  "publicURL": "/the-world-factbook/static/75d33021878a03953bb0cfe236a612e9/Arabic.mp3",
+                  "childImageSharp": null
+                }
+              }
+            ]
+          },
+          {
+            "name": "Environmental issues",
+            "data": "water pollution; inadequate supplies of potable water; wildlife conservation and loss of biodiversity; deforestation; soil erosion; desertification; drought",
+            "subfields": [
+              {
+                "label": "Environmental issues",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "293",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Environmental issues",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Elevation",
+            "data": "<strong>highest point:</strong> Kinyeti 3,187 m<br><br><strong>lowest point:</strong> White Nile 381 m",
+            "subfields": [
+              {
+                "label": "highest point",
+                "ranking": null
+              },
+              {
+                "label": "lowest point",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "407",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "highest point",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "lowest point",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "mean elevation",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "mean depth",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "ocean zones",
+                    "position": 5
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Physician density",
+            "data": "0.04 physicians/1,000 population (2022)",
+            "subfields": [
+              {
+                "label": "total physician density",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "359",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "total physician density",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Health expenditure",
+            "data": "5.9% of GDP (2021)<br><br>2.1% of national budget (2022 est.)",
+            "subfields": [
+              {
+                "label": "Health expenditure (as % of national budget)",
+                "ranking": null
+              },
+              {
+                "label": "Health expenditure (as % of GDP)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "409",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Health expenditure (as % of GDP)",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Health expenditure (as % of national budget)",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Military - note",
+            "data": "the South Sudan People's Defense Forces (SSPDF) are largely focused on border and internal security; areas of concern include disputed national borders, conflict spillover from neighboring Sudan, banditry, and armed rebel groups and militias that continue to operate in the country since the civil war ended in 2020<br /><br />the SSPDF, formerly the Sudan People&rsquo;s Liberation Army (SPLA), was founded as a guerrilla movement against the Sudanese Government in 1983 and participated in the Second Sudanese Civil War (1983-2005); the Juba Declaration that followed the Comprehensive Peace Agreement of 2005 unified the SPLA and the South Sudan Defense Forces (SSDF), the second-largest rebel militia remaining from the civil war, under the SPLA name; in 2017, the SPLA was renamed the South Sudan Defense Forces (SSDF) and in September 2018 was renamed again as the SSPDF<br /><br />the UN Mission in South Sudan (UNMISS) has operated in the country since 2011 with the objectives of consolidating peace and security and helping establish conditions for the successful economic and political development of South Sudan; UNMISS has about 18,000 personnel assigned; the UN Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; its mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; UNISFA has approximately 3,800 personnel assigned (2025)",
+            "subfields": [
+              {
+                "label": "Military - note",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "332",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Military - note",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Military and security service personnel strengths",
+            "data": "information varies; estimated 150-200,000 active Defense Forces (2025)<br><br><strong>note: </strong>some active SSPDF personnel may be militia; the National/Necessary Unified Forces (NUF) were expected to have up to 80,000 personnel when training and integration is completed; the first batch of approximately 20,000 NUF personnel completed training in late 2022",
+            "subfields": [
+              {
+                "label": "Military and security forces personnel strengths",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "410",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Military and security forces personnel strengths",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Military equipment inventories and acquisitions",
+            "data": "the SSPDF inventory is comprised primarily of Soviet-era equipment; South Sudan has been under a UN arms embargo since 2018 (2024)",
+            "subfields": [
+              {
+                "label": "Military equipment inventories and acquisitions",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "411",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Military equipment inventories and acquisitions",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Internet users",
+            "data": "<strong>percent of population:</strong> 9% (2022 est.)",
+            "subfields": [
+              {
+                "label": "percent of population",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "204",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "percent of population",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Total water withdrawal",
+            "data": "<strong>municipal:</strong> 193 million cubic meters (2022 est.)<br><br><strong>industrial:</strong> 225 million cubic meters (2022 est.)<br><br><strong>agricultural:</strong> 240 million cubic meters (2022 est.)",
+            "subfields": [
+              {
+                "label": "agricultural",
+                "ranking": null
+              },
+              {
+                "label": "industrial",
+                "ranking": null
+              },
+              {
+                "label": "municipal",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "417",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "municipal",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "industrial",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "agricultural",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Total renewable water resources",
+            "data": "49.5 billion cubic meters (2022 est.)",
+            "subfields": [
+              {
+                "label": "Total renewable water sources",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "290",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Total renewable water sources",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Imports - partners",
+            "data": "Uganda 33%, UAE 26%, Kenya 14%, China 10%, USA 3% (2023)<br><br><b>note:</b> top five import partners based on percentage share of imports",
+            "subfields": [
+              {
+                "label": "Imports - partners",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "403",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Imports - partners",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Imports - commodities",
+            "data": "garments, cement, other foods, iron bars, cereal flours (2023)<br><br><b>note:</b> top five import commodities based on value in dollars",
+            "subfields": [
+              {
+                "label": "Imports - commodities",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "243",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Imports - commodities",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Exports - partners",
+            "data": "China 51%, Singapore 29%, UAE 10%, Germany 4%, Uganda 3% (2023)<br><br><b>note:</b> top five export partners based on percentage share of exports",
+            "subfields": [
+              {
+                "label": "Exports - partners",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "241",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Exports - partners",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Exports - commodities",
+            "data": "crude petroleum, refined petroleum, forage crops, gold, scrap iron (2023)<br><br><b>note:</b> top five export commodities based on value in dollars",
+            "subfields": [
+              {
+                "label": "Exports - commodities",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "240",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Exports - commodities",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Waste and recycling",
+            "data": "<strong>municipal solid waste generated annually:</strong> 2.681 million tons (2024 est.)",
+            "subfields": [
+              {
+                "label": "municipal solid waste generated annually",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "422",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "municipal solid waste generated annually",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "percent of municipal solid waste recycled",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "International environmental agreements",
+            "data": "<strong>party to:</strong> Biodiversity, Climate Change, Climate Change-Paris Agreement, Desertification, Ozone Layer Protection, Wetlands<br><br><strong>signed, but not ratified:</strong> none of the selected agreements",
+            "subfields": [
+              {
+                "label": "signed, but not ratified",
+                "ranking": null
+              },
+              {
+                "label": "party to",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "294",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "party to",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "signed, but not ratified",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Major watersheds (area sq km)",
+            "data": "<strong>Atlantic Ocean drainage:</strong> Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)",
+            "subfields": [
+              {
+                "label": "Internal (endorheic basin) drainage",
+                "ranking": null
+              },
+              {
+                "label": "Pacific Ocean drainage",
+                "ranking": null
+              },
+              {
+                "label": "Indian Ocean drainage",
+                "ranking": null
+              },
+              {
+                "label": "Atlantic Ocean drainage",
+                "ranking": null
+              },
+              {
+                "label": "Arctic Ocean drainage",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "429",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Arctic Ocean drainage",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Atlantic Ocean drainage",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Indian Ocean drainage",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Pacific Ocean drainage",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Internal (endorheic basin) drainage",
+                    "position": 5
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Major rivers (by length in km)",
+            "data": "Nile (shared with Rwanda [s], Tanzania, Uganda, Sudan, and Egypt [m]) - 6,650 km<br /><br /><strong>note:</strong>&nbsp;[s] after country name indicates river source; [m] after country name indicates river mouth",
+            "subfields": [],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "428",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": []
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Coal",
+            "data": "<strong>imports:</strong> 100 metric tons (2022 est.)",
+            "subfields": [
+              {
+                "label": "imports",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "437",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "production",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "consumption",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "exports",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "imports",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "proven reserves",
+                    "position": 5
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Electricity generation sources",
+            "data": "<strong>fossil fuels:</strong> 93.2% of total installed capacity (2023 est.)<br><br><strong>solar:</strong> 6.8% of total installed capacity (2023 est.)",
+            "subfields": [
+              {
+                "label": "solar",
+                "ranking": null
+              },
+              {
+                "label": "fossil fuels",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "436",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "fossil fuels",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "nuclear",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "solar",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "wind",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "hydroelectricity",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "tide and wave",
+                    "position": 6
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "geothermal",
+                    "position": 7
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "biomass and waste",
+                    "position": 8
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Petroleum",
+            "data": "<strong>total petroleum production:</strong> 146,000 bbl/day (2023 est.)<br><br><strong>refined petroleum consumption:</strong> 11,000 bbl/day (2023 est.)<br><br><strong>crude oil estimated reserves:</strong> 3.75 billion barrels (2021 est.)",
+            "subfields": [
+              {
+                "label": "refined petroleum consumption",
+                "ranking": null
+              },
+              {
+                "label": "total petroleum production",
+                "ranking": null
+              },
+              {
+                "label": "crude oil estimated reserves",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "438",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "total petroleum production",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "refined petroleum consumption",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "crude oil estimated reserves",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Gross reproduction rate",
+            "data": "2.48 (2024 est.)",
+            "subfields": [
+              {
+                "label": "Gross reproduction rate",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "448",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Gross reproduction rate",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Currently married women (ages 15-49)",
+            "data": "72% (2023 est.)",
+            "subfields": [
+              {
+                "label": "Currently married women (ages 15-49)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "447",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Currently married women (ages 15-49)",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Remittances",
+            "data": "9.5% of GDP (2015 est.)<br>0% of GDP (2014 est.)<br>0% of GDP (2013 est.)<br><br><strong>note:</strong> personal transfers and compensation between resident and non-resident individuals/households/entities",
+            "subfields": [
+              {
+                "label": "Remittances 2015",
+                "ranking": null
+              },
+              {
+                "label": "Remittances 2014",
+                "ranking": null
+              },
+              {
+                "label": "Remittances 2013",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "449",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Remittances",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Household income or consumption by percentage share",
+            "data": "<strong>lowest 10%:</strong> 1.8% (2016 est.)<br><br><strong>highest 10%:</strong> 33% (2016 est.)<br><br><strong>note:</strong>&nbsp;% share of income accruing to lowest and highest 10% of population",
+            "subfields": [
+              {
+                "label": "highest 10%",
+                "ranking": null
+              },
+              {
+                "label": "lowest 10%",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "222",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "lowest 10%",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "highest 10%",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Legislative branch - lower chamber",
+            "data": "<strong>chamber name:</strong> Transitional National Legislative Assembly (Al-Majlis Al-Tachirii)<br><br><strong>number of seats:</strong> 550 (all appointed)<br><br><strong>scope of elections:</strong> full renewal<br><br><strong>most recent election date:</strong> 5/10/2021<br><br><strong>percentage of women in chamber:</strong> 32.4%<br><br><strong>expected date of next election:</strong> December 2026",
+            "subfields": [
+              {
+                "label": "parties elected and seats per party",
+                "ranking": null
+              },
+              {
+                "label": "electoral system",
+                "ranking": null
+              },
+              {
+                "label": "expected date of next election",
+                "ranking": null
+              },
+              {
+                "label": "percentage of women in chamber",
+                "ranking": null
+              },
+              {
+                "label": "most recent election date",
+                "ranking": null
+              },
+              {
+                "label": "scope of elections",
+                "ranking": null
+              },
+              {
+                "label": "number of seats",
+                "ranking": null
+              },
+              {
+                "label": "chamber name",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "466",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "chamber name",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "number of seats",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "electoral system",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "scope of elections",
+                    "position": 6
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "term in office",
+                    "position": 7
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "most recent election date",
+                    "position": 8
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "parties elected and seats per party",
+                    "position": 9
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "percentage of women in chamber",
+                    "position": 10
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "expected date of next election",
+                    "position": 11
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Legislative branch - upper chamber",
+            "data": "<strong>chamber name:</strong> Council of States (Al-Watani)<br><br><strong>number of seats:</strong> 100 (all appointed)<br><br><strong>scope of elections:</strong> full renewal<br><br><strong>most recent election date:</strong> 8/2/2021<br><br><strong>percentage of women in chamber:</strong> 32.1%<br><br><strong>expected date of next election:</strong> December 2026",
+            "subfields": [
+              {
+                "label": "parties elected and seats per party",
+                "ranking": null
+              },
+              {
+                "label": "electoral system",
+                "ranking": null
+              },
+              {
+                "label": "expected date of next election",
+                "ranking": null
+              },
+              {
+                "label": "percentage of women in chamber",
+                "ranking": null
+              },
+              {
+                "label": "most recent election date",
+                "ranking": null
+              },
+              {
+                "label": "scope of elections",
+                "ranking": null
+              },
+              {
+                "label": "number of seats",
+                "ranking": null
+              },
+              {
+                "label": "chamber name",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "467",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "chamber name",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "number of seats",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "electoral system",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "scope of elections",
+                    "position": 6
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "term in office",
+                    "position": 7
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "most recent election date",
+                    "position": 8
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "parties elected and seats per party",
+                    "position": 9
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "percentage of women in chamber",
+                    "position": 10
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "expected date of next election",
+                    "position": 11
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "National color(s)",
+            "data": "red, green, blue, yellow, black, white",
+            "subfields": [
+              {
+                "label": "National color(s)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "470",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "National color(s)",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Particulate matter emissions",
+            "data": "20.6  micrograms per cubic meter (2019 est.)",
+            "subfields": [
+              {
+                "label": "particulate matter emissions",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "472",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "particulate matter emissions",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Methane emissions",
+            "data": "<strong>energy:</strong> 59.4 kt (2022-2024 est.)<br><br><strong>agriculture:</strong> 696 kt (2019-2021 est.)<br><br><strong>waste:</strong> 120.2 kt (2019-2021 est.)<br><br><strong>other:</strong> 12.7 kt (2019-2021 est.)",
+            "subfields": [
+              {
+                "label": "energy",
+                "ranking": null
+              },
+              {
+                "label": "other",
+                "ranking": null
+              },
+              {
+                "label": "waste",
+                "ranking": null
+              },
+              {
+                "label": "agriculture",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "473",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "energy",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "agriculture",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "waste",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "other",
+                    "position": 4
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Labor force",
+            "data": "5.091 million (2023 est.)<br><br><b>note:</b> number of people ages 15 or older who are employed or seeking work",
+            "subfields": [
+              {
+                "label": "Labor force",
+                "ranking": 85
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "218",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Labor force",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Youth unemployment rate (ages 15-24)",
+            "data": "<strong>total:</strong> 18.5% (2023 est.)<br><br><strong>male:</strong> 19.4% (2023 est.)<br><br><strong>female:</strong> 17.6% (2023 est.)<br><br><b>note:</b> % of labor force ages 15-24 seeking employment",
+            "subfields": [
+              {
+                "label": "female",
+                "ranking": null
+              },
+              {
+                "label": "male",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": 60
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "373",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "male",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "female",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Net migration rate",
+            "data": "19.1 migrant(s)/1,000 population (2024 est.)",
+            "subfields": [
+              {
+                "label": "total net migration rate",
+                "ranking": 2
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "347",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total net migration rate",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Median age",
+            "data": "<strong>total:</strong> 18.7 years (2024 est.)<br><br><strong>male:</strong> 18.7 years<br><br><strong>female:</strong> 18.7 years",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": 217
+              },
+              {
+                "label": "female",
+                "ranking": null
+              },
+              {
+                "label": "male",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "343",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "male",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "female",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Maternal mortality ratio",
+            "data": "692 deaths/100,000 live births (2023 est.)",
+            "subfields": [
+              {
+                "label": "total maternal mortality ratio",
+                "ranking": 3
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "353",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total maternal mortality ratio",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Reserves of foreign exchange and gold",
+            "data": "$72.881 million (2023 est.)<br>$94.914 million (2022 est.)<br>$341.932 million (2021 est.)<br><br><b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars",
+            "subfields": [
+              {
+                "label": "Reserves of foreign exchange and gold 2023",
+                "ranking": 177
+              },
+              {
+                "label": "Reserves of foreign exchange and gold 2022",
+                "ranking": null
+              },
+              {
+                "label": "Reserves of foreign exchange and gold 2021",
+                "ranking": null
+              },
+              {
+                "label": "Reserves of foreign exchange and gold 2020",
+                "ranking": null
+              },
+              {
+                "label": "Reserves of foreign exchange and gold 2019",
+                "ranking": null
+              },
+              {
+                "label": "Reserves of foreign exchange and gold 2018",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "245",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Reserves of foreign exchange and gold",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Total fertility rate",
+            "data": "5.09 children born/woman (2024 est.)",
+            "subfields": [
+              {
+                "label": "total fertility rate",
+                "ranking": 9
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "356",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total fertility rate",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Unemployment rate",
+            "data": "12.5% (2023 est.)<br>12.6% (2022 est.)<br>14.1% (2021 est.)<br><br><b>note:</b> % of labor force seeking employment",
+            "subfields": [
+              {
+                "label": "Unemployment rate 2023",
+                "ranking": 166
+              },
+              {
+                "label": "Unemployment rate 2022",
+                "ranking": null
+              },
+              {
+                "label": "Unemployment rate 2021",
+                "ranking": null
+              },
+              {
+                "label": "Unemployment rate 2020",
+                "ranking": null
+              },
+              {
+                "label": "Unemployment rate 2019",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "220",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Unemployment rate",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Population",
+            "data": "<strong>total:</strong> 12,703,714 (2024 est.)<br><br><strong>male:</strong> 6,476,341<br><br><strong>female:</strong> 6,227,373",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": 79
+              },
+              {
+                "label": "female",
+                "ranking": 79
+              },
+              {
+                "label": "male",
+                "ranking": 80
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "335",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "male",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "female",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Carbon dioxide emissions",
+            "data": "1.725 million metric tonnes of CO2 (2023 est.)<br><br><strong>from petroleum and other liquids:</strong> 1.725 million metric tonnes of CO2 (2023 est.)",
+            "subfields": [
+              {
+                "label": "from petroleum and other liquids",
+                "ranking": null
+              },
+              {
+                "label": "total emissions",
+                "ranking": 162
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "274",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total emissions",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "from coal and metallurgical coke",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "from petroleum and other liquids",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "from consumed natural gas",
+                    "position": 4
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Area",
+            "data": "<strong>total :</strong> 644,329 sq km<br><br><strong>land:</strong> NA<br><br><strong>water:</strong> NA",
+            "subfields": [
+              {
+                "label": "water",
+                "ranking": null
+              },
+              {
+                "label": "land",
+                "ranking": null
+              },
+              {
+                "label": "total ",
+                "ranking": 44
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "279",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total ",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "land",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "water",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "rank by area (sq km)",
+                    "position": 4
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Real GDP (purchasing power parity)",
+            "data": "$6.752 billion (2023 est.)<br>$6.585 billion (2022 est.)<br>$6.945 billion (2021 est.)<br><br><strong>note:</strong> data in 2015 dollars",
+            "subfields": [
+              {
+                "label": "Real GDP (purchasing power parity) 2023",
+                "ranking": 173
+              },
+              {
+                "label": "Real GDP (purchasing power parity) 2022",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP (purchasing power parity) 2021",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP (purchasing power parity) 2017",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP (purchasing power parity) 2016",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP (purchasing power parity) 2015",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "208",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Real GDP (purchasing power parity)",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Airports",
+            "data": "89 (2025)",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": 62
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "379",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Infant mortality rate",
+            "data": "<strong>total:</strong> 60.1 deaths/1,000 live births (2024 est.)<br><br><strong>male:</strong> 65.8 deaths/1,000 live births<br><br><strong>female:</strong> 54.1 deaths/1,000 live births",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": 8
+              },
+              {
+                "label": "female",
+                "ranking": null
+              },
+              {
+                "label": "male",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "354",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "male",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "female",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Telephones - mobile cellular",
+            "data": "<strong>total subscriptions:</strong> 6.17 million (2023 est.)<br><br><strong>subscriptions per 100 inhabitants:</strong> 30 (2022 est.)",
+            "subfields": [
+              {
+                "label": "total subscriptions",
+                "ranking": 118
+              },
+              {
+                "label": "subscriptions per 100 inhabitants",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "197",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total subscriptions",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "subscriptions per 100 inhabitants",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Gini Index coefficient - distribution of family income",
+            "data": "44 (2016 est.)<br><br><b>note:</b> index (0-100) of income distribution; higher values represent greater inequality",
+            "subfields": [
+              {
+                "label": "Gini Index coefficient - distribution of family income 2016",
+                "ranking": 22
+              },
+              {
+                "label": "Gini Index coefficient - distribution of family income 2010",
+                "ranking": null
+              },
+              {
+                "label": "Gini Index coefficient - distribution of family income 2009",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "223",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Gini Index coefficient - distribution of family income",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Inflation rate (consumer prices)",
+            "data": "91.4% (2024 est.)<br>2.4% (2023 est.)<br>-6.7% (2022 est.)<br><br><b>note:</b> annual % change based on consumer prices",
+            "subfields": [
+              {
+                "label": "Inflation rate (consumer prices) 2024",
+                "ranking": 209
+              },
+              {
+                "label": "Inflation rate (consumer prices) 2023",
+                "ranking": null
+              },
+              {
+                "label": "Inflation rate (consumer prices) 2022",
+                "ranking": null
+              },
+              {
+                "label": "Inflation rate (consumer prices) 2021",
+                "ranking": null
+              },
+              {
+                "label": "Inflation rate (consumer prices) 2020",
+                "ranking": null
+              },
+              {
+                "label": "Inflation rate (consumer prices) 2019",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "229",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Inflation rate (consumer prices)",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Current account balance",
+            "data": "$577.9 million (2023 est.)<br>-$596.748 million (2022 est.)<br>-$6.55 million (2021 est.)<br><br><b>note:</b> balance of payments - net trade and primary/secondary income in current dollars",
+            "subfields": [
+              {
+                "label": "Current account balance 2023",
+                "ranking": 64
+              },
+              {
+                "label": "Current account balance 2022",
+                "ranking": null
+              },
+              {
+                "label": "Current account balance 2021",
+                "ranking": null
+              },
+              {
+                "label": "Current account balance 2020",
+                "ranking": null
+              },
+              {
+                "label": "Current account balance 2019",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "238",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Current account balance",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Real GDP per capita",
+            "data": "$400 (2023 est.)<br>$400 (2022 est.)<br>$400 (2021 est.)<br><br><strong>note:</strong> data in 2015 dollars",
+            "subfields": [
+              {
+                "label": "Real GDP per capita 2023",
+                "ranking": 218
+              },
+              {
+                "label": "Real GDP per capita 2022",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP per capita 2021",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP per capita 2017",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP per capita 2016",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP per capita 2015",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "211",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Real GDP per capita",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Broadband - fixed subscriptions",
+            "data": "<strong>total:</strong> 0 (2023 est.)<br><br><strong>subscriptions per 100 inhabitants:</strong> (2023 est.) less than 1",
+            "subfields": [
+              {
+                "label": "subscriptions per 100 inhabitants",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": 215
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "206",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "subscriptions per 100 inhabitants",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Obesity - adult prevalence rate",
+            "data": "6.6% (2014)",
+            "subfields": [
+              {
+                "label": "prevalence rate",
+                "ranking": 166
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "367",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "prevalence rate",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Energy consumption per capita",
+            "data": "2.092 million Btu/person (2023 est.)",
+            "subfields": [
+              {
+                "label": "Total energy consumption per capita 2023",
+                "ranking": 185
+              },
+              {
+                "label": "Total energy consumption per capita 2022",
+                "ranking": null
+              },
+              {
+                "label": "Total energy consumption per capita 2019",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "441",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Total energy consumption per capita",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Death rate",
+            "data": "8.9 deaths/1,000 population (2024 est.)",
+            "subfields": [
+              {
+                "label": "total population death rate",
+                "ranking": 65
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "346",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total population death rate",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Birth rate",
+            "data": "36.4 births/1,000 population (2024 est.)",
+            "subfields": [
+              {
+                "label": "total population birth rate",
+                "ranking": 10
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "345",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total population birth rate",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Electricity",
+            "data": "<strong>installed generating capacity:</strong> 136,000 kW (2023 est.)<br><br><strong>consumption:</strong> 566.034 million kWh (2023 est.)<br><br><strong>transmission/distribution losses:</strong> 23.966 million kWh (2023 est.)",
+            "subfields": [
+              {
+                "label": "transmission/distribution losses",
+                "ranking": 27
+              },
+              {
+                "label": "consumption",
+                "ranking": 174
+              },
+              {
+                "label": "installed generating capacity",
+                "ranking": 184
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "435",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "installed generating capacity",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "consumption",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "exports",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "imports",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "transmission/distribution losses",
+                    "position": 5
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Imports",
+            "data": "$4.443 billion (2023 est.)<br>$6.402 billion (2022 est.)<br>$4.037 billion (2021 est.)<br><br><b>note:</b> balance of payments - imports of goods and services in current dollars",
+            "subfields": [
+              {
+                "label": "Imports 2023",
+                "ranking": 155
+              },
+              {
+                "label": "Imports 2022",
+                "ranking": null
+              },
+              {
+                "label": "Imports 2021",
+                "ranking": null
+              },
+              {
+                "label": "Imports 2020",
+                "ranking": null
+              },
+              {
+                "label": "Imports 2019",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "242",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Imports",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Exports",
+            "data": "$4.499 billion (2023 est.)<br>$5.811 billion (2022 est.)<br>$4.652 billion (2021 est.)<br><br><b>note:</b> balance of payments - exports of goods and services in current dollars",
+            "subfields": [
+              {
+                "label": "Exports 2023",
+                "ranking": 144
+              },
+              {
+                "label": "Exports 2022",
+                "ranking": null
+              },
+              {
+                "label": "Exports 2021",
+                "ranking": null
+              },
+              {
+                "label": "Exports 2020",
+                "ranking": null
+              },
+              {
+                "label": "Exports 2019",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "239",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Exports",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Heliports",
+            "data": "2 (2025)",
+            "subfields": [
+              {
+                "label": "Heliports",
+                "ranking": 129
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "382",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Heliports",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Telephones - fixed lines",
+            "data": "<strong>total subscriptions:</strong> 0 (2023 est.)<br><br><strong>subscriptions per 100 inhabitants:</strong> (2023 est.) less than 1",
+            "subfields": [
+              {
+                "label": "subscriptions per 100 inhabitants",
+                "ranking": null
+              },
+              {
+                "label": "total subscriptions",
+                "ranking": 225
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "196",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total subscriptions",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "subscriptions per 100 inhabitants",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Life expectancy at birth",
+            "data": "<strong>total population:</strong> 60.3 years (2024 est.)<br><br><strong>male:</strong> 58.4 years<br><br><strong>female:</strong> 62.2 years",
+            "subfields": [
+              {
+                "label": "total population",
+                "ranking": 220
+              },
+              {
+                "label": "female",
+                "ranking": null
+              },
+              {
+                "label": "male",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "355",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total population",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "male",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "female",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Real GDP growth rate",
+            "data": "-5.2% (2017 est.)<br>-13.9% (2016 est.)<br>-10.8% (2015 est.)<br><br><b>note:</b> annual GDP % growth based on constant local currency",
+            "subfields": [
+              {
+                "label": "Real GDP growth rate 2017",
+                "ranking": 213
+              },
+              {
+                "label": "Real GDP growth rate 2016",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP growth rate 2015",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP growth rate 2014",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP growth rate 2013",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "210",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Real GDP growth rate",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Industrial production growth rate",
+            "data": "-36.8% (2015 est.)<br><br><b>note:</b> annual % change in industrial value added based on constant local currency",
+            "subfields": [
+              {
+                "label": "Industrial production growth rate",
+                "ranking": 196
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "217",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Industrial production growth rate",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "GDP - composition, by sector of origin",
+            "data": "<strong>agriculture:</strong> 10.4% (2015 est.)<br><br><strong>industry:</strong> 33.1% (2015 est.)<br><br><strong>services:</strong> 56.6% (2015 est.)<br><br><b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data",
+            "subfields": [
+              {
+                "label": "services",
+                "ranking": 113
+              },
+              {
+                "label": "industry",
+                "ranking": 39
+              },
+              {
+                "label": "agriculture",
+                "ranking": 71
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "214",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "agriculture",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "industry",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "services",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Population growth rate",
+            "data": "4.65% (2024 est.)",
+            "subfields": [
+              {
+                "label": "total population growth rate",
+                "ranking": 1
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "344",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total population growth rate",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Land use",
+            "data": "<strong>agricultural land:</strong> 44.9% (2023 est.)<br><br>arable land: 3.9% (2023 est.)<br><br>permanent crops: 0.1% (2023 est.)<br><br>permanent pasture: 40.8% (2023 est.)<br><br><strong>forest:</strong> 11.3% (2023 est.)<br><br><strong>other:</strong> 43.8% (2023 est.)",
+            "subfields": [
+              {
+                "label": "other",
+                "ranking": null
+              },
+              {
+                "label": "forest",
+                "ranking": null
+              },
+              {
+                "label": "permanent pasture",
+                "ranking": null
+              },
+              {
+                "label": "permanent crops",
+                "ranking": null
+              },
+              {
+                "label": "arable land",
+                "ranking": null
+              },
+              {
+                "label": "agricultural land",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "288",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "agricultural land",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "agricultural land: arable land",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "agricultural land: permanent crops",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "agricultural land: permanent pasture",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "forest",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "other",
+                    "position": 6
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Education expenditure",
+            "data": "1.6% of GDP (2016 est.)<br><br>3.3% national budget (2015 est.)",
+            "subfields": [
+              {
+                "label": "Education expenditure (% GDP)",
+                "ranking": 191
+              },
+              {
+                "label": "Education expenditure (% national budget)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "369",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Education expenditure (% GDP)",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Education expenditure (% national budget)",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          }
+        ]
+      },
+      "travelFact": {
+        "placeName": "South Sudan"
+      },
+      "rep": {
+        "seo": {
+          "metaDesc": "",
+          "title": "$title - The World Factbook",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": null
+        }
+      }
+    },
+    "pageContext": {
+      "id": "14cd6749-0ee6-5cb4-8bcf-653ee5dfd723",
+      "placeCode": "OD",
+      "uriBase": "/countries/"
+    }
+  },
+  "staticQueryHashes": [
+    "2962548448",
+    "3419350533",
+    "4121375890",
+    "4279206597",
+    "800385335"
+  ],
+  "slicesMap": {}
+}

@@ -1,0 +1,5424 @@
+{
+  "componentChunkName": "component---src-templates-country-js",
+  "path": "/countries/taiwan/",
+  "result": {
+    "data": {
+      "country": {
+        "name": "Taiwan",
+        "region": "East and Southeast Asia",
+        "locations": [
+          "place",
+          "summary"
+        ],
+        "updated": "December 05, 2025",
+        "rank": true,
+        "flag": {
+          "childImageSharp": {
+            "gatsbyImageData": {
+              "layout": "fullWidth",
+              "images": {
+                "fallback": {
+                  "src": "/the-world-factbook/static/4d4a20769d375bd7498c0105a7057255/0132d/TW-flag.jpg",
+                  "srcSet": "/the-world-factbook/static/4d4a20769d375bd7498c0105a7057255/0132d/TW-flag.jpg 400w",
+                  "sizes": "100vw"
+                },
+                "sources": [
+                  {
+                    "srcSet": "/the-world-factbook/static/4d4a20769d375bd7498c0105a7057255/47294/TW-flag.webp 400w",
+                    "type": "image/webp",
+                    "sizes": "100vw"
+                  }
+                ]
+              },
+              "width": 1,
+              "height": 0.6675
+            }
+          }
+        },
+        "map": {
+          "childImageSharp": {
+            "gatsbyImageData": {
+              "layout": "fullWidth",
+              "images": {
+                "fallback": {
+                  "src": "/the-world-factbook/static/a12037cf2e9f7db39495131b431f4177/94c48/TW-map.jpg",
+                  "srcSet": "/the-world-factbook/static/a12037cf2e9f7db39495131b431f4177/27504/TW-map.jpg 750w,\n/the-world-factbook/static/a12037cf2e9f7db39495131b431f4177/220f8/TW-map.jpg 1080w,\n/the-world-factbook/static/a12037cf2e9f7db39495131b431f4177/e84d9/TW-map.jpg 1366w,\n/the-world-factbook/static/a12037cf2e9f7db39495131b431f4177/94c48/TW-map.jpg 1920w",
+                  "sizes": "100vw"
+                },
+                "sources": [
+                  {
+                    "srcSet": "/the-world-factbook/static/a12037cf2e9f7db39495131b431f4177/b76c4/TW-map.webp 750w,\n/the-world-factbook/static/a12037cf2e9f7db39495131b431f4177/03179/TW-map.webp 1080w,\n/the-world-factbook/static/a12037cf2e9f7db39495131b431f4177/a298e/TW-map.webp 1366w,\n/the-world-factbook/static/a12037cf2e9f7db39495131b431f4177/7b1d2/TW-map.webp 1920w",
+                    "type": "image/webp",
+                    "sizes": "100vw"
+                  }
+                ]
+              },
+              "width": 1,
+              "height": 0.7515624999999999
+            }
+          }
+        },
+        "locatorMap": {
+          "childImageSharp": {
+            "gatsbyImageData": {
+              "layout": "fullWidth",
+              "images": {
+                "fallback": {
+                  "src": "/the-world-factbook/static/2095450cd356c2494da2998eb590ed7e/0a675/TW-locator-map.jpg",
+                  "srcSet": "/the-world-factbook/static/2095450cd356c2494da2998eb590ed7e/0a675/TW-locator-map.jpg 533w",
+                  "sizes": "100vw"
+                },
+                "sources": [
+                  {
+                    "srcSet": "/the-world-factbook/static/2095450cd356c2494da2998eb590ed7e/580e2/TW-locator-map.webp 533w",
+                    "type": "image/webp",
+                    "sizes": "100vw"
+                  }
+                ]
+              },
+              "width": 1,
+              "height": 0.9418386491557224
+            }
+          }
+        },
+        "images": [
+          {
+            "altText": "The National Palace Museum in Taipei, Taiwan.",
+            "caption": "The National Palace Museum in Taipei, Taiwan.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/d2291e3e17eb4923e85c43e2c2bcb67a/be79d/TW_003_large.jpg",
+                      "srcSet": "/the-world-factbook/static/d2291e3e17eb4923e85c43e2c2bcb67a/be79d/TW_003_large.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/d2291e3e17eb4923e85c43e2c2bcb67a/9a858/TW_003_large.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.75
+                }
+              }
+            }
+          },
+          {
+            "altText": "Memorial Hall in Taipei, Taiwan.",
+            "caption": "Memorial Hall in Taipei, Taiwan.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/8131229c44887f5449007d7bc6653b41/283b4/TW_001_large.jpg",
+                      "srcSet": "/the-world-factbook/static/8131229c44887f5449007d7bc6653b41/283b4/TW_001_large.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/8131229c44887f5449007d7bc6653b41/ef854/TW_001_large.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.6799999999999999
+                }
+              }
+            }
+          },
+          {
+            "altText": "The Confucius Temple is located in the Datong District of Taipei, Taiwan. The original temple, built in 1879, was rebuilt in 1930. It is modeled after the original Confucius Temple in Qufu, Shandong, China.",
+            "caption": "The Confucius Temple is located in the Datong District of Taipei, Taiwan. The original temple, built in 1879, was rebuilt in 1930. It is modeled after the original Confucius Temple in Qufu, Shandong, China.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/846e437db7bcb0eca862db2b371cb752/1e38e/Taipei_Confucius_Temple.jpg",
+                      "srcSet": "/the-world-factbook/static/846e437db7bcb0eca862db2b371cb752/1e38e/Taipei_Confucius_Temple.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/846e437db7bcb0eca862db2b371cb752/17bf5/Taipei_Confucius_Temple.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.725
+                }
+              }
+            }
+          },
+          {
+            "altText": "Tamsui Art and Cultural Park is located northwest of Taipei, Taiwan. Once a British warehouse that stored tea products, it was later bought by the Royal Dutch Shell Oil Company and expanded into four large warehouses and oil tanks. They were partially destroyed during World War II and then restored, and the warehouses today house craft shops, art display areas, and a small museum.",
+            "caption": "Tamsui Art and Cultural Park is located northwest of Taipei, Taiwan. Once a British warehouse that stored tea products, it was later bought by the Royal Dutch Shell Oil Company and expanded into four large warehouses and oil tanks. They were partially destroyed during World War II and then restored, and the warehouses today house craft shops, art display areas, and a small museum.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/b23941a0fca315c31ea3bc6be3d2c06d/15492/Tamsui_Art_and_Cultural_Park.jpg",
+                      "srcSet": "/the-world-factbook/static/b23941a0fca315c31ea3bc6be3d2c06d/15492/Tamsui_Art_and_Cultural_Park.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/b23941a0fca315c31ea3bc6be3d2c06d/a0901/Tamsui_Art_and_Cultural_Park.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.8116666666666666
+                }
+              }
+            }
+          },
+          {
+            "altText": "Yehliu Geopark is a 1,700-m (5,577-ft) cliff located off the northern coast of Taiwan. The park is home to natural sculptures in the shape of candles, mushrooms, animals, and more, created by centuries of erosion.",
+            "caption": "Yehliu Geopark is a 1,700-m (5,577-ft) cliff located off the northern coast of Taiwan. The park is home to natural sculptures in the shape of candles, mushrooms, animals, and more, created by centuries of erosion.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/2b9a68b49fcda43247aa1f68f1b6ec3e/b0dfb/Yehliu_Geopark.jpg",
+                      "srcSet": "/the-world-factbook/static/2b9a68b49fcda43247aa1f68f1b6ec3e/b0dfb/Yehliu_Geopark.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/2b9a68b49fcda43247aa1f68f1b6ec3e/e5496/Yehliu_Geopark.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.5483333333333333
+                }
+              }
+            }
+          },
+          {
+            "altText": "Fort Provintia (aka Chakan Tower) is the oldest building in Tainan, Taiwan. It was built as an outpost in 1653 during the Dutch colonization of Taiwan and destroyed by an earthquake in the 19th century. The fort was later rebuilt as a tower and eventually became the capital of the entire  island.",
+            "caption": "Fort Provintia (aka Chakan Tower) is the oldest building in Tainan, Taiwan. It was built as an outpost in 1653 during the Dutch colonization of Taiwan and destroyed by an earthquake in the 19th century. The fort was later rebuilt as a tower and eventually became the capital of the entire  island.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/ec72a7bc745881ebf55c27193121a309/ae51e/Chihkan_Tower.jpg",
+                      "srcSet": "/the-world-factbook/static/ec72a7bc745881ebf55c27193121a309/ae51e/Chihkan_Tower.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/ec72a7bc745881ebf55c27193121a309/3b66a/Chihkan_Tower.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.8383333333333334
+                }
+              }
+            }
+          },
+          {
+            "altText": "Sicao Dazhong Temple in Taiwan's Taijiang National Park honors a general of Koxinga known as Chen Tze, who defeated over 300 Dutch soldiers in one encounter and won numerous other battles during his life. The temple has been rebuilt several times, with the most recent version completed in 1987.",
+            "caption": "Sicao Dazhong Temple in Taiwan's Taijiang National Park honors a general of Koxinga known as Chen Tze, who defeated over 300 Dutch soldiers in one encounter and won numerous other battles during his life. The temple has been rebuilt several times, with the most recent version completed in 1987.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/5f9bd3c8ed9def594dd86a20e2c7d98c/af9ee/Sicao_Dazhong_Temple_in_Taijiang_National_Park.jpg",
+                      "srcSet": "/the-world-factbook/static/5f9bd3c8ed9def594dd86a20e2c7d98c/af9ee/Sicao_Dazhong_Temple_in_Taijiang_National_Park.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/5f9bd3c8ed9def594dd86a20e2c7d98c/3a433/Sicao_Dazhong_Temple_in_Taijiang_National_Park.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.5900000000000001
+                }
+              }
+            }
+          },
+          {
+            "altText": "The auditorium of the Taipei Confucius Temple in Taiwan houses a  4D theater showcasing the journey of Confucius and the history of the temple.",
+            "caption": "The auditorium of the Taipei Confucius Temple in Taiwan houses a  4D theater showcasing the journey of Confucius and the history of the temple.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/6ad7bf31cd29ef7dc5f074145ca07fc9/e7a57/Auditorium_of_Confucius_Temple.jpg",
+                      "srcSet": "/the-world-factbook/static/6ad7bf31cd29ef7dc5f074145ca07fc9/e7a57/Auditorium_of_Confucius_Temple.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/6ad7bf31cd29ef7dc5f074145ca07fc9/d8ec3/Auditorium_of_Confucius_Temple.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.7383333333333333
+                }
+              }
+            }
+          },
+          {
+            "altText": "The pagoda at the Taipei Confucius Temple in Taiwan.",
+            "caption": "The pagoda at the Taipei Confucius Temple in Taiwan.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/b024d2f8c4cbf99111fa4e6105a3c26a/7dbe1/Pagoda_in_Tainan_Confucius_Temple.jpg",
+                      "srcSet": "/the-world-factbook/static/b024d2f8c4cbf99111fa4e6105a3c26a/7dbe1/Pagoda_in_Tainan_Confucius_Temple.jpg 550w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/b024d2f8c4cbf99111fa4e6105a3c26a/a72e2/Pagoda_in_Tainan_Confucius_Temple.webp 550w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 1.090909090909091
+                }
+              }
+            }
+          }
+        ],
+        "special": []
+      },
+      "fields": {
+        "nodes": [
+          {
+            "name": "Diplomatic representation from the US",
+            "data": "<strong>chief of mission:</strong> the US does not have an embassy in Taiwan; commercial and cultural relations with the people of Taiwan are maintained through an unofficial instrumentality, the American Institute in Taiwan (AIT), a private nonprofit corporation that performs citizen and consular services similar to those at diplomatic posts; it is managed by Director Raymond F. GREENE (since 8 July 2024)<br><br><strong>mailing address:</strong> 4170 AIT Taipei Place, Washington DC&nbsp; 20521-4170<br><br><strong>telephone:</strong> [886] 2-2162-2000<br><br><strong>FAX:</strong> [886] 2-2162-2251<br><br><strong>email address and website:</strong> TaipeiACS@state.gov<br /><br /><a href=\"https://www.ait.org.tw/\">https://www.ait.org.tw/</a><br><br><strong>branch office(s):</strong> American Institute in Taiwan<br />No. 100, Jinhu Road,<br />Neihu District 11461, Taipei City<br><br><strong>other offices:</strong> Kaohsiung (Branch Office)",
+            "subfields": [
+              {
+                "label": "email address and website",
+                "ranking": null
+              },
+              {
+                "label": "consulate(s)",
+                "ranking": null
+              },
+              {
+                "label": "branch office(s)",
+                "ranking": null
+              },
+              {
+                "label": "consulate(s) general",
+                "ranking": null
+              },
+              {
+                "label": "mailing address",
+                "ranking": null
+              },
+              {
+                "label": "embassy",
+                "ranking": null
+              },
+              {
+                "label": "chief of mission",
+                "ranking": null
+              },
+              {
+                "label": "other offices",
+                "ranking": null
+              },
+              {
+                "label": "FAX",
+                "ranking": null
+              },
+              {
+                "label": "telephone",
+                "ranking": null
+              },
+              {
+                "label": "office",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "319",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "chief of mission",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "embassy",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "mailing address",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "telephone",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "FAX",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "email address and website",
+                    "position": 6
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "consulate(s) general",
+                    "position": 7
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "branch office(s)",
+                    "position": 8
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "consulate(s)",
+                    "position": 9
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "consular agent",
+                    "position": 10
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "office",
+                    "position": 11
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "other offices",
+                    "position": 12
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Age structure",
+            "data": "<strong>0-14 years:</strong> 12.1% (male 1,472,059/female 1,391,031)<br><br><strong>15-64 years:</strong> 69% (male 8,132,356/female 8,155,582)<br><br><strong>65 years and over:</strong> 18.8% (2024 est.) (male 2,002,076/female 2,442,170)",
+            "subfields": [
+              {
+                "label": "65 years and over",
+                "ranking": null
+              },
+              {
+                "label": "15-64 years",
+                "ranking": null
+              },
+              {
+                "label": "0-14 years",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "341",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "0-14 years",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "15-64 years",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "65 years and over",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": [
+              {
+                "type": "image",
+                "label": "2024 population pyramid",
+                "altText": "This is the population pyramid for Taiwan. A population pyramid illustrates the age and sex structure of a country's population and may provide insights about political and social stability, as well as economic development. The population is distributed along the horizontal axis, with males shown on the left and females on the right. The male and female populations are broken down into 5-year age groups represented as horizontal bars along the vertical axis, with the youngest age groups at the bottom and the oldest at the top. The shape of the population pyramid gradually evolves over time based on fertility, mortality, and international migration trends. <br/><br/>For additional information, please see the entry for Population pyramid on the Definitions and Notes page.",
+                "caption": "This is the population pyramid for Taiwan. A population pyramid illustrates the age and sex structure of a country's population and may provide insights about political and social stability, as well as economic development. The population is distributed along the horizontal axis, with males shown on the left and females on the right. The male and female populations are broken down into 5-year age groups represented as horizontal bars along the vertical axis, with the youngest age groups at the bottom and the oldest at the top. The shape of the population pyramid gradually evolves over time based on fertility, mortality, and international migration trends. <br/><br/>For additional information, please see the entry for Population pyramid on the Definitions and Notes page.",
+                "localFile": {
+                  "publicURL": "/the-world-factbook/static/2489b810af7b7522459b514420a42aa4/tw_popgraph2024.jpeg",
+                  "childImageSharp": {
+                    "gatsbyImageData": {
+                      "layout": "constrained",
+                      "images": {
+                        "fallback": {
+                          "src": "/the-world-factbook/static/2489b810af7b7522459b514420a42aa4/60be0/tw_popgraph2024.jpg",
+                          "srcSet": "/the-world-factbook/static/2489b810af7b7522459b514420a42aa4/a2e79/tw_popgraph2024.jpg 245w,\n/the-world-factbook/static/2489b810af7b7522459b514420a42aa4/d9c3e/tw_popgraph2024.jpg 490w,\n/the-world-factbook/static/2489b810af7b7522459b514420a42aa4/60be0/tw_popgraph2024.jpg 980w",
+                          "sizes": "(min-width: 980px) 980px, 100vw"
+                        },
+                        "sources": []
+                      },
+                      "width": 980,
+                      "height": 600
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "name": "Geographic coordinates",
+            "data": "23 30 N, 121 00 E",
+            "subfields": [
+              {
+                "label": "Geographic coordinates",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "277",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Geographic coordinates",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Sex ratio",
+            "data": "<strong>at birth:</strong> 1.06 male(s)/female<br><br><strong>0-14 years:</strong> 1.06 male(s)/female<br><br><strong>15-64 years:</strong> 1 male(s)/female<br><br><strong>65 years and over:</strong> 0.82 male(s)/female<br><br><strong>total population:</strong> 0.97 male(s)/female (2024 est.)",
+            "subfields": [
+              {
+                "label": "total population",
+                "ranking": null
+              },
+              {
+                "label": "65 years and over",
+                "ranking": null
+              },
+              {
+                "label": "15-64 years",
+                "ranking": null
+              },
+              {
+                "label": "0-14 years",
+                "ranking": null
+              },
+              {
+                "label": "at birth",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "351",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "at birth",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "0-14 years",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "15-64 years",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "65 years and over",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "total population",
+                    "position": 5
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Natural hazards",
+            "data": "earthquakes; typhoons <br /><br /><strong>volcanism:</strong> Kueishantao Island (401 m), east of Taiwan, is the only historically active volcano, but it has not erupted in centuries",
+            "subfields": [
+              {
+                "label": "Natural hazards",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "292",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Natural hazards",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Area - comparative",
+            "data": "slightly smaller than Maryland and Delaware combined",
+            "subfields": [
+              {
+                "label": "Area - comparative",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "280",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Area - comparative",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Military service age and obligation",
+            "data": "men 18-36 years of age may volunteer or must complete 12 months of compulsory military service; civil service can be substituted for military service in some cases; women may enlist but are restricted to noncombat roles in most cases (2024)<br><br><strong>note 1: </strong>in January 2024, Taiwan extended compulsory service from 4 to 12 months for men born in 2005 and thereafter<strong><br /><br />note 2:</strong> as of 2023, women made up about 15% of the active-duty military",
+            "subfields": [
+              {
+                "label": "Military service age and obligation",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "333",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Military service age and obligation",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Background",
+            "data": "First inhabited by Austronesian people, Taiwan became home to Han immigrants beginning in the late Ming Dynasty (17th century). In 1895, military defeat forced China's Qing Dynasty to cede Taiwan to Japan, which then governed Taiwan for 50 years. Taiwan came under Chinese Nationalist (Kuomintang, KMT) control after World War II. With the communist victory in the Chinese civil war in 1949, the Nationalist-controlled Republic of China government and 2 million Nationalists fled to Taiwan and continued to claim to be the legitimate government for mainland China and Taiwan, based on a 1947 constitution drawn up for all of China. Until 1987, however, the Nationalist Government ruled Taiwan under a civil war martial law declaration dating to 1948. Beginning in the 1970s, Nationalist authorities gradually began to incorporate the native population into the governing structure beyond the local level. <br /><br />The democratization process expanded rapidly in the 1980s, leading to the then-illegal founding of the Democratic Progressive Party (DPP), Taiwan&rsquo;s first opposition party, in 1986 and the lifting of martial law the following year. Taiwan held legislative elections in 1992, the first in over 40 years, and its first direct presidential election in 1996. In the 2000 presidential elections, Taiwan underwent its first peaceful transfer of power with the KMT loss to the DPP and afterwards experienced two additional democratic transfers of power in 2008 and 2016. Throughout this period, the island prospered and turned into one of East Asia's economic \"Tigers,\" becoming a major investor in mainland China after 2000 as cross-Strait ties matured. The dominant political issues continue to be economic reform and growth, as well as management of sensitive relations between Taiwan and China.",
+            "subfields": [
+              {
+                "label": "Summary",
+                "ranking": null
+              },
+              {
+                "label": "Background",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "325",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Background",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Summary",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Environmental issues",
+            "data": "air pollution; water pollution from industrial emissions, raw sewage; contamination of drinking water supplies; trade in endangered species; low-level radioactive waste disposal",
+            "subfields": [
+              {
+                "label": "Environmental issues",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "293",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Environmental issues",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Exports - commodities",
+            "data": "integrated circuits, machine parts, broadcasting equipment, computers, plastics (2023)<br><br><b>note:</b> top five export commodities based on value in dollars",
+            "subfields": [
+              {
+                "label": "Exports - commodities",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "240",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Exports - commodities",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Agricultural products",
+            "data": "rice, vegetables, pork, chicken, cabbages, milk, sugarcane, tropical fruits, pineapples, eggs (2023)<br><br><b>note:</b> top ten agricultural products based on tonnage",
+            "subfields": [
+              {
+                "label": "Agricultural products",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "215",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Agricultural products",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Military and security forces",
+            "data": "Taiwan Armed Forces: Army, Navy (includes Marine Corps), Air Force<br /><br />Ocean Affairs Council: Coast Guard Administration (CGA)<br /><br />Ministry of Interior: National Police (2025)<br><br><strong>note: </strong>the CGA is a law enforcement organization with homeland security functions during peacetime and national defense missions during wartime",
+            "subfields": [
+              {
+                "label": "Military branches",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "331",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Military branches",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Budget",
+            "data": "<strong>revenues:</strong> $94.943 billion (2019 est.)<br><br><strong>expenditures:</strong> $105.833 billion (2019 est.)",
+            "subfields": [
+              {
+                "label": "expenditures",
+                "ranking": null
+              },
+              {
+                "label": "revenues",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "224",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "revenues",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "expenditures",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Capital",
+            "data": "<strong>name:</strong> Taipei<br><br><strong>geographic coordinates:</strong> 25 02 N, 121 31 E<br><br><strong>time difference:</strong> UTC+8 (13 hours ahead of Washington, DC, during Standard Time)<br><br><strong>etymology:</strong> the name means \"Northern Taiwan,\" from the Chinese words <em>tai </em>(a short form of Taiwan) and <em>bei </em>(north), reflecting the city's position in the far north of the island",
+            "subfields": [
+              {
+                "label": "etymology",
+                "ranking": null
+              },
+              {
+                "label": "time zone note",
+                "ranking": null
+              },
+              {
+                "label": "daylight saving time",
+                "ranking": null
+              },
+              {
+                "label": "time difference",
+                "ranking": null
+              },
+              {
+                "label": "geographic coordinates",
+                "ranking": null
+              },
+              {
+                "label": "name",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "301",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "name",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "geographic coordinates",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "time difference",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "daylight saving time",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "time zone note",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "etymology",
+                    "position": 6
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Imports - commodities",
+            "data": "integrated circuits, crude petroleum, machinery, natural gas, coal (2023)<br><br><b>note:</b> top five import commodities based on value in dollars",
+            "subfields": [
+              {
+                "label": "Imports - commodities",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "243",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Imports - commodities",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Climate",
+            "data": "tropical; marine; rainy season during southwest monsoon (June to August); persistent and extensive cloudiness all year",
+            "subfields": [
+              {
+                "label": "Climate",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "284",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Climate",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "ten driest places on Earth (average annual precipitation)",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "ten wettest places on Earth (average annual precipitation)",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "ten coldest places on Earth (lowest average monthly temperature)",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "ten hottest places on Earth (highest average monthly temperature)",
+                    "position": 5
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Coastline",
+            "data": "1,566.3 km",
+            "subfields": [
+              {
+                "label": "Coastline",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "282",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Coastline",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Constitution",
+            "data": "<strong>history:</strong> previous 1912, 1931; latest adopted 25 December 1946, promulgated 1 January 1947, effective 25 December 1947<br><br><strong>amendment process:</strong> proposed by at least one fourth of the Legislative Yuan membership; passage requires approval by at least three-fourths majority vote of at least three fourths of the Legislative Yuan membership and approval in a referendum by more than half of eligible voters",
+            "subfields": [
+              {
+                "label": "amendment process",
+                "ranking": null
+              },
+              {
+                "label": "history",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "307",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "history",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "amendment process",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Exchange rates",
+            "data": "New Taiwan dollars (TWD) per US dollar -<br><br><strong>Exchange rates:</strong><br>32.108 (2024 est.)<br>31.15 (2023 est.)<br>29.777 (2022 est.)<br>28.022 (2021 est.)<br>28.211 (2020 est.)",
+            "subfields": [
+              {
+                "label": "Exchange rates 2024",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2023",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2022",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2021",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2020",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2019",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2018",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2014",
+                "ranking": null
+              },
+              {
+                "label": "Currency",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "249",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Currency",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Exchange rates",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Executive branch",
+            "data": "<strong>chief of state:</strong> President LAI Ching-te (since 20 May 2024)<br><br><strong>head of government:</strong> Premier CHO Jung-tai (President of the Executive Yuan) (since 20 May 2024)<br><br><strong>cabinet:</strong> Executive Yuan; ministers appointed by president on recommendation of premier<br><br><strong>election/appointment process:</strong> president and vice president directly elected on the same ballot by simple-majority popular vote for a 4-year term (eligible for a second term); premier appointed by the president; vice premiers appointed by the president on the recommendation of the premier<br><br><strong>most recent election date:</strong> 13 January 2024<br><br><strong>election results:</strong> <em><br />2024:</em>LAI Ching-te elected president; percent of vote<em><em> - </em></em>LAI Ching-te (DPP) 40.1%, HOU Yu-ih (KMT) 33.5%, KO Wen-je (TPP) 26.5%)<em><br /><br />2020: </em>TSAI Ing-wen reelected president; percent of vote - TSAI Ing-wen (DPP) 57.1%, HAN Kuo-yu (KMT) 38.6%, James SOONG (PFP) 4.3%<br><br><strong>expected date of next election:</strong> 2028",
+            "subfields": [
+              {
+                "label": "expected date of next election",
+                "ranking": null
+              },
+              {
+                "label": "most recent election date",
+                "ranking": null
+              },
+              {
+                "label": "election results",
+                "ranking": null
+              },
+              {
+                "label": "election/appointment process",
+                "ranking": null
+              },
+              {
+                "label": "cabinet",
+                "ranking": null
+              },
+              {
+                "label": "head of government",
+                "ranking": null
+              },
+              {
+                "label": "chief of state",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "312",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "chief of state",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "head of government",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "cabinet",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "election/appointment process",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "most recent election date",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "election results",
+                    "position": 6
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "expected date of next election",
+                    "position": 7
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "state counsellor",
+                    "position": 11
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Executive branch",
+                    "position": 12
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Flag",
+            "data": "<strong>description:</strong> red field with a dark blue rectangle in the upper-left corner, bearing a white sun with 12 triangular rays<br /><br /><strong>meaning:</strong> blue stands for liberty, justice, and democracy; red for fraternity, sacrifice, and nationalism; white for equality, frankness, and the people's livelihood; the 12 rays represent the months of the year and the traditional Chinese hours (each ray equals two hours)<br /><br /><strong>history:</strong> the blue-and-white design of the canton (symbolizing the sun of progress) dates to 1895<br><br><strong>note:</strong> similar to the flag of Samoa",
+            "subfields": [
+              {
+                "label": "Flag description",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "320",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Flag description",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Illicit drugs",
+            "data": "<strong>USG identification:</strong> <br />major precursor-chemical producer (2025)",
+            "subfields": [
+              {
+                "label": "USG identification",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "329",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "USG identification",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Industries",
+            "data": "electronics, communications and information technology products, petroleum refining, chemicals, textiles, iron and steel, machinery, cement, food processing, vehicles, consumer products, pharmaceuticals",
+            "subfields": [
+              {
+                "label": "Industries",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "216",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Industries",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Judicial branch",
+            "data": "<strong>highest court(s):</strong> Supreme Court (consists of the court president, vice president, and approximately 100 judges organized into civil and criminal panels, each with a chief justice and 4 associate justices); Constitutional Court (consists of the court president, vice president, and 13 justices)<br><br><strong>judge selection and term of office:</strong> Supreme Court justices appointed for life by the president; Constitutional Court justices appointed by the president, with approval of the Legislative Yuan, for 8-year terms, with half the membership renewed every 4 years<br><br><strong>subordinate courts:</strong> high courts; district courts; hierarchy of administrative courts",
+            "subfields": [
+              {
+                "label": "subordinate courts",
+                "ranking": null
+              },
+              {
+                "label": "judge selection and term of office",
+                "ranking": null
+              },
+              {
+                "label": "highest court(s)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "314",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "highest court(s)",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "judge selection and term of office",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "subordinate courts",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Land boundaries",
+            "data": "<strong>total:</strong> 0 km",
+            "subfields": [
+              {
+                "label": "regional borders",
+                "ranking": null
+              },
+              {
+                "label": "border countries",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "281",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "total",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "border countries",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "border sovereign base areas",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "metropolitan France - total",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "French Guiana - total",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "regional borders",
+                    "position": 6
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Legal system",
+            "data": "civil law system",
+            "subfields": [
+              {
+                "label": "Legal system",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "308",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Legal system",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Legislative branch",
+            "data": "<strong>legislature name:</strong> Legislative Yuan<br><br><strong>legislative structure:</strong> unicameral<br><br><strong>number of seats:</strong> 113 (directly elected)<br><br><strong>electoral system:</strong> plurality/majority<br><br><strong>scope of elections:</strong> full renewal<br><br><strong>term in office:</strong> 4 years<br><br><strong>most recent election date:</strong> 13 January 2024<br><br><strong>parties elected and seats per party:</strong> Kuomintang (KMT) 52, Democratic Progressive Party (DPP) 51, Taiwan People's Party (TPP) 8, independent 2<br><br><strong>percentage of women in chamber:</strong> 41.6%<br><br><strong>expected date of next election:</strong> January 2028",
+            "subfields": [
+              {
+                "label": "expected date of next election",
+                "ranking": null
+              },
+              {
+                "label": "parties elected and seats per party",
+                "ranking": null
+              },
+              {
+                "label": "most recent election date",
+                "ranking": null
+              },
+              {
+                "label": "scope of elections",
+                "ranking": null
+              },
+              {
+                "label": "electoral system",
+                "ranking": null
+              },
+              {
+                "label": "number of seats",
+                "ranking": null
+              },
+              {
+                "label": "chamber name",
+                "ranking": null
+              },
+              {
+                "label": "legislative structure",
+                "ranking": null
+              },
+              {
+                "label": "legislature name",
+                "ranking": null
+              },
+              {
+                "label": "percentage of women in chamber",
+                "ranking": null
+              },
+              {
+                "label": "term in office",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "313",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "legislature name",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "legislative structure",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "chamber name",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "number of seats",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "electoral system",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "scope of elections",
+                    "position": 6
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "term in office",
+                    "position": 7
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "most recent election date",
+                    "position": 8
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "parties elected and seats per party",
+                    "position": 9
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "percentage of women in chamber",
+                    "position": 10
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "expected date of next election",
+                    "position": 11
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Maritime claims",
+            "data": "<strong>territorial sea:</strong> 12 nm<br><br><strong>exclusive economic zone:</strong> 200 nm",
+            "subfields": [
+              {
+                "label": "exclusive economic zone",
+                "ranking": null
+              },
+              {
+                "label": "territorial sea",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "283",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "territorial sea",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "contiguous zone",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "exclusive economic zone",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "continental shelf",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "exclusive fishing zone",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Environment (Protection and Preservation) Zone",
+                    "position": 6
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "International organization participation",
+            "data": "ADB (Chinese Taipei), APEC (Chinese Taipei), BCIE, CABEI, IOC, ITUC (NGOs), SICA (observer), WTO (Chinese Taipei)<br><br><strong>note:</strong>&nbsp;separate customs territory of Taiwan, Penghu, Kinmen, and Matsu",
+            "subfields": [
+              {
+                "label": "International organization participation",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "317",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "International organization participation",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "National holiday",
+            "data": "Republic Day (National Day), 10 October (1911)<br><br><strong>note:</strong>&nbsp;celebrates the anniversary of the Chinese Revolution, also known as Double Ten (10-10) Day",
+            "subfields": [
+              {
+                "label": "National holiday",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "306",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "National holiday",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Nationality",
+            "data": "<strong>noun:</strong> Taiwan (singular and plural)<br><br><strong>adjective:</strong> Taiwan (or Taiwanese)<br><br><strong>note:</strong> example - he or she is from Taiwan; they are from Taiwan",
+            "subfields": [
+              {
+                "label": "adjective",
+                "ranking": null
+              },
+              {
+                "label": "noun",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "336",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "noun",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "adjective",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Natural resources",
+            "data": "small deposits of coal, natural gas, limestone, marble, asbestos, arable land",
+            "subfields": [
+              {
+                "label": "Natural resources",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "287",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Natural resources",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Geography - note",
+            "data": "strategic location adjacent to both the Taiwan Strait and the Luzon Strait",
+            "subfields": [
+              {
+                "label": "Geography - note",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "295",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Geography - note",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Economic overview",
+            "data": "high-income East Asian economy; most technologically advanced computer microchip manufacturing; increasing Chinese interference threatens market capabilities; minimum wages rising; longstanding regional socioeconomic inequality",
+            "subfields": [
+              {
+                "label": "Summary",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "207",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Summary",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Political parties",
+            "data": "Democratic Progressive Party or DPP&nbsp;<br />Kuomintang or KMT (Nationalist Party)&nbsp;<br />Taiwan People's Party or TPP&nbsp;<br><br><strong>note:</strong> the DPP and the KMT are the two major political parties; more than 30 parties garnered votes in the 2024 election",
+            "subfields": [
+              {
+                "label": "Political parties",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "315",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Political parties",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Railways",
+            "data": "<strong>total:</strong> 1,613.1 km (2018)<br><br><strong>standard gauge:</strong> 345 km (2018) 1.435-m gauge (345 km electrified)<br><br><strong>narrow gauge:</strong> 1,118.1 km (2018) 1.067-m gauge (793.9 km electrified)<br><br>150 0.762-m gauge <strong>note:</strong> the 0.762-gauge track belongs to three entities: the Forestry Bureau, Taiwan Cement, and TaiPower",
+            "subfields": [
+              {
+                "label": "narrow gauge",
+                "ranking": null
+              },
+              {
+                "label": "standard gauge",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": null
+              },
+              {
+                "label": "dual gauge",
+                "ranking": null
+              },
+              {
+                "label": "broad gauge",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "384",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "total",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "standard gauge",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "narrow gauge",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "broad gauge",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "dual gauge",
+                    "position": 5
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Suffrage",
+            "data": "20 years of age; universal",
+            "subfields": [
+              {
+                "label": "Suffrage",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "311",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Suffrage",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Terrain",
+            "data": "eastern two-thirds mostly rugged mountains; flat to gently rolling plains in west",
+            "subfields": [
+              {
+                "label": "terrain",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "285",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "terrain",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "top ten world caves",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Government type",
+            "data": "semi-presidential republic",
+            "subfields": [
+              {
+                "label": "Government type",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "299",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Government type",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Country name",
+            "data": "<strong>conventional long form:</strong> none<br><br><strong>conventional short form:</strong> Taiwan<br><br><strong>local long form:</strong> none<br><br><strong>local short form:</strong> Taiwan<br><br><strong>former:</strong> Formosa<br><br><strong>etymology:</strong> the name may derive from the Chinese words <em>tai </em>(terrace) and <em>wan </em>(bay), referring to the island's terrain; in 1590, the Portuguese named it Formosa, meaning \"beautiful\"",
+            "subfields": [
+              {
+                "label": "abbreviation",
+                "ranking": null
+              },
+              {
+                "label": "etymology",
+                "ranking": null
+              },
+              {
+                "label": "former",
+                "ranking": null
+              },
+              {
+                "label": "local short form",
+                "ranking": null
+              },
+              {
+                "label": "local long form",
+                "ranking": null
+              },
+              {
+                "label": "conventional short form",
+                "ranking": null
+              },
+              {
+                "label": "conventional long form",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "296",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "conventional long form",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "conventional short form",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "local long form",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "local short form",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "official long form",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "official short form",
+                    "position": 6
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "former",
+                    "position": 7
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "abbreviation",
+                    "position": 8
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "etymology",
+                    "position": 9
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Location",
+            "data": "Eastern Asia, islands bordering the East China Sea, Philippine Sea, South China Sea, and Taiwan Strait, north of the Philippines, off the southeastern coast of China",
+            "subfields": [
+              {
+                "label": "Location",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "276",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Location",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Map references",
+            "data": "Southeast Asia",
+            "subfields": [
+              {
+                "label": "Map references",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "278",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Map references",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Irrigated land",
+            "data": "3,820 sq km (2012)",
+            "subfields": [
+              {
+                "label": "Irrigated land",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "289",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Irrigated land",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Diplomatic representation in the US",
+            "data": "<strong>chief of mission:</strong> none<br><br><strong>Taipei Economic and Cultural Offices (branch offices):</strong> Atlanta, Boston, Chicago, Denver (CO), Hagatna (Guam), Honolulu, Houston, Los Angeles, Miami, New York, San Francisco, Seattle, Washington DC<br><br><strong>Note</strong>:&nbsp; commercial and cultural relations with its citizens in the US are maintained through an unofficial instrumentality, the Taipei Economic and Cultural Representative Office in the United States (TECRO), a private nonprofit corporation that performs citizen and consular services similar to those at diplomatic posts, represented by Ambassador Alexander YUI (since 11 December 2023); office: 4201 Wisconsin Avenue NW, Washington, DC 20016; telephone: [1] (202) 895-1800; fax: [1] (202) 363-0999",
+            "subfields": [
+              {
+                "label": "email address and website",
+                "ranking": null
+              },
+              {
+                "label": "honorary consulate(s)",
+                "ranking": null
+              },
+              {
+                "label": "embassy",
+                "ranking": null
+              },
+              {
+                "label": "consulate(s)",
+                "ranking": null
+              },
+              {
+                "label": "consulate(s) general",
+                "ranking": null
+              },
+              {
+                "label": "FAX",
+                "ranking": null
+              },
+              {
+                "label": "chancery",
+                "ranking": null
+              },
+              {
+                "label": "chief of mission",
+                "ranking": null
+              },
+              {
+                "label": "Taipei Economic and Cultural Offices (branch offices)",
+                "ranking": null
+              },
+              {
+                "label": "telephone",
+                "ranking": null
+              },
+              {
+                "label": "office",
+                "ranking": null
+              },
+              {
+                "label": "representative",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "318",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "chief of mission",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "chancery",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "telephone",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "FAX",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "email address and website",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "consulate(s) general",
+                    "position": 6
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "consulate(s)",
+                    "position": 7
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "trade office(s)",
+                    "position": 8
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "representative office",
+                    "position": 9
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "embassy",
+                    "position": 10
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "commissioner",
+                    "position": 11
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "office",
+                    "position": 12
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "HKETO offices",
+                    "position": 13
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "honorary consulate(s)",
+                    "position": 14
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "representative",
+                    "position": 15
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Taipei Economic and Cultural Offices (branch offices)",
+                    "position": 16
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Internet users",
+            "data": "<strong>percent of population:</strong> 90% (2021 est.)",
+            "subfields": [
+              {
+                "label": "percent of population",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "204",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "percent of population",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Internet country code",
+            "data": ".tw",
+            "subfields": [
+              {
+                "label": "Internet country code",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "202",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Internet country code",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "GDP (official exchange rate)",
+            "data": "$611.391 billion (2023 est.)<br><br><strong>note:</strong> data in current dollars at official exchange rate",
+            "subfields": [
+              {
+                "label": "GDP (official exchange rate)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "209",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "GDP (official exchange rate)",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Total renewable water resources",
+            "data": "67 cubic meters (2011)",
+            "subfields": [
+              {
+                "label": "Total renewable water sources",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "290",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Total renewable water sources",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Urbanization",
+            "data": "<strong>urban population:</strong> 80.1% of total population (2023)<br><br><strong>rate of urbanization:</strong> 0.65% annual rate of change (2020-25 est.)",
+            "subfields": [
+              {
+                "label": "urban population",
+                "ranking": null
+              },
+              {
+                "label": "rate of urbanization",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "349",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "urban population",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "rate of urbanization",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Broadcast media",
+            "data": "5 national TV networks with about 22 stations; over 300 satellite TV channels available; about half of households use multi-channel cable TV; almost all subscribe to digital cable TV; national and regional radio networks with about 171 radio stations (2023)",
+            "subfields": [
+              {
+                "label": "Broadcast media",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "199",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Broadcast media",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "National anthem(s)",
+            "data": "<strong>title:</strong> \"Zhonghua Minguo guoge\" (National Anthem of the Republic of China)<br><br><strong>lyrics/music:</strong> HU Han-min, TAI Chi-t'ao, and LIAO Chung-k'ai/CHENG Mao-yun<br><br><strong>history:</strong> adopted 1937; also the song of the Kuomintang Party; informally known as \"San Min Chu I\" or \"San Min Zhu Yi\" (Three Principles of the People); the anthem is banned from performance in mainland China, Hong Kong, and Macau",
+            "subfields": [
+              {
+                "label": "history",
+                "ranking": null
+              },
+              {
+                "label": "history",
+                "ranking": null
+              },
+              {
+                "label": "lyrics/music",
+                "ranking": null
+              },
+              {
+                "label": "title",
+                "ranking": null
+              },
+              {
+                "label": "history",
+                "ranking": null
+              },
+              {
+                "label": "lyrics/music",
+                "ranking": null
+              },
+              {
+                "label": "title",
+                "ranking": null
+              },
+              {
+                "label": "lyrics/music",
+                "ranking": null
+              },
+              {
+                "label": "title",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "322",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "title",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "lyrics/music",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "history",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "title",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "lyrics/music",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "history",
+                    "position": 6
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "title",
+                    "position": 7
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "lyrics/music",
+                    "position": 8
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "history",
+                    "position": 9
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Major urban areas - population",
+            "data": "4.504 million New Taipei City, 2.754 million TAIPEI (capital), 2.319 million Taoyuan, 1.553 million Kaohsiung, 1.369 million Taichung, 863,000 Tainan (2023)",
+            "subfields": [
+              {
+                "label": "Major urban areas - population",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "350",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Major urban areas - population",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "International law organization participation",
+            "data": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt",
+            "subfields": [
+              {
+                "label": "International law organization participation",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "309",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "International law organization participation",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "National symbol(s)",
+            "data": "white sun with 12 rays on a blue field",
+            "subfields": [
+              {
+                "label": "National symbol(s)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "321",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "National symbol(s)",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "GDP - composition, by end use",
+            "data": "<strong>household consumption:</strong> 48.3% (2023 est.)<br><br><strong>government consumption:</strong> 13.3% (2023 est.)<br><br><strong>investment in fixed capital:</strong> 23.7% (2023 est.)<br><br><strong>investment in inventories:</strong> -0.6% (2023 est.)<br><br><strong>exports of goods and services:</strong> 64% (2023 est.)<br><br><strong>imports of goods and services:</strong> -49.1% (2023 est.)",
+            "subfields": [
+              {
+                "label": "imports of goods and services",
+                "ranking": null
+              },
+              {
+                "label": "exports of goods and services",
+                "ranking": null
+              },
+              {
+                "label": "investment in inventories",
+                "ranking": null
+              },
+              {
+                "label": "investment in fixed capital",
+                "ranking": null
+              },
+              {
+                "label": "government consumption",
+                "ranking": null
+              },
+              {
+                "label": "household consumption",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "213",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "household consumption",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "government consumption",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "investment in fixed capital",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "investment in inventories",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "exports of goods and services",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "imports of goods and services",
+                    "position": 6
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Dependency ratios",
+            "data": "<strong>total dependency ratio:</strong> 44.9 (2024 est.)<br><br><strong>youth dependency ratio:</strong> 17.6 (2024 est.)<br><br><strong>elderly dependency ratio:</strong> 27.3 (2024 est.)<br><br><strong>potential support ratio:</strong> 3.7 (2024 est.)",
+            "subfields": [
+              {
+                "label": "potential support ratio",
+                "ranking": null
+              },
+              {
+                "label": "elderly dependency ratio",
+                "ranking": null
+              },
+              {
+                "label": "youth dependency ratio",
+                "ranking": null
+              },
+              {
+                "label": "total dependency ratio",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "342",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "total dependency ratio",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "youth dependency ratio",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "elderly dependency ratio",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "potential support ratio",
+                    "position": 4
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Citizenship",
+            "data": "<strong>citizenship by birth:</strong> no<br><br><strong>citizenship by descent only:</strong> at least one parent must be a citizen of Taiwan<br><br><strong>dual citizenship recognized:</strong> yes, except that citizens of Taiwan are not recognized as dual citizens of the People's Republic of China<br><br><strong>residency requirement for naturalization:</strong> 5 years",
+            "subfields": [
+              {
+                "label": "residency requirement for naturalization",
+                "ranking": null
+              },
+              {
+                "label": "dual citizenship recognized",
+                "ranking": null
+              },
+              {
+                "label": "citizenship by descent only",
+                "ranking": null
+              },
+              {
+                "label": "citizenship by birth",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "310",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "citizenship by birth",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "citizenship by descent only",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "dual citizenship recognized",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "residency requirement for naturalization",
+                    "position": 4
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Population distribution",
+            "data": "distribution exhibits a peripheral coastal settlement pattern, with the largest populations on the north and west coasts",
+            "subfields": [
+              {
+                "label": "Population distribution",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "348",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Population distribution",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Civil aircraft registration country code prefix",
+            "data": "B",
+            "subfields": [
+              {
+                "label": "Civil aircraft registration country code prefix",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "378",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Civil aircraft registration country code prefix",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Ethnic groups",
+            "data": "Han Chinese (including Holo, who compose approximately 70% of Taiwan's population, Hakka, and other groups originating in mainland China) more than 95%, indigenous Malayo-Polynesian peoples 2.3%<br><br><strong>note 1:</strong> there are 16 officially recognized indigenous groups: Amis, Atayal, Bunun, Hla'alua, Kanakaravu, Kavalan, Paiwan, Puyuma, Rukai, Saisiyat, Sakizaya, Seediq, Thao, Truku, Tsou, and Yami; Amis, Paiwan, and Atayal are the largest and account for roughly 70% of the indigenous population<br /><br /><strong>note 2:</strong> although not definitive, the majority of current genetic, archeological, and linguistic data support the theory that Taiwan is the ultimate source for the spread of humans across the Pacific to Polynesia; the expansion (ca. 3000 B.C. to A.D. 1200) took place via the Philippines and eastern Indonesia and reached Fiji and Tonga by about 900 B.C.; from there voyagers spread across the rest of the Pacific islands over the next two millennia",
+            "subfields": [
+              {
+                "label": "Ethnic groups",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "400",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Ethnic groups",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Religions",
+            "data": "Buddhist 35.3%, Taoist 33.2%, Christian 3.9%, folk religion (includes Confucian) approximately 10%, none or unspecified 18.2% (2005 est.)",
+            "subfields": [
+              {
+                "label": "Religions",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "401",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Religions",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Languages",
+            "data": "Mandarin (official), Min Nan, Hakka dialects, approximately 16 indigenous languages<br><br><strong>major-language sample(s):</strong> <br />世界概況 &nbsp;&ndash; &nbsp;不可缺少的基本消息來源 (Mandarin)<br /><br />The World Factbook, the indispensable source for basic information.",
+            "subfields": [
+              {
+                "label": "major-language sample(s)",
+                "ranking": null
+              },
+              {
+                "label": "Languages",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "402",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Languages",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "major-language sample(s)",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": [
+              {
+                "type": "audio",
+                "label": "Mandarin audio sample",
+                "altText": "Mandarin audio sample",
+                "caption": "Mandarin audio sample",
+                "localFile": {
+                  "publicURL": "/the-world-factbook/static/f3f39b600672e4a3468202d3559c96c8/Mandarin.mp3",
+                  "childImageSharp": null
+                }
+              }
+            ]
+          },
+          {
+            "name": "Refugees and internally displaced persons",
+            "data": "<strong>IDPs:</strong> 380 (2024 est.)",
+            "subfields": [
+              {
+                "label": "IDPs",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "327",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "refugees",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "IDPs",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "stateless persons",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Elevation",
+            "data": "<strong>highest point:</strong> Yu Shan 3,952 m<br><br><strong>lowest point:</strong> South China Sea 0 m<br><br><strong>mean elevation:</strong> 1,150 m",
+            "subfields": [
+              {
+                "label": "highest point",
+                "ranking": null
+              },
+              {
+                "label": "lowest point",
+                "ranking": null
+              },
+              {
+                "label": "mean elevation",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "407",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "highest point",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "lowest point",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "mean elevation",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "mean depth",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "ocean zones",
+                    "position": 5
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Military expenditures",
+            "data": "2.4% of GDP (2024 est.)<br>2.5% of GDP (2023 est.)<br>2.1% of GDP (2022 est.)<br>2.1% of GDP (2021 est.)<br>2.1% of GDP (2020 est.)",
+            "subfields": [
+              {
+                "label": "Military Expenditures 2024",
+                "ranking": null
+              },
+              {
+                "label": "Military Expenditures 2023",
+                "ranking": null
+              },
+              {
+                "label": "Military Expenditures 2022",
+                "ranking": null
+              },
+              {
+                "label": "Military Expenditures 2021",
+                "ranking": null
+              },
+              {
+                "label": "Military Expenditures 2020",
+                "ranking": null
+              },
+              {
+                "label": "Military Expenditures 2019",
+                "ranking": null
+              },
+              {
+                "label": "Military Expenditures 2018",
+                "ranking": null
+              },
+              {
+                "label": "Military Expenditures 2017",
+                "ranking": null
+              },
+              {
+                "label": "Military Expenditures 2016",
+                "ranking": null
+              },
+              {
+                "label": "Military Expenditures 2015",
+                "ranking": null
+              },
+              {
+                "label": "Military Expenditures 2014",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "330",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Military Expenditures",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Military - note",
+            "data": "the military&rsquo;s primary responsibility is external security, including the defense of the country&rsquo;s sovereignty and territory, and the protection of Taiwan&rsquo;s air space, maritime claims, and sea lines of communication; its main focus is the challenge posed by the People&rsquo;s Republic of China<br /><br />the US Taiwan Relations Act of April 1979 states that the US shall provide Taiwan with arms of a defensive character and shall maintain the capacity of the US to resist any resort to force or other forms of coercion that would jeopardize the security, or social or economic system, of the people of Taiwan (2025)",
+            "subfields": [
+              {
+                "label": "Military - note",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "332",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Military - note",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Exports - partners",
+            "data": "China 20%, USA 17%, Hong Kong 13%, Singapore 9%, Japan 7% (2023)<br><br><b>note:</b> top five export partners based on percentage share of exports",
+            "subfields": [
+              {
+                "label": "Exports - partners",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "241",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Exports - partners",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Imports - partners",
+            "data": "China 21%, Japan 13%, USA 11%, S. Korea 9%, Australia 5% (2023)<br><br><b>note:</b> top five import partners based on percentage share of imports",
+            "subfields": [
+              {
+                "label": "Imports - partners",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "403",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Imports - partners",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Military and security service personnel strengths",
+            "data": "approximately 180,000 active-duty Armed Forces (95,000 Army; 45,000 Navy, including approximately 10,000 marines; 40,000 Air Force) (2025)<br><br><strong>note: </strong>the military is comprised of both volunteers and conscripts; the conscripts serve 4-month tours, or 12 months for those born in 2005 and after; as of mid-2024, there were reportedly about 153,000 volunteer personnel serving in Taiwan's armed forces; in 2025, the military is expected to conscript about 75,000 men; Taiwan aims to maintain a military of about 215,000 plus reservists; Taiwan trains about 120,000 reservists annually, but in 2022 announced intentions to increase that figure to 260,000",
+            "subfields": [
+              {
+                "label": "Military and security forces personnel strengths",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "410",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Military and security forces personnel strengths",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Military equipment inventories and acquisitions",
+            "data": "the Taiwan military's inventory is a mix of domestically produced items and equipment acquired from the US, either as secondhand or direct acquisitions; Taiwan's domestic defense industry produces weapons systems such as aircraft, armored vehicles, missiles, and naval platforms (2024)",
+            "subfields": [
+              {
+                "label": "Military equipment inventories and acquisitions",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "411",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Military equipment inventories and acquisitions",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Waste and recycling",
+            "data": "<strong>municipal solid waste generated annually:</strong> 7.336 million tons (2015 est.)<br><br><strong>percent of municipal solid waste recycled:</strong> 13.8% (2022 est.)",
+            "subfields": [
+              {
+                "label": "percent of municipal solid waste recycled",
+                "ranking": null
+              },
+              {
+                "label": "municipal solid waste generated annually",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "422",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "municipal solid waste generated annually",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "percent of municipal solid waste recycled",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Average household expenditures",
+            "data": "<strong>on food:</strong> 13.8% of household expenditures (2023 est.)<br><br><strong>on alcohol and tobacco:</strong> 2.5% of household expenditures (2023 est.)",
+            "subfields": [
+              {
+                "label": "on alcohol and tobacco",
+                "ranking": null
+              },
+              {
+                "label": "on food",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "423",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "on food",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "on alcohol and tobacco",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Coal",
+            "data": "<strong>production:</strong> 5.212 million metric tons (2023 est.)<br><br><strong>consumption:</strong> 64.609 million metric tons (2023 est.)<br><br><strong>exports:</strong> 47,000 metric tons (2023 est.)<br><br><strong>imports:</strong> 58.15 million metric tons (2023 est.)<br><br><strong>proven reserves:</strong> 1 million metric tons (2023 est.)",
+            "subfields": [
+              {
+                "label": "proven reserves",
+                "ranking": null
+              },
+              {
+                "label": "imports",
+                "ranking": null
+              },
+              {
+                "label": "exports",
+                "ranking": null
+              },
+              {
+                "label": "consumption",
+                "ranking": null
+              },
+              {
+                "label": "production",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "437",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "production",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "consumption",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "exports",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "imports",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "proven reserves",
+                    "position": 5
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Electricity generation sources",
+            "data": "<strong>fossil fuels:</strong> 84.2% of total installed capacity (2023 est.)<br><br><strong>nuclear:</strong> 6.4% of total installed capacity (2023 est.)<br><br><strong>solar:</strong> 4.6% of total installed capacity (2023 est.)<br><br><strong>wind:</strong> 2.2% of total installed capacity (2023 est.)<br><br><strong>hydroelectricity:</strong> 1.2% of total installed capacity (2023 est.)<br><br><strong>biomass and waste:</strong> 1.3% of total installed capacity (2023 est.)",
+            "subfields": [
+              {
+                "label": "biomass and waste",
+                "ranking": null
+              },
+              {
+                "label": "hydroelectricity",
+                "ranking": null
+              },
+              {
+                "label": "wind",
+                "ranking": null
+              },
+              {
+                "label": "solar",
+                "ranking": null
+              },
+              {
+                "label": "nuclear",
+                "ranking": null
+              },
+              {
+                "label": "fossil fuels",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "436",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "fossil fuels",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "nuclear",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "solar",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "wind",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "hydroelectricity",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "tide and wave",
+                    "position": 6
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "geothermal",
+                    "position": 7
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "biomass and waste",
+                    "position": 8
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Natural gas",
+            "data": "<strong>production:</strong> 60.761 million cubic meters (2023 est.)<br><br><strong>consumption:</strong> 27.222 billion cubic meters (2023 est.)<br><br><strong>imports:</strong> 26.997 billion cubic meters (2023 est.)<br><br><strong>proven reserves:</strong> 6.23 billion cubic meters (2021 est.)",
+            "subfields": [
+              {
+                "label": "imports",
+                "ranking": null
+              },
+              {
+                "label": "consumption",
+                "ranking": null
+              },
+              {
+                "label": "production",
+                "ranking": null
+              },
+              {
+                "label": "proven reserves",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "440",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "production",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "consumption",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "exports",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "imports",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "proven reserves",
+                    "position": 5
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Petroleum",
+            "data": "<strong>total petroleum production:</strong> 800 bbl/day (2023 est.)<br><br><strong>refined petroleum consumption:</strong> 954,000 bbl/day (2023 est.)<br><br><strong>crude oil estimated reserves:</strong> 2.38 million barrels (2021 est.)",
+            "subfields": [
+              {
+                "label": "refined petroleum consumption",
+                "ranking": null
+              },
+              {
+                "label": "total petroleum production",
+                "ranking": null
+              },
+              {
+                "label": "crude oil estimated reserves",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "438",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "total petroleum production",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "refined petroleum consumption",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "crude oil estimated reserves",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Gross reproduction rate",
+            "data": "0.54 (2024 est.)",
+            "subfields": [
+              {
+                "label": "Gross reproduction rate",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "448",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Gross reproduction rate",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Currently married women (ages 15-49)",
+            "data": "51% (2023 est.)",
+            "subfields": [
+              {
+                "label": "Currently married women (ages 15-49)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "447",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Currently married women (ages 15-49)",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Nuclear energy",
+            "data": "<strong>Number of operational nuclear reactors:</strong> 1 (2025)<br><br><strong>Net capacity of operational nuclear reactors:</strong> 0.94GW (2025 est.)<br><br><strong>Percent of total electricity production:</strong> 6.9% (2023 est.)<br><br><strong>Number of nuclear reactors permanently shut down:</strong> 5 (2025)",
+            "subfields": [
+              {
+                "label": "Number of nuclear reactors permanently shut down",
+                "ranking": null
+              },
+              {
+                "label": "Net capacity of operational nuclear reactors",
+                "ranking": null
+              },
+              {
+                "label": "Number of operational nuclear reactors",
+                "ranking": null
+              },
+              {
+                "label": "Percent of total electricity production",
+                "ranking": null
+              },
+              {
+                "label": "Number of nuclear reactors under construction",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "452",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Number of operational nuclear reactors",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Number of nuclear reactors under construction",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Net capacity of operational nuclear reactors",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Percent of total electricity production",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Number of nuclear reactors permanently shut down",
+                    "position": 5
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Space launch site(s)",
+            "data": "sounding rockets launched from Jui Peng Air Base (Pingtung); has announced intentions to build a future national space port on the southeast coast (Pingtung) (2025)",
+            "subfields": [
+              {
+                "label": "Space launch site(s)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "456",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Space launch site(s)",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Space agency/agencies",
+            "data": "Taiwan Space Agency (TASA; renamed and reorganized in 2023 from the former National Space Program Organization or NSPO, which was established in 1991) (2025)",
+            "subfields": [
+              {
+                "label": "Space agency/agencies",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "455",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Space agency/agencies",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Ports",
+            "data": "<strong>total ports:</strong> 8 (2024)<br><br><strong>large:</strong> 1<br><br><strong>medium:</strong> 3<br><br><strong>small:</strong> 2<br><br><strong>very small:</strong> 2<br><br><strong>ports with oil terminals:</strong> 8<br><br><strong>key ports:</strong> Chi-Lung, Hua-Lien Kang, Kao-Hsiung, Su-Ao",
+            "subfields": [
+              {
+                "label": "total ports",
+                "ranking": null
+              },
+              {
+                "label": "key ports",
+                "ranking": null
+              },
+              {
+                "label": "ports with oil terminals",
+                "ranking": null
+              },
+              {
+                "label": "very small",
+                "ranking": null
+              },
+              {
+                "label": "small",
+                "ranking": null
+              },
+              {
+                "label": "medium",
+                "ranking": null
+              },
+              {
+                "label": "large",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "465",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "total ports",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "large",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "medium",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "small",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "very small",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "size unknown",
+                    "position": 6
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "ports with oil terminals",
+                    "position": 7
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "key ports",
+                    "position": 8
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "National color(s)",
+            "data": "blue, white, red",
+            "subfields": [
+              {
+                "label": "National color(s)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "470",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "National color(s)",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Net migration rate",
+            "data": "1.1 migrant(s)/1,000 population (2024 est.)",
+            "subfields": [
+              {
+                "label": "total net migration rate",
+                "ranking": 66
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "347",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total net migration rate",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Median age",
+            "data": "<strong>total:</strong> 44.6 years (2024 est.)<br><br><strong>male:</strong> 43.6 years<br><br><strong>female:</strong> 45.5 years",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": 29
+              },
+              {
+                "label": "female",
+                "ranking": null
+              },
+              {
+                "label": "male",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "343",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "male",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "female",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Public debt",
+            "data": "35.7% of GDP (2017 est.)<br><br><strong>note:</strong> data for central government",
+            "subfields": [
+              {
+                "label": "Public debt 2017",
+                "ranking": 150
+              },
+              {
+                "label": "Public debt 2016",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "227",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Public debt",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Total fertility rate",
+            "data": "1.11 children born/woman (2024 est.)",
+            "subfields": [
+              {
+                "label": "total fertility rate",
+                "ranking": 227
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "356",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total fertility rate",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Unemployment rate",
+            "data": "3.4% (2024 est.)<br>3.5% (2023 est.)<br>3.7% (2022 est.)<br><br><strong>note:</strong> % of labor force seeking employment",
+            "subfields": [
+              {
+                "label": "Unemployment rate 2024",
+                "ranking": 54
+              },
+              {
+                "label": "Unemployment rate 2023",
+                "ranking": null
+              },
+              {
+                "label": "Unemployment rate 2022",
+                "ranking": null
+              },
+              {
+                "label": "Unemployment rate 2019",
+                "ranking": null
+              },
+              {
+                "label": "Unemployment rate 2018",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "220",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Unemployment rate",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Population",
+            "data": "<strong>total:</strong> 23,595,274 (2024 est.)<br><br><strong>male:</strong> 11,606,491<br><br><strong>female:</strong> 11,988,783",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": 58
+              },
+              {
+                "label": "female",
+                "ranking": 57
+              },
+              {
+                "label": "male",
+                "ranking": 58
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "335",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "male",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "female",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Carbon dioxide emissions",
+            "data": "289.109 million metric tonnes of CO2 (2023 est.)<br><br><strong>from coal and metallurgical coke:</strong> 140.734 million metric tonnes of CO2 (2023 est.)<br><br><strong>from petroleum and other liquids:</strong> 92.014 million metric tonnes of CO2 (2023 est.)<br><br><strong>from consumed natural gas:</strong> 56.361 million metric tonnes of CO2 (2023 est.)",
+            "subfields": [
+              {
+                "label": "from consumed natural gas",
+                "ranking": null
+              },
+              {
+                "label": "from petroleum and other liquids",
+                "ranking": null
+              },
+              {
+                "label": "from coal and metallurgical coke",
+                "ranking": null
+              },
+              {
+                "label": "total emissions",
+                "ranking": 22
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "274",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total emissions",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "from coal and metallurgical coke",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "from petroleum and other liquids",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "from consumed natural gas",
+                    "position": 4
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Area",
+            "data": "<strong>total :</strong> 35,980 sq km<br><br><strong>land:</strong> 32,260 sq km<br><br><strong>water:</strong> 3,720 sq km<br><br><strong>note:</strong> includes the Pescadores, Matsu, and Kinmen islands",
+            "subfields": [
+              {
+                "label": "water",
+                "ranking": null
+              },
+              {
+                "label": "land",
+                "ranking": null
+              },
+              {
+                "label": "total ",
+                "ranking": 138
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "279",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total ",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "land",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "water",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "rank by area (sq km)",
+                    "position": 4
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Real GDP (purchasing power parity)",
+            "data": "$1.743 trillion (2023 est.)<br>$1.664 trillion (2022 est.)<br>$1.512 trillion (2021 est.)",
+            "subfields": [
+              {
+                "label": "Real GDP (purchasing power parity) 2023",
+                "ranking": 19
+              },
+              {
+                "label": "Real GDP (purchasing power parity) 2022",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP (purchasing power parity) 2021",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP (purchasing power parity) 2019",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP (purchasing power parity) 2018",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP (purchasing power parity) 2017",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "208",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Real GDP (purchasing power parity)",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Airports",
+            "data": "57 (2025)",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": 80
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "379",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Infant mortality rate",
+            "data": "<strong>total:</strong> 3.8 deaths/1,000 live births (2024 est.)<br><br><strong>male:</strong> 4.2 deaths/1,000 live births<br><br><strong>female:</strong> 3.5 deaths/1,000 live births",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": 191
+              },
+              {
+                "label": "female",
+                "ranking": null
+              },
+              {
+                "label": "male",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "354",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "male",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "female",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Telephones - mobile cellular",
+            "data": "<strong>total subscriptions:</strong> 30 million (2023 est.)<br><br><strong>subscriptions per 100 inhabitants:</strong> 128 (2023 est.)",
+            "subfields": [
+              {
+                "label": "subscriptions per 100 inhabitants",
+                "ranking": null
+              },
+              {
+                "label": "total subscriptions",
+                "ranking": 48
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "197",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total subscriptions",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "subscriptions per 100 inhabitants",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Gini Index coefficient - distribution of family income",
+            "data": "33.9 (2023 est.)<br><br><strong>note:</strong> index (0-100) of income distribution; higher values represent greater inequality",
+            "subfields": [
+              {
+                "label": "Gini Index coefficient - distribution of family income 2023",
+                "ranking": 87
+              },
+              {
+                "label": "Gini Index coefficient - distribution of family income 2022",
+                "ranking": null
+              },
+              {
+                "label": "Gini Index coefficient - distribution of family income 2021",
+                "ranking": null
+              },
+              {
+                "label": "Gini Index coefficient - distribution of family income 2014",
+                "ranking": null
+              },
+              {
+                "label": "Gini Index coefficient - distribution of family income 2000",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "223",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Gini Index coefficient - distribution of family income",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Inflation rate (consumer prices)",
+            "data": "2.2% (2024 est.)<br>2.5% (2023 est.)<br>2.9% (2022 est.)<br><br><strong>note:</strong> annual % change based on consumer prices",
+            "subfields": [
+              {
+                "label": "Inflation rate (consumer prices) 2024",
+                "ranking": 59
+              },
+              {
+                "label": "Inflation rate (consumer prices) 2023",
+                "ranking": null
+              },
+              {
+                "label": "Inflation rate (consumer prices) 2022",
+                "ranking": null
+              },
+              {
+                "label": "Inflation rate (consumer prices) 2021",
+                "ranking": null
+              },
+              {
+                "label": "Inflation rate (consumer prices) 2020",
+                "ranking": null
+              },
+              {
+                "label": "Inflation rate (consumer prices) 2019",
+                "ranking": null
+              },
+              {
+                "label": "Inflation rate (consumer prices) 2018",
+                "ranking": null
+              },
+              {
+                "label": "Inflation rate (consumer prices) 2017",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "229",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Inflation rate (consumer prices)",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Current account balance",
+            "data": "$105.076 billion (2023 est.)<br>$101.032 billion (2022 est.)<br>$118.298 billion (2021 est.)<br><br><strong>note:</strong> balance of payments - net trade and primary/secondary income in current dollars",
+            "subfields": [
+              {
+                "label": "Current account balance 2023",
+                "ranking": 5
+              },
+              {
+                "label": "Current account balance 2022",
+                "ranking": null
+              },
+              {
+                "label": "Current account balance 2021",
+                "ranking": null
+              },
+              {
+                "label": "Current account balance 2019",
+                "ranking": null
+              },
+              {
+                "label": "Current account balance 2018",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "238",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Current account balance",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Real GDP per capita",
+            "data": "$32,300 (2023 est.)<br>$32,600 (2022 est.)<br>$32,900 (2021 est.)<br><br><strong>note:</strong> data are in current dollars",
+            "subfields": [
+              {
+                "label": "Real GDP per capita 2023",
+                "ranking": 73
+              },
+              {
+                "label": "Real GDP per capita 2022",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP per capita 2021",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP per capita 2019",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP per capita 2018",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP per capita 2017",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP per capita 2016",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP per capita 2015",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP per capita 2014",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP per capita 2013",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP per capita 2012",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP per capita 2011",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP per capita 2010",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP per capita 2009",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP per capita 2008",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "211",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Real GDP per capita",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Broadband - fixed subscriptions",
+            "data": "<strong>total:</strong> 5,831,470 (2019 est.)<br><br><strong>subscriptions per 100 inhabitants:</strong> 25 (2019 est.)",
+            "subfields": [
+              {
+                "label": "subscriptions per 100 inhabitants",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": 33
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "206",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "subscriptions per 100 inhabitants",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Energy consumption per capita",
+            "data": "206.102 million Btu/person (2023 est.)",
+            "subfields": [
+              {
+                "label": "Total energy consumption per capita 2023",
+                "ranking": 18
+              },
+              {
+                "label": "Total energy consumption per capita 2022",
+                "ranking": null
+              },
+              {
+                "label": "Total energy consumption per capita 2019",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "441",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Total energy consumption per capita",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Death rate",
+            "data": "8.1 deaths/1,000 population (2024 est.)",
+            "subfields": [
+              {
+                "label": "total population death rate",
+                "ranking": 88
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "346",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total population death rate",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Birth rate",
+            "data": "7.3 births/1,000 population (2024 est.)",
+            "subfields": [
+              {
+                "label": "total population birth rate",
+                "ranking": 220
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "345",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total population birth rate",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Electricity",
+            "data": "<strong>installed generating capacity:</strong> 64.535 million kW (2023 est.)<br><br><strong>consumption:</strong> 270.648 billion kWh (2023 est.)<br><br><strong>transmission/distribution losses:</strong> 7.907 billion kWh (2023 est.)",
+            "subfields": [
+              {
+                "label": "transmission/distribution losses",
+                "ranking": 175
+              },
+              {
+                "label": "consumption",
+                "ranking": 18
+              },
+              {
+                "label": "installed generating capacity",
+                "ranking": 23
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "435",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "installed generating capacity",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "consumption",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "exports",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "imports",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "transmission/distribution losses",
+                    "position": 5
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Merchant marine",
+            "data": "<strong>total:</strong> 465 (2023)<br><br><strong>by type:</strong> bulk carrier 29, container ship 53, general cargo 58, oil tanker 35, other 290",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": 44
+              },
+              {
+                "label": "by type",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "387",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "by type",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Imports",
+            "data": "$351.441 billion (2023 est.)<br>$428.083 billion (2022 est.)<br>$381.958 billion (2021 est.)<br><br><strong>note:</strong> figures complied according to the General Trade System - imports of goods and services in current dollars",
+            "subfields": [
+              {
+                "label": "Imports 2023",
+                "ranking": 26
+              },
+              {
+                "label": "Imports 2022",
+                "ranking": null
+              },
+              {
+                "label": "Imports 2021",
+                "ranking": null
+              },
+              {
+                "label": "Imports 2019",
+                "ranking": null
+              },
+              {
+                "label": "Imports 2018",
+                "ranking": null
+              },
+              {
+                "label": "Imports 2017",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "242",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Imports",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Exports",
+            "data": "$432.432 billion (2023 est.)<br>$479.415 billion (2022 est.)<br>$446.371 billion (2021 est.)<br><br><strong>note:</strong> figures complied according to the General Trade System - exports of goods and services in current dollars",
+            "subfields": [
+              {
+                "label": "Exports 2023",
+                "ranking": 22
+              },
+              {
+                "label": "Exports 2022",
+                "ranking": null
+              },
+              {
+                "label": "Exports 2021",
+                "ranking": null
+              },
+              {
+                "label": "Exports 2019",
+                "ranking": null
+              },
+              {
+                "label": "Exports 2018",
+                "ranking": null
+              },
+              {
+                "label": "Exports 2017",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "239",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Exports",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Heliports",
+            "data": "56 (2025)",
+            "subfields": [
+              {
+                "label": "Heliports",
+                "ranking": 36
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "382",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Heliports",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Telephones - fixed lines",
+            "data": "<strong>total subscriptions:</strong> 10 million (2023 est.)<br><br><strong>subscriptions per 100 inhabitants:</strong> 43 (2023 est.)",
+            "subfields": [
+              {
+                "label": "subscriptions per 100 inhabitants",
+                "ranking": null
+              },
+              {
+                "label": "total subscriptions",
+                "ranking": 17
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "196",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total subscriptions",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "subscriptions per 100 inhabitants",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Life expectancy at birth",
+            "data": "<strong>total population:</strong> 81.6 years (2024 est.)<br><br><strong>male:</strong> 78.6 years<br><br><strong>female:</strong> 84.7 years",
+            "subfields": [
+              {
+                "label": "total population",
+                "ranking": 43
+              },
+              {
+                "label": "female",
+                "ranking": null
+              },
+              {
+                "label": "male",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "355",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total population",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "male",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "female",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Real GDP growth rate",
+            "data": "1.28% (2023 est.)<br>2.59% (2022 est.)<br>6.62% (2021 est.)<br><br><strong>note:</strong> annual GDP % growth based on constant local currency",
+            "subfields": [
+              {
+                "label": "Real GDP growth rate 2023",
+                "ranking": 169
+              },
+              {
+                "label": "Real GDP growth rate 2022",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP growth rate 2021",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP growth rate 2019",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP growth rate 2018",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP growth rate 2017",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "210",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Real GDP growth rate",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Population growth rate",
+            "data": "0.03% (2024 est.)",
+            "subfields": [
+              {
+                "label": "total population growth rate",
+                "ranking": 191
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "344",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total population growth rate",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Land use",
+            "data": "<strong>agricultural land:</strong> 22% (2023 est.)<br><br>arable land: 16.6% (2023 est.)<br><br>permanent crops: 5.4% (2023 est.)<br><br>permanent pasture: 0% (2022 est.)<br><br><strong>forest:</strong> 0% (2022 est.)<br><br><strong>other:</strong> 78% (2022 est.)",
+            "subfields": [
+              {
+                "label": "permanent crops",
+                "ranking": null
+              },
+              {
+                "label": "arable land",
+                "ranking": null
+              },
+              {
+                "label": "agricultural land",
+                "ranking": null
+              },
+              {
+                "label": "forest",
+                "ranking": null
+              },
+              {
+                "label": "permanent pasture",
+                "ranking": null
+              },
+              {
+                "label": "other",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "288",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "agricultural land",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "agricultural land: arable land",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "agricultural land: permanent crops",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "agricultural land: permanent pasture",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "forest",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "other",
+                    "position": 6
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Space program overview",
+            "data": "has had a national space program since the early 1990s, with a focus on acquiring satellites and developing independent space capabilities, such as rocket manufacturing and satellite launch services; manufactures and operates satellites and sounding rockets; researching and developing other space technologies, including remote sensing, telecommunications, small satellites, satellite payloads and ground station components, spacecraft components, navigational control, and rocket propulsion systems; has bilateral relations with the space programs of France, India, Japan, Paraguay, Poland, the UK, and the US; has a commercial space industry that provides components and expertise for the Taiwan Space Agency and is independently developing satellites and a small satellite launch vehicle; the government passed a space promotion act in 2021 to encourage private investment in the space industry (2025)",
+            "subfields": [
+              {
+                "label": "Space programs overview",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "457",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Space programs overview",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Administrative divisions",
+            "data": "includes main island of Taiwan, plus smaller islands nearby and off coast of China's Fujian Province; Taiwan is divided into 13 counties (<em>xian</em>, singular and plural), 3 cities (<em>shi</em>, singular and plural), and 6 special municipalities directly under the jurisdiction of the Executive Yuan <br /><br /><strong>counties:</strong> Changhua, Chiayi, Hsinchu, Hualien, Kinmen, Lienchiang, Miaoli, Nantou, Penghu, Pingtung, Taitung, Yilan, Yunlin <br /><br /><strong>cities:</strong> Chiayi, Hsinchu, Keelung <br /><br /><strong>special municipalities:</strong> Kaohsiung (city), New Taipei (city), Taichung (city), Tainan (city), Taipei (city), Taoyuan (city)<br><br><strong>note:</strong> Taiwan uses a variety of romanization systems for names; a modified Wade-Giles system still dominates, but the city of Taipei has adopted a Pinyin romanization for street and place names; other local authorities use different romanization systems",
+            "subfields": [
+              {
+                "label": "Administrative divisions",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "302",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Administrative divisions",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Key space-program milestones",
+            "data": "1997 - launched first sounding rocket<br /><br />1999 - first scientific satellite (FORMOSAT-1) built and launched by the US<br /><br />2004 - first remote sensing (RS) satellite (FORMOSAT-2) built by France and launched by US<br /><br />2017 - first domestically built RS satellite (FORMOSAT-5) launched by US&nbsp;<br /><br />2021 - initiated development of a commercial 3-stage, hybrid-engine rocket (Hapith-5)<br /><br />2023 - first domestically made RS/meteorological satellite (FormoSat-7R/Triton) launched on European rocket",
+            "subfields": [
+              {
+                "label": "key events",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "471",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "key events",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          }
+        ]
+      },
+      "travelFact": {
+        "placeName": "Taiwan"
+      },
+      "rep": {
+        "seo": {
+          "metaDesc": "",
+          "title": "$title - The World Factbook",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": null
+        }
+      }
+    },
+    "pageContext": {
+      "id": "a16d51d3-085c-51a3-8d5d-15585cb7c2d3",
+      "placeCode": "TW",
+      "uriBase": "/countries/"
+    }
+  },
+  "staticQueryHashes": [
+    "2962548448",
+    "3419350533",
+    "4121375890",
+    "4279206597",
+    "800385335"
+  ],
+  "slicesMap": {}
+}

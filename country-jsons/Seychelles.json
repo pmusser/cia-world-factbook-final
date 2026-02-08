@@ -1,0 +1,5645 @@
+{
+  "componentChunkName": "component---src-templates-country-js",
+  "path": "/countries/seychelles/",
+  "result": {
+    "data": {
+      "country": {
+        "name": "Seychelles",
+        "region": "Africa",
+        "locations": [
+          "place",
+          "summary"
+        ],
+        "updated": "January 05, 2026",
+        "rank": true,
+        "flag": {
+          "childImageSharp": {
+            "gatsbyImageData": {
+              "layout": "fullWidth",
+              "images": {
+                "fallback": {
+                  "src": "/the-world-factbook/static/58d8944095c6cc912107f37ebeb56df7/201b0/SE-flag.jpg",
+                  "srcSet": "/the-world-factbook/static/58d8944095c6cc912107f37ebeb56df7/201b0/SE-flag.jpg 500w",
+                  "sizes": "100vw"
+                },
+                "sources": [
+                  {
+                    "srcSet": "/the-world-factbook/static/58d8944095c6cc912107f37ebeb56df7/56f53/SE-flag.webp 500w",
+                    "type": "image/webp",
+                    "sizes": "100vw"
+                  }
+                ]
+              },
+              "width": 1,
+              "height": 0.48800000000000004
+            }
+          }
+        },
+        "map": {
+          "childImageSharp": {
+            "gatsbyImageData": {
+              "layout": "fullWidth",
+              "images": {
+                "fallback": {
+                  "src": "/the-world-factbook/static/b03515397401cc6617393cefd793579a/94c48/SE-map.jpg",
+                  "srcSet": "/the-world-factbook/static/b03515397401cc6617393cefd793579a/27504/SE-map.jpg 750w,\n/the-world-factbook/static/b03515397401cc6617393cefd793579a/da3f9/SE-map.jpg 1080w,\n/the-world-factbook/static/b03515397401cc6617393cefd793579a/bccbf/SE-map.jpg 1366w,\n/the-world-factbook/static/b03515397401cc6617393cefd793579a/94c48/SE-map.jpg 1920w",
+                  "sizes": "100vw"
+                },
+                "sources": [
+                  {
+                    "srcSet": "/the-world-factbook/static/b03515397401cc6617393cefd793579a/b76c4/SE-map.webp 750w,\n/the-world-factbook/static/b03515397401cc6617393cefd793579a/fd406/SE-map.webp 1080w,\n/the-world-factbook/static/b03515397401cc6617393cefd793579a/50481/SE-map.webp 1366w,\n/the-world-factbook/static/b03515397401cc6617393cefd793579a/7b1d2/SE-map.webp 1920w",
+                    "type": "image/webp",
+                    "sizes": "100vw"
+                  }
+                ]
+              },
+              "width": 1,
+              "height": 0.7515624999999999
+            }
+          }
+        },
+        "locatorMap": {
+          "childImageSharp": {
+            "gatsbyImageData": {
+              "layout": "fullWidth",
+              "images": {
+                "fallback": {
+                  "src": "/the-world-factbook/static/e69ae0e2ab74a490fa094e956a9365b1/88f2a/SE-locator-map.jpg",
+                  "srcSet": "/the-world-factbook/static/e69ae0e2ab74a490fa094e956a9365b1/88f2a/SE-locator-map.jpg 511w",
+                  "sizes": "100vw"
+                },
+                "sources": [
+                  {
+                    "srcSet": "/the-world-factbook/static/e69ae0e2ab74a490fa094e956a9365b1/32115/SE-locator-map.webp 511w",
+                    "type": "image/webp",
+                    "sizes": "100vw"
+                  }
+                ]
+              },
+              "width": 1,
+              "height": 0.9726027397260274
+            }
+          }
+        },
+        "images": [
+          {
+            "altText": "The Aldabra Atoll is one of the largest atolls in the world and, with the world’s largest population of tortoises, an important natural habitat for scientific study. The atoll is 30.5 km (19 mi) long and 13 km (8 mi) wide, with four large coral islands and a shallow lagoon surrounded by a coral reef. First discovered by Arab sailors in 916 A.D., the name originates from the Arabic word al-khadra, meaning “the green” and referencing the lagoon’s green reflection on the clouds. Pictured are coral “mushrooms” on the atoll.",
+            "caption": "The Aldabra Atoll  is one of the largest atolls in the world and, with the world’s largest population of tortoises, an important natural habitat for scientific study. The atoll is 30.5 km (19 mi) long and 13 km (8 mi) wide, with four large coral islands and a shallow lagoon surrounded by a coral reef. First discovered by Arab sailors in 916 A.D., the name originates from the Arabic word al-khadra, meaning “the green” and referencing the lagoon’s green reflection on the clouds. Pictured are coral “mushrooms” on the atoll.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/bdb84c0a7efe3e32e71c6e04e0f2a747/ab090/Aldabra_Atoll_coral_mushrooms2.jpg",
+                      "srcSet": "/the-world-factbook/static/bdb84c0a7efe3e32e71c6e04e0f2a747/54550/Aldabra_Atoll_coral_mushrooms2.jpg 750w,\n/the-world-factbook/static/bdb84c0a7efe3e32e71c6e04e0f2a747/ab090/Aldabra_Atoll_coral_mushrooms2.jpg 1000w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/bdb84c0a7efe3e32e71c6e04e0f2a747/bb3c2/Aldabra_Atoll_coral_mushrooms2.webp 750w,\n/the-world-factbook/static/bdb84c0a7efe3e32e71c6e04e0f2a747/7c38f/Aldabra_Atoll_coral_mushrooms2.webp 1000w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.6950000000000001
+                }
+              }
+            }
+          }
+        ],
+        "special": []
+      },
+      "fields": {
+        "nodes": [
+          {
+            "name": "Diplomatic representation from the US",
+            "data": "<strong>chief of mission:</strong> Ambassador Henry V. JARDINE (since 22 February 2023) and Charg&eacute; d&rsquo;Affaires Adham LOUTFI (since 6 October 2023); note - Ambassador JARDINE is posted in Mauritius and is accredited to Seychelles, and Charg&eacute; d&rsquo;Affaires LOUTFI is posted in Victoria, Mahe, Seychelles<br><br><strong>embassy:</strong> 2nd Floor, Oliaji Trade Center, Victoria Mahe, Seychelles; note - US Embassy in Seychelles reopened on 1 June 2023 after having been closed in 1996<br><br><strong>telephone:</strong> [248] 422 5256<br><br><strong>email address and website:</strong> <br />USEmbassySeychelles@state.gov<br /><br /><a href=\"https://sc.usembassy.gov/\">https://sc.usembassy.gov/</a>",
+            "subfields": [
+              {
+                "label": "email address and website",
+                "ranking": null
+              },
+              {
+                "label": "consulate(s)",
+                "ranking": null
+              },
+              {
+                "label": "branch office(s)",
+                "ranking": null
+              },
+              {
+                "label": "consulate(s) general",
+                "ranking": null
+              },
+              {
+                "label": "FAX",
+                "ranking": null
+              },
+              {
+                "label": "telephone",
+                "ranking": null
+              },
+              {
+                "label": "mailing address",
+                "ranking": null
+              },
+              {
+                "label": "embassy",
+                "ranking": null
+              },
+              {
+                "label": "chief of mission",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "319",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "chief of mission",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "embassy",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "mailing address",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "telephone",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "FAX",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "email address and website",
+                    "position": 6
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "consulate(s) general",
+                    "position": 7
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "branch office(s)",
+                    "position": 8
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "consulate(s)",
+                    "position": 9
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "consular agent",
+                    "position": 10
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "office",
+                    "position": 11
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "other offices",
+                    "position": 12
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Age structure",
+            "data": "<strong>0-14 years:</strong> 17.7% (male 8,912/female 8,439)<br><br><strong>15-64 years:</strong> 72.4% (male 37,841/female 33,210)<br><br><strong>65 years and over:</strong> 10% (2024 est.) (male 4,220/female 5,565)",
+            "subfields": [
+              {
+                "label": "65 years and over",
+                "ranking": null
+              },
+              {
+                "label": "15-64 years",
+                "ranking": null
+              },
+              {
+                "label": "0-14 years",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "341",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "0-14 years",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "15-64 years",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "65 years and over",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": [
+              {
+                "type": "image",
+                "label": "2024 population pyramid",
+                "altText": "This is the population pyramid for Seychelles. A population pyramid illustrates the age and sex structure of a country's population and may provide insights about political and social stability, as well as economic development. The population is distributed along the horizontal axis, with males shown on the left and females on the right. The male and female populations are broken down into 5-year age groups represented as horizontal bars along the vertical axis, with the youngest age groups at the bottom and the oldest at the top. The shape of the population pyramid gradually evolves over time based on fertility, mortality, and international migration trends. <br/><br/>For additional information, please see the entry for Population pyramid on the Definitions and Notes page.",
+                "caption": "This is the population pyramid for Seychelles. A population pyramid illustrates the age and sex structure of a country's population and may provide insights about political and social stability, as well as economic development. The population is distributed along the horizontal axis, with males shown on the left and females on the right. The male and female populations are broken down into 5-year age groups represented as horizontal bars along the vertical axis, with the youngest age groups at the bottom and the oldest at the top. The shape of the population pyramid gradually evolves over time based on fertility, mortality, and international migration trends. <br/><br/>For additional information, please see the entry for Population pyramid on the Definitions and Notes page.",
+                "localFile": {
+                  "publicURL": "/the-world-factbook/static/3502e3314b0238b437985e3ab1d2f07b/se_popgraph2024.jpeg",
+                  "childImageSharp": {
+                    "gatsbyImageData": {
+                      "layout": "constrained",
+                      "images": {
+                        "fallback": {
+                          "src": "/the-world-factbook/static/3502e3314b0238b437985e3ab1d2f07b/60be0/se_popgraph2024.jpg",
+                          "srcSet": "/the-world-factbook/static/3502e3314b0238b437985e3ab1d2f07b/a2e79/se_popgraph2024.jpg 245w,\n/the-world-factbook/static/3502e3314b0238b437985e3ab1d2f07b/d9c3e/se_popgraph2024.jpg 490w,\n/the-world-factbook/static/3502e3314b0238b437985e3ab1d2f07b/60be0/se_popgraph2024.jpg 980w",
+                          "sizes": "(min-width: 980px) 980px, 100vw"
+                        },
+                        "sources": []
+                      },
+                      "width": 980,
+                      "height": 600
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "name": "Geographic coordinates",
+            "data": "4 35 S, 55 40 E",
+            "subfields": [
+              {
+                "label": "Geographic coordinates",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "277",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Geographic coordinates",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Sex ratio",
+            "data": "<strong>at birth:</strong> 1.03 male(s)/female<br><br><strong>0-14 years:</strong> 1.06 male(s)/female<br><br><strong>15-64 years:</strong> 1.14 male(s)/female<br><br><strong>65 years and over:</strong> 0.76 male(s)/female<br><br><strong>total population:</strong> 1.08 male(s)/female (2024 est.)",
+            "subfields": [
+              {
+                "label": "total population",
+                "ranking": null
+              },
+              {
+                "label": "65 years and over",
+                "ranking": null
+              },
+              {
+                "label": "15-64 years",
+                "ranking": null
+              },
+              {
+                "label": "0-14 years",
+                "ranking": null
+              },
+              {
+                "label": "at birth",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "351",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "at birth",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "0-14 years",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "15-64 years",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "65 years and over",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "total population",
+                    "position": 5
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Natural hazards",
+            "data": "lies outside the cyclone belt, so severe storms are rare; occasional short droughts",
+            "subfields": [
+              {
+                "label": "Natural hazards",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "292",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Natural hazards",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Area - comparative",
+            "data": "2.5 times the size of Washington, D.C.",
+            "subfields": [
+              {
+                "label": "Area - comparative",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "280",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Area - comparative",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": [
+              {
+                "type": "image",
+                "label": "Area comparison map",
+                "altText": "<p>2.5 times the size of Washington, DC</p>",
+                "caption": "<p>2.5 times the size of Washington, DC</p>",
+                "localFile": {
+                  "publicURL": "/the-world-factbook/static/22b47c52f48b8e969b6e4db3cbfa56d9/SE_area.jpg",
+                  "childImageSharp": {
+                    "gatsbyImageData": {
+                      "layout": "constrained",
+                      "images": {
+                        "fallback": {
+                          "src": "/the-world-factbook/static/22b47c52f48b8e969b6e4db3cbfa56d9/66a5e/SE_area.jpg",
+                          "srcSet": "/the-world-factbook/static/22b47c52f48b8e969b6e4db3cbfa56d9/560dc/SE_area.jpg 128w,\n/the-world-factbook/static/22b47c52f48b8e969b6e4db3cbfa56d9/63229/SE_area.jpg 256w,\n/the-world-factbook/static/22b47c52f48b8e969b6e4db3cbfa56d9/66a5e/SE_area.jpg 512w",
+                          "sizes": "(min-width: 512px) 512px, 100vw"
+                        },
+                        "sources": []
+                      },
+                      "width": 512,
+                      "height": 600
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "name": "Military service age and obligation",
+            "data": "18-28 (18-25 for officers) years of age for voluntary military service for men and women; 6-year initial commitment; no conscription (2023)",
+            "subfields": [
+              {
+                "label": "Military service age and obligation",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "333",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Military service age and obligation",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Background",
+            "data": "<p>Seychelles was uninhabited before Europeans discovered the islands early in the 16th century. After a lengthy struggle, France eventually ceded control of the islands to Great Britain in 1814. During colonial rule, a plantation-based economy developed that relied on imported labor, primarily from European colonies in Africa. Seychelles gained independence in 1976 through negotiations with Great Britain. In 1977, Prime Minister France-Albert RENE launched a coup against the country&rsquo;s first president, and Seychelles became a socialist one-party state until adopting a new constitution and holding elections in 1993. RENE continued to lead Seychelles through two election cycles until he stepped down in 2004. Vice President James Alix MICHEL took over the presidency and in 2006 was elected to a new five-year term; he was reelected in 2011 and again in 2015. In 2016, James MICHEL resigned and handed over the presidency to his vice-president, Danny FAURE. In 2020, Wavel RAMKALAWAN was elected president, the first time an opposition candidate has won the presidency.</p>",
+            "subfields": [
+              {
+                "label": "Summary",
+                "ranking": null
+              },
+              {
+                "label": "Background",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "325",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Background",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Summary",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Environmental issues",
+            "data": "limited freshwater resources; water pollution; biodiversity",
+            "subfields": [
+              {
+                "label": "Environmental issues",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "293",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Environmental issues",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "International environmental agreements",
+            "data": "<strong>party to:</strong> Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br><br><strong>signed, but not ratified:</strong> none of the selected agreements",
+            "subfields": [
+              {
+                "label": "signed, but not ratified",
+                "ranking": null
+              },
+              {
+                "label": "party to",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "294",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "party to",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "signed, but not ratified",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Military expenditures",
+            "data": "1.5% of GDP (2024 est.)<br>1.6% of GDP (2023 est.)<br>1.4% of GDP (2022 est.)<br>1.5% of GDP (2021 est.)<br>1.6% of GDP (2020 est.)",
+            "subfields": [
+              {
+                "label": "Military Expenditures 2024",
+                "ranking": null
+              },
+              {
+                "label": "Military Expenditures 2023",
+                "ranking": null
+              },
+              {
+                "label": "Military Expenditures 2022",
+                "ranking": null
+              },
+              {
+                "label": "Military Expenditures 2021",
+                "ranking": null
+              },
+              {
+                "label": "Military Expenditures 2020",
+                "ranking": null
+              },
+              {
+                "label": "Military Expenditures 2019",
+                "ranking": null
+              },
+              {
+                "label": "Military Expenditures 2018",
+                "ranking": null
+              },
+              {
+                "label": "Military Expenditures 2017",
+                "ranking": null
+              },
+              {
+                "label": "Military Expenditures 2016",
+                "ranking": null
+              },
+              {
+                "label": "Military Expenditures 2015",
+                "ranking": null
+              },
+              {
+                "label": "Military Expenditures 2014",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "330",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Military Expenditures",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Population below poverty line",
+            "data": "25.3% (2018 est.)<br><br><b>note:</b> % of population with income below national poverty line",
+            "subfields": [
+              {
+                "label": "population",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "221",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "population",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Household income or consumption by percentage share",
+            "data": "<strong>lowest 10%:</strong> 2.6% (2018 est.)<br><br><strong>highest 10%:</strong> 23.9% (2018 est.)<br><br><b>note:</b> % share of income accruing to lowest and highest 10% of population",
+            "subfields": [
+              {
+                "label": "highest 10%",
+                "ranking": null
+              },
+              {
+                "label": "lowest 10%",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "222",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "lowest 10%",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "highest 10%",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Exports - commodities",
+            "data": "fish, scrap iron, animal meal, broadcasting equipment, ships (2023)<br><br><b>note:</b> top five export commodities based on value in dollars",
+            "subfields": [
+              {
+                "label": "Exports - commodities",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "240",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Exports - commodities",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Exports - partners",
+            "data": "France 20%, Mauritius 12%, UK 9%, Japan 8%, Italy 8% (2023)<br><br><b>note:</b> top five export partners based on percentage share of exports",
+            "subfields": [
+              {
+                "label": "Exports - partners",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "241",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Exports - partners",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Administrative divisions",
+            "data": "27 administrative districts; Anse aux Pins, Anse Boileau, Anse Etoile, Anse Royale, Au Cap, Baie Lazare, Baie Sainte Anne, Beau Vallon, Bel Air, Bel Ombre, Cascade, Glacis, Grand Anse Mahe, Grand Anse Praslin, Ile Pers&eacute;v&eacute;rance I, Ile Pers&eacute;v&eacute;rance II, La Digue, La Rivi&egrave;re Anglaise, Les Mamelles, Mont Buxton, Mont Fleuri, Plaisance, Pointe Larue, Port Glaud, Roche Caiman, Saint Louis, Takamaka",
+            "subfields": [
+              {
+                "label": "Administrative divisions",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "302",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Administrative divisions",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Agricultural products",
+            "data": "coconuts, vegetables, bananas, eggs, chicken, pork, fruits, tomatoes, tropical fruits, cassava (2023)<br><br><b>note:</b> top ten agricultural products based on tonnage",
+            "subfields": [
+              {
+                "label": "Agricultural products",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "215",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Agricultural products",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Military and security forces",
+            "data": "Seychelles People's Defense Forces (SPDF; aka Seychelles Defense Forces, SDF): Army (includes infantry, special forces, and a presidential security unit), Coast Guard, and Air Force<br /><br />Ministry of Internal Affairs: Seychelles Police Force (2025)",
+            "subfields": [
+              {
+                "label": "Military branches",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "331",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Military branches",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Budget",
+            "data": "<strong>revenues:</strong> $695.973 million (2023 est.)<br><br><strong>expenditures:</strong> $728.171 million (2023 est.)<br><br><b>note:</b> central government revenues and expenditures (excluding grants and social security funds) converted to US dollars at average official exchange rate for year indicated",
+            "subfields": [
+              {
+                "label": "expenditures",
+                "ranking": null
+              },
+              {
+                "label": "revenues",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "224",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "revenues",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "expenditures",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Capital",
+            "data": "<strong>name:</strong> Victoria<br><br><strong>geographic coordinates:</strong> 4 37 S, 55 27 E<br><br><strong>time difference:</strong> UTC+4 (9 hours ahead of Washington, DC, during Standard Time)<br><br><strong>etymology:</strong> the British named the town Port Victoria in 1841 after Queen VICTORIA; the name was later shortened",
+            "subfields": [
+              {
+                "label": "etymology",
+                "ranking": null
+              },
+              {
+                "label": "time zone note",
+                "ranking": null
+              },
+              {
+                "label": "daylight saving time",
+                "ranking": null
+              },
+              {
+                "label": "time difference",
+                "ranking": null
+              },
+              {
+                "label": "geographic coordinates",
+                "ranking": null
+              },
+              {
+                "label": "name",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "301",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "name",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "geographic coordinates",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "time difference",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "daylight saving time",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "time zone note",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "etymology",
+                    "position": 6
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Imports - commodities",
+            "data": "refined petroleum, fish, ships, cars, plastic products (2023)<br><br><b>note:</b> top five import commodities based on value in dollars",
+            "subfields": [
+              {
+                "label": "Imports - commodities",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "243",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Imports - commodities",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Climate",
+            "data": "tropical marine; humid; cooler season during southeast monsoon (late May to September); warmer season during northwest monsoon (March to May)",
+            "subfields": [
+              {
+                "label": "Climate",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "284",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Climate",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "ten driest places on Earth (average annual precipitation)",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "ten wettest places on Earth (average annual precipitation)",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "ten coldest places on Earth (lowest average monthly temperature)",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "ten hottest places on Earth (highest average monthly temperature)",
+                    "position": 5
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Coastline",
+            "data": "491 km",
+            "subfields": [
+              {
+                "label": "Coastline",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "282",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Coastline",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Constitution",
+            "data": "<strong>history:</strong> previous 1970, 1979; latest drafted May 1993, approved by referendum 18 June 1993, effective 23 June 1993<br><br><strong>amendment process:</strong> proposed by the National Assembly; passage requires at least two-thirds majority vote by the National Assembly; passage of amendments affecting the country&rsquo;s sovereignty, symbols and languages, the supremacy of the constitution, fundamental rights and freedoms, amendment procedures, and dissolution of the Assembly also requires approval by at least 60% of voters in a referendum",
+            "subfields": [
+              {
+                "label": "amendment process",
+                "ranking": null
+              },
+              {
+                "label": "history",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "307",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "history",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "amendment process",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Exchange rates",
+            "data": "Seychelles rupees (SCR) per US dollar -<br><br><strong>Exchange rates:</strong><br>14.53 (2024 est.)<br>14.018 (2023 est.)<br>14.273 (2022 est.)<br>16.921 (2021 est.)<br>17.617 (2020 est.)",
+            "subfields": [
+              {
+                "label": "Exchange rates 2024",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2023",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2022",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2021",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2020",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2019",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2018",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2017",
+                "ranking": null
+              },
+              {
+                "label": "Currency",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "249",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Currency",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Exchange rates",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Executive branch",
+            "data": "<strong>chief of state:</strong> President Patrick HERMINIE (since 26 October 2025)<br><br><strong>head of government:</strong> President Patrick HERMINIE (since 26 October 2025)<br><br><strong>cabinet:</strong> Council of Ministers appointed by the president<br><br><strong>election/appointment process:</strong> president directly elected by absolute-majority popular vote in 2 rounds, if needed, for a 5-year term (eligible for a second term)<br><br><strong>most recent election date:</strong> 22-24 October 2020<br><br><strong>election results:</strong> <br /><em>2020</em>: Wavel RAMKALAWAN elected president; Wavel RAMKALAWAN (LDS) 54.9%, Danny FAURE (US) 43.5%, other 1.6%<br /><br /><em>2015</em>: &nbsp;President James Alix MICHEL reelected president in second round; percent of vote in first round - James Alix MICHEL (PL) 47.8%, Wavel RAMKALAWAN (SNP) 35.3%, other 16.9%; percent of vote in second round - James Alix MICHEL 50.2%, Wavel RAMKALAWAN 49.8%<br><br><strong>expected date of next election:</strong> 2025<br><br><strong>note: </strong>the president is both chief of state and head of government",
+            "subfields": [
+              {
+                "label": "expected date of next election",
+                "ranking": null
+              },
+              {
+                "label": "most recent election date",
+                "ranking": null
+              },
+              {
+                "label": "election results",
+                "ranking": null
+              },
+              {
+                "label": "election/appointment process",
+                "ranking": null
+              },
+              {
+                "label": "cabinet",
+                "ranking": null
+              },
+              {
+                "label": "head of government",
+                "ranking": null
+              },
+              {
+                "label": "chief of state",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "312",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "chief of state",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "head of government",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "cabinet",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "election/appointment process",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "most recent election date",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "election results",
+                    "position": 6
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "expected date of next election",
+                    "position": 7
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "state counsellor",
+                    "position": 11
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Executive branch",
+                    "position": 12
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Flag",
+            "data": "<strong>description:</strong> five expanding bands of blue, yellow, red, white, and green, radiating from the bottom left corner<br /><br /><strong>meaning:</strong> the bands symbolize a dynamic new country moving into the future; blue stands for the sky and sea, yellow for the sun giving light and life, red for the people's determination to work for the future in unity and love, white for social justice and harmony, and green for the land and natural environment",
+            "subfields": [
+              {
+                "label": "Flag description",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "320",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Flag description",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Independence",
+            "data": "29 June 1976 (from the UK)",
+            "subfields": [
+              {
+                "label": "Independence",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "305",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Independence",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Industries",
+            "data": "fishing, tourism, beverages",
+            "subfields": [
+              {
+                "label": "Industries",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "216",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Industries",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Judicial branch",
+            "data": "<strong>highest court(s):</strong> Seychelles Court of Appeal (consists of the court president and 4 justices); Supreme Court of Seychelles (consists of the chief justice and 9 puisne judges); Constitutional Court (consists of 3 Supreme Court judges)<br><br><strong>judge selection and term of office:</strong> all judges appointed by the president of the republic upon the recommendation of the Constitutional Appointments Authority, a 3-member body, with 1 member appointed by the president of the republic, 1 by the opposition leader in the National Assembly, and 1 by the other 2 appointees; judges serve until retirement at age 70<br><br><strong>subordinate courts:</strong> Magistrates' Courts of Seychelles; Family Tribunal for issues such as domestic violence, child custody, and maintenance; Employment Tribunal for labor-related disputes",
+            "subfields": [
+              {
+                "label": "subordinate courts",
+                "ranking": null
+              },
+              {
+                "label": "judge selection and term of office",
+                "ranking": null
+              },
+              {
+                "label": "highest court(s)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "314",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "highest court(s)",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "judge selection and term of office",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "subordinate courts",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Land boundaries",
+            "data": "<strong>total:</strong> 0 km",
+            "subfields": [
+              {
+                "label": "regional borders",
+                "ranking": null
+              },
+              {
+                "label": "border countries",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "281",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "total",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "border countries",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "border sovereign base areas",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "metropolitan France - total",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "French Guiana - total",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "regional borders",
+                    "position": 6
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Land use",
+            "data": "<strong>agricultural land:</strong> 3.4% (2023 est.)<br><br>arable land: 0.3% (2023 est.)<br><br>permanent crops: 3% (2023 est.)<br><br>permanent pasture: 0% (2022 est.)<br><br><strong>forest:</strong> 58.6% (2023 est.)<br><br><strong>other:</strong> 38% (2023 est.)",
+            "subfields": [
+              {
+                "label": "other",
+                "ranking": null
+              },
+              {
+                "label": "forest",
+                "ranking": null
+              },
+              {
+                "label": "permanent crops",
+                "ranking": null
+              },
+              {
+                "label": "arable land",
+                "ranking": null
+              },
+              {
+                "label": "agricultural land",
+                "ranking": null
+              },
+              {
+                "label": "permanent pasture",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "288",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "agricultural land",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "agricultural land: arable land",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "agricultural land: permanent crops",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "agricultural land: permanent pasture",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "forest",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "other",
+                    "position": 6
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Legal system",
+            "data": "mixed system of English common law, French civil law, and customary law",
+            "subfields": [
+              {
+                "label": "Legal system",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "308",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Legal system",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Legislative branch",
+            "data": "<strong>legislature name:</strong> National Assembly<br><br><strong>legislative structure:</strong> unicameral<br><br><strong>number of seats:</strong> 34 (all directly elected)<br><br><strong>electoral system:</strong> mixed system<br><br><strong>scope of elections:</strong> full renewal<br><br><strong>term in office:</strong> 5 years<br><br><strong>most recent election date:</strong> 9/27/2025<br><br><strong>parties elected and seats per party:</strong> United Seychelles (US) (19); Seychelles Democratic Alliance (Linyon Demokratik Seselwa, LDS) (15)<br><br><strong>percentage of women in chamber:</strong> 26.5%<br><br><strong>expected date of next election:</strong> September 2030",
+            "subfields": [
+              {
+                "label": "chamber name",
+                "ranking": null
+              },
+              {
+                "label": "expected date of next election",
+                "ranking": null
+              },
+              {
+                "label": "percentage of women in chamber",
+                "ranking": null
+              },
+              {
+                "label": "parties elected and seats per party",
+                "ranking": null
+              },
+              {
+                "label": "most recent election date",
+                "ranking": null
+              },
+              {
+                "label": "term in office",
+                "ranking": null
+              },
+              {
+                "label": "scope of elections",
+                "ranking": null
+              },
+              {
+                "label": "electoral system",
+                "ranking": null
+              },
+              {
+                "label": "number of seats",
+                "ranking": null
+              },
+              {
+                "label": "legislative structure",
+                "ranking": null
+              },
+              {
+                "label": "legislature name",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "313",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "legislature name",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "legislative structure",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "chamber name",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "number of seats",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "electoral system",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "scope of elections",
+                    "position": 6
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "term in office",
+                    "position": 7
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "most recent election date",
+                    "position": 8
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "parties elected and seats per party",
+                    "position": 9
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "percentage of women in chamber",
+                    "position": 10
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "expected date of next election",
+                    "position": 11
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Maritime claims",
+            "data": "<strong>territorial sea:</strong> 12 nm<br><br><strong>contiguous zone:</strong> 24 nm<br><br><strong>exclusive economic zone:</strong> 200 nm<br><br><strong>continental shelf:</strong> 200 nm or to the edge of the continental margin",
+            "subfields": [
+              {
+                "label": "continental shelf",
+                "ranking": null
+              },
+              {
+                "label": "exclusive economic zone",
+                "ranking": null
+              },
+              {
+                "label": "contiguous zone",
+                "ranking": null
+              },
+              {
+                "label": "territorial sea",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "283",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "territorial sea",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "contiguous zone",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "exclusive economic zone",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "continental shelf",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "exclusive fishing zone",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Environment (Protection and Preservation) Zone",
+                    "position": 6
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "International organization participation",
+            "data": "ACP, AfDB, AOSIS, AU, C, CD, COMESA, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, InOC, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MIGA, NAM, OIF, OPCW, SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO",
+            "subfields": [
+              {
+                "label": "International organization participation",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "317",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "International organization participation",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "National holiday",
+            "data": "Constitution Day, 18 June (1993); Independence Day (National Day), 29 June (1976)",
+            "subfields": [
+              {
+                "label": "National holiday",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "306",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "National holiday",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Nationality",
+            "data": "<strong>noun:</strong> Seychellois (singular and plural)<br><br><strong>adjective:</strong> Seychellois",
+            "subfields": [
+              {
+                "label": "adjective",
+                "ranking": null
+              },
+              {
+                "label": "noun",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "336",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "noun",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "adjective",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Natural resources",
+            "data": "fish, coconuts (copra), cinnamon trees",
+            "subfields": [
+              {
+                "label": "Natural resources",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "287",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Natural resources",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Geography - note",
+            "data": "the smallest African country in terms of both area and population; the constitution of the Republic of Seychelles lists 155 islands, including 42 granitic and 113 coralline; the largest island by far is Mahe, which is home to about 90% of the population and is the site of the capital city of Victoria",
+            "subfields": [
+              {
+                "label": "Geography - note",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "295",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Geography - note",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Economic overview",
+            "data": "high-income Indian Ocean island economy; rapidly growing tourism sector; major tuna exporter; offshore financial hub; environmentally fragile and investing in ocean rise mitigation; recently discovered offshore oil potential; successful anticorruption efforts",
+            "subfields": [
+              {
+                "label": "Summary",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "207",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Summary",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Political parties",
+            "data": "Seychelles Party for Social Justice and Democracy or SPSJD<br />Seychellois Democratic Alliance or LDS (Linyon Demokratik Seselwa/Union D&eacute;mocratique Seychelloise)<br />Seychelles National Party or SNP<br />United Seychelles or US",
+            "subfields": [
+              {
+                "label": "Political parties",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "315",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Political parties",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Suffrage",
+            "data": "18 years of age; universal",
+            "subfields": [
+              {
+                "label": "Suffrage",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "311",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Suffrage",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Terrain",
+            "data": "Mahe Group is volcanic with a narrow coastal strip and rocky, hilly interior; others are relatively flat coral atolls, or elevated reefs; sits atop the submarine Mascarene Plateau",
+            "subfields": [
+              {
+                "label": "terrain",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "285",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "terrain",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "top ten world caves",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Government type",
+            "data": "presidential republic",
+            "subfields": [
+              {
+                "label": "Government type",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "299",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Government type",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Country name",
+            "data": "<strong>conventional long form:</strong> Republic of Seychelles<br><br><strong>conventional short form:</strong> Seychelles<br><br><strong>local long form:</strong> Republic of Seychelles<br><br><strong>local short form:</strong> Seychelles<br><br><strong>etymology:</strong> named by French Captain Corneille Nicholas MORPHEY after Jean Moreau de S&Eacute;CHELLES, the finance minister of France, in 1756; the British changed the spelling of the name in 1815 when they acquired the islands",
+            "subfields": [
+              {
+                "label": "abbreviation",
+                "ranking": null
+              },
+              {
+                "label": "former",
+                "ranking": null
+              },
+              {
+                "label": "etymology",
+                "ranking": null
+              },
+              {
+                "label": "local short form",
+                "ranking": null
+              },
+              {
+                "label": "local long form",
+                "ranking": null
+              },
+              {
+                "label": "conventional short form",
+                "ranking": null
+              },
+              {
+                "label": "conventional long form",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "296",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "conventional long form",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "conventional short form",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "local long form",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "local short form",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "official long form",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "official short form",
+                    "position": 6
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "former",
+                    "position": 7
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "abbreviation",
+                    "position": 8
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "etymology",
+                    "position": 9
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Location",
+            "data": "archipelago in the Indian Ocean, northeast of Madagascar",
+            "subfields": [
+              {
+                "label": "Location",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "276",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Location",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Map references",
+            "data": "Africa",
+            "subfields": [
+              {
+                "label": "Map references",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "278",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Map references",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Irrigated land",
+            "data": "3 sq km (2012)",
+            "subfields": [
+              {
+                "label": "Irrigated land",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "289",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Irrigated land",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Internet users",
+            "data": "<strong>percent of population:</strong> 87% (2023 est.)",
+            "subfields": [
+              {
+                "label": "percent of population",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "204",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "percent of population",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Internet country code",
+            "data": ".sc",
+            "subfields": [
+              {
+                "label": "Internet country code",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "202",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Internet country code",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "GDP (official exchange rate)",
+            "data": "$2.167 billion (2024 est.)<br><br><b>note:</b> data in current dollars at official exchange rate",
+            "subfields": [
+              {
+                "label": "GDP (official exchange rate)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "209",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "GDP (official exchange rate)",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "School life expectancy (primary to tertiary education)",
+            "data": "<strong>total:</strong> 13 years (2023 est.)<br><br><strong>male:</strong> 13 years (2023 est.)<br><br><strong>female:</strong> 15 years (2023 est.)",
+            "subfields": [
+              {
+                "label": "female",
+                "ranking": null
+              },
+              {
+                "label": "male",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "371",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "total",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "male",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "female",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Urbanization",
+            "data": "<strong>urban population:</strong> 58.8% of total population (2023)<br><br><strong>rate of urbanization:</strong> 0.99% annual rate of change (2020-25 est.)",
+            "subfields": [
+              {
+                "label": "urban population",
+                "ranking": null
+              },
+              {
+                "label": "rate of urbanization",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "349",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "urban population",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "rate of urbanization",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Broadcast media",
+            "data": "state-run national broadcaster Seychelles Broadcasting Corporation (SBC) has the only terrestrial TV station, which also airs broadcasts from international services; privately owned Internet Protocol Television (IPTV) channel; multi-channel cable and satellite TV available through 2 providers; SBC operates 1 AM and 1 FM radio station; 2 privately operated radio stations; transmissions of 2 international broadcasters available in Victoria (2019)",
+            "subfields": [
+              {
+                "label": "Broadcast media",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "199",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Broadcast media",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Drinking water source",
+            "data": "<strong>improved:</strong><br><br>total: 96.4% of population (2022 est.)<br><br><strong>unimproved:</strong><br><br>total: 3.6% of population (2022 est.)",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": null
+              },
+              {
+                "label": "rural",
+                "ranking": null
+              },
+              {
+                "label": "urban",
+                "ranking": null
+              },
+              {
+                "label": "rural",
+                "ranking": null
+              },
+              {
+                "label": "urban",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "361",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "improved: urban",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "improved: rural",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "improved: total",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "unimproved: urban",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "unimproved: rural",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "unimproved: total",
+                    "position": 6
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "National anthem(s)",
+            "data": "<strong>title:</strong> \"Koste Seselwa\" (Seychellois Unite)<br><br><strong>lyrics/music:</strong> David Francois Marc ANDRE and George Charles Robert PAYET<br><br><strong>history:</strong> adopted 1996",
+            "subfields": [
+              {
+                "label": "history",
+                "ranking": null
+              },
+              {
+                "label": "history",
+                "ranking": null
+              },
+              {
+                "label": "lyrics/music",
+                "ranking": null
+              },
+              {
+                "label": "title",
+                "ranking": null
+              },
+              {
+                "label": "history",
+                "ranking": null
+              },
+              {
+                "label": "lyrics/music",
+                "ranking": null
+              },
+              {
+                "label": "title",
+                "ranking": null
+              },
+              {
+                "label": "lyrics/music",
+                "ranking": null
+              },
+              {
+                "label": "title",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "322",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "title",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "lyrics/music",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "history",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "title",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "lyrics/music",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "history",
+                    "position": 6
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "title",
+                    "position": 7
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "lyrics/music",
+                    "position": 8
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "history",
+                    "position": 9
+                  }
+                ]
+              }
+            ],
+            "media": [
+              {
+                "type": "audio",
+                "label": null,
+                "altText": "This is an audio of the National Anthem for Seychelles. The national anthem is generally a patriotic musical composition - usually in the form of a song or hymn of praise - that evokes and eulogizes the history, traditions, or struggles of a nation or its people. National anthems can be officially recognized as a national song by a country's constitution or by an enacted law, or simply by tradition. Although most anthems contain lyrics, some do not.",
+                "caption": "This is an audio of the National Anthem for Seychelles. The national anthem is generally a patriotic musical composition - usually in the form of a song or hymn of praise - that evokes and eulogizes the history, traditions, or struggles of a nation or its people. National anthems can be officially recognized as a national song by a country's constitution or by an enacted law, or simply by tradition. Although most anthems contain lyrics, some do not.",
+                "localFile": {
+                  "publicURL": "/the-world-factbook/static/11a0f488ecbc74efcbf29800f95768d0/SE.mp3",
+                  "childImageSharp": null
+                }
+              }
+            ]
+          },
+          {
+            "name": "Major urban areas - population",
+            "data": "28,000 VICTORIA (capital) (2018)",
+            "subfields": [
+              {
+                "label": "Major urban areas - population",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "350",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Major urban areas - population",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "International law organization participation",
+            "data": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction",
+            "subfields": [
+              {
+                "label": "International law organization participation",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "309",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "International law organization participation",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Physician density",
+            "data": "2.25 physicians/1,000 population (2019)",
+            "subfields": [
+              {
+                "label": "total physician density",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "359",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "total physician density",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Hospital bed density",
+            "data": "3.2 beds/1,000 population (2020 est.)",
+            "subfields": [
+              {
+                "label": "total hospital bed density",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "360",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "total hospital bed density",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "National symbol(s)",
+            "data": "coco de mer (sea coconut)",
+            "subfields": [
+              {
+                "label": "National symbol(s)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "321",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "National symbol(s)",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "GDP - composition, by end use",
+            "data": "<strong>household consumption:</strong> 74.6% (2024 est.)<br><br><strong>government consumption:</strong> 26.3% (2024 est.)<br><br><strong>investment in fixed capital:</strong> 17.2% (2024 est.)<br><br><strong>investment in inventories:</strong> 0% (2024 est.)<br><br><strong>exports of goods and services:</strong> 85.2% (2024 est.)<br><br><strong>imports of goods and services:</strong> -103.2% (2024 est.)<br><br><strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection",
+            "subfields": [
+              {
+                "label": "imports of goods and services",
+                "ranking": null
+              },
+              {
+                "label": "exports of goods and services",
+                "ranking": null
+              },
+              {
+                "label": "investment in inventories",
+                "ranking": null
+              },
+              {
+                "label": "investment in fixed capital",
+                "ranking": null
+              },
+              {
+                "label": "government consumption",
+                "ranking": null
+              },
+              {
+                "label": "household consumption",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "213",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "household consumption",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "government consumption",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "investment in fixed capital",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "investment in inventories",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "exports of goods and services",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "imports of goods and services",
+                    "position": 6
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Dependency ratios",
+            "data": "<strong>total dependency ratio:</strong> 38.2 (2024 est.)<br><br><strong>youth dependency ratio:</strong> 24.4 (2024 est.)<br><br><strong>elderly dependency ratio:</strong> 13.8 (2024 est.)<br><br><strong>potential support ratio:</strong> 7.3 (2024 est.)",
+            "subfields": [
+              {
+                "label": "potential support ratio",
+                "ranking": null
+              },
+              {
+                "label": "elderly dependency ratio",
+                "ranking": null
+              },
+              {
+                "label": "youth dependency ratio",
+                "ranking": null
+              },
+              {
+                "label": "total dependency ratio",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "342",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "total dependency ratio",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "youth dependency ratio",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "elderly dependency ratio",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "potential support ratio",
+                    "position": 4
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Citizenship",
+            "data": "<strong>citizenship by birth:</strong> no<br><br><strong>citizenship by descent only:</strong> at least one parent must be a citizen of the Seychelles<br><br><strong>dual citizenship recognized:</strong> no<br><br><strong>residency requirement for naturalization:</strong> 5 years",
+            "subfields": [
+              {
+                "label": "residency requirement for naturalization",
+                "ranking": null
+              },
+              {
+                "label": "dual citizenship recognized",
+                "ranking": null
+              },
+              {
+                "label": "citizenship by descent only",
+                "ranking": null
+              },
+              {
+                "label": "citizenship by birth",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "310",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "citizenship by birth",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "citizenship by descent only",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "dual citizenship recognized",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "residency requirement for naturalization",
+                    "position": 4
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Population distribution",
+            "data": "more than three quarters of the population lives on the main island of Mahe; Praslin is home to less than 10%, and a smaller percentage is on La Digue and the outer islands, as shown in this <a href=\"SEYCHELLES_Population_density.jpg\" target=\"_blank\" rel=\"noopener\">population distribution map</a>",
+            "subfields": [
+              {
+                "label": "Population distribution",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "348",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Population distribution",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Electricity access",
+            "data": "<strong>electrification - total population:</strong> 100% (2022 est.)",
+            "subfields": [
+              {
+                "label": "electrification - total population",
+                "ranking": null
+              },
+              {
+                "label": "electrification - rural areas",
+                "ranking": null
+              },
+              {
+                "label": "electrification - urban areas",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "251",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "electrification - total population",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "electrification - urban areas",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "electrification - rural areas",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Civil aircraft registration country code prefix",
+            "data": "S7",
+            "subfields": [
+              {
+                "label": "Civil aircraft registration country code prefix",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "378",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Civil aircraft registration country code prefix",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Sanitation facility access",
+            "data": "<strong>improved:</strong><br><br>total: 100% of population (2022 est.)<br><br><strong>unimproved:</strong><br><br>total: 0% of population (2022 est.)",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": null
+              },
+              {
+                "label": "rural",
+                "ranking": null
+              },
+              {
+                "label": "urban",
+                "ranking": null
+              },
+              {
+                "label": "rural",
+                "ranking": null
+              },
+              {
+                "label": "urban",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "398",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "improved: urban",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "improved: rural",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "improved: total",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "unimproved: urban",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "unimproved: rural",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "unimproved: total",
+                    "position": 6
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Ethnic groups",
+            "data": "predominantly Creole (mainly of East African and Malagasy heritage); also French, Indian, Chinese, and Arab populations",
+            "subfields": [
+              {
+                "label": "Ethnic groups",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "400",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Ethnic groups",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Religions",
+            "data": "Roman Catholic 76.2%, Protestant 10.5% (Anglican 6.1%, Pentecostal Assembly 1.5%, Seventh Day Adventist 1.2%, other Protestant 1.7%), other Christian 2.4%, Hindu 2.4%, Muslim 1.6%, other non-Christian 1.1%, unspecified 4.8%, none 0.9% (2010 est.)",
+            "subfields": [
+              {
+                "label": "Religions",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "401",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Religions",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Languages",
+            "data": "Seychellois Creole (official) 89.1%, English (official) 5.1%, French (official) 0.7%, other 3.8%, unspecified 1.4% (2010 est.)",
+            "subfields": [
+              {
+                "label": "Languages",
+                "ranking": null
+              },
+              {
+                "label": "major-language sample(s)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "402",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Languages",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "major-language sample(s)",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Imports - partners",
+            "data": "UAE 32%, Spain 10%, France 6%, South Africa 6%, India 6% (2023)<br><br><b>note:</b> top five import partners based on percentage share of imports",
+            "subfields": [
+              {
+                "label": "Imports - partners",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "403",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Imports - partners",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Elevation",
+            "data": "<strong>highest point:</strong> Morne Seychellois 905 m<br><br><strong>lowest point:</strong> Indian Ocean 0 m",
+            "subfields": [
+              {
+                "label": "highest point",
+                "ranking": null
+              },
+              {
+                "label": "lowest point",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "407",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "highest point",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "lowest point",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "mean elevation",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "mean depth",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "ocean zones",
+                    "position": 5
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Health expenditure",
+            "data": "5.3% of GDP (2021)<br><br>10.2% of national budget (2022 est.)",
+            "subfields": [
+              {
+                "label": "Health expenditure (as % of national budget)",
+                "ranking": null
+              },
+              {
+                "label": "Health expenditure (as % of GDP)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "409",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Health expenditure (as % of GDP)",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Health expenditure (as % of national budget)",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Military - note",
+            "data": "formed in 1977, the SDF is one of the World's smallest militaries; its primary responsibility is maritime security, including countering illegal fishing, piracy, and drug smuggling; it was given police powers in 2022; the Seychelles maintains close security ties with India, which has provided support to the SDF's maritime security operations (2025)",
+            "subfields": [
+              {
+                "label": "Military - note",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "332",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Military - note",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Military and security service personnel strengths",
+            "data": "approximately 500 active Defense Forces (2025)",
+            "subfields": [
+              {
+                "label": "Military and security forces personnel strengths",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "410",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Military and security forces personnel strengths",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Total water withdrawal",
+            "data": "<strong>municipal:</strong> 9 million cubic meters (2022 est.)<br><br><strong>industrial:</strong> 3.8 million cubic meters (2022 est.)<br><br><strong>agricultural:</strong> 900,000 cubic meters (2022 est.)",
+            "subfields": [
+              {
+                "label": "agricultural",
+                "ranking": null
+              },
+              {
+                "label": "industrial",
+                "ranking": null
+              },
+              {
+                "label": "municipal",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "417",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "municipal",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "industrial",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "agricultural",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Waste and recycling",
+            "data": "<strong>municipal solid waste generated annually:</strong> 48,000 tons (2024 est.)<br><br><strong>percent of municipal solid waste recycled:</strong> 24.4% (2022 est.)",
+            "subfields": [
+              {
+                "label": "municipal solid waste generated annually",
+                "ranking": null
+              },
+              {
+                "label": "percent of municipal solid waste recycled",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "422",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "municipal solid waste generated annually",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "percent of municipal solid waste recycled",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "National heritage",
+            "data": "<strong>total World Heritage Sites:</strong> 2 (both natural)<br><br><strong>selected World Heritage Site locales:</strong> <a href=\"Aldabra_Atoll_coral_mushrooms2.jpg\">Aldabra Atoll</a>; Vall&eacute;e de Mai Nature Reserve",
+            "subfields": [
+              {
+                "label": "selected World Heritage Site locales",
+                "ranking": null
+              },
+              {
+                "label": "total World Heritage Sites",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "426",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "total World Heritage Sites",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "selected World Heritage Site locales",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Coal",
+            "data": "<strong>imports:</strong> 500 metric tons (2023 est.)",
+            "subfields": [
+              {
+                "label": "imports",
+                "ranking": null
+              },
+              {
+                "label": "proven reserves",
+                "ranking": null
+              },
+              {
+                "label": "exports",
+                "ranking": null
+              },
+              {
+                "label": "consumption",
+                "ranking": null
+              },
+              {
+                "label": "production",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "437",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "production",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "consumption",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "exports",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "imports",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "proven reserves",
+                    "position": 5
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Electricity generation sources",
+            "data": "<strong>fossil fuels:</strong> 86.4% of total installed capacity (2023 est.)<br><br><strong>solar:</strong> 12.7% of total installed capacity (2023 est.)<br><br><strong>wind:</strong> 1% of total installed capacity (2023 est.)",
+            "subfields": [
+              {
+                "label": "wind",
+                "ranking": null
+              },
+              {
+                "label": "solar",
+                "ranking": null
+              },
+              {
+                "label": "fossil fuels",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "436",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "fossil fuels",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "nuclear",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "solar",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "wind",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "hydroelectricity",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "tide and wave",
+                    "position": 6
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "geothermal",
+                    "position": 7
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "biomass and waste",
+                    "position": 8
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Petroleum",
+            "data": "<strong>refined petroleum consumption:</strong> 6,000 bbl/day (2023 est.)",
+            "subfields": [
+              {
+                "label": "refined petroleum consumption",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "438",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "total petroleum production",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "refined petroleum consumption",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "crude oil estimated reserves",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Currently married women (ages 15-49)",
+            "data": "44.6% (2022 est.)",
+            "subfields": [
+              {
+                "label": "Currently married women (ages 15-49)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "447",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Currently married women (ages 15-49)",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Remittances",
+            "data": "0.5% of GDP (2023 est.)<br>0.5% of GDP (2022 est.)<br>0.6% of GDP (2021 est.)<br><br><b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities",
+            "subfields": [
+              {
+                "label": "Remittances 2023",
+                "ranking": null
+              },
+              {
+                "label": "Remittances 2022",
+                "ranking": null
+              },
+              {
+                "label": "Remittances 2021",
+                "ranking": null
+              },
+              {
+                "label": "Remittances 2020",
+                "ranking": null
+              },
+              {
+                "label": "Remittances 2019",
+                "ranking": null
+              },
+              {
+                "label": "Remittances 2018",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "449",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Remittances",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Ports",
+            "data": "<strong>total ports:</strong> 1 (2024)<br><br><strong>large:</strong> 0<br><br><strong>medium:</strong> 0<br><br><strong>small:</strong> 0<br><br><strong>very small:</strong> 1<br><br><strong>ports with oil terminals:</strong> 1<br><br><strong>key ports:</strong> Victoria",
+            "subfields": [
+              {
+                "label": "total ports",
+                "ranking": null
+              },
+              {
+                "label": "key ports",
+                "ranking": null
+              },
+              {
+                "label": "ports with oil terminals",
+                "ranking": null
+              },
+              {
+                "label": "very small",
+                "ranking": null
+              },
+              {
+                "label": "small",
+                "ranking": null
+              },
+              {
+                "label": "medium",
+                "ranking": null
+              },
+              {
+                "label": "large",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "465",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "total ports",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "large",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "medium",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "small",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "very small",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "size unknown",
+                    "position": 6
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "ports with oil terminals",
+                    "position": 7
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "key ports",
+                    "position": 8
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "National color(s)",
+            "data": "blue, yellow, red, white, green",
+            "subfields": [
+              {
+                "label": "National color(s)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "470",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "National color(s)",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Particulate matter emissions",
+            "data": "17.4  micrograms per cubic meter (2019 est.)",
+            "subfields": [
+              {
+                "label": "particulate matter emissions",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "472",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "particulate matter emissions",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Maternal mortality ratio",
+            "data": "42 deaths/100,000 live births (2023 est.)",
+            "subfields": [
+              {
+                "label": "total maternal mortality ratio",
+                "ranking": 102
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "353",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total maternal mortality ratio",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Reserves of foreign exchange and gold",
+            "data": "$773.678 million (2024 est.)<br>$682.794 million (2023 est.)<br>$638.961 million (2022 est.)<br><br><b>note:</b> holdings of gold (year-end prices)/foreign exchange/special drawing rights in current dollars",
+            "subfields": [
+              {
+                "label": "Reserves of foreign exchange and gold 2024",
+                "ranking": 148
+              },
+              {
+                "label": "Reserves of foreign exchange and gold 2023",
+                "ranking": null
+              },
+              {
+                "label": "Reserves of foreign exchange and gold 2022",
+                "ranking": null
+              },
+              {
+                "label": "Reserves of foreign exchange and gold 2021",
+                "ranking": null
+              },
+              {
+                "label": "Reserves of foreign exchange and gold 2020",
+                "ranking": null
+              },
+              {
+                "label": "Reserves of foreign exchange and gold 2019",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "245",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Reserves of foreign exchange and gold",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Public debt",
+            "data": "63.6% of GDP (2017 est.)<br><br><b>note:</b> central government debt as a % of GDP",
+            "subfields": [
+              {
+                "label": "Public debt 2017",
+                "ranking": 69
+              },
+              {
+                "label": "Public debt 2016",
+                "ranking": null
+              },
+              {
+                "label": "Public debt 2015",
+                "ranking": null
+              },
+              {
+                "label": "Public debt 2014",
+                "ranking": null
+              },
+              {
+                "label": "Public debt 2013",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "227",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Public debt",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Population",
+            "data": "<strong>total:</strong> 98,187 (2024 est.)<br><br><strong>male:</strong> 50,973<br><br><strong>female:</strong> 47,214",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": 197
+              },
+              {
+                "label": "female",
+                "ranking": 197
+              },
+              {
+                "label": "male",
+                "ranking": 194
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "335",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "male",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "female",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Carbon dioxide emissions",
+            "data": "893,000 metric tonnes of CO2 (2023 est.)<br><br><strong>from coal and metallurgical coke:</strong> 92 metric tonnes of CO2 (2023 est.)<br><br><strong>from petroleum and other liquids:</strong> 893,000 metric tonnes of CO2 (2023 est.)",
+            "subfields": [
+              {
+                "label": "from coal and metallurgical coke",
+                "ranking": null
+              },
+              {
+                "label": "from petroleum and other liquids",
+                "ranking": null
+              },
+              {
+                "label": "total emissions",
+                "ranking": 173
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "274",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total emissions",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "from coal and metallurgical coke",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "from petroleum and other liquids",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "from consumed natural gas",
+                    "position": 4
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Area",
+            "data": "<strong>total :</strong> 455 sq km<br><br><strong>land:</strong> 455 sq km<br><br><strong>water:</strong> 0 sq km",
+            "subfields": [
+              {
+                "label": "water",
+                "ranking": null
+              },
+              {
+                "label": "land",
+                "ranking": null
+              },
+              {
+                "label": "total ",
+                "ranking": 198
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "279",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total ",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "land",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "water",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "rank by area (sq km)",
+                    "position": 4
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Taxes and other revenues",
+            "data": "26.18% (of GDP) (2020 est.)<br><br><b>note:</b> central government tax revenue as a % of GDP",
+            "subfields": [
+              {
+                "label": "Taxes and other revenue",
+                "ranking": 12
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "225",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Taxes and other revenue",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Real GDP (purchasing power parity)",
+            "data": "$3.549 billion (2024 est.)<br>$3.43 billion (2023 est.)<br>$3.354 billion (2022 est.)<br><br><b>note:</b> data in 2021 dollars",
+            "subfields": [
+              {
+                "label": "Real GDP (purchasing power parity) 2024",
+                "ranking": 191
+              },
+              {
+                "label": "Real GDP (purchasing power parity) 2023",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP (purchasing power parity) 2022",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP (purchasing power parity) 2021",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP (purchasing power parity) 2020",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP (purchasing power parity) 2019",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "208",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Real GDP (purchasing power parity)",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Airports",
+            "data": "16 (2025)",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": 149
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "379",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Telephones - mobile cellular",
+            "data": "<strong>total subscriptions:</strong> 165,000 (2023 est.)<br><br><strong>subscriptions per 100 inhabitants:</strong> 192 (2022 est.)",
+            "subfields": [
+              {
+                "label": "total subscriptions",
+                "ranking": 186
+              },
+              {
+                "label": "subscriptions per 100 inhabitants",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "197",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total subscriptions",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "subscriptions per 100 inhabitants",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Gini Index coefficient - distribution of family income",
+            "data": "32.1 (2018 est.)<br><br><b>note:</b> index (0-100) of income distribution; higher values represent greater inequality",
+            "subfields": [
+              {
+                "label": "Gini Index coefficient - distribution of family income 2018",
+                "ranking": 107
+              },
+              {
+                "label": "Gini Index coefficient - distribution of family income 2013",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "223",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Gini Index coefficient - distribution of family income",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Inflation rate (consumer prices)",
+            "data": "0.3% (2024 est.)<br>-1% (2023 est.)<br>2.6% (2022 est.)<br><br><b>note:</b> annual % change based on consumer prices",
+            "subfields": [
+              {
+                "label": "Inflation rate (consumer prices) 2024",
+                "ranking": 9
+              },
+              {
+                "label": "Inflation rate (consumer prices) 2023",
+                "ranking": null
+              },
+              {
+                "label": "Inflation rate (consumer prices) 2022",
+                "ranking": null
+              },
+              {
+                "label": "Inflation rate (consumer prices) 2021",
+                "ranking": null
+              },
+              {
+                "label": "Inflation rate (consumer prices) 2020",
+                "ranking": null
+              },
+              {
+                "label": "Inflation rate (consumer prices) 2019",
+                "ranking": null
+              },
+              {
+                "label": "Inflation rate (consumer prices) 2018",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "229",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Inflation rate (consumer prices)",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Current account balance",
+            "data": "-$155.194 million (2023 est.)<br>-$141.648 million (2022 est.)<br>-$160.168 million (2021 est.)<br><br><b>note:</b> balance of payments - net trade and primary/secondary income in current dollars",
+            "subfields": [
+              {
+                "label": "Current account balance 2023",
+                "ranking": 99
+              },
+              {
+                "label": "Current account balance 2022",
+                "ranking": null
+              },
+              {
+                "label": "Current account balance 2021",
+                "ranking": null
+              },
+              {
+                "label": "Current account balance 2020",
+                "ranking": null
+              },
+              {
+                "label": "Current account balance 2019",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "238",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Current account balance",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Real GDP per capita",
+            "data": "$29,200 (2024 est.)<br>$28,600 (2023 est.)<br>$28,000 (2022 est.)<br><br><b>note:</b> data in 2021 dollars",
+            "subfields": [
+              {
+                "label": "Real GDP per capita 2024",
+                "ranking": 81
+              },
+              {
+                "label": "Real GDP per capita 2023",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP per capita 2022",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP per capita 2021",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP per capita 2020",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP per capita 2019",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "211",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Real GDP per capita",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Broadband - fixed subscriptions",
+            "data": "<strong>total:</strong> 39,000 (2023 est.)<br><br><strong>subscriptions per 100 inhabitants:</strong> 31 (2023 est.)",
+            "subfields": [
+              {
+                "label": "subscriptions per 100 inhabitants",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": 151
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "206",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "subscriptions per 100 inhabitants",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Tobacco use",
+            "data": "<strong>total:</strong> 20.5% (2025 est.)<br><br><strong>male:</strong> 34.2% (2025 est.)<br><br><strong>female:</strong> 5.2% (2025 est.)",
+            "subfields": [
+              {
+                "label": "female",
+                "ranking": null
+              },
+              {
+                "label": "male",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": 64
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "434",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "male",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "female",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Obesity - adult prevalence rate",
+            "data": "14% (2016)",
+            "subfields": [
+              {
+                "label": "prevalence rate",
+                "ranking": 130
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "367",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "prevalence rate",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Energy consumption per capita",
+            "data": "98.847 million Btu/person (2023 est.)",
+            "subfields": [
+              {
+                "label": "Total energy consumption per capita 2023",
+                "ranking": 51
+              },
+              {
+                "label": "Total energy consumption per capita 2022",
+                "ranking": null
+              },
+              {
+                "label": "Total energy consumption per capita 2019",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "441",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Total energy consumption per capita",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Electricity",
+            "data": "<strong>installed generating capacity:</strong> 156,000 kW (2023 est.)<br><br><strong>consumption:</strong> 581.227 million kWh (2023 est.)<br><br><strong>transmission/distribution losses:</strong> 44.034 million kWh (2023 est.)",
+            "subfields": [
+              {
+                "label": "transmission/distribution losses",
+                "ranking": 37
+              },
+              {
+                "label": "consumption",
+                "ranking": 173
+              },
+              {
+                "label": "installed generating capacity",
+                "ranking": 181
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "435",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "installed generating capacity",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "consumption",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "exports",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "imports",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "transmission/distribution losses",
+                    "position": 5
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Merchant marine",
+            "data": "<strong>total:</strong> 30 (2023)<br><br><strong>by type:</strong> general cargo 6, oil tanker 6, other 18",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": 134
+              },
+              {
+                "label": "by type",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "387",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "by type",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Imports",
+            "data": "$2.437 billion (2023 est.)<br>$2.298 billion (2022 est.)<br>$1.821 billion (2021 est.)<br><br><b>note:</b> balance of payments - imports of goods and services in current dollars",
+            "subfields": [
+              {
+                "label": "Imports 2023",
+                "ranking": 169
+              },
+              {
+                "label": "Imports 2022",
+                "ranking": null
+              },
+              {
+                "label": "Imports 2021",
+                "ranking": null
+              },
+              {
+                "label": "Imports 2020",
+                "ranking": null
+              },
+              {
+                "label": "Imports 2019",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "242",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Imports",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Exports",
+            "data": "$2.375 billion (2023 est.)<br>$2.247 billion (2022 est.)<br>$1.751 billion (2021 est.)<br><br><b>note:</b> balance of payments - exports of goods and services in current dollars",
+            "subfields": [
+              {
+                "label": "Exports 2023",
+                "ranking": 161
+              },
+              {
+                "label": "Exports 2022",
+                "ranking": null
+              },
+              {
+                "label": "Exports 2021",
+                "ranking": null
+              },
+              {
+                "label": "Exports 2020",
+                "ranking": null
+              },
+              {
+                "label": "Exports 2019",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "239",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Exports",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Heliports",
+            "data": "6 (2025)",
+            "subfields": [
+              {
+                "label": "Heliports",
+                "ranking": 94
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "382",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Heliports",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Telephones - fixed lines",
+            "data": "<strong>total subscriptions:</strong> 18,000 (2023 est.)<br><br><strong>subscriptions per 100 inhabitants:</strong> 14 (2023 est.)",
+            "subfields": [
+              {
+                "label": "subscriptions per 100 inhabitants",
+                "ranking": null
+              },
+              {
+                "label": "total subscriptions",
+                "ranking": 175
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "196",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total subscriptions",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "subscriptions per 100 inhabitants",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Alcohol consumption per capita",
+            "data": "<strong>total:</strong> 9.48 liters of pure alcohol (2019 est.)<br><br><strong>beer:</strong> 4.11 liters of pure alcohol (2019 est.)<br><br><strong>wine:</strong> 0.49 liters of pure alcohol (2019 est.)<br><br><strong>spirits:</strong> 4.62 liters of pure alcohol (2019 est.)<br><br><strong>other alcohols:</strong> 0.25 liters of pure alcohol (2019 est.)",
+            "subfields": [
+              {
+                "label": "other alcohols",
+                "ranking": null
+              },
+              {
+                "label": "spirits",
+                "ranking": null
+              },
+              {
+                "label": "wine",
+                "ranking": null
+              },
+              {
+                "label": "beer",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": 28
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "442",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "beer",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "wine",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "spirits",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "other alcohols",
+                    "position": 5
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Life expectancy at birth",
+            "data": "<strong>total population:</strong> 76.6 years (2024 est.)<br><br><strong>male:</strong> 72.2 years<br><br><strong>female:</strong> 81.1 years",
+            "subfields": [
+              {
+                "label": "total population",
+                "ranking": 105
+              },
+              {
+                "label": "female",
+                "ranking": null
+              },
+              {
+                "label": "male",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "355",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total population",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "male",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "female",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Real GDP growth rate",
+            "data": "3.5% (2024 est.)<br>2.3% (2023 est.)<br>12.7% (2022 est.)<br><br><b>note:</b> annual GDP % growth based on constant local currency",
+            "subfields": [
+              {
+                "label": "Real GDP growth rate 2024",
+                "ranking": 98
+              },
+              {
+                "label": "Real GDP growth rate 2023",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP growth rate 2022",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP growth rate 2021",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP growth rate 2020",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP growth rate 2019",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "210",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Real GDP growth rate",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Industrial production growth rate",
+            "data": "-6.4% (2024 est.)<br><br><b>note:</b> annual % change in industrial value added based on constant local currency",
+            "subfields": [
+              {
+                "label": "Industrial production growth rate",
+                "ranking": 184
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "217",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Industrial production growth rate",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "GDP - composition, by sector of origin",
+            "data": "<strong>agriculture:</strong> 2.5% (2024 est.)<br><br><strong>industry:</strong> 12.3% (2024 est.)<br><br><strong>services:</strong> 65.8% (2024 est.)<br><br><b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data",
+            "subfields": [
+              {
+                "label": "services",
+                "ranking": 50
+              },
+              {
+                "label": "industry",
+                "ranking": 173
+              },
+              {
+                "label": "agriculture",
+                "ranking": 143
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "214",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "agriculture",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "industry",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "services",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Education expenditure",
+            "data": "4.5% of GDP (2023 est.)<br><br>10.7% national budget (2025 est.)",
+            "subfields": [
+              {
+                "label": "Education expenditure (% national budget)",
+                "ranking": null
+              },
+              {
+                "label": "Education expenditure (% GDP)",
+                "ranking": 83
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "369",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Education expenditure (% GDP)",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Education expenditure (% national budget)",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Military equipment inventories and acquisitions",
+            "data": "the SDF is lightly armed; its inventory consists of obsolescent armaments delivered in the 1970s and 1980s and some more recently donated equipment from Bahrain, China, India, and UAE (2025)",
+            "subfields": [
+              {
+                "label": "Military equipment inventories and acquisitions",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "411",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Military equipment inventories and acquisitions",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Diplomatic representation in the US",
+            "data": "<strong>chief of mission:</strong> Ambassador Vivianne FOCK TAVE (since 16 December 2025); note - also Permanent Representative to the UN<br><br><strong>chancery:</strong> 685 Third Avenue, Suite 1107, 11th Floor, New York, NY 10017<br><br><strong>telephone:</strong> [1] (212) 972-1785<br><br><strong>FAX:</strong> [1] (212) 972-1786<br><br><strong>email address and website:</strong> seychellesmission@sycun.org<br /><br /><a href=\"https://mfa.gov.sc/seychelles-representation-abroad-diplomatic-missions-united-states/\">Foreign Affairs Department Republic of Seychelles &raquo; United States of America (mfa.gov.sc)</a>",
+            "subfields": [
+              {
+                "label": "email address and website",
+                "ranking": null
+              },
+              {
+                "label": "honorary consulate(s)",
+                "ranking": null
+              },
+              {
+                "label": "embassy",
+                "ranking": null
+              },
+              {
+                "label": "consulate(s)",
+                "ranking": null
+              },
+              {
+                "label": "consulate(s) general",
+                "ranking": null
+              },
+              {
+                "label": "FAX",
+                "ranking": null
+              },
+              {
+                "label": "telephone",
+                "ranking": null
+              },
+              {
+                "label": "chancery",
+                "ranking": null
+              },
+              {
+                "label": "chief of mission",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "318",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "chief of mission",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "chancery",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "telephone",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "FAX",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "email address and website",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "consulate(s) general",
+                    "position": 6
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "consulate(s)",
+                    "position": 7
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "trade office(s)",
+                    "position": 8
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "representative office",
+                    "position": 9
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "embassy",
+                    "position": 10
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "commissioner",
+                    "position": 11
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "office",
+                    "position": 12
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "HKETO offices",
+                    "position": 13
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "honorary consulate(s)",
+                    "position": 14
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "representative",
+                    "position": 15
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Taipei Economic and Cultural Offices (branch offices)",
+                    "position": 16
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Gross reproduction rate",
+            "data": "0.89 (2025 est.)",
+            "subfields": [
+              {
+                "label": "Gross reproduction rate",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "448",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Gross reproduction rate",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Net migration rate",
+            "data": "0.71 migrant(s)/1,000 population (2025 est.)",
+            "subfields": [
+              {
+                "label": "total net migration rate",
+                "ranking": 68
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "347",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total net migration rate",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Median age",
+            "data": "<strong>total:</strong> 39.2 years (2025 est.)<br><br><strong>male:</strong> 38.2 years<br><br><strong>female:</strong> 39.4 years",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": 71
+              },
+              {
+                "label": "female",
+                "ranking": null
+              },
+              {
+                "label": "male",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "343",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "male",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "female",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Total fertility rate",
+            "data": "1.8 children born/woman (2025 est.)",
+            "subfields": [
+              {
+                "label": "total fertility rate",
+                "ranking": 136
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "356",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total fertility rate",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Infant mortality rate",
+            "data": "<strong>total:</strong> 10 deaths/1,000 live births (2025 est.)<br><br><strong>male:</strong> 12.8 deaths/1,000 live births<br><br><strong>female:</strong> 7.4 deaths/1,000 live births",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": 129
+              },
+              {
+                "label": "female",
+                "ranking": null
+              },
+              {
+                "label": "male",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "354",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "male",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "female",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Death rate",
+            "data": "7.02 deaths/1,000 population (2025 est.)",
+            "subfields": [
+              {
+                "label": "total population death rate",
+                "ranking": 108
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "346",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total population death rate",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Birth rate",
+            "data": "11.59 births/1,000 population (2025 est.)",
+            "subfields": [
+              {
+                "label": "total population birth rate",
+                "ranking": 145
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "345",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total population birth rate",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Population growth rate",
+            "data": "0.53% (2025 est.)",
+            "subfields": [
+              {
+                "label": "total population growth rate",
+                "ranking": 143
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "344",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total population growth rate",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          }
+        ]
+      },
+      "travelFact": {
+        "placeName": "Seychelles"
+      },
+      "rep": {
+        "seo": {
+          "metaDesc": "",
+          "title": "$title - The World Factbook",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": null
+        }
+      }
+    },
+    "pageContext": {
+      "id": "cea02de4-3982-54a4-825d-53f7c31ef1d9",
+      "placeCode": "SE",
+      "uriBase": "/countries/"
+    }
+  },
+  "staticQueryHashes": [
+    "2962548448",
+    "3419350533",
+    "4121375890",
+    "4279206597",
+    "800385335"
+  ],
+  "slicesMap": {}
+}
