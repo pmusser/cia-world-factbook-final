@@ -6,7 +6,7 @@ If you like this and want to support more data rescue efforts focusing on educat
 
 # What's in a CIA World Factbook Lesson
 
-Each of the 254 lessons is a complete country profile, structured into up to 15 sections (tasks). Here's what a reader will find:
+Each of the 254 pages is a complete country profile, structured into up to 15 sections. Here's what a reader will find:
 
 ## Content Sections (up to 13)
 
@@ -24,19 +24,22 @@ Each of the 254 lessons is a complete country profile, structured into up to 15 
 12. **Terrorism** (select countries) — Active terrorist groups
 13. **Transnational Issues** — Refugees/IDPs, trafficking in persons, illicit drugs
 
+The jsons also contain references to: 
 ## Media Products
 - **Country flag** image
 - **Country map** image
 - **Locator map** (shows the country highlighted on its continent/region)
 - **Gallery photos** — varies widely: from 0 (tiny territories) to 40+ (US, France, Spain) — landmark shots, landscapes, cultural sites, aerial views
 
-## Country Documents
-- **Country Factsheet PDF** — a one-page summary with flag, maps, population pyramid, and ~20 key statistics (all 254 countries)
-- **Travel Facts PDF** — practical travel info: visa requirements, vaccinations, currency, electrical plug types, emergency numbers (72 countries — the ones that had travel data)
-
 ## Audio Files
 - **National anthem MP3** — most sovereign countries have one
 - **Language sample MP3s** — spoken samples of official/major languages (many countries have 1–3 of these)
+
+The data from the jsons was used to create the following items:
+
+## Country Documents
+- **Country Factsheet PDF** — a one-page summary with flag, maps, population pyramid, and ~20 key statistics (all 254 countries)
+- **Travel Facts PDF** — practical travel info: visa requirements, vaccinations, currency, electrical plug types, emergency numbers (72 countries — the ones that had travel data)
 
 ## Scale
 The smallest profiles (Bouvet Island, Coral Sea Islands) have ~6 sections and 3–4 files. The largest (Germany, United States, France) have all 13 sections, 30–50 files, and 140+ data fields. A typical country falls somewhere in between with 10–12 sections and 8–15 files.
