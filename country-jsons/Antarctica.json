@@ -1,0 +1,1841 @@
+{
+  "componentChunkName": "component---src-templates-country-js",
+  "path": "/countries/antarctica/",
+  "result": {
+    "data": {
+      "country": {
+        "name": "Antarctica",
+        "region": "Antarctica",
+        "locations": [
+          "place"
+        ],
+        "updated": "January 20, 2026",
+        "rank": true,
+        "flag": {
+          "childImageSharp": {
+            "gatsbyImageData": {
+              "layout": "fullWidth",
+              "images": {
+                "fallback": {
+                  "src": "/the-world-factbook/static/aa594889b790c1c1de48ef58f573a5ba/d3fc3/AY-flag.jpg",
+                  "srcSet": "/the-world-factbook/static/aa594889b790c1c1de48ef58f573a5ba/5343e/AY-flag.jpg 750w,\n/the-world-factbook/static/aa594889b790c1c1de48ef58f573a5ba/81594/AY-flag.jpg 1080w,\n/the-world-factbook/static/aa594889b790c1c1de48ef58f573a5ba/ff2d9/AY-flag.jpg 1366w,\n/the-world-factbook/static/aa594889b790c1c1de48ef58f573a5ba/d3fc3/AY-flag.jpg 1920w",
+                  "sizes": "100vw"
+                },
+                "sources": [
+                  {
+                    "srcSet": "/the-world-factbook/static/aa594889b790c1c1de48ef58f573a5ba/80f13/AY-flag.webp 750w,\n/the-world-factbook/static/aa594889b790c1c1de48ef58f573a5ba/4f9a6/AY-flag.webp 1080w,\n/the-world-factbook/static/aa594889b790c1c1de48ef58f573a5ba/24070/AY-flag.webp 1366w,\n/the-world-factbook/static/aa594889b790c1c1de48ef58f573a5ba/db529/AY-flag.webp 1920w",
+                    "type": "image/webp",
+                    "sizes": "100vw"
+                  }
+                ]
+              },
+              "width": 1,
+              "height": 0.6
+            }
+          }
+        },
+        "map": {
+          "childImageSharp": {
+            "gatsbyImageData": {
+              "layout": "fullWidth",
+              "images": {
+                "fallback": {
+                  "src": "/the-world-factbook/static/c91898d4e5894f26c1d4850ff36e713f/00757/AY-map.jpg",
+                  "srcSet": "/the-world-factbook/static/c91898d4e5894f26c1d4850ff36e713f/6c918/AY-map.jpg 750w,\n/the-world-factbook/static/c91898d4e5894f26c1d4850ff36e713f/00757/AY-map.jpg 799w",
+                  "sizes": "100vw"
+                },
+                "sources": [
+                  {
+                    "srcSet": "/the-world-factbook/static/c91898d4e5894f26c1d4850ff36e713f/66907/AY-map.webp 750w,\n/the-world-factbook/static/c91898d4e5894f26c1d4850ff36e713f/a25d7/AY-map.webp 799w",
+                    "type": "image/webp",
+                    "sizes": "100vw"
+                  }
+                ]
+              },
+              "width": 1,
+              "height": 0.7509386733416771
+            }
+          }
+        },
+        "locatorMap": {
+          "childImageSharp": {
+            "gatsbyImageData": {
+              "layout": "fullWidth",
+              "images": {
+                "fallback": {
+                  "src": "/the-world-factbook/static/ce771f207bb03b13af1aae0e34e8e25d/1706f/AY-locator-map.jpg",
+                  "srcSet": "/the-world-factbook/static/ce771f207bb03b13af1aae0e34e8e25d/b1ff4/AY-locator-map.jpg 750w,\n/the-world-factbook/static/ce771f207bb03b13af1aae0e34e8e25d/1706f/AY-locator-map.jpg 772w",
+                  "sizes": "100vw"
+                },
+                "sources": [
+                  {
+                    "srcSet": "/the-world-factbook/static/ce771f207bb03b13af1aae0e34e8e25d/a0770/AY-locator-map.webp 750w,\n/the-world-factbook/static/ce771f207bb03b13af1aae0e34e8e25d/1b3fd/AY-locator-map.webp 772w",
+                    "type": "image/webp",
+                    "sizes": "100vw"
+                  }
+                ]
+              },
+              "width": 1,
+              "height": 0.5077720207253886
+            }
+          }
+        },
+        "images": [
+          {
+            "altText": "A Chinstrap penguin rookery in Antarctica. These penguins derive their name from the narrow black band under their heads that makes it appear as if they are wearing black helmets. They build a circular nest with stones and lay two eggs.",
+            "caption": "A Chinstrap penguin rookery in Antarctica. These penguins derive their name from the narrow black band under their heads that makes it appear as if they are wearing black helmets. They build a circular nest with stones and lay two eggs.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/6290555dbccf85c708cc4d809a71bfbb/be79d/AY_007_large.jpg",
+                      "srcSet": "/the-world-factbook/static/6290555dbccf85c708cc4d809a71bfbb/be79d/AY_007_large.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/6290555dbccf85c708cc4d809a71bfbb/9a858/AY_007_large.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.75
+                }
+              }
+            }
+          },
+          {
+            "altText": "Gentoo penguins nesting in Antarctica. The distinguishing feature of these penguins is the wide white stripe across the top of the head that in some ways resembles a bonnet.",
+            "caption": "Gentoo penguins nesting in Antarctica. The distinguishing feature of these penguins is the wide white stripe across the top of the head that in some ways resembles a bonnet.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/5002d224f928b7fb3e3cb8b17959fae1/be79d/AY_006_large.jpg",
+                      "srcSet": "/the-world-factbook/static/5002d224f928b7fb3e3cb8b17959fae1/be79d/AY_006_large.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/5002d224f928b7fb3e3cb8b17959fae1/9a858/AY_006_large.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.75
+                }
+              }
+            }
+          },
+          {
+            "altText": "Adelie penguins at Brown Bluff at the end of the Tabarin Peninsula in Antarctica.",
+            "caption": "Adelie penguins at Brown Bluff at the end of the Tabarin Peninsula in Antarctica.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/dd05e99e31ad758adc175507e7853186/be79d/AY_004_large.jpg",
+                      "srcSet": "/the-world-factbook/static/dd05e99e31ad758adc175507e7853186/be79d/AY_004_large.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/dd05e99e31ad758adc175507e7853186/9a858/AY_004_large.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.75
+                }
+              }
+            }
+          },
+          {
+            "altText": "LeMaire Channel between Booth Island and the Antarctic Peninsula.",
+            "caption": "LeMaire Channel between Booth Island and the Antarctic Peninsula.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/0305cce3e3b6e809dd159e7ea01e142d/be79d/AY_001_large.jpg",
+                      "srcSet": "/the-world-factbook/static/0305cce3e3b6e809dd159e7ea01e142d/be79d/AY_001_large.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/0305cce3e3b6e809dd159e7ea01e142d/9a858/AY_001_large.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.75
+                }
+              }
+            }
+          },
+          {
+            "altText": "The blue ice covering Lake Fryxell, in the Transantarctic Mountains in Antarctica, comes from glacial meltwater from the Canada Glacier and other smaller glaciers. Image courtesy of National Science Foundation.",
+            "caption": "The blue ice covering Lake Fryxell, in the Transantarctic Mountains in Antarctica, comes from glacial meltwater from the Canada Glacier and other smaller glaciers. Image courtesy of National Science Foundation.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/7b3d08e6bf4b153fbc456840266119c9/0ed8e/Antarctica_blue_ice.jpg",
+                      "srcSet": "/the-world-factbook/static/7b3d08e6bf4b153fbc456840266119c9/0ed8e/Antarctica_blue_ice.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/7b3d08e6bf4b153fbc456840266119c9/50cdc/Antarctica_blue_ice.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.6950000000000001
+                }
+              }
+            }
+          },
+          {
+            "altText": "A view of McMurdo Station, a US Antarctic research station on the south tip of Ross Island that is operated by the United States Antarctic Program, a branch of the National Science Foundation. The station is the largest community in Antarctica, capable of supporting some 1,250 residents, and serves as one of three year-round US Antarctic science facilities. Image courtesy of Gaelen Marsden, University of British Columbia.",
+            "caption": "A view of McMurdo Station, a US Antarctic research station on the south tip of Ross Island that is operated by the United States Antarctic Program, a branch of the National Science Foundation. The station is the largest community in Antarctica, capable of supporting some 1,250 residents, and serves as one of three year-round US Antarctic science facilities. Image courtesy of Gaelen Marsden, University of British Columbia.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/cea22a49fed70a31d0e35555f0966d08/affa2/Antarctica_McMurdo_Station.jpg",
+                      "srcSet": "/the-world-factbook/static/cea22a49fed70a31d0e35555f0966d08/affa2/Antarctica_McMurdo_Station.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/cea22a49fed70a31d0e35555f0966d08/5e448/Antarctica_McMurdo_Station.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.4066666666666667
+                }
+              }
+            }
+          },
+          {
+            "altText": "The aurora australis — the Southern Lights — as seen over the National Science Foundation's Amundsen-Scott South Pole Station in Antarctica. The eerie visual effect arises when charged particles blown off by the sun (the solar wind) are caught in the Earth's magnetic field and travel along the field lines, colliding with molecules of oxygen and nitrogen in the atmosphere. Image courtesy of the National Science Foundation, Jonathan Berry.",
+            "caption": "The aurora australis — the Southern Lights — as seen over the National Science Foundation's Amundsen-Scott South Pole Station in Antarctica. The eerie visual effect arises when charged particles blown off by the sun (the solar wind) are caught in the Earth's magnetic field and travel along the field lines, colliding with molecules of oxygen and nitrogen in the atmosphere. Image courtesy of the National Science Foundation, Jonathan Berry.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/21cc9d805d3fd212f423d2e962902c96/22fa8/Antarctica_aurora_australis_2.jpg",
+                      "srcSet": "/the-world-factbook/static/21cc9d805d3fd212f423d2e962902c96/22fa8/Antarctica_aurora_australis_2.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/21cc9d805d3fd212f423d2e962902c96/75d4b/Antarctica_aurora_australis_2.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.7516666666666667
+                }
+              }
+            }
+          },
+          {
+            "altText": "Antarctica is home to the emperor penguin (pictured), the largest of the 18 species of penguins. Standing 120cm (3.9ft), emperor penguins are the world’s deepest-diving birds and can dive approximately 550 m (1,800 ft) in search of food and remain underwater for nearly 22 minutes. The penguin colonies are found on ice shelves and land ice along the coast of Antarctica. The emperor penguin is also the only species where the male is responsible for the incubation of the egg.",
+            "caption": "Antarctica is home to the emperor penguin (pictured), the largest of the 18 species of penguins. Standing 120cm (3.9ft), emperor penguins are the world’s deepest-diving birds and can dive approximately 550 m (1,800 ft) in search of food and remain underwater for nearly 22 minutes. The penguin colonies are found on ice shelves and land ice along the coast of Antarctica. The emperor penguin is also the only species where the male is responsible for the incubation of the egg.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/13c3b042720c560f1c1995f35afedc24/41fda/Antarctica_Emperor_penguins_huddling.jpg",
+                      "srcSet": "/the-world-factbook/static/13c3b042720c560f1c1995f35afedc24/41fda/Antarctica_Emperor_penguins_huddling.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/13c3b042720c560f1c1995f35afedc24/dfd58/Antarctica_Emperor_penguins_huddling.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.6616666666666666
+                }
+              }
+            }
+          },
+          {
+            "altText": "A newly tagged Weddell seal pup rests with its mom. Weddell seals are one of the most abundant seals in Antarctica and are found on all shores of the continent. Photo courtesy of the US Geologic Survey/ William A. Link.",
+            "caption": "A newly tagged Weddell seal pup rests with its mom. Weddell seals are one of the most abundant seals in Antarctica and are found on all shores of the continent. Photo courtesy of the US Geologic Survey/ William A. Link.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/944213600a84769a8ef12f09512b755a/d62c3/Antarctica_mom_seal_and_pup_2.jpg",
+                      "srcSet": "/the-world-factbook/static/944213600a84769a8ef12f09512b755a/d62c3/Antarctica_mom_seal_and_pup_2.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/944213600a84769a8ef12f09512b755a/684e9/Antarctica_mom_seal_and_pup_2.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.6633333333333333
+                }
+              }
+            }
+          },
+          {
+            "altText": "Mount Erebus is the second-highest volcano in Antarctica (after Mount Sidley) and the southernmost active volcano on earth; it has been active since about 1.3 million years ago. The volcano was discovered on 27 January 1841 by an expedition led by polar explorer Sir James Clark Ross, who named it after one of his ships, the HMS Erebus.",
+            "caption": "Mount Erebus is the second-highest volcano in Antarctica (after Mount Sidley) and the southernmost active volcano on earth; it has been active since about 1.3 million years ago. The volcano was discovered on 27 January 1841 by an expedition led by polar explorer Sir James Clark Ross, who named it after one of his ships, the HMS Erebus.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/7bca6320d8de3ef7007b41f1dc1b2911/d62c3/Antarctica_Mt_Erebus_Ross_Island.jpg",
+                      "srcSet": "/the-world-factbook/static/7bca6320d8de3ef7007b41f1dc1b2911/d62c3/Antarctica_Mt_Erebus_Ross_Island.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/7bca6320d8de3ef7007b41f1dc1b2911/684e9/Antarctica_Mt_Erebus_Ross_Island.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.6633333333333333
+                }
+              }
+            }
+          },
+          {
+            "altText": "The Una Peaks at Cape Renard, formerly known as Cape Renard Towers, are two towers of basalt (volcanic rock), each topped by a cap of ice, with the highest summit at 747 m (2,451 ft).  The Peaks are at the northeast entrance to the Lemaire Channel on the Antarctic Peninsula.",
+            "caption": "The Una Peaks at Cape Renard, formerly known as Cape Renard Towers, are two towers of basalt (volcanic rock), each topped by a cap of ice, with the highest summit at 747 m (2,451 ft).  The Peaks are at the northeast entrance to the Lemaire Channel on the Antarctic Peninsula.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/d5b2ad65413ea342c9d15d3ba0efd788/be79d/Una_Peaks__2_.jpg",
+                      "srcSet": "/the-world-factbook/static/d5b2ad65413ea342c9d15d3ba0efd788/be79d/Una_Peaks__2_.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/d5b2ad65413ea342c9d15d3ba0efd788/9a858/Una_Peaks__2_.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.75
+                }
+              }
+            }
+          },
+          {
+            "altText": "A view of Port Charcot, a wide bay north of Booth Island, a Y-shaped island that forms the western side of Lemaire Channel in the Antarctic Peninsula. Jean-Baptiste Charcot, who led the 1903-05 French Antarctic Expedition, built several scientific and living quarters here, as well as the cairn still visible at the top of the little peak (seen in the upper part of this picture) on the western side of the bay. The Gentoo Penguins seen in the foreground are the third-largest species of penguin after the Emperor Penguin and the King penguin.",
+            "caption": "A view of Port Charcot, a wide bay north of Booth Island, a Y-shaped island that forms the western side of Lemaire Channel in the Antarctic Peninsula. Jean-Baptiste Charcot, who led the 1903-05 French Antarctic Expedition, built several scientific and living quarters here, as well as the cairn still visible at the top of the little peak (seen in the upper part of this picture) on the western side of the bay. The Gentoo Penguins seen in the foreground are the third-largest species of penguin after the Emperor Penguin and the King penguin.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/cfad56449c2983453f50764246433e63/57898/Gentoo_Penguins__2_.jpg",
+                      "srcSet": "/the-world-factbook/static/cfad56449c2983453f50764246433e63/57898/Gentoo_Penguins__2_.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/cfad56449c2983453f50764246433e63/381d4/Gentoo_Penguins__2_.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.64
+                }
+              }
+            }
+          },
+          {
+            "altText": "Some rocky peaks at Charlotte Bay on the western side of the Antarctic Peninsula. Adrien de Gerlache  discovered the bay during the 1897-99 Belgian Antarctic Expedition and named it for the fiancée of his second-in-command.",
+            "caption": "Some rocky peaks at Charlotte Bay on the western side of the Antarctic Peninsula. Adrien de Gerlache  discovered the bay during the 1897-99 Belgian Antarctic Expedition and named it for the fiancée of his second-in-command.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/a960a1090d4ed0ec5c22c14547c0f623/be79d/Rocky_Peaks_of_Charlotte_Bay__2_.jpg",
+                      "srcSet": "/the-world-factbook/static/a960a1090d4ed0ec5c22c14547c0f623/be79d/Rocky_Peaks_of_Charlotte_Bay__2_.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/a960a1090d4ed0ec5c22c14547c0f623/9a858/Rocky_Peaks_of_Charlotte_Bay__2_.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.75
+                }
+              }
+            }
+          },
+          {
+            "altText": "A view of the  cave-shaped iceberg in Mikkelsen Harbour of Trinity Island, in the Palmer Archipelago to the west of the Antarctic Peninsula. The loose ice in the foreground is known as \"brash ice,\" or simply \"brash.\"",
+            "caption": "A view of the  cave-shaped iceberg in Mikkelsen Harbour of Trinity Island, in the Palmer Archipelago to the west of the Antarctic Peninsula. The loose ice in the foreground is known as \"brash ice,\" or simply \"brash.\"",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/c4a51032cd091c5cafae8dd601a0bbef/2c6e4/Cave_shaped_iceberg_Mikkelsen_Harbor__2_.jpg",
+                      "srcSet": "/the-world-factbook/static/c4a51032cd091c5cafae8dd601a0bbef/2c6e4/Cave_shaped_iceberg_Mikkelsen_Harbor__2_.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/c4a51032cd091c5cafae8dd601a0bbef/bac3d/Cave_shaped_iceberg_Mikkelsen_Harbor__2_.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.6133333333333334
+                }
+              }
+            }
+          },
+          {
+            "altText": "Deception Island, the remains of a volcanic caldera (a large depression formed when a volcano erupts and collapses) as seen from the southeast. The narrow inlet to the inner harbor of the island is visible. Deception Island is one of the South Shetland Islands, located to the west of the Antarctic Peninsula.",
+            "caption": "Deception Island, the remains of a volcanic caldera (a large depression formed when a volcano erupts and collapses) as seen from the southeast. The narrow inlet to the inner harbor of the island is visible. Deception Island is one of the South Shetland Islands, located to the west of the Antarctic Peninsula.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/58ad1f98723def04d7b4f72cad3294c4/3f4ea/Inlet_to_Deception_Island__2_.jpg",
+                      "srcSet": "/the-world-factbook/static/58ad1f98723def04d7b4f72cad3294c4/3f4ea/Inlet_to_Deception_Island__2_.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/58ad1f98723def04d7b4f72cad3294c4/9ff6b/Inlet_to_Deception_Island__2_.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.6666666666666666
+                }
+              }
+            }
+          }
+        ],
+        "special": []
+      },
+      "fields": {
+        "nodes": [
+          {
+            "name": "Transportation - note",
+            "data": "US coastal stations include McMurdo (77 51 S, 166 40 E) and Palmer (64 43 S, 64 03 W); government use only; all ships are subject to inspection in accordance with Article 7 of the Antarctic Treaty; ships must comply with relevant legal instruments and authorization procedures under the Antarctic Treaty (see \"Legal System\"); The Hydrographic Commission on Antarctica (HCA), a commission of the International Hydrographic Organization (IHO), coordinates and facilitates provision of accurate and appropriate charts and other aids to navigation; membership in HCA is open to any IHO Member State whose government has acceded to the Antarctic Treaty and which contributes resources or data to IHO Chart coverage of the area",
+            "subfields": [
+              {
+                "label": "Transportation - note",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "389",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Transportation - note",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Geographic coordinates",
+            "data": "90 00 S, 0 00 E",
+            "subfields": [
+              {
+                "label": "Geographic coordinates",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "277",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Geographic coordinates",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Natural hazards",
+            "data": "katabatic (gravity-driven) winds blow coastward from the high interior; frequent blizzards form near the foot of the plateau; cyclonic storms form over the ocean and move clockwise along the coast; large icebergs may calve from ice shelf<br /><br /><strong>volcanism:</strong> volcanic activity on Deception Island and isolated areas of West Antarctica; other seismic activity rare and weak",
+            "subfields": [
+              {
+                "label": "Natural hazards",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "292",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Natural hazards",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Area - comparative",
+            "data": "slightly less than 1.5 times the size of the US",
+            "subfields": [
+              {
+                "label": "Area - comparative",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "280",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Area - comparative",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Background",
+            "data": "Speculation over the existence of a \"southern land\" was confirmed in the early 1820s when British and American commercial operators and British and Russian national expeditions began exploring the Antarctic Peninsula region and other areas south of the Antarctic Circle. In 1840, it was finally established that Antarctica was indeed a continent and not merely a group of islands or an area of ocean. Several exploration \"firsts\" were achieved in the early 20th century, but the area saw little human activity. Following World War II, however, the continent experienced an upsurge in scientific research. A number of countries have set up a range of year-round and seasonal stations, camps, and refuges to support scientific research in Antarctica. Seven have made territorial claims, with two maintaining the basis for a claim, but most countries do not recognize these claims. In order to form a legal framework for countries' activities on the continent, an Antarctic Treaty was negotiated that neither denies nor recognizes existing territorial claims; it was signed in 1959 and entered into force in 1961.&nbsp; Also relevant to Antarctic governance are the Environmental Protocol to the Antarctic Treaty and the Convention on the Conservation of Antarctic Marine Living Resources.",
+            "subfields": [
+              {
+                "label": "Summary",
+                "ranking": null
+              },
+              {
+                "label": "Background",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "325",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Background",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Summary",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Environmental issues",
+            "data": "size of ozone hole over continent; ice loss",
+            "subfields": [
+              {
+                "label": "Environmental issues",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "293",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Environmental issues",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Climate",
+            "data": "the coldest, windiest, and driest continent on Earth; severe low temperatures vary with latitude, elevation, and distance from the ocean; East Antarctica is colder than West Antarctica because of its higher elevation; Antarctic Peninsula has the most moderate climate; higher temperatures occur in January along the coast and average slightly below freezing; summers characterized by continuous daylight, while winters bring continuous darkness; persistent high pressure over the interior brings dry, subsiding air that results in very little cloud cover",
+            "subfields": [
+              {
+                "label": "Climate",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "284",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Climate",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "ten driest places on Earth (average annual precipitation)",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "ten wettest places on Earth (average annual precipitation)",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "ten coldest places on Earth (lowest average monthly temperature)",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "ten hottest places on Earth (highest average monthly temperature)",
+                    "position": 5
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Coastline",
+            "data": "17,968 km",
+            "subfields": [
+              {
+                "label": "Coastline",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "282",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Coastline",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Land boundaries",
+            "data": "<strong>note:</strong> see entry on Disputes - international",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": null
+              },
+              {
+                "label": "regional borders",
+                "ranking": null
+              },
+              {
+                "label": "border countries",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "281",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "total",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "border countries",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "border sovereign base areas",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "metropolitan France - total",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "French Guiana - total",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "regional borders",
+                    "position": 6
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Land use",
+            "data": "<strong>agricultural land:</strong> 0% (2018 est.)",
+            "subfields": [
+              {
+                "label": "agricultural land",
+                "ranking": null
+              },
+              {
+                "label": "other",
+                "ranking": null
+              },
+              {
+                "label": "forest",
+                "ranking": null
+              },
+              {
+                "label": "permanent pasture",
+                "ranking": null
+              },
+              {
+                "label": "permanent crops",
+                "ranking": null
+              },
+              {
+                "label": "arable land",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "288",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "agricultural land",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "agricultural land: arable land",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "agricultural land: permanent crops",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "agricultural land: permanent pasture",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "forest",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "other",
+                    "position": 6
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Legal system",
+            "data": "Antarctica is administered through annual <strong>Antarctic Treaty Consultative Meetings</strong> that include member nations, observer groups, and experts; decisions are made by consensus and enforced by each country through its own laws, applying to their citizens and operations in the region south of 60&deg; south latitude, including all ice shelves and islands; in the US, the <strong>Antarctic Conservation Act</strong> prohibits actions like harming native wildlife, introducing non-native species, polluting, or entering protected areas without authorization; the US National Science Foundation and Department of Justice enforce these rules; US expeditions must also notify the Office of Ocean and Polar Affairs at the US Department of State, which informs other Treaty nations, as required under Public Law 95-541",
+            "subfields": [
+              {
+                "label": "Legal system",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "308",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Legal system",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Maritime claims",
+            "data": "Australia, Chile, and Argentina claim Exclusive Economic Zone (EEZ) rights or similar over 200 nm extensions seaward from their continental claims, but like the claims themselves, these zones are not accepted by other countries; 22 of 29 Antarctic Treaty consultative parties have made no claims to Antarctic territory, although Russia and the United States have reserved the right to do so, and no country can make a new claim",
+            "subfields": [
+              {
+                "label": "exclusive fishing zone",
+                "ranking": null
+              },
+              {
+                "label": "continental shelf",
+                "ranking": null
+              },
+              {
+                "label": "contiguous zone",
+                "ranking": null
+              },
+              {
+                "label": "exclusive economic zone",
+                "ranking": null
+              },
+              {
+                "label": "territorial sea",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "283",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "territorial sea",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "contiguous zone",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "exclusive economic zone",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "continental shelf",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "exclusive fishing zone",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Environment (Protection and Preservation) Zone",
+                    "position": 6
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Natural resources",
+            "data": "iron ore, chromium, copper, gold, nickel, platinum and other minerals, and coal and hydrocarbons have been found in small noncommercial quantities; mineral exploitation except for scientific research is banned by the Environmental Protocol to the Antarctic Treaty; krill, icefish, toothfish, and crab have been taken by commercial fisheries, which are managed through the Commission for the Conservation of Antarctic Marine Living Resources (CCAMLR)",
+            "subfields": [
+              {
+                "label": "Natural resources",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "287",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Natural resources",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Geography - note",
+            "data": "the coldest, windiest, highest (on average), and driest continent; during the summer, more solar radiation reaches the surface at the South Pole than is received at the equator in an equivalent period <br /><br />mostly uninhabitable, 99% of the land area is covered by the Antarctic ice sheet, the largest single mass of ice on Earth; it covers an area of 14 million sq km (5.4 million sq mi) and contains 26.5 million cu km (6.4 million cu mi) of ice (almost 62% of the world's fresh water)",
+            "subfields": [
+              {
+                "label": "Geography - note",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "295",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Geography - note",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Terrain",
+            "data": "about 99% thick continental ice sheet and 1% barren rock, with average elevations between 2,000 and 4,000 m; mountain ranges up to nearly 5,000 m; ice-free coastal areas include parts of southern Victoria Land, Wilkes Land, the Antarctic Peninsula area, and parts of Ross Island on McMurdo Sound; glaciers form ice shelves along about half of the coastline, and floating ice shelves constitute 11% of the area of the continent",
+            "subfields": [
+              {
+                "label": "terrain",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "285",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "terrain",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "top ten world caves",
+                    "position": 2
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Government type",
+            "data": "the <strong>Antarctic Treaty and its follow-on agreements </strong>govern the use of Antarctica, ensuring it is used only for peaceful purposes and scientific research; signed in 1959 and in force since 1961, the original Treaty bans military activity, weapons testing, and nuclear waste disposal, while allowing military personnel to assist with research or other peaceful efforts; it promotes international cooperation in science, guarantees the free exchange of research, and freezes territorial claims; the Treaty covers all land and ice south of 60&deg; south latitude, and allows Treaty nations to inspect any station or facility<br /><br />decisions are made by consensus at annual meetings, and member countries implement these decisions through their national laws (see &ldquo;Legal system&rdquo;); additional agreements have strengthened the Treaty system, including conventions to protect seals (1972) and other marine life (1980), as well as an environmental protocol (1991, took effect in 1998); the protocol bans mining and includes strict rules on environmental impact, waste, pollution, wildlife, and protected areas; as of December 2024, there are <strong>58 member nations</strong>: <strong>29 consultative members</strong>, including the 7 claimant countries (Argentina, Australia, Chile, France, New Zealand, Norway, and the UK), and <strong>29 non-consultative members</strong>; a permanent Antarctic Treaty Secretariat, established in 2004 in Buenos Aires, supports the system",
+            "subfields": [
+              {
+                "label": "Government type",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "299",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Government type",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Military - note",
+            "data": "the Antarctic Treaty of 1961 prohibits any measures of a military nature, such as the establishment of military bases and fortifications, the carrying out of military maneuvers, or the testing of any type of weapon; it permits the use of military personnel or equipment for scientific research or for any other peaceful purposes",
+            "subfields": [
+              {
+                "label": "Military - note",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "332",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Military - note",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Country name",
+            "data": "<strong>conventional long form:</strong> none<br><br><strong>conventional short form:</strong> Antarctica<br><br><strong>etymology:</strong> name derived from two Greek words, <em>anti </em>and <em>arktikos</em>, meaning \"opposite to the Arctic\" or \"opposite to the north\"",
+            "subfields": [
+              {
+                "label": "abbreviation",
+                "ranking": null
+              },
+              {
+                "label": "former",
+                "ranking": null
+              },
+              {
+                "label": "local short form",
+                "ranking": null
+              },
+              {
+                "label": "local long form",
+                "ranking": null
+              },
+              {
+                "label": "etymology",
+                "ranking": null
+              },
+              {
+                "label": "conventional short form",
+                "ranking": null
+              },
+              {
+                "label": "conventional long form",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "296",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "conventional long form",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "conventional short form",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "local long form",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "local short form",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "official long form",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "official short form",
+                    "position": 6
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "former",
+                    "position": 7
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "abbreviation",
+                    "position": 8
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "etymology",
+                    "position": 9
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Location",
+            "data": "continent mostly south of the Antarctic Circle",
+            "subfields": [
+              {
+                "label": "Location",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "276",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Location",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Map references",
+            "data": "Antarctic Region",
+            "subfields": [
+              {
+                "label": "Map references",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "278",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Map references",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Internet users",
+            "data": "<strong>percent of population:</strong> 100% (2021 est.)",
+            "subfields": [
+              {
+                "label": "percent of population",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "204",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "percent of population",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Internet country code",
+            "data": ".aq",
+            "subfields": [
+              {
+                "label": "Internet country code",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "202",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Internet country code",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Flag",
+            "data": "<strong>description:</strong> two horizontal bands of navy and white, with a stylized white peak at the center; the peak casts a navy shadow in the shape of a compass arrow pointed south<br /><br /><strong>meaning:</strong> the bands represent the long days and nights at Antarctica's extreme latitude; the compass arrow is an homage to the continent's legacy of exploration; the peak and the arrow together create a diamond, symbolizing the hope that Antarctica will continue to be a center of peace, discovery, and cooperation<br /><br /><strong>history:</strong> the flag is unofficial; created in 2018, the True South flag has quickly become popular for its simple yet elegant design and has been used by national Antarctic programs, Antarctic nonprofits, and expedition teams",
+            "subfields": [
+              {
+                "label": "Flag description",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "320",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "Flag description",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Elevation",
+            "data": "<strong>highest point:</strong> Vinson Massif 4,892 m<br><br><strong>lowest point:</strong> Denman Glacier more than -3,500 m (-11,500 ft) below sea level<br><br><strong>mean elevation:</strong> 2,300 m<br><br><strong>note:</strong> the lowest known land point in Antarctica is hidden in the Denman Glacier; at its surface is the deepest ice yet discovered and the world's lowest elevation not under seawater",
+            "subfields": [
+              {
+                "label": "highest point",
+                "ranking": null
+              },
+              {
+                "label": "lowest point",
+                "ranking": null
+              },
+              {
+                "label": "mean elevation",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "407",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "highest point",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "lowest point",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "mean elevation",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "mean depth",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "ocean zones",
+                    "position": 5
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Coal",
+            "data": "<strong>imports:</strong> 2,000 metric tons (2023 est.)",
+            "subfields": [
+              {
+                "label": "imports",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "437",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "production",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "consumption",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "exports",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "imports",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "proven reserves",
+                    "position": 5
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Petroleum",
+            "data": "<strong>refined petroleum consumption:</strong> 79 bbl/day (2023 est.)",
+            "subfields": [
+              {
+                "label": "refined petroleum consumption",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "438",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "total petroleum production",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "refined petroleum consumption",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "crude oil estimated reserves",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Ports",
+            "data": "<strong>total ports:</strong> 8 (2024)<br><br><strong>large:</strong> 0<br><br><strong>medium:</strong> 0<br><br><strong>small:</strong> 1<br><br><strong>very small:</strong> 7<br><br><strong>ports with oil terminals:</strong> 0<br><br><strong>key ports:</strong> Admiralty Bay, Andersen Harbor, Ellefsen Harbor, McMurdo Station, Melchior Harbor, Port Foster, Port Lockroy, Scotia Bay",
+            "subfields": [
+              {
+                "label": "total ports",
+                "ranking": null
+              },
+              {
+                "label": "size unknown",
+                "ranking": null
+              },
+              {
+                "label": "key ports",
+                "ranking": null
+              },
+              {
+                "label": "ports with oil terminals",
+                "ranking": null
+              },
+              {
+                "label": "very small",
+                "ranking": null
+              },
+              {
+                "label": "small",
+                "ranking": null
+              },
+              {
+                "label": "medium",
+                "ranking": null
+              },
+              {
+                "label": "large",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "465",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "total ports",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "large",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "medium",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "small",
+                    "position": 4
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "very small",
+                    "position": 5
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "size unknown",
+                    "position": 6
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "ports with oil terminals",
+                    "position": 7
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "key ports",
+                    "position": 8
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Population",
+            "data": "no permanent inhabitants, but staff is present at year-round and summer-only research stations<br /><br /><strong>note: </strong>56 countries have signed the 1959 Antarctic Treaty; 30 of those operate a number of seasonal-only (summer) and year-round research stations on the continent and its nearby islands; the population&nbsp; varies from approximately 5,000 in summer to 1,100 in winter, with about 1,000 support personnel on ships nearby<br /><br />as of 2024, peak summer (December-February) maximum capacity in scientific stations - 4,713 total; Argentina 425, Australia 238, Belarus 15, Belgium 55, Brazil 64, Bulgaria 25, Chile 375, China 164, Czechia 32, Ecuador 35, Finland 16, France 136, France and Italy jointly 70, Germany 60, India 72, Italy 150, Japan 130, South Korea 158, New Zealand 85, Norway 60, Peru 30, Poland 41, Russia 211, South Africa 80, Spain 79, Sweden 16, Ukraine 15, United Kingdom 315, United States 1,495 , Uruguay 66 (2024)<br /><br />winter (June-August) maximum capacity in scientific stations - 1,056 total; Argentina 221, Australia 52, Brazil 15, Chile 114, China 32, France 24, France and Italy jointly 13, Germany 9, India 48, Japan 40, Netherlands 10, South Korea 25, NZ 11, Norway 7, Poland 16, Russia 125, South Africa 15, Ukraine 12, UK 44, US 215, Uruguay 8 (2024)",
+            "subfields": [
+              {
+                "label": "female",
+                "ranking": null
+              },
+              {
+                "label": "male",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "335",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "male",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "female",
+                    "position": 3
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Carbon dioxide emissions",
+            "data": "15,000 metric tonnes of CO2 (2023 est.)<br><br><strong>from coal and metallurgical coke:</strong> 2,000 metric tonnes of CO2 (2023 est.)<br><br><strong>from petroleum and other liquids:</strong> 13,000 metric tonnes of CO2 (2023 est.)",
+            "subfields": [
+              {
+                "label": "from coal and metallurgical coke",
+                "ranking": null
+              },
+              {
+                "label": "from petroleum and other liquids",
+                "ranking": null
+              },
+              {
+                "label": "total emissions",
+                "ranking": 214
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "274",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total emissions",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "from coal and metallurgical coke",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "from petroleum and other liquids",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "from consumed natural gas",
+                    "position": 4
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Area",
+            "data": "<strong>total :</strong> 14.2 million sq km<br><br><strong>land:</strong> 14.2 million sq km (285,000 sq km ice-free, 13.915 million sq km ice-covered) (est.)<br><br><strong>note:</strong> fifth-largest continent, following Asia, Africa, North America, and South America, but larger than Australia and the continent of Europe",
+            "subfields": [
+              {
+                "label": "water",
+                "ranking": null
+              },
+              {
+                "label": "land",
+                "ranking": null
+              },
+              {
+                "label": "total ",
+                "ranking": 2
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "279",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total ",
+                    "position": 1
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "land",
+                    "position": 2
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "water",
+                    "position": 3
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false,
+                    "name": "rank by area (sq km)",
+                    "position": 4
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Airports",
+            "data": "31 (2025)",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": 119
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "379",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "total",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Heliports",
+            "data": "5 (2025)",
+            "subfields": [
+              {
+                "label": "Heliports",
+                "ranking": 98
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "382",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true,
+                    "name": "Heliports",
+                    "position": 1
+                  }
+                ]
+              }
+            ],
+            "media": []
+          }
+        ]
+      },
+      "travelFact": null,
+      "rep": {
+        "seo": {
+          "metaDesc": "",
+          "title": "$title - The World Factbook",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": null
+        }
+      }
+    },
+    "pageContext": {
+      "id": "4e898b4a-ae4d-51a3-8485-0b72982a7a07",
+      "placeCode": "AY",
+      "uriBase": "/countries/"
+    }
+  },
+  "staticQueryHashes": [
+    "2962548448",
+    "3419350533",
+    "4121375890",
+    "4279206597",
+    "800385335"
+  ],
+  "slicesMap": {}
+}

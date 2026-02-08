@@ -1,0 +1,4386 @@
+{
+  "componentChunkName": "component---src-templates-country-js",
+  "path": "/countries/guam/",
+  "result": {
+    "data": {
+      "country": {
+        "name": "Guam",
+        "region": "Australia and Oceania",
+        "locations": [
+          "place",
+          "summary"
+        ],
+        "updated": "July 08, 2025",
+        "rank": true,
+        "flag": {
+          "childImageSharp": {
+            "gatsbyImageData": {
+              "layout": "fullWidth",
+              "images": {
+                "fallback": {
+                  "src": "/the-world-factbook/static/27540a7789f0e25aa66538c005f5ac42/93872/GQ-flag.jpg",
+                  "srcSet": "/the-world-factbook/static/27540a7789f0e25aa66538c005f5ac42/93872/GQ-flag.jpg 604w",
+                  "sizes": "100vw"
+                },
+                "sources": [
+                  {
+                    "srcSet": "/the-world-factbook/static/27540a7789f0e25aa66538c005f5ac42/436ac/GQ-flag.webp 604w",
+                    "type": "image/webp",
+                    "sizes": "100vw"
+                  }
+                ]
+              },
+              "width": 1,
+              "height": 0.5
+            }
+          }
+        },
+        "map": {
+          "childImageSharp": {
+            "gatsbyImageData": {
+              "layout": "fullWidth",
+              "images": {
+                "fallback": {
+                  "src": "/the-world-factbook/static/06ccdb516141feaa5c6b14dcc1b73acb/8f2b5/GQ-map.jpg",
+                  "srcSet": "/the-world-factbook/static/06ccdb516141feaa5c6b14dcc1b73acb/8f2b5/GQ-map.jpg 366w",
+                  "sizes": "100vw"
+                },
+                "sources": [
+                  {
+                    "srcSet": "/the-world-factbook/static/06ccdb516141feaa5c6b14dcc1b73acb/60f89/GQ-map.webp 366w",
+                    "type": "image/webp",
+                    "sizes": "100vw"
+                  }
+                ]
+              },
+              "width": 1,
+              "height": 1.0737704918032787
+            }
+          }
+        },
+        "locatorMap": {
+          "childImageSharp": {
+            "gatsbyImageData": {
+              "layout": "fullWidth",
+              "images": {
+                "fallback": {
+                  "src": "/the-world-factbook/static/d81921c818f8d995700dec9e994ed6ab/577f5/GQ-locator-map.jpg",
+                  "srcSet": "/the-world-factbook/static/d81921c818f8d995700dec9e994ed6ab/bd349/GQ-locator-map.jpg 750w,\n/the-world-factbook/static/d81921c818f8d995700dec9e994ed6ab/577f5/GQ-locator-map.jpg 772w",
+                  "sizes": "100vw"
+                },
+                "sources": [
+                  {
+                    "srcSet": "/the-world-factbook/static/d81921c818f8d995700dec9e994ed6ab/be8a2/GQ-locator-map.webp 750w,\n/the-world-factbook/static/d81921c818f8d995700dec9e994ed6ab/bdf01/GQ-locator-map.webp 772w",
+                    "type": "image/webp",
+                    "sizes": "100vw"
+                  }
+                ]
+              },
+              "width": 1,
+              "height": 0.6347150259067358
+            }
+          }
+        },
+        "images": [
+          {
+            "altText": "Aerial view of Asan Ridge and the War in the Pacific National Historical Park on Guam. Established in 1978, the park is composed of various sites on the western shore of the island. During the Second World War, Japanese forces captured Guam in 1941, and the Americans liberated it in 1944. The park includes former battlefields, gun emplacements, trenches, caves, and historic structures. Photo courtesy of the US National Park Service.",
+            "caption": "Aerial view of Asan Ridge and the War in the Pacific National Historical Park on Guam. Established in 1978, the park is composed of various sites on the western shore of the island. During the Second World War, Japanese forces captured Guam in 1941, and the Americans liberated it in 1944. The park includes former battlefields, gun emplacements, trenches, caves, and historic structures. Photo courtesy of the US National Park Service.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/0622f16aa9e7330371b396db889b3217/8b197/Guam_Asan_Ridge_Aerial.jpg",
+                      "srcSet": "/the-world-factbook/static/0622f16aa9e7330371b396db889b3217/8b197/Guam_Asan_Ridge_Aerial.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/0622f16aa9e7330371b396db889b3217/47189/Guam_Asan_Ridge_Aerial.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.5783333333333334
+                }
+              }
+            }
+          },
+          {
+            "altText": "Panoramic view of Asan Bay and part of the War in the Pacific National Historical Park. In July 1944, Asan Bay was the site of  the northern invasion landing area on the west coast of Guam. The 3rd Marine Division landed in this area with an objective of seizing the high ground behind the beach area. Photo courtesy of the US National Park Service.",
+            "caption": "Panoramic view of Asan Bay and part of the War in the Pacific National Historical Park. In July 1944, Asan Bay was the site of  the northern invasion landing area on the west coast of Guam. The 3rd Marine Division landed in this area with an objective of seizing the high ground behind the beach area. Photo courtesy of the US National Park Service.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/308aacb348290b5a773b660f8f8e833c/21dcf/Guam_war_in_pacific_park.jpg",
+                      "srcSet": "/the-world-factbook/static/308aacb348290b5a773b660f8f8e833c/21dcf/Guam_war_in_pacific_park.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/308aacb348290b5a773b660f8f8e833c/98bc5/Guam_war_in_pacific_park.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.2916666666666667
+                }
+              }
+            }
+          },
+          {
+            "altText": "View from Asan Bay Overlook toward Guam's War in the Pacific National Historical Park. This photo is taken from the perspective of the Japanese defenders when US forces landed on 21 July 1944. Photo courtesy of the US National Park Service.",
+            "caption": "View from Asan Bay Overlook toward Guam's War in the Pacific National Historical Park. This photo is taken from the perspective of the Japanese defenders when US forces landed on 21 July 1944. Photo courtesy of the US National Park Service.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/d200a84ecde67677ddf822007264d235/cf2b4/Guam_Asan_Bay_overlook.jpg",
+                      "srcSet": "/the-world-factbook/static/d200a84ecde67677ddf822007264d235/cf2b4/Guam_Asan_Bay_overlook.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/d200a84ecde67677ddf822007264d235/a8a9e/Guam_Asan_Bay_overlook.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.47500000000000003
+                }
+              }
+            }
+          },
+          {
+            "altText": "A hexagonal monument, dedicated in 1994 on the 50th anniversary of the liberation of Guam, stands in the War in the Pacific National Historical Park, under the flags of the United States and Guam. The monument's inscription reads: \"Honors to heroic and gallant effort of the US Armed Forces.\" Photo courtesy of the US National Park Service.",
+            "caption": "A hexagonal monument, dedicated in 1994 on the 50th anniversary of the liberation of Guam, stands in the War in the Pacific National Historical Park, under the flags of the United States and Guam. The monument's inscription reads: \"Honors to heroic and gallant effort of the US Armed Forces.\" Photo courtesy of the US National Park Service.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/e9d3e9cd80a1545c3fd03410fcf5096e/4cb25/Guam_war_in_pacific_park_monument.jpg",
+                      "srcSet": "/the-world-factbook/static/e9d3e9cd80a1545c3fd03410fcf5096e/4cb25/Guam_war_in_pacific_park_monument.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/e9d3e9cd80a1545c3fd03410fcf5096e/381e5/Guam_war_in_pacific_park_monument.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.5633333333333334
+                }
+              }
+            }
+          },
+          {
+            "altText": "Bronze relief on a memorial in Guam's War in the Pacific National Historical Park. Established in 1978, the park is composed of various sites on the western shore of the island. During World War II, Japanese forces captured Guam in 1941, and the Americans liberated it in 1944. The park includes former battlefields, gun emplacements, trenches, caves, and historic structures. Photo courtesy of the US National Park Service.",
+            "caption": "Bronze relief on a memorial in Guam's War in the Pacific National Historical Park. Established in 1978, the park is composed of various sites on the western shore of the island. During World War II, Japanese forces captured Guam in 1941, and the Americans liberated it in 1944. The park includes former battlefields, gun emplacements, trenches, caves, and historic structures. Photo courtesy of the US National Park Service.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/4c5feafcbfda0c86a514ce174d85c962/be79d/Guam_Asan_Bay_overlook_bronze_relief.jpg",
+                      "srcSet": "/the-world-factbook/static/4c5feafcbfda0c86a514ce174d85c962/be79d/Guam_Asan_Bay_overlook_bronze_relief.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/4c5feafcbfda0c86a514ce174d85c962/9a858/Guam_Asan_Bay_overlook_bronze_relief.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.75
+                }
+              }
+            }
+          },
+          {
+            "altText": "The Asan Bay Overlook Memorial Wall in Guam's War in the Pacific National Historical Park. The wall displays the names of 1,880 US servicemen who died in 1941 defending Guam against Japanese armed forces, as well as those who died retaking the island from Japan in 1944. Also listed are the names of the 1,170 Guam inhabitants who died and 14,721 who suffered war atrocities from 1941 to 1944. Photo courtesy of the US National Park Service.",
+            "caption": "The Asan Bay Overlook Memorial Wall in Guam's War in the Pacific National Historical Park. The wall displays the names of 1,880 US servicemen who died in 1941 defending Guam against Japanese armed forces, as well as those who died retaking the island from Japan in 1944. Also listed are the names of the 1,170 Guam inhabitants who died and 14,721 who suffered war atrocities from 1941 to 1944. Photo courtesy of the US National Park Service.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/a90d5b36ba975230d1704f70381d70c5/be79d/Guam_Asan_Bay_Overlook_memorial_wall.jpg",
+                      "srcSet": "/the-world-factbook/static/a90d5b36ba975230d1704f70381d70c5/be79d/Guam_Asan_Bay_Overlook_memorial_wall.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/a90d5b36ba975230d1704f70381d70c5/9a858/Guam_Asan_Bay_Overlook_memorial_wall.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.75
+                }
+              }
+            }
+          },
+          {
+            "altText": "Once a Japanese naval communications center, Fonte Plateau unit is located on Nimitz Hill, overlooking Asan Bay in Guam. Fonte Plateau was the site of one of the more bitter battles between the US Marines and the Japanese; it was later renamed Nimitz Hill because it served as the CINCPAC headquarters for Admiral Chester Nimitz. Photo courtesy of the US National Park Service.",
+            "caption": "Once a Japanese naval communications center, Fonte Plateau unit is located on Nimitz Hill, overlooking Asan Bay in Guam. Fonte Plateau was the site of one of the more bitter battles between the US Marines and the Japanese; it was later renamed Nimitz Hill because it served as the CINCPAC headquarters for Admiral Chester Nimitz. Photo courtesy of the US National Park Service.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/e8a6098e3d6ac43f962d49ccd47ee063/22fa8/Guam_Fonte_Plateau.jpg",
+                      "srcSet": "/the-world-factbook/static/e8a6098e3d6ac43f962d49ccd47ee063/22fa8/Guam_Fonte_Plateau.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/e8a6098e3d6ac43f962d49ccd47ee063/75d4b/Guam_Fonte_Plateau.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.7516666666666667
+                }
+              }
+            }
+          },
+          {
+            "altText": "The Piti Guns unit in Guam's War in the Pacific National Historical Park is the site of three Vickers-type Model 3 140mm coastal defense guns. During the Japanese occupation of Guam (1941-44), the Chamorro population was forced to work to build up these defenses. Photo courtesy of the US National Park Service.",
+            "caption": "The Piti Guns unit in Guam's War in the Pacific National Historical Park is the site of three Vickers-type Model 3 140mm coastal defense guns. During the Japanese occupation of Guam (1941-44), the Chamorro population was forced to work to build up these defenses. Photo courtesy of the US National Park Service.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/1e35c8a1927b82060740e26cc269497b/64b6c/Guam_Piti_Gun.jpg",
+                      "srcSet": "/the-world-factbook/static/1e35c8a1927b82060740e26cc269497b/64b6c/Guam_Piti_Gun.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/1e35c8a1927b82060740e26cc269497b/c9e6b/Guam_Piti_Gun.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.74
+                }
+              }
+            }
+          },
+          {
+            "altText": "An aerial view of US Naval Base Guam, part of Apra Harbor. The US territory of Guam hosts both the naval base and Andersen Air Force Base. Photo courtesy of the US Navy.",
+            "caption": "An aerial view of US Naval Base Guam, part of Apra Harbor. The US territory of Guam hosts both the naval base and Andersen Air Force Base. Photo courtesy of the US Navy.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/df9a34c7dc967e42bd8cee49a51824b7/a5c27/us_naval_base_guam.jpg",
+                      "srcSet": "/the-world-factbook/static/df9a34c7dc967e42bd8cee49a51824b7/a5c27/us_naval_base_guam.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/df9a34c7dc967e42bd8cee49a51824b7/fca8d/us_naval_base_guam.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.6466666666666666
+                }
+              }
+            }
+          }
+        ],
+        "special": []
+      },
+      "fields": {
+        "nodes": [
+          {
+            "name": "Dependency status",
+            "data": "unincorporated, organized territory of the US, with policy relations between Guam and the Federal government under the jurisdiction of the Office of Insular Affairs, US Department of the Interior",
+            "subfields": [
+              {
+                "label": "Dependency status",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "298",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Diplomatic representation from the US",
+            "data": "<strong>embassy:</strong> none (territory of the US)",
+            "subfields": [
+              {
+                "label": "email address and website",
+                "ranking": null
+              },
+              {
+                "label": "consulate(s)",
+                "ranking": null
+              },
+              {
+                "label": "branch office(s)",
+                "ranking": null
+              },
+              {
+                "label": "consulate(s) general",
+                "ranking": null
+              },
+              {
+                "label": "FAX",
+                "ranking": null
+              },
+              {
+                "label": "telephone",
+                "ranking": null
+              },
+              {
+                "label": "mailing address",
+                "ranking": null
+              },
+              {
+                "label": "embassy",
+                "ranking": null
+              },
+              {
+                "label": "chief of mission",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "319",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Age structure",
+            "data": "<strong>0-14 years:</strong> 26.4% (male 23,139/female 21,632)<br><br><strong>15-64 years:</strong> 62.7% (male 55,591/female 50,741)<br><br><strong>65 years and over:</strong> 10.9% (2024 est.) (male 8,615/female 9,814)",
+            "subfields": [
+              {
+                "label": "65 years and over",
+                "ranking": null
+              },
+              {
+                "label": "15-64 years",
+                "ranking": null
+              },
+              {
+                "label": "0-14 years",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "341",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": [
+              {
+                "type": "image",
+                "altText": "2024 population pyramid",
+                "caption": "This is the population pyramid for Guam. A population pyramid illustrates the age and sex structure of a country's population and may provide insights about political and social stability, as well as economic development. The population is distributed along the horizontal axis, with males shown on the left and females on the right. The male and female populations are broken down into 5-year age groups represented as horizontal bars along the vertical axis, with the youngest age groups at the bottom and the oldest at the top. The shape of the population pyramid gradually evolves over time based on fertility, mortality, and international migration trends. <br/><br/>For additional information, please see the entry for Population pyramid on the Definitions and Notes page.",
+                "localFile": {
+                  "publicURL": "/the-world-factbook/static/33a8e8e8910363febcbf9380dfc36e8f/gq_popgraph2024.jpeg",
+                  "childImageSharp": {
+                    "gatsbyImageData": {
+                      "layout": "constrained",
+                      "images": {
+                        "fallback": {
+                          "src": "/the-world-factbook/static/33a8e8e8910363febcbf9380dfc36e8f/60be0/gq_popgraph2024.jpg",
+                          "srcSet": "/the-world-factbook/static/33a8e8e8910363febcbf9380dfc36e8f/a2e79/gq_popgraph2024.jpg 245w,\n/the-world-factbook/static/33a8e8e8910363febcbf9380dfc36e8f/d9c3e/gq_popgraph2024.jpg 490w,\n/the-world-factbook/static/33a8e8e8910363febcbf9380dfc36e8f/60be0/gq_popgraph2024.jpg 980w",
+                          "sizes": "(min-width: 980px) 980px, 100vw"
+                        },
+                        "sources": []
+                      },
+                      "width": 980,
+                      "height": 600
+                    }
+                  }
+                }
+              },
+              {
+                "type": "image",
+                "altText": "2022 population pyramid",
+                "caption": "This is the population pyramid for Guam. A population pyramid illustrates the age and sex structure of a country's population and may provide insights about political and social stability, as well as economic development. The population is distributed along the horizontal axis, with males shown on the left and females on the right. The male and female populations are broken down into 5-year age groups represented as horizontal bars along the vertical axis, with the youngest age groups at the bottom and the oldest at the top. The shape of the population pyramid gradually evolves over time based on fertility, mortality, and international migration trends. <br/><br/>For additional information, please see the entry for Population pyramid on the Definitions and Notes page.",
+                "localFile": {
+                  "publicURL": "/the-world-factbook/static/786e83edd7fa3c8918c24d2d837702ee/GQ_popgraph2022.jpeg",
+                  "childImageSharp": {
+                    "gatsbyImageData": {
+                      "layout": "constrained",
+                      "images": {
+                        "fallback": {
+                          "src": "/the-world-factbook/static/786e83edd7fa3c8918c24d2d837702ee/2b9a8/GQ_popgraph2022.jpg",
+                          "srcSet": "/the-world-factbook/static/786e83edd7fa3c8918c24d2d837702ee/4cc40/GQ_popgraph2022.jpg 150w,\n/the-world-factbook/static/786e83edd7fa3c8918c24d2d837702ee/8c10b/GQ_popgraph2022.jpg 300w,\n/the-world-factbook/static/786e83edd7fa3c8918c24d2d837702ee/2b9a8/GQ_popgraph2022.jpg 600w",
+                          "sizes": "(min-width: 600px) 600px, 100vw"
+                        },
+                        "sources": []
+                      },
+                      "width": 600,
+                      "height": 350
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "name": "Geographic coordinates",
+            "data": "13 28 N, 144 47 E",
+            "subfields": [
+              {
+                "label": "Geographic coordinates",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "277",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Sex ratio",
+            "data": "<strong>at birth:</strong> 1.07 male(s)/female<br><br><strong>0-14 years:</strong> 1.07 male(s)/female<br><br><strong>15-64 years:</strong> 1.1 male(s)/female<br><br><strong>65 years and over:</strong> 0.88 male(s)/female<br><br><strong>total population:</strong> 1.06 male(s)/female (2024 est.)",
+            "subfields": [
+              {
+                "label": "total population",
+                "ranking": null
+              },
+              {
+                "label": "65 years and over",
+                "ranking": null
+              },
+              {
+                "label": "15-64 years",
+                "ranking": null
+              },
+              {
+                "label": "0-14 years",
+                "ranking": null
+              },
+              {
+                "label": "at birth",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "351",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Natural hazards",
+            "data": "frequent squalls during rainy season; relatively rare but potentially destructive typhoons (June to December)",
+            "subfields": [
+              {
+                "label": "Natural hazards",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "292",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Area - comparative",
+            "data": "three times the size of Washington, D.C.",
+            "subfields": [
+              {
+                "label": "Area - comparative",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "280",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Background",
+            "data": "<p>Guam was settled by Austronesian people around 1500 B.C. These people became the indigenous Chamorro and were influenced by later migrations, including the Micronesians in the first millennium A.D., and island Southeast Asians around 900. Society was stratified, with higher classes living along the coast and lower classes living inland. Spanish explorer Ferdinand MAGELLAN was the first European to see Guam in 1521, and Spain claimed the island in 1565 because it served as a refueling stop for ships between Mexico and the Philippines. Spain formally colonized Guam in 1668. Spain&rsquo;s brutal repression of the Chamorro, along with new diseases and intermittent warfare, reduced the indigenous population from more than 100,000 to less than 5,000 by the 1700s. Spain tried to repopulate the island by forcing people from nearby islands to settle on Guam and preventing them from escaping.<br /><br />Guam became a hub for whalers and traders in the western Pacific in the early 1800s. During the 1898 Spanish-American War, the US Navy occupied Guam and set up a military administration. The US Navy opposed local control of government despite repeated petitions from the Chamorro. Japan invaded Guam in 1941 and instituted a repressive regime. During the US recapture of Guam in 1944, the island&rsquo;s two largest villages were destroyed. After World War II, political pressure from local Chamorro leaders led to Guam being established as an unincorporated organized US territory in 1950, with US citizenship granted to all Chamorro. In a referendum in 1982, more than 75% of voters chose closer relations with the US over independence, although no change in status was made because of disagreements on the future right of Chamorro self-determination. The US military holds about 29% of Guam&rsquo;s land and stations several thousand troops on the island. The installations are some of the most strategically important US bases in the Pacific; they also constitute the island&rsquo;s most important source of income and economic stability.</p>",
+            "subfields": [
+              {
+                "label": "Summary",
+                "ranking": null
+              },
+              {
+                "label": "Background",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "325",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Environment - current issues",
+            "data": "freshwater scarcity; reef damage; inadequate sewage treatment; rapid proliferation of the non-native brown tree snake&nbsp;",
+            "subfields": [
+              {
+                "label": "Environment - current issues",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "293",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Exports - commodities",
+            "data": "scrap iron, scrap copper, trunks and cases (2023)<br><br><strong>note:</strong> top export commodities based on value in dollars over $500,000",
+            "subfields": [
+              {
+                "label": "Exports - commodities",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "240",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Exports - partners",
+            "data": "Taiwan 42%, Hong Kong 12%, Philippines 11%, Italy 8%, Australia 6% (2023)<br><br><b>note:</b> top five export partners based on percentage share of exports",
+            "subfields": [
+              {
+                "label": "Exports - partners",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "241",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Administrative divisions",
+            "data": "none (territory of the US)",
+            "subfields": [
+              {
+                "label": "Administrative divisions",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "302",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Agricultural products",
+            "data": "fruits, copra, vegetables; eggs, pork, poultry, beef",
+            "subfields": [
+              {
+                "label": "Agricultural products",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "215",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Budget",
+            "data": "<strong>revenues:</strong> $1.24 billion (2016 est.)<br><br><strong>expenditures:</strong> $1.299 billion (2016 est.)",
+            "subfields": [
+              {
+                "label": "expenditures",
+                "ranking": null
+              },
+              {
+                "label": "revenues",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "224",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Capital",
+            "data": "<strong>name:</strong> Hagatna (Agana)<br><br><strong>geographic coordinates:</strong> 13 28 N, 144 44 E<br><br><strong>time difference:</strong> UTC+10 (15 hours ahead of Washington, DC, during Standard Time)<br><br><strong>etymology:</strong> the name Hagatna is derived from the Chamorro word <em>haga</em>, meaning \"life's blood\" and referring to the town's role as the center of government for the island&nbsp;",
+            "subfields": [
+              {
+                "label": "etymology",
+                "ranking": null
+              },
+              {
+                "label": "time zone note",
+                "ranking": null
+              },
+              {
+                "label": "daylight saving time",
+                "ranking": null
+              },
+              {
+                "label": "time difference",
+                "ranking": null
+              },
+              {
+                "label": "geographic coordinates",
+                "ranking": null
+              },
+              {
+                "label": "name",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "301",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Imports - commodities",
+            "data": "refined petroleum, cars, trunks and cases, gas turbines, flavored water (2023)<br><br><b>note:</b> top five import commodities based on value in dollars",
+            "subfields": [
+              {
+                "label": "Imports - commodities",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "243",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Climate",
+            "data": "tropical marine; generally warm and humid, moderated by northeast trade winds; dry season (January to June), rainy season (July to December); little seasonal temperature variation",
+            "subfields": [
+              {
+                "label": "Climate",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "284",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Coastline",
+            "data": "125.5 km",
+            "subfields": [
+              {
+                "label": "Coastline",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "282",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Constitution",
+            "data": "<strong>history:</strong> effective 1 July 1950 (Guam Act of 1950 serves as a constitution)",
+            "subfields": [
+              {
+                "label": "amendment process",
+                "ranking": null
+              },
+              {
+                "label": "history",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "307",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Exchange rates",
+            "data": "the US dollar is used",
+            "subfields": [
+              {
+                "label": "Currency",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "249",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Executive branch",
+            "data": "<strong>chief of state:</strong> President Donald J. TRUMP (since 20 January 2025)<br><br><strong>head of government:</strong> Governor Lourdes LEON GUERRERO (since 7 January 2019)<br><br><strong>cabinet:</strong> Cabinet appointed by the governor with the consent of the Legislature<br><br><strong>election/appointment process:</strong> president and vice president indirectly elected on the same ballot by an Electoral College of electors chosen from each state to serve a 4-year term (eligible for a second term); under the US Constitution, residents of unincorporated territories, such as Guam, do not vote in elections for US president and vice president, but they can vote in Democratic and Republican presidential primary elections; governor and lieutenant governor elected on the same ballot by absolute majority vote in 2 rounds, if needed, for a 4-year term (eligible for 2 consecutive terms)<br><br><strong>most recent election date:</strong> <em>gubernatorial:</em> 8 November 2022<br><br><strong>election results:</strong> <em><br />2022:</em> Lourdes LEON GUERRERO reelected governor; percent of vote - Lourdes LEON GUERRERO (Democratic Party) 55%, Felix CAMACHO (Republican Party) 44%; Josh TENORIO (Democratic Party) elected lieutenant governor<br /><br /><em>2018:</em> Lourdes LEON GUERRERO elected governor; percent of vote - &nbsp;Lourdes LEON GUERRERO (Democratic Party) 50.7%, Ray TENORIO (Republican Party) 26.4%; Josh TENORIO (Democratic Party) elected lieutenant governor<br><br><strong>expected date of next election:</strong> <em>gubernatorial: </em>3 November 2026",
+            "subfields": [
+              {
+                "label": "expected date of next election",
+                "ranking": null
+              },
+              {
+                "label": "most recent election date",
+                "ranking": null
+              },
+              {
+                "label": "election results",
+                "ranking": null
+              },
+              {
+                "label": "election/appointment process",
+                "ranking": null
+              },
+              {
+                "label": "cabinet",
+                "ranking": null
+              },
+              {
+                "label": "head of government",
+                "ranking": null
+              },
+              {
+                "label": "chief of state",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "312",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Flag description",
+            "data": "territorial flag is dark blue with a narrow red border on all four sides; centered is a red-bordered, pointed, vertical ellipse containing a beach scene, a <em>proa (</em>outrigger canoe with sail), and a palm tree; the word GUAM in red is centered in the ellipse; the proa is sailing in Agana Bay with the promontory of Puntan Dos Amantes in the background; the central emblem is shaped like a Chamorro sling stone, a weapon for defense or hunting; blue stands for the sea and red for the blood shed in the fight against oppression<br><br><strong>note:</strong> the US flag is the national flag",
+            "subfields": [
+              {
+                "label": "Flag description",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "320",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Independence",
+            "data": "none (territory of the US)",
+            "subfields": [
+              {
+                "label": "Independence",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "305",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Industries",
+            "data": "national defense, tourism, construction, transshipment services, concrete products, printing and publishing, food processing, textiles",
+            "subfields": [
+              {
+                "label": "Industries",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "216",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Judicial branch",
+            "data": "<strong>highest court(s):</strong> Supreme Court of Guam (consists of 3 justices)<br><br><strong>judge selection and term of office:</strong> justices appointed by the governor and confirmed by the Guam legislature; justices appointed for life but subject to retention election every 10 years<br><br><strong>subordinate courts:</strong> Superior Court of Guam (includes several divisions); US Federal District Court for the District of Guam (a US territorial court; appeals beyond this court are heard before the US Court of Appeals for the Ninth Circuit)<br><br><strong>note:</strong>&nbsp;appeals beyond the Supreme Court of Guam are referred to the US Supreme Court",
+            "subfields": [
+              {
+                "label": "subordinate courts",
+                "ranking": null
+              },
+              {
+                "label": "judge selection and term of office",
+                "ranking": null
+              },
+              {
+                "label": "highest court(s)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "314",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Land boundaries",
+            "data": "<strong>total:</strong> 0 km",
+            "subfields": [
+              {
+                "label": "regional borders",
+                "ranking": null
+              },
+              {
+                "label": "border countries",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "281",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Land use",
+            "data": "<strong>agricultural land:</strong> 29.6% (2022 est.)<br><br>arable land: 1.9% (2022 est.)<br><br>permanent crops: 13% (2022 est.)<br><br>permanent pasture: 14.8% (2022 est.)<br><br><strong>forest:</strong> 51.9% (2022 est.)<br><br><strong>other:</strong> 18.5% (2022 est.)",
+            "subfields": [
+              {
+                "label": "other",
+                "ranking": null
+              },
+              {
+                "label": "forest",
+                "ranking": null
+              },
+              {
+                "label": "permanent pasture",
+                "ranking": null
+              },
+              {
+                "label": "permanent crops",
+                "ranking": null
+              },
+              {
+                "label": "arable land",
+                "ranking": null
+              },
+              {
+                "label": "agricultural land",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "288",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Legal system",
+            "data": "common law modeled on US system; US federal laws apply",
+            "subfields": [
+              {
+                "label": "Legal system",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "308",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Legislative branch",
+            "data": "<strong>legislature name:</strong> Legislature of Guam (Liheslaturan Guahan)<br><br><strong>legislative structure:</strong> unicameral<br><br><strong>number of seats:</strong> 15 (directly elected)<br><br><strong>electoral system:</strong> plurality/majority<br><br><strong>scope of elections:</strong> full renewal<br><br><strong>term in office:</strong> 2 years<br><br><strong>most recent election date:</strong> 11/8/2022<br><br><strong>parties elected and seats per party:</strong> Democratic Party (9); Republican Party (6)<br><br><strong>percentage of women in chamber:</strong> 40%<br><br><strong>expected date of next election:</strong> November 2024<br><br><strong>note:</strong> Guam directly elects 1 member by simple majority vote to serve a 2-year term as delegate to the US House of Representatives; the delegate can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a &ldquo;full floor&rdquo; House vote",
+            "subfields": [
+              {
+                "label": "expected date of next election",
+                "ranking": null
+              },
+              {
+                "label": "parties elected and seats per party",
+                "ranking": null
+              },
+              {
+                "label": "most recent election date",
+                "ranking": null
+              },
+              {
+                "label": "scope of elections",
+                "ranking": null
+              },
+              {
+                "label": "electoral system",
+                "ranking": null
+              },
+              {
+                "label": "number of seats",
+                "ranking": null
+              },
+              {
+                "label": "chamber name",
+                "ranking": null
+              },
+              {
+                "label": "legislative structure",
+                "ranking": null
+              },
+              {
+                "label": "legislature name",
+                "ranking": null
+              },
+              {
+                "label": "percentage of women in chamber",
+                "ranking": null
+              },
+              {
+                "label": "term in office",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "313",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Maritime claims",
+            "data": "<strong>territorial sea:</strong> 12 nm<br><br><strong>exclusive economic zone:</strong> 200 nm",
+            "subfields": [
+              {
+                "label": "exclusive economic zone",
+                "ranking": null
+              },
+              {
+                "label": "territorial sea",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "283",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "International organization participation",
+            "data": "AOSIS (observer), IOC, PIF (observer), SPC, UPU",
+            "subfields": [
+              {
+                "label": "International organization participation",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "317",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "National holiday",
+            "data": "Discovery Day (or Magellan Day), first Monday in March (1521)",
+            "subfields": [
+              {
+                "label": "National holiday",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "306",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Nationality",
+            "data": "<strong>noun:</strong> Guamanian(s) (US citizens)<br><br><strong>adjective:</strong> Guamanian",
+            "subfields": [
+              {
+                "label": "adjective",
+                "ranking": null
+              },
+              {
+                "label": "noun",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "336",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Natural resources",
+            "data": "aquatic wildlife (supporting tourism), fishing (largely undeveloped)",
+            "subfields": [
+              {
+                "label": "Natural resources",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "287",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Geography - note",
+            "data": "largest and southernmost island in the Mariana Islands archipelago and the largest island in Micronesia; strategic location in western North Pacific Ocean",
+            "subfields": [
+              {
+                "label": "Geography - note",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "295",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Economic overview",
+            "data": "small Pacific island US territorial economy; upper income, tourism-based economy; hard-hit by COVID-19 disruptions; relaunched many industries via vaccination tourism; domestic economy relies on multiple military bases; environmentally fragile economy",
+            "subfields": [
+              {
+                "label": "Summary",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "207",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Political parties",
+            "data": "Democratic Party<br />Republican Party",
+            "subfields": [
+              {
+                "label": "Political parties",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "315",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Suffrage",
+            "data": "18 years of age; universal; note - Guamanians are US citizens but do not vote in US presidential elections",
+            "subfields": [
+              {
+                "label": "Suffrage",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "311",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Terrain",
+            "data": "volcanic origin, surrounded by coral reefs; relatively flat coralline limestone plateau (source of most fresh water), with steep coastal cliffs and narrow coastal plains in north, low hills in center, mountains in south",
+            "subfields": [
+              {
+                "label": "Terrain",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "285",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Government type",
+            "data": "unincorporated organized territory of the US with local self-government; republican form of territorial government with separate executive, legislative, and judicial branches",
+            "subfields": [
+              {
+                "label": "Government type",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "299",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Military - note",
+            "data": "defense is the responsibility of the US; the US military maintains about 8,000 active-duty uniformed personnel and several bases and installations",
+            "subfields": [
+              {
+                "label": "Military - note",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "332",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Country name",
+            "data": "<strong>conventional long form:</strong> none<br><br><strong>conventional short form:</strong> Guam<br><br><strong>local long form:</strong> none<br><br><strong>local short form:</strong> Guahan<br><br><strong>abbreviation:</strong> GU<br><br><strong>etymology:</strong> the native Chamorro name for the island, Guahan (meaning \"we have\"), was changed to Guam in the 1898 Treaty of Paris, when Spain relinquished Guam, Cuba, Puerto Rico, and the Philippines to the US",
+            "subfields": [
+              {
+                "label": "former",
+                "ranking": null
+              },
+              {
+                "label": "etymology",
+                "ranking": null
+              },
+              {
+                "label": "abbreviation",
+                "ranking": null
+              },
+              {
+                "label": "local short form",
+                "ranking": null
+              },
+              {
+                "label": "local long form",
+                "ranking": null
+              },
+              {
+                "label": "conventional short form",
+                "ranking": null
+              },
+              {
+                "label": "conventional long form",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "296",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Location",
+            "data": "Oceania, island in the North Pacific Ocean, about three-quarters of the way from Hawaii to the Philippines",
+            "subfields": [
+              {
+                "label": "Location",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "276",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Map references",
+            "data": "Oceania",
+            "subfields": [
+              {
+                "label": "Map references",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "278",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Irrigated land",
+            "data": "2 sq km (2012)",
+            "subfields": [
+              {
+                "label": "Irrigated land",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "289",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Diplomatic representation in the US",
+            "data": "none (territory of the US)",
+            "subfields": [
+              {
+                "label": "honorary consulate(s)",
+                "ranking": null
+              },
+              {
+                "label": "embassy",
+                "ranking": null
+              },
+              {
+                "label": "consulate(s)",
+                "ranking": null
+              },
+              {
+                "label": "consulate(s) general",
+                "ranking": null
+              },
+              {
+                "label": "email address and website",
+                "ranking": null
+              },
+              {
+                "label": "FAX",
+                "ranking": null
+              },
+              {
+                "label": "telephone",
+                "ranking": null
+              },
+              {
+                "label": "chancery",
+                "ranking": null
+              },
+              {
+                "label": "chief of mission",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "318",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Internet users",
+            "data": "<strong>percent of population:</strong> 81% (2017 est.)",
+            "subfields": [
+              {
+                "label": "percent of population",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "204",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Internet country code",
+            "data": ".gu",
+            "subfields": [
+              {
+                "label": "Internet country code",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "202",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "GDP (official exchange rate)",
+            "data": "$6.91 billion (2022 est.)<br><br><b>note:</b> data in current dollars at official exchange rate",
+            "subfields": [
+              {
+                "label": "GDP (official exchange rate)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "209",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Urbanization",
+            "data": "<strong>urban population:</strong> 95.2% of total population (2022)<br><br><strong>rate of urbanization:</strong> 0.84% annual rate of change (2020-25 est.)",
+            "subfields": [
+              {
+                "label": "urban population",
+                "ranking": null
+              },
+              {
+                "label": "rate of urbanization",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "349",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Broadcast media",
+            "data": "about a dozen TV channels, including digital; multi-channel cable TV services are available; roughly 20 radio stations",
+            "subfields": [
+              {
+                "label": "Broadcast media",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "199",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Drinking water source",
+            "data": "<strong>improved:</strong><br><br>urban: NA<br><br>rural: NA<br><br>total: 99.7% of population<br><br><strong>unimproved:</strong><br><br>urban: NA<br><br>rural: NA<br><br>total: 0.3% of population (2020 est.)",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": null
+              },
+              {
+                "label": "rural",
+                "ranking": null
+              },
+              {
+                "label": "urban",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": null
+              },
+              {
+                "label": "rural",
+                "ranking": null
+              },
+              {
+                "label": "urban",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "361",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "National anthem",
+            "data": "<strong>name:</strong> \"Fanohge Chamoru\" (Stand Ye Guamanians)<br><br><strong>lyrics/music:</strong> Ramon Manalisay SABLAN [English], Lagrimas UNTALAN [Chamoru]/Ramon Manalisay SABLAN<br><br><strong>note:</strong> adopted 1919; the local anthem is also known as \"Guam Hymn\"; as a territory of the United States, \"The Star-Spangled Banner,\" which generally follows the playing of \"Stand Ye Guamanians,\" is official (see United States)",
+            "subfields": [
+              {
+                "label": "lyrics/music",
+                "ranking": null
+              },
+              {
+                "label": "name",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "322",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Major urban areas - population",
+            "data": "147,000 HAGATNA (capital) (2018)",
+            "subfields": [
+              {
+                "label": "Major urban areas - population",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "350",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "National symbol(s)",
+            "data": "coconut tree",
+            "subfields": [
+              {
+                "label": "National symbol(s)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "321",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "GDP - composition, by end use",
+            "data": "<strong>household consumption:</strong> 59.9% (2022 est.)<br><br><strong>government consumption:</strong> 55% (2016 est.)<br><br><strong>investment in fixed capital:</strong> 20.6% (2016 est.)<br><br><strong>exports of goods and services:</strong> 7.9% (2022 est.)<br><br><strong>imports of goods and services:</strong> -64% (2022 est.)<br><br><strong>note:</strong> figures may not total 100% due to rounding or gaps in data collection",
+            "subfields": [
+              {
+                "label": "imports of goods and services",
+                "ranking": null
+              },
+              {
+                "label": "exports of goods and services",
+                "ranking": null
+              },
+              {
+                "label": "household consumption",
+                "ranking": null
+              },
+              {
+                "label": "investment in fixed capital",
+                "ranking": null
+              },
+              {
+                "label": "government consumption",
+                "ranking": null
+              },
+              {
+                "label": "investment in inventories",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "213",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Dependency ratios",
+            "data": "<strong>total dependency ratio:</strong> 59.4 (2024 est.)<br><br><strong>youth dependency ratio:</strong> 42.1 (2024 est.)<br><br><strong>elderly dependency ratio:</strong> 17.3 (2024 est.)<br><br><strong>potential support ratio:</strong> 5.8 (2024 est.)",
+            "subfields": [
+              {
+                "label": "potential support ratio",
+                "ranking": null
+              },
+              {
+                "label": "elderly dependency ratio",
+                "ranking": null
+              },
+              {
+                "label": "youth dependency ratio",
+                "ranking": null
+              },
+              {
+                "label": "total dependency ratio",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "342",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Citizenship",
+            "data": "see United States",
+            "subfields": [
+              {
+                "label": "residency requirement for naturalization",
+                "ranking": null
+              },
+              {
+                "label": "dual citizenship recognized",
+                "ranking": null
+              },
+              {
+                "label": "citizenship by descent only",
+                "ranking": null
+              },
+              {
+                "label": "citizenship by birth",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "310",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Population distribution",
+            "data": "no large cities exist on the island; large villages (municipalities) attract much of the population; the largest of these is Dededo",
+            "subfields": [
+              {
+                "label": "Population distribution",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "348",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Electricity access",
+            "data": "<strong>electrification - total population:</strong> 100% (2022 est.)",
+            "subfields": [
+              {
+                "label": "electrification - total population",
+                "ranking": null
+              },
+              {
+                "label": "electrification - rural areas",
+                "ranking": null
+              },
+              {
+                "label": "electrification - urban areas",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "251",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Sanitation facility access",
+            "data": "<strong>improved:</strong><br><br>urban: 89.8% of population (2015 est.)<br><br>rural: 89.8% of population (2015 est.)<br><br>total: 89.8% of population (2015 est.)<br><br><strong>unimproved:</strong><br><br>urban: 10.2% of population (2015 est.)<br><br>rural: 10.2% of population (2015 est.)<br><br>total: 10.2% of population (2015 est.)",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": null
+              },
+              {
+                "label": "rural",
+                "ranking": null
+              },
+              {
+                "label": "urban",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": null
+              },
+              {
+                "label": "rural",
+                "ranking": null
+              },
+              {
+                "label": "urban",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "398",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Ethnic groups",
+            "data": "Native Hawaiian and other Pacific Islander 46.1% (Chamorro 32.8%, Chuukese 6.7%, Palauan 1.4%, Pohnpeian 1.4%, Yapese 1%, other Native Hawaiian and other Pacific Islander 2.8%), Asian 35.5% (Filipino 29.1%, Korean 2.2%, Japanese 1.4%, Chinese (except Taiwanese) 1.3%, other Asian 1.5%), White 6.8%, African descent or African-American 0.9%, Indigenous 0.1%, other 0.6%, mixed 10% (2020 est.)",
+            "subfields": [
+              {
+                "label": "Ethnic groups",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "400",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Religions",
+            "data": "Christian (predominantly Roman Catholic) 94.2%, folk religions 1.5%, Buddhist 1.1%, other 1.6%, unaffiliated 1.7% (2020 est.)",
+            "subfields": [
+              {
+                "label": "Religions",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "401",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Languages",
+            "data": "English 43.3%, Filipino 24.9%, Chamorro 16%, other Pacific Island languages 9.4%, Asian languages 6.5% (2020 est.)",
+            "subfields": [
+              {
+                "label": "Languages",
+                "ranking": null
+              },
+              {
+                "label": "major-language sample(s)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "402",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Imports - partners",
+            "data": "Singapore 52%, Japan 15%, Malaysia 6%, Taiwan 4%, Greece 4% (2023)<br><br><b>note:</b> top five import partners based on percentage share of imports",
+            "subfields": [
+              {
+                "label": "Imports - partners",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "403",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Literacy",
+            "data": "<strong>total population:</strong> NA<br><br><strong>male:</strong> NA<br><br><strong>female:</strong> NA",
+            "subfields": [
+              {
+                "label": "female",
+                "ranking": null
+              },
+              {
+                "label": "male",
+                "ranking": null
+              },
+              {
+                "label": "total population",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "370",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Elevation",
+            "data": "<strong>highest point:</strong> Mount Lamlam 406 m<br><br><strong>lowest point:</strong> Pacific Ocean 0 m",
+            "subfields": [
+              {
+                "label": "highest point",
+                "ranking": null
+              },
+              {
+                "label": "lowest point",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "407",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Contraceptive prevalence rate",
+            "data": "NA",
+            "subfields": [
+              {
+                "label": "total contraceptive prevalence rate",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "357",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Military and security forces",
+            "data": "Guam Police Department (GPD); Guam (US) National Guard&nbsp;",
+            "subfields": [
+              {
+                "label": "Military branches",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "331",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Waste and recycling",
+            "data": "<strong>municipal solid waste generated annually:</strong> 141,500 tons (2012 est.)<br><br><strong>municipal solid waste recycled annually:</strong> 25,258 tons (2011 est.)<br><br><strong>percent of municipal solid waste recycled:</strong> 17.9% (2011 est.)",
+            "subfields": [
+              {
+                "label": "municipal solid waste generated annually",
+                "ranking": null
+              },
+              {
+                "label": "percent of municipal solid waste recycled",
+                "ranking": null
+              },
+              {
+                "label": "municipal solid waste recycled annually",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "422",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Civil aircraft registration country code prefix",
+            "data": "N",
+            "subfields": [
+              {
+                "label": "Civil aircraft registration country code prefix",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "378",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Electricity generation sources",
+            "data": "<strong>fossil fuels:</strong> 92.1% of total installed capacity (2023 est.)<br><br><strong>solar:</strong> 7.8% of total installed capacity (2023 est.)<br><br><strong>wind:</strong> 0.1% of total installed capacity (2023 est.)",
+            "subfields": [
+              {
+                "label": "wind",
+                "ranking": null
+              },
+              {
+                "label": "solar",
+                "ranking": null
+              },
+              {
+                "label": "fossil fuels",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "436",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Petroleum",
+            "data": "<strong>refined petroleum consumption:</strong> 11,000 bbl/day (2023 est.)",
+            "subfields": [
+              {
+                "label": "refined petroleum consumption",
+                "ranking": null
+              },
+              {
+                "label": "crude oil estimated reserves",
+                "ranking": null
+              },
+              {
+                "label": "total petroleum production",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "438",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Gross reproduction rate",
+            "data": "1.32 (2024 est.)",
+            "subfields": [
+              {
+                "label": "Gross reproduction rate",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "448",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Currently married women (ages 15-49)",
+            "data": "37% (2023 est.)",
+            "subfields": [
+              {
+                "label": "Currently married women (ages 15-49)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "447",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Ports",
+            "data": "<strong>total ports:</strong> 1 (2024)<br><br><strong>large:</strong> 0<br><br><strong>medium:</strong> 1<br><br><strong>small:</strong> 0<br><br><strong>very small:</strong> 0<br><br><strong>ports with oil terminals:</strong> 1<br><br><strong>key ports:</strong> Apra Harbor",
+            "subfields": [
+              {
+                "label": "total ports",
+                "ranking": null
+              },
+              {
+                "label": "key ports",
+                "ranking": null
+              },
+              {
+                "label": "ports with oil terminals",
+                "ranking": null
+              },
+              {
+                "label": "very small",
+                "ranking": null
+              },
+              {
+                "label": "small",
+                "ranking": null
+              },
+              {
+                "label": "medium",
+                "ranking": null
+              },
+              {
+                "label": "large",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "465",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Average household expenditures",
+            "data": "<strong>on food:</strong> 34.6% of household expenditures (2021 est.)<br><br><strong>on alcohol and tobacco:</strong> 1.3% of household expenditures (2021 est.)",
+            "subfields": [
+              {
+                "label": "on alcohol and tobacco",
+                "ranking": null
+              },
+              {
+                "label": "on food",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "423",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "National color(s)",
+            "data": "deep blue, red",
+            "subfields": [
+              {
+                "label": "National color(s)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "470",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Labor force",
+            "data": "77,700 (2024 est.)<br><br><b>note:</b> number of people ages 15 or older who are employed or seeking work",
+            "subfields": [
+              {
+                "label": "Labor force",
+                "ranking": 186
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "218",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Youth unemployment rate (ages 15-24)",
+            "data": "<strong>total:</strong> 13.7% (2024 est.)<br><br><strong>male:</strong> 13.3% (2024 est.)<br><br><strong>female:</strong> 14.1% (2024 est.)<br><br><b>note:</b> % of labor force ages 15-24 seeking employment",
+            "subfields": [
+              {
+                "label": "female",
+                "ranking": null
+              },
+              {
+                "label": "male",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": 101
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "373",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Net migration rate",
+            "data": "-10.9 migrant(s)/1,000 population (2024 est.)",
+            "subfields": [
+              {
+                "label": "total net migration rate",
+                "ranking": 224
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "347",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Median age",
+            "data": "<strong>total:</strong> 30.3 years (2024 est.)<br><br><strong>male:</strong> 29.6 years<br><br><strong>female:</strong> 31.1 years",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": 137
+              },
+              {
+                "label": "female",
+                "ranking": null
+              },
+              {
+                "label": "male",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "343",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Public debt",
+            "data": "22.1% of GDP (2016 est.)",
+            "subfields": [
+              {
+                "label": "Public debt 2016",
+                "ranking": 180
+              },
+              {
+                "label": "Public debt 2013",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "227",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Total fertility rate",
+            "data": "2.73 children born/woman (2024 est.)",
+            "subfields": [
+              {
+                "label": "total fertility rate",
+                "ranking": 59
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "356",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Unemployment rate",
+            "data": "5.6% (2024 est.)<br>5.4% (2023 est.)<br>5.5% (2022 est.)<br><br><b>note:</b> % of labor force seeking employment",
+            "subfields": [
+              {
+                "label": "Unemployment rate 2024",
+                "ranking": 114
+              },
+              {
+                "label": "Unemployment rate 2023",
+                "ranking": null
+              },
+              {
+                "label": "Unemployment rate 2022",
+                "ranking": null
+              },
+              {
+                "label": "Unemployment rate 2021",
+                "ranking": null
+              },
+              {
+                "label": "Unemployment rate 2020",
+                "ranking": null
+              },
+              {
+                "label": "Unemployment rate 2019",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "220",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Population",
+            "data": "<strong>total:</strong> 169,532 (2024 est.)<br><br><strong>male:</strong> 87,345<br><br><strong>female:</strong> 82,187",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": 185
+              },
+              {
+                "label": "female",
+                "ranking": 186
+              },
+              {
+                "label": "male",
+                "ranking": 185
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "335",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Carbon dioxide emissions",
+            "data": "1.819 million metric tonnes of CO2 (2023 est.)<br><br><strong>from petroleum and other liquids:</strong> 1.819 million metric tonnes of CO2 (2023 est.)",
+            "subfields": [
+              {
+                "label": "from petroleum and other liquids",
+                "ranking": null
+              },
+              {
+                "label": "total emissions",
+                "ranking": 161
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "274",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Area",
+            "data": "<strong>total :</strong> 544 sq km<br><br><strong>land:</strong> 544 sq km<br><br><strong>water:</strong> 0 sq km",
+            "subfields": [
+              {
+                "label": "water",
+                "ranking": null
+              },
+              {
+                "label": "land",
+                "ranking": null
+              },
+              {
+                "label": "total ",
+                "ranking": 194
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "279",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Taxes and other revenues",
+            "data": "21.4% (of GDP) (2016 est.)",
+            "subfields": [
+              {
+                "label": "Taxes and other revenue",
+                "ranking": 75
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "225",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Real GDP (purchasing power parity)",
+            "data": "$5.793 billion (2016 est.)<br>$5.697 billion (2015 est.)<br>$5.531 billion (2014 est.)",
+            "subfields": [
+              {
+                "label": "Real GDP (purchasing power parity) 2016",
+                "ranking": 178
+              },
+              {
+                "label": "Real GDP (purchasing power parity) 2015",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP (purchasing power parity) 2014",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "208",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Airports",
+            "data": "3 (2025)",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": 186
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "379",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Infant mortality rate",
+            "data": "<strong>total:</strong> 10.9 deaths/1,000 live births (2024 est.)<br><br><strong>male:</strong> 11 deaths/1,000 live births<br><br><strong>female:</strong> 10.9 deaths/1,000 live births",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": 124
+              },
+              {
+                "label": "female",
+                "ranking": null
+              },
+              {
+                "label": "male",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "354",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Telephones - mobile cellular",
+            "data": "<strong>total subscriptions:</strong> 98,000 (2009 est.)<br><br><strong>subscriptions per 100 inhabitants:</strong> 62 (2009 est.)",
+            "subfields": [
+              {
+                "label": "subscriptions per 100 inhabitants",
+                "ranking": null
+              },
+              {
+                "label": "total subscriptions",
+                "ranking": 195
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "197",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Inflation rate (consumer prices)",
+            "data": "1% (2017 est.)<br>0% (2016 est.)",
+            "subfields": [
+              {
+                "label": "Inflation rate (consumer prices) 2017",
+                "ranking": 26
+              },
+              {
+                "label": "Inflation rate (consumer prices) 2016",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "229",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Real GDP per capita",
+            "data": "$35,600 (2016 est.)<br>$35,200 (2015 est.)<br>$34,400 (2014 est.)",
+            "subfields": [
+              {
+                "label": "Real GDP per capita 2016",
+                "ranking": 68
+              },
+              {
+                "label": "Real GDP per capita 2015",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP per capita 2014",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "211",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Broadband - fixed subscriptions",
+            "data": "<strong>total:</strong> 3,000 (2022 est.)<br><br><strong>subscriptions per 100 inhabitants:</strong> 2 (2022 est.)",
+            "subfields": [
+              {
+                "label": "subscriptions per 100 inhabitants",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": 197
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "206",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Energy consumption per capita",
+            "data": "150.555 million Btu/person (2019 est.)",
+            "subfields": [
+              {
+                "label": "Total energy consumption per capita 2019",
+                "ranking": 25
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "441",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Death rate",
+            "data": "6.1 deaths/1,000 population (2024 est.)",
+            "subfields": [
+              {
+                "label": "total population death rate",
+                "ranking": 150
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "346",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Birth rate",
+            "data": "18.1 births/1,000 population (2024 est.)",
+            "subfields": [
+              {
+                "label": "total population birth rate",
+                "ranking": 78
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "345",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Electricity",
+            "data": "<strong>installed generating capacity:</strong> 525,000 kW (2023 est.)<br><br><strong>consumption:</strong> 1.715 billion kWh (2023 est.)<br><br><strong>transmission/distribution losses:</strong> 90.023 million kWh (2023 est.)",
+            "subfields": [
+              {
+                "label": "transmission/distribution losses",
+                "ranking": 44
+              },
+              {
+                "label": "consumption",
+                "ranking": 152
+              },
+              {
+                "label": "installed generating capacity",
+                "ranking": 150
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "435",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Merchant marine",
+            "data": "<strong>total:</strong> 3 (2023)<br><br><strong>by type:</strong> other 3",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": 173
+              },
+              {
+                "label": "by type",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "387",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Imports",
+            "data": "$4.421 billion (2022 est.)<br>$3.662 billion (2021 est.)<br>$3.388 billion (2020 est.)<br><br><strong>note: </strong>GDP expenditure basis - imports of goods and services in current dollars",
+            "subfields": [
+              {
+                "label": "Imports 2022",
+                "ranking": 157
+              },
+              {
+                "label": "Imports 2021",
+                "ranking": null
+              },
+              {
+                "label": "Imports 2020",
+                "ranking": null
+              },
+              {
+                "label": "Imports 2019",
+                "ranking": null
+              },
+              {
+                "label": "Imports 2016",
+                "ranking": null
+              },
+              {
+                "label": "Imports 2015",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "242",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Exports",
+            "data": "$545 million (2022 est.)<br>$193 million (2021 est.)<br>$379 million (2020 est.)<br><br><strong>note: </strong>GDP expenditure basis - exports of goods and services in current dollars",
+            "subfields": [
+              {
+                "label": "Exports 2022",
+                "ranking": 193
+              },
+              {
+                "label": "Exports 2021",
+                "ranking": null
+              },
+              {
+                "label": "Exports 2020",
+                "ranking": null
+              },
+              {
+                "label": "Exports 2019",
+                "ranking": null
+              },
+              {
+                "label": "Exports 2016",
+                "ranking": null
+              },
+              {
+                "label": "Exports 2015",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "239",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Heliports",
+            "data": "2 (2025)",
+            "subfields": [
+              {
+                "label": "Heliports",
+                "ranking": 136
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "382",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Telephones - fixed lines",
+            "data": "<strong>total subscriptions:</strong> 70,000 (2021 est.)<br><br><strong>subscriptions per 100 inhabitants:</strong> 43 (2022 est.)",
+            "subfields": [
+              {
+                "label": "subscriptions per 100 inhabitants",
+                "ranking": null
+              },
+              {
+                "label": "total subscriptions",
+                "ranking": 146
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "196",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Life expectancy at birth",
+            "data": "<strong>total population:</strong> 78 years (2024 est.)<br><br><strong>male:</strong> 75.6 years<br><br><strong>female:</strong> 80.5 years",
+            "subfields": [
+              {
+                "label": "total population",
+                "ranking": 83
+              },
+              {
+                "label": "female",
+                "ranking": null
+              },
+              {
+                "label": "male",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "355",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Real GDP growth rate",
+            "data": "5.1% (2022 est.)<br>2.06% (2021 est.)<br>-10.52% (2020 est.)<br><br><b>note:</b> annual GDP % growth based on constant local currency",
+            "subfields": [
+              {
+                "label": "Real GDP growth rate 2022",
+                "ranking": 48
+              },
+              {
+                "label": "Real GDP growth rate 2021",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP growth rate 2020",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP growth rate 2019",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "210",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Industrial production growth rate",
+            "data": "4.3% (2014 est.)<br><br><b>note:</b> annual % change in industrial value added based on constant local currency",
+            "subfields": [
+              {
+                "label": "Industrial production growth rate",
+                "ranking": 70
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "217",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Population growth rate",
+            "data": "0.11% (2024 est.)",
+            "subfields": [
+              {
+                "label": "total population growth rate",
+                "ranking": 184
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "344",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          }
+        ]
+      },
+      "travelFact": {
+        "placeName": "Guam"
+      },
+      "rep": {
+        "seo": {
+          "metaDesc": "",
+          "title": "$title - The World Factbook",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": null
+        }
+      }
+    },
+    "pageContext": {
+      "id": "2a48b83b-c611-58d9-a6d8-060388de287c",
+      "placeCode": "GQ",
+      "uriBase": "/countries/"
+    }
+  },
+  "staticQueryHashes": [
+    "2962548448",
+    "3419350533",
+    "4121375890",
+    "4279206597",
+    "800385335"
+  ],
+  "slicesMap": {}
+}

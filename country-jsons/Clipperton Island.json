@@ -1,0 +1,977 @@
+{
+  "componentChunkName": "component---src-templates-country-js",
+  "path": "/countries/clipperton-island/",
+  "result": {
+    "data": {
+      "country": {
+        "name": "Clipperton Island",
+        "region": "North America",
+        "locations": [
+          "place"
+        ],
+        "updated": "July 08, 2025",
+        "rank": true,
+        "flag": {
+          "childImageSharp": {
+            "gatsbyImageData": {
+              "layout": "fullWidth",
+              "images": {
+                "fallback": {
+                  "src": "/the-world-factbook/static/6ff09e3ae4da489810f797ab1cf8e366/28380/IP-flag.jpg",
+                  "srcSet": "/the-world-factbook/static/6ff09e3ae4da489810f797ab1cf8e366/28380/IP-flag.jpg 500w",
+                  "sizes": "100vw"
+                },
+                "sources": [
+                  {
+                    "srcSet": "/the-world-factbook/static/6ff09e3ae4da489810f797ab1cf8e366/76f01/IP-flag.webp 500w",
+                    "type": "image/webp",
+                    "sizes": "100vw"
+                  }
+                ]
+              },
+              "width": 1,
+              "height": 0.668
+            }
+          }
+        },
+        "map": {
+          "childImageSharp": {
+            "gatsbyImageData": {
+              "layout": "fullWidth",
+              "images": {
+                "fallback": {
+                  "src": "/the-world-factbook/static/f9501479dce02bd6655b2e65af8307c7/aaead/IP-map.jpg",
+                  "srcSet": "/the-world-factbook/static/f9501479dce02bd6655b2e65af8307c7/aaead/IP-map.jpg 330w",
+                  "sizes": "100vw"
+                },
+                "sources": [
+                  {
+                    "srcSet": "/the-world-factbook/static/f9501479dce02bd6655b2e65af8307c7/aebbf/IP-map.webp 330w",
+                    "type": "image/webp",
+                    "sizes": "100vw"
+                  }
+                ]
+              },
+              "width": 1,
+              "height": 1.0757575757575757
+            }
+          }
+        },
+        "locatorMap": {
+          "childImageSharp": {
+            "gatsbyImageData": {
+              "layout": "fullWidth",
+              "images": {
+                "fallback": {
+                  "src": "/the-world-factbook/static/a9f55ff6bfb7141753fc63cc6cfd5d3a/1b0a0/IP-locator-map.jpg",
+                  "srcSet": "/the-world-factbook/static/a9f55ff6bfb7141753fc63cc6cfd5d3a/1b0a0/IP-locator-map.jpg 386w",
+                  "sizes": "100vw"
+                },
+                "sources": [
+                  {
+                    "srcSet": "/the-world-factbook/static/a9f55ff6bfb7141753fc63cc6cfd5d3a/e43be/IP-locator-map.webp 386w",
+                    "type": "image/webp",
+                    "sizes": "100vw"
+                  }
+                ]
+              },
+              "width": 1,
+              "height": 1.2979274611398963
+            }
+          }
+        },
+        "images": [
+          {
+            "altText": "A clump of palm trees on Clipperton Island. Photo courtesy of NOAA / Shannon Rankin.",
+            "caption": "A clump of palm trees on Clipperton Island. Photo courtesy of NOAA / Shannon Rankin.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/ece3b91b331f5401113cf1a8a6b60670/be79d/Clipperton_Island_palm_trees.jpg",
+                      "srcSet": "/the-world-factbook/static/ece3b91b331f5401113cf1a8a6b60670/be79d/Clipperton_Island_palm_trees.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/ece3b91b331f5401113cf1a8a6b60670/9a858/Clipperton_Island_palm_trees.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.75
+                }
+              }
+            }
+          },
+          {
+            "altText": "Sunset and birds at Clipperton Island. Photo courtesy of NOAA / Juan Carlos Salinas.",
+            "caption": "Sunset and birds at Clipperton Island. Photo courtesy of NOAA / Juan Carlos Salinas.",
+            "localFile": {
+              "childImageSharp": {
+                "gatsbyImageData": {
+                  "layout": "fullWidth",
+                  "images": {
+                    "fallback": {
+                      "src": "/the-world-factbook/static/c6c9ff6f778e4b6f6c6cb3f032e9d14c/0d56d/Clipperton_Island_sunset_and_birds.jpg",
+                      "srcSet": "/the-world-factbook/static/c6c9ff6f778e4b6f6c6cb3f032e9d14c/0d56d/Clipperton_Island_sunset_and_birds.jpg 600w",
+                      "sizes": "100vw"
+                    },
+                    "sources": [
+                      {
+                        "srcSet": "/the-world-factbook/static/c6c9ff6f778e4b6f6c6cb3f032e9d14c/83275/Clipperton_Island_sunset_and_birds.webp 600w",
+                        "type": "image/webp",
+                        "sizes": "100vw"
+                      }
+                    ]
+                  },
+                  "width": 1,
+                  "height": 0.7433333333333333
+                }
+              }
+            }
+          }
+        ],
+        "special": []
+      },
+      "fields": {
+        "nodes": [
+          {
+            "name": "Dependency status",
+            "data": "possession of France; administered directly by the Minister of Overseas France",
+            "subfields": [
+              {
+                "label": "Dependency status",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "298",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Geographic coordinates",
+            "data": "10 17 N, 109 13 W",
+            "subfields": [
+              {
+                "label": "Geographic coordinates",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "277",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Natural hazards",
+            "data": "subject to tropical storms and hurricanes from May to October",
+            "subfields": [
+              {
+                "label": "Natural hazards",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "292",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Area - comparative",
+            "data": "about 12 times the size of The Mall in Washington, D.C.",
+            "subfields": [
+              {
+                "label": "Area - comparative",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "280",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Background",
+            "data": "This isolated atoll was named for John CLIPPERTON, an English pirate who was rumored to have made it his hideout early in the 18th century. Annexed by France in 1855 and claimed by the US, it was seized by Mexico in 1897. Arbitration eventually awarded the island to France in 1931, which took possession in 1935.",
+            "subfields": [
+              {
+                "label": "Summary",
+                "ranking": null
+              },
+              {
+                "label": "Background",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "325",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Environment - current issues",
+            "data": "no natural resources, guano deposits depleted; stagnant fresh-water lagoon",
+            "subfields": [
+              {
+                "label": "Environment - current issues",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "293",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Climate",
+            "data": "tropical; humid, average temperature 20-32 degrees Celsius, wet season (May to October)",
+            "subfields": [
+              {
+                "label": "Climate",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "284",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Coastline",
+            "data": "11.1 km",
+            "subfields": [
+              {
+                "label": "Coastline",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "282",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Flag description",
+            "data": "the flag of France is used",
+            "subfields": [
+              {
+                "label": "Flag description",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "320",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Land boundaries",
+            "data": "<strong>total:</strong> 0 km",
+            "subfields": [
+              {
+                "label": "regional borders",
+                "ranking": null
+              },
+              {
+                "label": "border countries",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "281",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Land use",
+            "data": "<strong>agricultural land:</strong> 0% (2018 est.)<br><br><strong>forest:</strong> 0% (2018 est.)<br><br><strong>other:</strong> 100% (2018 est.)",
+            "subfields": [
+              {
+                "label": "other",
+                "ranking": null
+              },
+              {
+                "label": "forest",
+                "ranking": null
+              },
+              {
+                "label": "agricultural land",
+                "ranking": null
+              },
+              {
+                "label": "permanent pasture",
+                "ranking": null
+              },
+              {
+                "label": "permanent crops",
+                "ranking": null
+              },
+              {
+                "label": "arable land",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "288",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Legal system",
+            "data": "the laws of France apply",
+            "subfields": [
+              {
+                "label": "Legal system",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "308",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Maritime claims",
+            "data": "<strong>territorial sea:</strong> 12 nm<br><br><strong>exclusive economic zone:</strong> 200 nm",
+            "subfields": [
+              {
+                "label": "exclusive economic zone",
+                "ranking": null
+              },
+              {
+                "label": "territorial sea",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "283",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Natural resources",
+            "data": "fish",
+            "subfields": [
+              {
+                "label": "Natural resources",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "287",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Geography - note",
+            "data": "the atoll reef is approximately 12 km (7.5 mi) in circumference",
+            "subfields": [
+              {
+                "label": "Geography - note",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "295",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Terrain",
+            "data": "coral atoll",
+            "subfields": [
+              {
+                "label": "Terrain",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "285",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Military - note",
+            "data": "defense is the responsibility of France",
+            "subfields": [
+              {
+                "label": "Military - note",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "332",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Country name",
+            "data": "<strong>conventional long form:</strong> none<br><br><strong>conventional short form:</strong> Clipperton Island<br><br><strong>local long form:</strong> none<br><br><strong>local short form:</strong> Ile Clipperton<br><br><strong>former:</strong> sometimes referred to as Ile de la Passion or Atoll Clipperton<br><br><strong>etymology:</strong> named after an 18th-century English pirate who is alleged to have used the island as a base starting in 1705",
+            "subfields": [
+              {
+                "label": "abbreviation",
+                "ranking": null
+              },
+              {
+                "label": "etymology",
+                "ranking": null
+              },
+              {
+                "label": "former",
+                "ranking": null
+              },
+              {
+                "label": "local short form",
+                "ranking": null
+              },
+              {
+                "label": "local long form",
+                "ranking": null
+              },
+              {
+                "label": "conventional short form",
+                "ranking": null
+              },
+              {
+                "label": "conventional long form",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "296",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Location",
+            "data": "Middle America, atoll in the North Pacific Ocean, 1,120 km southwest of Mexico",
+            "subfields": [
+              {
+                "label": "Location",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "276",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Map references",
+            "data": "Political Map of the World",
+            "subfields": [
+              {
+                "label": "Map references",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "278",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Elevation",
+            "data": "<strong>highest point:</strong> Rocher Clipperton 29 m<br><br><strong>lowest point:</strong> Pacific Ocean 0 m",
+            "subfields": [
+              {
+                "label": "highest point",
+                "ranking": null
+              },
+              {
+                "label": "lowest point",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "407",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Population",
+            "data": "<strong>total:</strong> uninhabited",
+            "subfields": [
+              {
+                "label": "female",
+                "ranking": null
+              },
+              {
+                "label": "male",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "335",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Area",
+            "data": "<strong>total :</strong> 6 sq km<br><br><strong>land:</strong> 6 sq km<br><br><strong>water:</strong> 0 sq km",
+            "subfields": [
+              {
+                "label": "water",
+                "ranking": null
+              },
+              {
+                "label": "land",
+                "ranking": null
+              },
+              {
+                "label": "total ",
+                "ranking": 244
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "279",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          }
+        ]
+      },
+      "travelFact": null,
+      "rep": {
+        "seo": {
+          "metaDesc": "",
+          "title": "$title - The World Factbook",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": null
+        }
+      }
+    },
+    "pageContext": {
+      "id": "3d8a3c64-cd65-5c27-8436-514b71ce541d",
+      "placeCode": "IP",
+      "uriBase": "/countries/"
+    }
+  },
+  "staticQueryHashes": [
+    "2962548448",
+    "3419350533",
+    "4121375890",
+    "4279206597",
+    "800385335"
+  ],
+  "slicesMap": {}
+}

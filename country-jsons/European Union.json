@@ -1,0 +1,4561 @@
+{
+  "componentChunkName": "component---src-templates-country-js",
+  "path": "/countries/european-union/",
+  "result": {
+    "data": {
+      "country": {
+        "name": "European Union",
+        "region": "Europe",
+        "locations": [
+          "place"
+        ],
+        "updated": "April 23, 2025",
+        "rank": false,
+        "flag": {
+          "childImageSharp": {
+            "gatsbyImageData": {
+              "layout": "fullWidth",
+              "images": {
+                "fallback": {
+                  "src": "/the-world-factbook/static/15c2ae464519ce7d43ad99cc8f504c04/5202c/EE-flag.jpg",
+                  "srcSet": "/the-world-factbook/static/15c2ae464519ce7d43ad99cc8f504c04/5202c/EE-flag.jpg 447w",
+                  "sizes": "100vw"
+                },
+                "sources": [
+                  {
+                    "srcSet": "/the-world-factbook/static/15c2ae464519ce7d43ad99cc8f504c04/556ba/EE-flag.webp 447w",
+                    "type": "image/webp",
+                    "sizes": "100vw"
+                  }
+                ]
+              },
+              "width": 1,
+              "height": 0.6778523489932886
+            }
+          }
+        },
+        "map": {
+          "childImageSharp": {
+            "gatsbyImageData": {
+              "layout": "fullWidth",
+              "images": {
+                "fallback": {
+                  "src": "/the-world-factbook/static/4f73606622d1fa61fac70fe96c9c2f02/94c48/EE-map.jpg",
+                  "srcSet": "/the-world-factbook/static/4f73606622d1fa61fac70fe96c9c2f02/27504/EE-map.jpg 750w,\n/the-world-factbook/static/4f73606622d1fa61fac70fe96c9c2f02/220f8/EE-map.jpg 1080w,\n/the-world-factbook/static/4f73606622d1fa61fac70fe96c9c2f02/e84d9/EE-map.jpg 1366w,\n/the-world-factbook/static/4f73606622d1fa61fac70fe96c9c2f02/94c48/EE-map.jpg 1920w",
+                  "sizes": "100vw"
+                },
+                "sources": [
+                  {
+                    "srcSet": "/the-world-factbook/static/4f73606622d1fa61fac70fe96c9c2f02/b76c4/EE-map.webp 750w,\n/the-world-factbook/static/4f73606622d1fa61fac70fe96c9c2f02/03179/EE-map.webp 1080w,\n/the-world-factbook/static/4f73606622d1fa61fac70fe96c9c2f02/a298e/EE-map.webp 1366w,\n/the-world-factbook/static/4f73606622d1fa61fac70fe96c9c2f02/7b1d2/EE-map.webp 1920w",
+                    "type": "image/webp",
+                    "sizes": "100vw"
+                  }
+                ]
+              },
+              "width": 1,
+              "height": 0.7515624999999999
+            }
+          }
+        },
+        "locatorMap": {
+          "childImageSharp": {
+            "gatsbyImageData": {
+              "layout": "fullWidth",
+              "images": {
+                "fallback": {
+                  "src": "/the-world-factbook/static/fc5669ae47df9d6cfd7b1ef2a8d3bd9b/20653/EE-locator-map.jpg",
+                  "srcSet": "/the-world-factbook/static/fc5669ae47df9d6cfd7b1ef2a8d3bd9b/20653/EE-locator-map.jpg 472w",
+                  "sizes": "100vw"
+                },
+                "sources": [
+                  {
+                    "srcSet": "/the-world-factbook/static/fc5669ae47df9d6cfd7b1ef2a8d3bd9b/f33e6/EE-locator-map.webp 472w",
+                    "type": "image/webp",
+                    "sizes": "100vw"
+                  }
+                ]
+              },
+              "width": 1,
+              "height": 1.069915254237288
+            }
+          }
+        },
+        "images": [],
+        "special": []
+      },
+      "fields": {
+        "nodes": [
+          {
+            "name": "Diplomatic representation from the US",
+            "data": "<strong>chief of mission:</strong> Ambassador&nbsp;(vacant); Charg&eacute; d&rsquo;Affaires Norman Thatcher SCHARPF (since 17 January 2025)<br><br><strong>embassy:</strong> Zinnerstraat - 13 - Rue Zinner, B-1000 Brussels<br><br><strong>mailing address:</strong> use embassy street address<br><br><strong>telephone:</strong> [32] (2) 811-4100<br><br><strong>email address and website:</strong> <br /><a href=\"https://useu.usmission.gov/\" target=\"_blank\" rel=\"noopener\">https://useu.usmission.gov/</a>",
+            "subfields": [
+              {
+                "label": "email address and website",
+                "ranking": null
+              },
+              {
+                "label": "consulate(s)",
+                "ranking": null
+              },
+              {
+                "label": "branch office(s)",
+                "ranking": null
+              },
+              {
+                "label": "consulate(s) general",
+                "ranking": null
+              },
+              {
+                "label": "FAX",
+                "ranking": null
+              },
+              {
+                "label": "telephone",
+                "ranking": null
+              },
+              {
+                "label": "mailing address",
+                "ranking": null
+              },
+              {
+                "label": "embassy",
+                "ranking": null
+              },
+              {
+                "label": "chief of mission",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "319",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Age structure",
+            "data": "<strong>0-14 years:</strong> 14.5% (male 33,606,273/female 31,985,118)<br><br><strong>15-64 years:</strong> 63.5% (male 143,874,460/female 143,104,994)<br><br><strong>65 years and over:</strong> 22% (2024 est.) (male 43,150,599/female 56,093,868)",
+            "subfields": [
+              {
+                "label": "65 years and over",
+                "ranking": null
+              },
+              {
+                "label": "15-64 years",
+                "ranking": null
+              },
+              {
+                "label": "0-14 years",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "341",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Sex ratio",
+            "data": "<strong>at birth:</strong> 1.05 male(s)/female<br><br><strong>0-14 years:</strong> 1.05 male(s)/female<br><br><strong>15-64 years:</strong> 1.01 male(s)/female<br><br><strong>65 years and over:</strong> 0.77 male(s)/female<br><br><strong>total population:</strong> 0.95 male(s)/female (2024 est.)",
+            "subfields": [
+              {
+                "label": "total population",
+                "ranking": null
+              },
+              {
+                "label": "65 years and over",
+                "ranking": null
+              },
+              {
+                "label": "15-64 years",
+                "ranking": null
+              },
+              {
+                "label": "0-14 years",
+                "ranking": null
+              },
+              {
+                "label": "at birth",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "351",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Natural hazards",
+            "data": "flooding along coasts; avalanches in mountainous area; earthquakes in the south; volcanic eruptions in Italy; periodic droughts in Spain; ice floes in the Baltic Sea region",
+            "subfields": [
+              {
+                "label": "Natural hazards",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "292",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Area - comparative",
+            "data": "less than one half the size of the United States",
+            "subfields": [
+              {
+                "label": "Area - comparative",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "280",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Background",
+            "data": "<p>In the aftermath and devastation of the two World Wars, a number of far-sighted European leaders in the late 1940s sought to respond to the overwhelming desire for peace and reconciliation on the continent. In 1950, French Foreign Minister Robert SCHUMAN proposed pooling the production of coal and steel in Western Europe, which would bring France and West Germany together and be open to other countries as well. The following year, the European Coal and Steel Community (ECSC) was set up when six members -- Belgium, France, West Germany, Italy, Luxembourg, and the Netherlands -- signed the Treaty of Paris.</p> <p>Within a few years, the ECSC was so successful that member states decided to further integrate their economies. In 1957, envisioning an \"ever closer union,\" the Treaties of Rome created the European Economic Community (EEC) and the European Atomic Energy Community (Euratom), which eliminated trade barriers among the six member states to create a common market. In 1967, the institutions of all three communities were formally merged into the European Community (EC), creating a single Commission, a single Council of Ministers, and a legislative body known today as the European Parliament. Members of the European Parliament were initially selected by national parliaments, but direct elections began in 1979 and have been held every five years since.</p> <p>In 1973, the first enlargement of the EC added Denmark, Ireland, and the UK. The 1980s saw further membership expansion, with Greece joining in 1981 and Spain and Portugal in 1986. The 1992 Treaty of Maastricht laid the basis for further cooperation in foreign and defense policy and judicial and internal affairs, as well as the creation of an economic and monetary union -- including a common currency. The Maastricht Treaty created the European Union (EU), at the time standing alongside the EC. In 1995, Austria, Finland, and Sweden joined the EU/EC, raising the total number of member states to 15. On 1 January 1999, the new euro currency was launched in world markets and became the unit of exchange for all EU member states except Denmark, Sweden, and the UK. In 2002, citizens of the 12 participating member states began using euro banknotes and coins.<br /><br />In an effort to ensure that the EU could function efficiently with an expanded membership, the Treaty of Nice in 2000 set forth rules to streamline the size and procedures of the EU's institutions. An effort to establish a \"Constitution for Europe,\" growing out of a Convention held in 2002-2003, foundered when it was rejected in referenda in France and the Netherlands in 2005. A subsequent effort in 2007 incorporated many features of the rejected draft Constitutional Treaty, while also making a number of substantive as well as symbolic changes. The new treaty, referred to as the Treaty of Lisbon, sought to amend existing treaties rather than replace them. The treaty was approved at a conference of member states, and after all member states ratified, the Lisbon Treaty came into force on 1 December 2009, at which point the EU officially replaced and succeeded the EC.</p> <p>Ten new countries joined the EU in 2004 -- Cyprus, the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia, and Slovenia. Bulgaria and Romania joined in 2007 and Croatia in 2013. UK citizens on 23 June 2016 narrowly voted to leave the EU; the formal exit, widely known as \"Brexit,\" took place on 31 January 2020. The EU and the UK negotiated a withdrawal agreement that included a status quo transition period through December 2020, when the follow-on EU-UK Trade and Cooperation Agreement was concluded. Current EU membership stands at 27. Eight of the newer member states -- Croatia, Cyprus, Estonia, Latvia, Lithuania, Malta, Slovakia, and Slovenia -- have now adopted the euro, bringing total euro-zone membership to 20.</p> <p>&nbsp;</p>",
+            "subfields": [
+              {
+                "label": "Summary",
+                "ranking": null
+              },
+              {
+                "label": "Background",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "325",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Environment - current issues",
+            "data": "various forms of air, soil, and water pollution; see individual country entries",
+            "subfields": [
+              {
+                "label": "Environment - current issues",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "293",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Environment - international agreements",
+            "data": "<strong>party to:</strong> Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 94, Antarctic-Marine Living Resources, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Tropical Timber 2006<br><br><strong>signed, but not ratified:</strong> Air Pollution-Volatile Organic Compounds",
+            "subfields": [
+              {
+                "label": "signed, but not ratified",
+                "ranking": null
+              },
+              {
+                "label": "party to",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "294",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Military expenditures",
+            "data": "1.9% of GDP (2024 est.)<br>1.8% of GDP (2023 est.)<br>1.6% of GDP (2022 est.)<br>1.6% of GDP (2021 est.)<br>1.6% of GDP (2020 est.)<br><br><strong>note 1:</strong> the European Defense Fund (EDF) has a budget of approximately $8 billion for 2021-2027; about $2.7 billion is devoted to funding collaborative defense research while about $5.3 billion is allocated for collaborative capability development projects that complement national contributions; the EDF identifies critical defense domains that it will support&nbsp;<br /><br /><strong>note 2:</strong> NATO is resourced through the direct and indirect contributions of its members; NATO&rsquo;s common funds are direct contributions to collective budgets, capabilities and programs, which equate to only 0.3% of total NATO defense spending (approximately $3.3 billion for 2023) to develop capabilities and run NATO, its military commands, capabilities, and infrastructure; NATO's 2014 Defense Investment Pledge called for NATO members to meet the 2% of GDP guideline for defense spending and the 20% of annual defense expenditure on major new equipment by 2024<br /><br /><strong>note 3:</strong> &nbsp;average spending for all NATO countries was 2.5% of GDP in 2023 and 2.7% of GDP in 2024",
+            "subfields": [
+              {
+                "label": "Military Expenditures 2024",
+                "ranking": null
+              },
+              {
+                "label": "Military Expenditures 2023",
+                "ranking": null
+              },
+              {
+                "label": "Military Expenditures 2022",
+                "ranking": null
+              },
+              {
+                "label": "Military Expenditures 2021",
+                "ranking": null
+              },
+              {
+                "label": "Military Expenditures 2020",
+                "ranking": null
+              },
+              {
+                "label": "Military Expenditures 2019",
+                "ranking": null
+              },
+              {
+                "label": "Military Expenditures 2018",
+                "ranking": null
+              },
+              {
+                "label": "Military Expenditures 2017",
+                "ranking": null
+              },
+              {
+                "label": "Military Expenditures 2016",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "330",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Household income or consumption by percentage share",
+            "data": "<strong>lowest 10%:</strong> 2.8%<br><br><strong>highest 10%:</strong> 23.8% (2016 est.)",
+            "subfields": [
+              {
+                "label": "highest 10%",
+                "ranking": null
+              },
+              {
+                "label": "lowest 10%",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "222",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Exports - commodities",
+            "data": "cars, packaged medicine, refined petroleum, vehicle parts/accessories, vaccines (2023)<br><br><strong>note:</strong> top five export commodities based on value in dollars; includes both exports to external partners and internal trade among EU member states",
+            "subfields": [
+              {
+                "label": "Exports - commodities",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "240",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Exports - partners",
+            "data": "US 20%, UK 12%, China 10%, Switzerland 7%, Turkey 4% (2023)<br><br><strong>note: </strong>top five non-EU export partners based on percentage share of external exports; does not include internal trade among EU member states",
+            "subfields": [
+              {
+                "label": "Exports - partners",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "241",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Agricultural products",
+            "data": "milk, wheat, sugar beets, maize, potatoes, barley, grapes, pork, rapeseed, tomatoes (2022)<br><br><strong>note:</strong> top ten agricultural products based on tonnage for all EU member states",
+            "subfields": [
+              {
+                "label": "Agricultural products",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "215",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Capital",
+            "data": "<strong>name:</strong> Brussels (Belgium), Strasbourg (France), Luxembourg, Frankfurt (Germany)<br><br><strong>geographic coordinates:</strong> (Brussels) 50 50 N, 4 20 E<br><br><strong>time difference:</strong> UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br><br><strong>daylight saving time:</strong> +1 hr, begins last Sunday in March; ends last Sunday in October<br><br><strong>time zone note:</strong> the 27 European Union member states are spread across three time zones<br><br><strong>note: </strong>&nbsp;the European Council and the Council of the European Union meet in Brussels, Belgium, except for Council of the EU meetings held in Luxembourg in April, June, and October; the European Parliament meets in Brussels and Strasbourg, France, and has administrative offices in Luxembourg; the Court of Justice of the European Union is located in Luxembourg; and the European Central Bank is located in Frankfurt, Germany",
+            "subfields": [
+              {
+                "label": "etymology",
+                "ranking": null
+              },
+              {
+                "label": "time zone note",
+                "ranking": null
+              },
+              {
+                "label": "daylight saving time",
+                "ranking": null
+              },
+              {
+                "label": "time difference",
+                "ranking": null
+              },
+              {
+                "label": "geographic coordinates",
+                "ranking": null
+              },
+              {
+                "label": "name",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "301",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Imports - commodities",
+            "data": "cars, crude petroleum, natural gas, refined petroleum, vehicle parts/accessories (2023)<br><br><strong>note: </strong>top five import commodities based on value in dollars; includes both imports from external partners and internal trade among EU member states",
+            "subfields": [
+              {
+                "label": "Imports - commodities",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "243",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Climate",
+            "data": "cold temperate; potentially subarctic in the north to temperate; mild wet winters; hot dry summers in the south",
+            "subfields": [
+              {
+                "label": "Climate",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "284",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Coastline",
+            "data": "53,563.9 km",
+            "subfields": [
+              {
+                "label": "Coastline",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "282",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Constitution",
+            "data": "<strong>history:</strong> none; the EU legal order relies primarily on the Treaty on European Union (TEU) and the Treaty on the Functioning of the EU (TFEU)<br><br><strong>amendment process:</strong> European Union treaties can be amended in several ways: 1) Ordinary Revision Procedure (for key amendments to the treaties); initiated by an EU member state, by the European Parliament, or by the European Commission; following adoption of the proposal by the European Council, a convention is formed of national government representatives to review the proposal and a conference of government representatives then reviews the proposal; passage requires ratification by all EU member states; 2) Simplified Revision Procedure (for amendment of EU internal policies and actions); passage of a proposal requires unanimous European Council vote after European Council consultation with the European Commission, the European Parliament, and the European Central Bank (if the amendment concerns monetary matters) and requires ratification by all EU member states; 3) Passerelle Clause (allows the alteration of a legislative procedure without a formal amendment of the treaties); 4) Flexibility Clause (permits the EU to decide in subject areas where EU competences have not been explicitly granted in the Treaties but are necessary to the attainment of the objectives set out in the Treaty)",
+            "subfields": [
+              {
+                "label": "amendment process",
+                "ranking": null
+              },
+              {
+                "label": "history",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "307",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Exchange rates",
+            "data": "euros (EUR) per US dollar -<br><br><strong>Exchange rates:</strong><br>0.925 (2023 est.)<br>0.95 (2022 est.)<br>0.845 (2021 est.)<br>0.876 (2020 est.)<br>0.893 (2019 est.)",
+            "subfields": [
+              {
+                "label": "Exchange rates 2023",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2022",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2021",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2020",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2019",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2018",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2017",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2016",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2015",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2014",
+                "ranking": null
+              },
+              {
+                "label": "Exchange rates 2013",
+                "ranking": null
+              },
+              {
+                "label": "Currency",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "249",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Executive branch",
+            "data": "<br />under the EU treaties, three EU institutions have functions that may be regarded as executive in nature:<br /><em><br />European Council </em>- composed of member-state heads of state or government, along with the president of the European Commission, and meets at least four times a year to issue general policy guidance; the president of the European Council is appointed by leaders of the EU member states for a 2 1/2 year term, renewable once; the president's responsibilities include chairing European Council meetings<br /><em><br />Council of the European Union </em>- consists of member-state officials, ranging from working-level diplomats to cabinet ministers in specific policy fields such as foreign affairs, agriculture, or economy; it conducts policymaking and coordinating functions as well as legislative functions; representatives from each member state in turn hold a six-month rotating presidency that chairs meetings<br /><em><br />European Commission</em> - headed by a College of Commissioners that is composed of 27 members (one from each member state), including the president; each commissioner is responsible for one or more policy areas; the Commission has the sole right to initiate EU legislation, except for foreign and security/defense policy, and is also responsible for&nbsp; monitoring the application of EU law, implementing/executing the EU budget, negotiating on the EU's behalf in policy areas where the member states have conferred sole competency, and ensuring the Union's external representation in some policy areas; the president of the European Commission is nominated by the European Council and confirmed by the European Parliament; the Commission president allocates specific responsibilities among the members of the College (appointed by common accord of the member-state governments in consultation with the president-elect); the European Parliament confirms the Commission for a 5-year term.<br><br><strong>note:</strong> for external representation and foreign policy making, member-state leaders appoint a High Representative of the Union for Foreign Affairs and Security Policy; the High Representative's concurrent appointment as Vice President of the European Commission is meant to bring more coherence to the EU&rsquo;s foreign policy; the High Representative helps develop and implement the EU's Common Foreign and Security Policy and Common Security and Defense Policy components, chairs the Council of the EU's meetings of member-state foreign ministers, represents and acts for the Union in many international contexts, and oversees the European External Action Service, the diplomatic corps of the EU",
+            "subfields": [
+              {
+                "label": "Executive branch",
+                "ranking": null
+              },
+              {
+                "label": "election results",
+                "ranking": null
+              },
+              {
+                "label": "elections/appointments",
+                "ranking": null
+              },
+              {
+                "label": "cabinet",
+                "ranking": null
+              },
+              {
+                "label": "head of government",
+                "ranking": null
+              },
+              {
+                "label": "chief of state",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "312",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Flag description",
+            "data": "a blue field with 12 five-pointed gold stars arranged in a circle in the center; blue represents the sky of the Western world, the stars are the peoples of Europe in a circle, a symbol of unity; the number of stars is fixed",
+            "subfields": [
+              {
+                "label": "Flag description",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "320",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Roadways",
+            "data": "<strong>total:</strong> 4,894,173 km (2019) 4,894,173",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": null
+              },
+              {
+                "label": "non-urban",
+                "ranking": null
+              },
+              {
+                "label": "urban",
+                "ranking": null
+              },
+              {
+                "label": "unpaved",
+                "ranking": null
+              },
+              {
+                "label": "paved",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "385",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Independence",
+            "data": "7 February 1992 (Maastricht Treaty signed establishing the European Union); 1 November 1993 (Maastricht Treaty entered into force)<br><br><strong>note:</strong> the Treaties of Rome, signed on 25 March 1957 and entered into force on 1 January 1958, created the European Economic Community and the European Atomic Energy Community; a series of subsequent treaties have been adopted to increase efficiency and transparency, to prepare for new member states, and to introduce new areas of cooperation such as a single currency; the Treaty of Lisbon, signed on 13 December 2007 and entered into force on 1 December 2009 is the most recent of these treaties&nbsp;",
+            "subfields": [
+              {
+                "label": "Independence",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "305",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Industries",
+            "data": "among the world's largest and most technologically advanced regions, the EU industrial base includes: ferrous and non-ferrous metal production and processing, metal products, petroleum, coal, cement, chemicals, pharmaceuticals, aerospace, rail transportation equipment, passenger and commercial vehicles, construction equipment, industrial equipment, shipbuilding, electrical power equipment, machine tools and automated manufacturing systems, electronics and telecommunications equipment, fishing, food and beverages, furniture, paper, textiles",
+            "subfields": [
+              {
+                "label": "Industries",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "216",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Waterways",
+            "data": "42,000 km (2017) 42,000 km",
+            "subfields": [
+              {
+                "label": "Waterways",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "386",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Judicial branch",
+            "data": "<strong>highest court(s):</strong> Court of Justice of the European Union, which includes the Court of Justice (informally known as the European Court of Justice or ECJ, includes 11 advocates general) and the General Court (consists of 27 judges, one drawn from each member state; can include additional judges); both the ECJ and the General Court sit in chambers of 3 to 5 judges but may sit in a Grand Chamber of 15 judges in special cases<br><br><strong>judge selection and term of office:</strong> judges appointed by the common consent of the member states to serve 6-year renewable terms",
+            "subfields": [
+              {
+                "label": "subordinate courts",
+                "ranking": null
+              },
+              {
+                "label": "judge selection and term of office",
+                "ranking": null
+              },
+              {
+                "label": "highest court(s)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "314",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Land boundaries",
+            "data": "<strong>total:</strong> 13,770 km<br><br><strong>border countries (18):</strong> Albania 212 km; Andorra 118 km; Belarus 1,176 km; Bosnia and Herzegovina 956 km; Holy See 3 km; Liechtenstein 34 km; North Macedonia 396 km; Moldova 683 km; Monaco 6 km; Montenegro 19 km; Norway 2,375 km; Russia 2,435 km; San Marino 37 km; Serbia 1,353 km; Switzerland 1,729 km; Turkey 415 km; United Kingdom 499 km; Ukraine 1,324 km<br><br><strong>note:</strong> data for European continent only",
+            "subfields": [
+              {
+                "label": "regional borders",
+                "ranking": null
+              },
+              {
+                "label": "border countries (18)",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "281",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Legal system",
+            "data": "unique supranational system of laws in which, according to the Treaty of Lisbon, \"the Treaties and the law adopted by the Union on the basis of the Treaties have primacy over the law of Member States\" under conditions laid down in the case law of the Court of Justice; key principles of EU jurisprudence include universal rights as guaranteed by the Charter of Fundamental Rights and resulting from constitutional traditions common to the EU's 27 member states; EU law is divided into 'primary' and 'secondary' legislation; primary legislation is derived from the Treaty on European Union and the Treaty on the Functioning of the European Union and are the basis for all EU action; secondary legislation -- which includes directives, regulations, and decisions -- is derived from the principles and objectives set out in the treaties",
+            "subfields": [
+              {
+                "label": "Legal system",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "308",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Legislative branch",
+            "data": "<strong>legislature name:</strong> Council of the European Union (Council) and the European Parliament (EP) (separate legislative bodies; <em>see note 2</em>)<br><br><strong>number of seats:</strong> Council - 27; EP - 720<br><br><strong>electoral system:</strong> Council - none, composed of ministers from EU member states; EP - proportional representation<br><br><strong>scope of elections:</strong> EP - full renewal<br><br><strong>term in office:</strong> 5 years note: for the EP<br><br><strong>most recent election date:</strong> EP - 6/9/2024<br><br><strong>parties elected and seats per party:</strong> EP - PP (188); S&amp;D (136); PfE (84); ECR (78); Renew (77); Greens/EFA (53); GUE-NGL (46); ESN (25); non-attached (12); other (21)<br><br><strong>percentage of women in chamber:</strong> 39.8% note: for the EP<br><br><strong>expected date of next election:</strong> EP - June 2029<br><br><strong>note 1:</strong> the European Parliament (EP) President, Roberta METSOLA, was elected in January 2022 and reelected in July 2024 by a majority of EP members (MEPs)<br /><br /><strong>note 2:</strong> the EP and the Council of the EU share responsibilities for adopting the bulk of EU legislation; the European Commission proposes legislation, and the two other bodies have to agree for the proposal to become law -- except in the area of Common Foreign and Security Policy, which is governed by consensus of the EU member-state governments",
+            "subfields": [
+              {
+                "label": "expected date of next election",
+                "ranking": null
+              },
+              {
+                "label": "parties elected and seats per party",
+                "ranking": null
+              },
+              {
+                "label": "most recent election date",
+                "ranking": null
+              },
+              {
+                "label": "scope of elections",
+                "ranking": null
+              },
+              {
+                "label": "electoral system",
+                "ranking": null
+              },
+              {
+                "label": "number of seats",
+                "ranking": null
+              },
+              {
+                "label": "chamber name",
+                "ranking": null
+              },
+              {
+                "label": "legislative structure",
+                "ranking": null
+              },
+              {
+                "label": "legislature name",
+                "ranking": null
+              },
+              {
+                "label": "percentage of women in chamber",
+                "ranking": null
+              },
+              {
+                "label": "term in office",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "313",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "International organization participation",
+            "data": "ARF, ASEAN (dialogue member), Australian Group, BIS, BSEC (observer), CBSS, CERN, EBRD, FAO, FATF, G-7, G-10, G-20, IDA, IEA, IGAD (partners), LAIA (observer), NSG (observer), OAS (observer), OECD, PIF (partner), SAARC (observer), SICA (observer), UN (observer), UNRWA (observer), WCO, WTO, ZC (observer)",
+            "subfields": [
+              {
+                "label": "International organization participation",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "317",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "National holiday",
+            "data": "Europe Day (also known as Schuman Day), 9 May (1950); note - the day in 1950 that Robert SCHUMAN proposed the creation of what became the European Coal and Steel Community, the progenitor of today's European Union, with the aim of achieving a united Europe",
+            "subfields": [
+              {
+                "label": "National holiday",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "306",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Natural resources",
+            "data": "iron ore, natural gas, petroleum, coal, copper, lead, zinc, bauxite, uranium, potash, salt, hydropower, arable land, timber, fish",
+            "subfields": [
+              {
+                "label": "Natural resources",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "287",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Political parties",
+            "data": "The Left or GUE/NGL&nbsp;<br />European Conservatives and Reformists or ECR&nbsp;<br />Greens/European Free Alliance or Greens/EFA&nbsp;<br />European People's Party or EPP&nbsp;<br />Europe of Sovereign Nations or ESN&nbsp;<br />Patriots for Europe or PfE&nbsp;<br />Progressive Alliance of Socialists and Democrats or S&amp;D&nbsp;<br />Renew Europe or Renew (formerly Alliance of Liberals and Democrats for Europe or ALDE)",
+            "subfields": [
+              {
+                "label": "Political parties",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "315",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Railways",
+            "data": "<strong>total:</strong> 4,894,173 km (2019)",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": null
+              },
+              {
+                "label": "dual gauge",
+                "ranking": null
+              },
+              {
+                "label": "broad gauge",
+                "ranking": null
+              },
+              {
+                "label": "narrow gauge",
+                "ranking": null
+              },
+              {
+                "label": "standard gauge",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "384",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Suffrage",
+            "data": "18 years of age (16 years in Austria); universal; voting for the European Parliament is permitted in each member state",
+            "subfields": [
+              {
+                "label": "Suffrage",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "311",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Telecommunication systems",
+            "data": "note - see individual country entries of member states",
+            "subfields": [
+              {
+                "label": "international",
+                "ranking": null
+              },
+              {
+                "label": "domestic",
+                "ranking": null
+              },
+              {
+                "label": "general assessment",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "198",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Terrain",
+            "data": "fairly flat along Baltic and Atlantic coasts; mountainous in the central and southern areas",
+            "subfields": [
+              {
+                "label": "Terrain",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "285",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Military - note",
+            "data": "the EU partners with the North Atlantic Treaty Organization (NATO); NATO is an alliance of 32 countries from North America and Europe; its role is to safeguard the security of its member countries by political and military means; NATO conducts crisis management and peacekeeping missions; member countries that participate in the military aspect of the Alliance contribute forces and equipment, which remain under national command and control until a time when they are required by NATO for a specific purpose (i.e., conflict or crisis, peacekeeping); NATO, however, does possess some common capabilities owned and operated by the Alliance, such as some early warning radar aircraft; relations between NATO and the EU were institutionalized in the early 2000s, building on steps taken during the 1990s to promote greater European responsibility in defense matters; cooperation and coordination covers a broad array of issues, including crisis management, defense and political consultations, civil preparedness, capacity building, military capabilities, maritime security, planning, cyber defense, countering hybrid threats, information sharing, logistics, defense industry, counterterrorism, etc.; since Russia&rsquo;s invasion of Ukraine in February 2022, the EU and NATO have intensified their work and cooperation; NATO and the EU have 23 member countries in common<br /><br />there are no permanent standing EU forces, but Europe has a variety of multinational military organizations that may be deployed through the EU, in a NATO environment, upon the mandate of the participating countries, or upon the mandate of other international organizations, such as the UN or OSCE including:&nbsp;<br /><br /><strong>EU Battlegroups (BGs) </strong>are rapid reaction multinational army units that form a key part of the EU's capacity to respond to crises and conflicts; their deployment is subject to a unanimous decision by the European Council; BGs typically consists of 1,500-2,000 troops organized around an infantry battalion depending on the mission; the troops and equipment are drawn from EU member states and under the direction of a lead nation; two BGs are always on standby for a period of six months; the BGs were declared operational in 2007 but have never been used operationally due to political and financial obstacles <br /><br />the <strong>European Corps (Eurocorps)</strong> is an independent multinational land force corps headquarters composed of personnel from six framework nations and five associated nations; the corps has no standing operational units; during a crisis, units would be drawn from participating states, and the corps would be placed at the service of the EU and NATO; Eurocorps was established in 1992 by France and Germany; Belgium (1993), Spain (1994), and Luxembourg (1996) joined over the next few years; Poland joined in 2022; Greece and Turkey (since 2002), Italy, Romania, and Austria (since 2009, 2016, and 2021 respectively) participate as associated nations; Eurocorps is headquartered in France<br /><br />the <strong>European Gendarmerie Force (EURGENDFOR)</strong> is an operational, pre-organized, and rapidly deployable European gendarmerie/police force; it is not established at the EU level, but is capable of performing police tasks, including law enforcement, stability operations, and training in support of the EU, the UN, OSCE, NATO, and other international organizations or ad hoc coalitions; member state gendarmeries include those of France, Italy, the Netherlands, Poland, Portugal, Romania, and Spain; the Lithuanian Public Security Service is a partner, while Turkey's Gendarmerie is an observer force <br /><br />the <strong>European Medical Corps (EMC)</strong> was set up in the aftermath of the Ebola crisis in West Africa in 2014 to enable the deployment of teams and equipment from EU member states to provide medical assistance and public health expertise in response to emergencies inside and outside the EU; as of 2024, 12 European states had committed teams and equipment to the EMC<br /><br />the <strong>European Medical Command (EMC)</strong> was formed to provide a standing EU medical capability, increase medical operational readiness, and improve interoperability amongst the participating EU members; it operates closely with the NATO Framework Nations Concept&rsquo;s Multinational Medical Coordination Center (MMCC) under a single administrative and infrastructural framework (MMCC/EMC); the EMC was declared operational in May 2022<br /><br />the<strong> European Air Transport Command (EATC)</strong> is a single multinational command for more than 150 military air mobility assets from seven member states, including transport, air-to-air refueling, and aeromedical evacuation; the EATC headquarters is located in the Netherlands, but the air assets remain located at member national air bases; the EATC was established in 2010 <br /><br />the <strong>European Air Group (EAG)</strong> is an independent organization formed by the air forces of its seven member nations (Belgium, France, Germany, Italy, Netherlands, Spain, and the UK) that is focused on improving interoperability between the air forces of EAG members and its 14 partner and associate nations; it was established in the late 1990s and is headquartered in the UK<br /><br />the <strong>European Maritime Force (EUROMARFOR or EMF)</strong> is a four-nation (France, Italy, Portugal, and Spain), non-standing naval force with the ability to carry out naval, air, and amphibious operations; EUROMARFOR was formed in 1995 to conduct missions such as crisis response, humanitarian missions, peacekeeping, peace enforcement, and sea control; it can deploy under EU, NATO, or UN mandate, but also as long as the four partner nations agree<br /><br />the <strong>Combined Joint Expeditionary Force (CJEF)</strong> is a deployable, combined France-UK military force of up to 10,000 personnel for use in a wide range of crisis scenarios, up to and including high intensity combat operations; the CJEF has no standing forces but would be available at short notice for French-UK bilateral, NATO, EU, UN, or other operations; it was established in 2010 and declared operational in 2020<br /><br />the <strong>1st German/Netherlands (Dutch) Corps </strong>is a combined army corps headquarters that has the ability to conduct operations under the command and control of Germany and the Netherlands, NATO, or the EU; in peacetime, approximately 1,100 Dutch and German soldiers are assigned, but during a crisis up to 80,000 troops may be assigned; it was formed in 1995 and is headquartered in Germany&nbsp;<br /><br />the <strong>Lithuanian-Polish-Ukrainian Brigade (LITPOLUKRBRIG) </strong>is comprised of an international staff, three battalions, and specialized units; units affiliated with the multinational brigade remain within the structures of the armed forces of their respective countries until the brigade is activated for participation in an international operation; it was formed in 2014 and is headquartered in Poland<br /><br />in 2022, the EU approved a new defense strategy (Strategic Compass) designed to increase the bloc&rsquo;s capacity to act, including setting up a <strong>Rapid Deployment Capacity (EU RDC)</strong> consisting of up to 5,000 troops by 2025 (2024)",
+            "subfields": [
+              {
+                "label": "Military - note",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "332",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Location",
+            "data": "Europe between the North Atlantic Ocean in the west and Russia, Belarus, and Ukraine to the east",
+            "subfields": [
+              {
+                "label": "Location",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "276",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Map references",
+            "data": "Europe",
+            "subfields": [
+              {
+                "label": "Map references",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "278",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Irrigated land",
+            "data": "154,539.82 sq km (2011 est.)",
+            "subfields": [
+              {
+                "label": "Irrigated land",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "289",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Diplomatic representation in the US",
+            "data": "<strong>chief of mission:</strong> Ambassador Jovita NELIUP&Scaron;IENĖ, Head of Delegation (since 27 February 2024)<br><br><strong>chancery:</strong> 2175 K Street NW, Washington, DC 20037<br><br><strong>telephone:</strong> [1] (202) 862-9500<br><br><strong>FAX:</strong> [1] (202) 429-1766<br><br><strong>email address and website:</strong> <br />delegation-usa-info@eeas.europa.eu<br /><br /><a href=\"https://www.eeas.europa.eu/delegations/united-states-america_en?s=253\">Delegation of the European Union to the United States of America | EEAS (europa.eu)</a>",
+            "subfields": [
+              {
+                "label": "email address and website",
+                "ranking": null
+              },
+              {
+                "label": "honorary consulate(s)",
+                "ranking": null
+              },
+              {
+                "label": "embassy",
+                "ranking": null
+              },
+              {
+                "label": "consulate(s)",
+                "ranking": null
+              },
+              {
+                "label": "consulate(s) general",
+                "ranking": null
+              },
+              {
+                "label": "FAX",
+                "ranking": null
+              },
+              {
+                "label": "telephone",
+                "ranking": null
+              },
+              {
+                "label": "chancery",
+                "ranking": null
+              },
+              {
+                "label": "chief of mission",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "318",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Internet users",
+            "data": "<strong>percent of population:</strong> 90% (2023 est.)",
+            "subfields": [
+              {
+                "label": "percent of population",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "204",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Internet country code",
+            "data": ".eu; note - see country entries of member states for individual country codes",
+            "subfields": [
+              {
+                "label": "Internet country code",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "202",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Union name",
+            "data": "<strong>conventional long form:</strong> European Union<br><br><strong>abbreviation:</strong> EU",
+            "subfields": [
+              {
+                "label": "abbreviation",
+                "ranking": null
+              },
+              {
+                "label": "conventional long form",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "297",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Political structure",
+            "data": "a hybrid and unique intergovernmental and supranational organization",
+            "subfields": [
+              {
+                "label": "Political structure",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "300",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Member states",
+            "data": "<p>27 countries: Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden; note - 9 candidate countries: Albania, Bosnia and Herzegovina, Georgia, Moldova, Montenegro, North Macedonia, Serbia, Turkey, Ukraine</p> <p>there are 13 overseas countries and territories (OCTs) (1 with Denmark [Greenland], 6 with France [French Polynesia, French Southern and Antarctic Lands, New Caledonia, Saint Barthelemy, Saint Pierre and Miquelon, Wallis and Futuna], and 6 with the Netherlands [Aruba, Bonaire, Curacao, Saba, Sint Eustatius, Sint Maarten]), all are part of the Overseas Countries and Territories Association (OCTA)</p><br><br><strong>note:</strong> there are non-European OCTs having special relations with Denmark, France, and the Netherlands (list is annexed to the Treaty on the Functioning of the European Union), that are associated with the EU to promote their economic and social development; member states apply to their trade with OCTs the same treatment as they accord each other pursuant to the treaties; OCT nationals are in principle EU citizens, but these countries are neither part of the EU, nor subject to the EU",
+            "subfields": [
+              {
+                "label": "Member states",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "303",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Preliminary statement",
+            "data": "<p>The European Union's (EU) evolution is unprecedented in history, transforming from a regional economic agreement among six neighboring states in 1951 to today's hybrid intergovernmental and supranational organization of 27 countries across the European continent. For such a large number of nation-states to cede some of their sovereignty to an overarching entity is unique. Dynastic unions for territorial consolidation were long the norm in Europe, although country-level unions were sometimes arranged, such as the Polish-Lithuanian Commonwealth and the Austro-Hungarian Empire.&nbsp;</p> <p>Although the EU is not a federation in the strict sense, it is far more than a free-trade association such as ASEAN or Mercosur, and it has certain attributes associated with independent nations: its own flag, currency (for some members), and law-making abilities, as well as diplomatic representation and a common foreign and security policy in its dealings with external partners.</p> <p>For these reasons, The World Factbook includes basic information on the EU as a separate entity.</p>",
+            "subfields": [
+              {
+                "label": "Preliminary statement",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "324",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "GDP (official exchange rate)",
+            "data": "$18.591 trillion (2023 est.)<br><br><b>note:</b> data in current dollars at official exchange rate",
+            "subfields": [
+              {
+                "label": "GDP (official exchange rate)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "209",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Credit ratings",
+            "data": "<strong>Fitch rating:</strong> AAA (2010)<br><br><strong>Moody's rating:</strong> Aaa (2014)<br><br><strong>Standard & Poors rating:</strong> AA (2016)<br><br><strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.",
+            "subfields": [
+              {
+                "label": "Standard & Poors rating",
+                "ranking": null
+              },
+              {
+                "label": "Moody's rating",
+                "ranking": null
+              },
+              {
+                "label": "Fitch rating",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "237",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Total renewable water resources",
+            "data": "1.7 trillion cubic meters (2019)",
+            "subfields": [
+              {
+                "label": "Total renewable water sources",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "290",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "National anthem",
+            "data": "<strong>name:</strong> \"Ode to Joy\"<br><br><strong>lyrics/music:</strong> no lyrics/Ludwig VAN BEETHOVEN, arranged by Herbert VON KARAJAN<br><br><strong>note:</strong> official EU anthem since 1985; the anthem is meant to represent all of Europe rather than just the organization, conveying ideas of peace, freedom, and unity",
+            "subfields": [
+              {
+                "label": "lyrics/music",
+                "ranking": null
+              },
+              {
+                "label": "name",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "322",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": [
+              {
+                "type": "audio",
+                "altText": "",
+                "caption": "This is an audio of the National Anthem for European Union. The national anthem is generally a patriotic musical composition - usually in the form of a song or hymn of praise - that evokes and eulogizes the history, traditions, or struggles of a nation or its people. National anthems can be officially recognized as a national song by a country's constitution or by an enacted law, or simply by tradition. Although most anthems contain lyrics, some do not.",
+                "localFile": {
+                  "publicURL": "/the-world-factbook/static/6edef59548e36dc3c125da155421cc5b/EE.mp3",
+                  "childImageSharp": null
+                }
+              }
+            ]
+          },
+          {
+            "name": "National symbol(s)",
+            "data": "a circle of 12, five-pointed, golden yellow stars on a blue field; union colors: blue, yellow",
+            "subfields": [
+              {
+                "label": "National symbol(s)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "321",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "GDP - composition, by end use",
+            "data": "<strong>household consumption:</strong> 51.6% (2023 est.)<br><br><strong>government consumption:</strong> 20.8% (2023 est.)<br><br><strong>investment in fixed capital:</strong> 22.1% (2023 est.)<br><br><strong>investment in inventories:</strong> 0.3% (2023 est.)<br><br><strong>exports of goods and services:</strong> 51.9% (2023 est.)<br><br><strong>imports of goods and services:</strong> -48.3% (2023 est.)<br><br><b>note:</b> figures may not total 100% due to rounding or gaps in data collection",
+            "subfields": [
+              {
+                "label": "imports of goods and services",
+                "ranking": null
+              },
+              {
+                "label": "exports of goods and services",
+                "ranking": null
+              },
+              {
+                "label": "investment in inventories",
+                "ranking": null
+              },
+              {
+                "label": "investment in fixed capital",
+                "ranking": null
+              },
+              {
+                "label": "government consumption",
+                "ranking": null
+              },
+              {
+                "label": "household consumption",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "213",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Population distribution",
+            "data": "population distribution varies considerably from country to country but tends to follow a pattern of coastal and river settlement, with urban agglomerations forming large hubs facilitating large scale housing, industry, and commerce; the area in and around the Netherlands, Belgium, and Luxembourg (known collectively as Benelux), is the most densely populated area in the EU",
+            "subfields": [
+              {
+                "label": "Population distribution",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "348",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Religions",
+            "data": "Roman Catholic 41%, Orthodox 10%, Protestant 9%, other Christian 4%, Muslim 2%, other 4% (includes Jewish, Sikh, Buddhist, Hindu), atheist 10%, non-believer/agnostic 17%, unspecified 3% (2019 est.)",
+            "subfields": [
+              {
+                "label": "Religions",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "401",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Languages",
+            "data": "Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Irish, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovene, Spanish, Swedish<br><br><strong>note:</strong> only the 24 official languages are listed; German, the major language of Germany and Austria, is the most widely spoken mother tongue - about 16% of the EU population; English is the most widely spoken foreign language - about 29% of the EU population is conversant with it; English is an official language in Ireland and Malta and thus remained an official EU language after the UK left the bloc (2020)",
+            "subfields": [
+              {
+                "label": "major-language sample(s)",
+                "ranking": null
+              },
+              {
+                "label": "Languages",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "402",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Imports - partners",
+            "data": "China 21%, US 14%, UK 7%, Switzerland 6%, Norway 5% (2023)<br><br><strong>note: </strong>top five non-EU import partners based on percentage share of external imports; does not include internal trade among EU member states",
+            "subfields": [
+              {
+                "label": "Imports - partners",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "403",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Elevation",
+            "data": "<strong>highest point:</strong> Mont Blanc, France 4,810 m<br><br><strong>lowest point:</strong> Zuidplaspolder, Netherlands -7 m",
+            "subfields": [
+              {
+                "label": "highest point",
+                "ranking": null
+              },
+              {
+                "label": "lowest point",
+                "ranking": null
+              },
+              {
+                "label": "mean elevation",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "407",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Contraceptive prevalence rate",
+            "data": "NA",
+            "subfields": [
+              {
+                "label": "total contraceptive prevalence rate",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "357",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Current health expenditure",
+            "data": "10.9% of GDP (2021)",
+            "subfields": [
+              {
+                "label": "Current health expenditure",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "409",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Military and security forces",
+            "data": "the EU's Common Security and Defense Policy (CSDP) provides the civilian, military, and political structures for EU crisis management and security issues; the highest bodies are:<br /><br />the Political and Security Committee (PSC), which meets at the ambassadorial level as a preparatory body for the Council of the EU; it assists with defining policies and preparing a crisis response<br /><br />the European Union Military Committee (EUMC) is the EU's highest military body; it is composed of the chiefs of defense (CHODs) of the Member States, who are regularly represented by their permanent Military Representatives; the EUMC provides the PSC with advice and recommendations on all military matters within the EU<br /><br />the Committee for Civilian Aspects of Crisis Management (CIVCOM) provides advice and recommendations to the PSC in parallel with the EUMC on civilian aspects of crisis management<br /><br />the Politico-Military Group (PMG) provides advice and recommendations to the PSC on political aspects of EU military and civil-military issues, including concepts, capabilities and operations and missions, and monitors implementation<br /><br />other bodies set up under the CSDP include the Security and Defense Policy Directorate (SECDEFPOL), the Integrated approach for Security and Peace Directorate (ISP), the EU Military Staff (EUMS), the Civilian Planning and Conduct Capability (CPCC), the Civilian Operations Headquarters (CivOpsHQ), the Military Planning and Conduct Capability (MPCC), the European Defense Agency (EDA), the European Security and Defense College (ESDC), the EU Institute for Security Studies, the EU Satellite Center, the Peace, Partnerships and Crisis Management Directorate (PCM) (2025)<br><br><strong>note 1: </strong>Frontex is the European Border and Coast Guard Agency that supports EU Member States and Schengen-associated countries in the management of the EU&rsquo;s external borders and the fight against cross-border crime; it has a standing corps of uniformed border guard officers directly employed by Frontex as staff members and regularly deployed to border guarding missions, plus thousands of other officers seconded by EU member states <br /><br /><strong>note 2:</strong> in 2017, the EU set up the Permanent Structured Cooperation on Defense (PESCO), a mechanism for deepening defense cooperation amongst member states through binding commitments and collaborative programs on a variety of military-related capabilities such as cyber, maritime surveillance, medical support, operational readiness, procurement, and training",
+            "subfields": [
+              {
+                "label": "Military branches",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "331",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Literacy",
+            "data": "<strong>total population:</strong> NA<br><br><strong>male:</strong> NA<br><br><strong>female:</strong> NA",
+            "subfields": [
+              {
+                "label": "female",
+                "ranking": null
+              },
+              {
+                "label": "male",
+                "ranking": null
+              },
+              {
+                "label": "total population",
+                "ranking": null
+              },
+              {
+                "label": "definition",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "370",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Dependency ratios",
+            "data": "<strong>total dependency ratio:</strong> NA<br><br><strong>youth dependency ratio:</strong> NA<br><br><strong>elderly dependency ratio:</strong> NA<br><br><strong>potential support ratio:</strong> NA",
+            "subfields": [
+              {
+                "label": "potential support ratio",
+                "ranking": null
+              },
+              {
+                "label": "elderly dependency ratio",
+                "ranking": null
+              },
+              {
+                "label": "youth dependency ratio",
+                "ranking": null
+              },
+              {
+                "label": "total dependency ratio",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "342",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Military deployments",
+            "data": "since 2003, the EU has launched more than 30 civilian and military crisis-management, advisory, and training missions in Africa, Asia, Europe, and the Middle East, as well as counter-piracy operations off the coast of Somalia and a naval operation in the Mediterranean to disrupt human smuggling and trafficking networks and prevent the loss of life at sea (2024)<br><br><strong>note:</strong> in response to the 2022 Russian invasion of Ukraine, the EU announced that it would develop a rapid deployment force consisting of up to 5,000 troops by 2025",
+            "subfields": [
+              {
+                "label": "Military deployments",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "412",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Military and security service personnel strengths",
+            "data": "the combined countries of the EU had an estimated 1.4m active military personnel in 2024; the largest EU country military forces belong to France, Germany, and Italy (2024)<br><br><strong>note:</strong> the combined countries of NATO had an estimated 3.4 million active military personnel in 2024",
+            "subfields": [
+              {
+                "label": "Military and security forces personnel strengths",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "410",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Drinking water source",
+            "data": "<strong>improved:</strong><br><br>urban: NA<br><br>rural: NA<br><br>total: NA<br><br><strong>unimproved:</strong><br><br>urban: NA<br><br>rural: NA<br><br>total: NA",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": null
+              },
+              {
+                "label": "rural",
+                "ranking": null
+              },
+              {
+                "label": "urban",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": null
+              },
+              {
+                "label": "rural",
+                "ranking": null
+              },
+              {
+                "label": "urban",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "361",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Sanitation facility access",
+            "data": "<strong>improved:</strong><br><br>urban: NA<br><br>rural: NA<br><br>total: NA<br><br><strong>unimproved:</strong><br><br>urban: NA<br><br>rural: NA<br><br>total: NA",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": null
+              },
+              {
+                "label": "rural",
+                "ranking": null
+              },
+              {
+                "label": "urban",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": null
+              },
+              {
+                "label": "rural",
+                "ranking": null
+              },
+              {
+                "label": "urban",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "398",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "National air transport system",
+            "data": "<strong>annual passenger traffic on registered air carriers:</strong> 636,860,155 (2018)<br><br><strong>annual freight traffic on registered air carriers:</strong> 31,730,660,000 (2018)",
+            "subfields": [
+              {
+                "label": "annual freight traffic on registered air carriers",
+                "ranking": null
+              },
+              {
+                "label": "annual passenger traffic on registered air carriers",
+                "ranking": null
+              },
+              {
+                "label": "inventory of registered aircraft operated by air carriers",
+                "ranking": null
+              },
+              {
+                "label": "number of registered air carriers",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "377",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Terrorist group(s)",
+            "data": "<strong>Terrorist group(s):</strong> see individual EU member states",
+            "subfields": [
+              {
+                "label": "Terrorist group(s)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "413",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Electricity access",
+            "data": "<strong>electrification - total population:</strong> 100% (2022 est.)",
+            "subfields": [
+              {
+                "label": "electrification - total population",
+                "ranking": null
+              },
+              {
+                "label": "electrification - rural areas",
+                "ranking": null
+              },
+              {
+                "label": "electrification - urban areas",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "251",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Air pollutants",
+            "data": "<strong>carbon dioxide emissions:</strong> 2,881.62 megatons (2016 est.)",
+            "subfields": [
+              {
+                "label": "carbon dioxide emissions",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "416",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Gross reproduction rate",
+            "data": "0.75 (2024 est.)",
+            "subfields": [
+              {
+                "label": "Gross reproduction rate",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "448",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Remittances",
+            "data": "0.82% of GDP (2023 est.)<br>0.8% of GDP (2022 est.)<br>0.78% of GDP (2021 est.)<br><br><b>note:</b> personal transfers and compensation between resident and non-resident individuals/households/entities",
+            "subfields": [
+              {
+                "label": "Remittances 2023",
+                "ranking": null
+              },
+              {
+                "label": "Remittances 2022",
+                "ranking": null
+              },
+              {
+                "label": "Remittances 2021",
+                "ranking": null
+              },
+              {
+                "label": "Remittances 2020",
+                "ranking": null
+              },
+              {
+                "label": "Remittances 2019",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "449",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Nuclear energy",
+            "data": "<strong>Number of operational nuclear reactors:</strong> 100 (2025)<br><br><strong>Number of nuclear reactors under construction:</strong> 1 (2025)<br><br><strong>Net capacity of operational nuclear reactors:</strong> 97.63GW (2025 est.)<br><br><strong>Number of nuclear reactors permanently shut down:</strong> 75 (2025)",
+            "subfields": [
+              {
+                "label": "Number of nuclear reactors permanently shut down",
+                "ranking": null
+              },
+              {
+                "label": "Net capacity of operational nuclear reactors",
+                "ranking": null
+              },
+              {
+                "label": "Number of nuclear reactors under construction",
+                "ranking": null
+              },
+              {
+                "label": "Number of operational nuclear reactors",
+                "ranking": null
+              },
+              {
+                "label": "Percent of total electricity production",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "452",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Space program overview",
+            "data": "the EUSPA&rsquo;s mission is to provide a link between European users and space technologies and capabilities, including remote sensing (RS), satellite navigation, and telecommunications; it is responsible for the operational management of the European Geostationary Navigation Overlay Service (EGNOS) and Galileo satellite navigation programs; the EU has a space strategy, which includes encouraging investment in and the use of space services and data, fostering competition and innovation, developing space technologies, and reinforcing Europe&rsquo;s autonomy in accessing space<br /><br />the ESA is a comprehensive space agency and active across all areas of the space sector outside of launching humans into space, including producing and operating satellites with a full spectrum of capabilities (communications, multipurpose, navigational, RS, science/technology), satellite launch vehicles (SLVs), space launches, human space flight (has an astronaut training program), space transportation/automated transfer vehicles, re-usable spacecraft, space station modules, spacecraft components, robotic space labs, lunar/planetary surface rovers, interplanetary space probes and exploration, space telescopes, research, science, technology development, etc.; ESA also participates in international space programs such as the International Space Station and works closely with Europe&rsquo;s commercial space industry; it also cooperates with a broad range of space agencies and industries of non-member countries, including China, Japan, Russia, and the US; many of its programs are conducted jointly, particularly with the US space program<br /><br />Europe has a large and advanced commercial space sector capable of developing and producing a full range of capabilities and technologies; a key focus for both the ESA and EUSPA is encouraging the European commercial space sector; Europe is a global leader in satellite-based communications and hosts the headquarters of three of the world&rsquo;s major satellite communications companies (2024)<br><br><strong>note:</strong> further details about the key activities, programs, and milestones of the country&rsquo;s space program, as well as government spending estimates on the space sector, appear in the <a title=\"Space Programs\" href=\"/references/space-programs\">Space Programs</a> reference guide",
+            "subfields": [
+              {
+                "label": "Space programs overview",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "457",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Space launch site(s)",
+            "data": "ESA&rsquo;s spaceport is located in Kourou, French Guiana; Europe also has or is developing commercial space ports in Italy, Norway, Sweden, and the UK, as well as maritime launch capabilities with a logistics base in Germany (2024)",
+            "subfields": [
+              {
+                "label": "Space launch site(s)",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "456",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Space agency/agencies",
+            "data": "the only EU agency dedicated to space is the EU Agency for the Space Program (EUSPA; established in 2021); the EUSPA originated with the Galileo Joint Undertaking (GJU) set up in 2002 by the European Community (EC) and the European Space Agency (ESA) to manage the development phase of Europe&rsquo;s Galileo satellite navigation program; the GJU&rsquo;s responsibilities were assumed by the European Global Navigation Satellite System Supervisory Authority (GSA) in 2007<br /><br />the ESA (established 1975 from the European Launcher Development Organization and the European Space Research Organization, which were established in the early 1960s) is an independent organization although it maintains close ties with the EU through an ESA/EC Framework Agreement; the ESA and EC share a joint European Strategy for Space and have together developed a European Space Policy<br /><br />the ESA has 22 member states; the national bodies responsible for space in these countries sit on ESA&rsquo;s governing Council: Austria, Belgium, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Luxembourg, the Netherlands, Norway, Poland, Portugal, Romania, Spain, Sweden, Switzerland, and the UK; Canada also sits on the Council and takes part in some projects under a Cooperation Agreement;&nbsp; Latvia, Lithuania, Slovakia, and Slovenia are Associate Members; Bulgaria, Croatia, Cyprus, and Malta have cooperation agreements with ESA; ESA has established formal cooperation with all member states of the EU that are not ESA members (2024)",
+            "subfields": [
+              {
+                "label": "Space agency/agencies",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "455",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Coal",
+            "data": "<strong>production:</strong> 304.827 million metric tons (2023 est.)<br><br><strong>consumption:</strong> 398.817 million metric tons (2023 est.)<br><br><strong>exports:</strong> 32.326 million metric tons (2023 est.)<br><br><strong>imports:</strong> 127.304 million metric tons (2023 est.)<br><br><strong>proven reserves:</strong> 84.193 billion metric tons (2023 est.)",
+            "subfields": [
+              {
+                "label": "exports",
+                "ranking": null
+              },
+              {
+                "label": "imports",
+                "ranking": null
+              },
+              {
+                "label": "proven reserves",
+                "ranking": null
+              },
+              {
+                "label": "consumption",
+                "ranking": null
+              },
+              {
+                "label": "production",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "437",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Petroleum",
+            "data": "<strong>total petroleum production:</strong> 748,000 bbl/day (2023 est.)<br><br><strong>refined petroleum consumption:</strong> 11.022 million bbl/day (2023 est.)",
+            "subfields": [
+              {
+                "label": "refined petroleum consumption",
+                "ranking": null
+              },
+              {
+                "label": "total petroleum production",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "438",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Electricity generation sources",
+            "data": "<strong>fossil fuels:</strong> 33.1% of total installed capacity (2023 est.)<br><br><strong>nuclear:</strong> 22.1% of total installed capacity (2023 est.)<br><br><strong>solar:</strong> 9.2% of total installed capacity (2023 est.)<br><br><strong>wind:</strong> 17.7% of total installed capacity (2023 est.)<br><br><strong>hydroelectricity:</strong> 11.7% of total installed capacity (2023 est.)<br><br><strong>geothermal:</strong> 0.2% of total installed capacity (2023 est.)<br><br><strong>biomass and waste:</strong> 6% of total installed capacity (2023 est.)",
+            "subfields": [
+              {
+                "label": "nuclear",
+                "ranking": null
+              },
+              {
+                "label": "fossil fuels",
+                "ranking": null
+              },
+              {
+                "label": "hydroelectricity",
+                "ranking": null
+              },
+              {
+                "label": "wind",
+                "ranking": null
+              },
+              {
+                "label": "biomass and waste",
+                "ranking": null
+              },
+              {
+                "label": "geothermal",
+                "ranking": null
+              },
+              {
+                "label": "solar",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "436",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Natural gas",
+            "data": "<strong>production:</strong> 40.239 billion cubic meters (2023 est.)<br><br><strong>consumption:</strong> 335.326 billion cubic meters (2023 est.)<br><br><strong>exports:</strong> 100.238 billion cubic meters (2023 est.)<br><br><strong>imports:</strong> 396.993 billion cubic meters (2023 est.)",
+            "subfields": [
+              {
+                "label": "exports",
+                "ranking": null
+              },
+              {
+                "label": "production",
+                "ranking": null
+              },
+              {
+                "label": "consumption",
+                "ranking": null
+              },
+              {
+                "label": "imports",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "440",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Labor force",
+            "data": "221.675 million (2023 est.)<br><br><b>note:</b> number of people ages 15 or older who are employed or seeking work",
+            "subfields": [
+              {
+                "label": "Labor force",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "218",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Youth unemployment rate (ages 15-24)",
+            "data": "<strong>total:</strong> 16.2% (2023 est.)<br><br><strong>male:</strong> 16.4% (2023 est.)<br><br><strong>female:</strong> 16% (2023 est.)<br><br><b>note:</b> % of labor force ages 15-24 seeking employment",
+            "subfields": [
+              {
+                "label": "female",
+                "ranking": null
+              },
+              {
+                "label": "male",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "373",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Net migration rate",
+            "data": "-2.85 migrant(s)/1,000 population",
+            "subfields": [
+              {
+                "label": "total net migration rate",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "347",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Median age",
+            "data": "<strong>total:</strong> 44 years (2020)<br><br><strong>male:</strong> 42.6 years<br><br><strong>female:</strong> 45.5 years",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": null
+              },
+              {
+                "label": "female",
+                "ranking": null
+              },
+              {
+                "label": "male",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "343",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Reserves of foreign exchange and gold",
+            "data": "$740.9 billion (2014 est.)<br><br><strong>note:</strong> data are for the European Central Bank",
+            "subfields": [
+              {
+                "label": "Reserves of foreign exchange and gold 2014",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "245",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Public debt",
+            "data": "86.8% of GDP (2014)",
+            "subfields": [
+              {
+                "label": "Public debt 2014",
+                "ranking": null
+              },
+              {
+                "label": "Public debt 2013",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "227",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Total fertility rate",
+            "data": "1.54 children born/woman (2024 est.)",
+            "subfields": [
+              {
+                "label": "total fertility rate",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "356",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Unemployment rate",
+            "data": "6.03% (2023 est.)<br>6.15% (2022 est.)<br>7.03% (2021 est.)<br><br><b>note:</b> % of labor force seeking employment",
+            "subfields": [
+              {
+                "label": "Unemployment rate 2023",
+                "ranking": null
+              },
+              {
+                "label": "Unemployment rate 2022",
+                "ranking": null
+              },
+              {
+                "label": "Unemployment rate 2021",
+                "ranking": null
+              },
+              {
+                "label": "Unemployment rate 2020",
+                "ranking": null
+              },
+              {
+                "label": "Unemployment rate 2019",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "220",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Population",
+            "data": "<strong>total:</strong> 451,815,312 (2024 est.)<br><br><strong>male:</strong> 220,631,332<br><br><strong>female:</strong> 231,183,980",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": null
+              },
+              {
+                "label": "female",
+                "ranking": null
+              },
+              {
+                "label": "male",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "335",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Carbon dioxide emissions",
+            "data": "2.651 billion metric tonnes of CO2 (2023 est.)<br><br><strong>from coal and metallurgical coke:</strong> 518.857 million metric tonnes of CO2 (2023 est.)<br><br><strong>from petroleum and other liquids:</strong> 1.489 billion metric tonnes of CO2 (2023 est.)<br><br><strong>from consumed natural gas:</strong> 643.8 million metric tonnes of CO2 (2023 est.)",
+            "subfields": [
+              {
+                "label": "from consumed natural gas",
+                "ranking": null
+              },
+              {
+                "label": "from petroleum and other liquids",
+                "ranking": null
+              },
+              {
+                "label": "from coal and metallurgical coke",
+                "ranking": null
+              },
+              {
+                "label": "total emissions",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "274",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Area",
+            "data": "<strong>total :</strong> 4,236,351 sq km<br><br><strong>rank by area (sq km):<br /></strong>1. France (includes five overseas regions) 643,801 <br />2. Spain 505,370 <br />3. Sweden 450,295 <br />4. Germany 357,022 <br />5. Finland 338,145 <br />6. Poland 312,685 <br />7. Italy 301,340<br />8. Romania 238,391 <br />9. Greece 131,957 <br />10. Bulgaria 110,879 <br />11. Hungary 93,028 <br />12. Portugal 92,090 <br />13. Austria 83,871 <br />14. Czechia 78,867 <br />15. Ireland 70,273 <br />16. Lithuania 65,300 <br />17. Latvia 64,589 <br />18. Croatia 56,594 <br />19. Slovakia 49,035 <br />20. Estonia 45,228 <br />21. Denmark 43,094 <br />22. Netherlands 41,543 <br />23. Belgium 30,528 <br />24. Slovenia 20,273 <br />25. Cyprus 9,251 <br />26. Luxembourg 2,586 <br />27. Malta 316",
+            "subfields": [
+              {
+                "label": "rank by area (sq km)",
+                "ranking": null
+              },
+              {
+                "label": "water",
+                "ranking": null
+              },
+              {
+                "label": "land",
+                "ranking": null
+              },
+              {
+                "label": "total ",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "279",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Taxes and other revenues",
+            "data": "19.7% (of GDP) (2022 est.)<br><br><b>note:</b> central government tax revenue as a % of GDP",
+            "subfields": [
+              {
+                "label": "Taxes and other revenue",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "225",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Real GDP (purchasing power parity)",
+            "data": "$24.436 trillion (2023 est.)<br>$24.308 trillion (2022 est.)<br>$23.457 trillion (2021 est.)<br><br><b>note:</b> data in 2021 dollars",
+            "subfields": [
+              {
+                "label": "Real GDP (purchasing power parity) 2023",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP (purchasing power parity) 2022",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP (purchasing power parity) 2021",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP (purchasing power parity) 2020",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP (purchasing power parity) 2019",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "208",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Airports",
+            "data": "5,211 (2025)",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "379",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Infant mortality rate",
+            "data": "<strong>total:</strong> 3.4 deaths/1,000 live births (2024 est.)",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": null
+              },
+              {
+                "label": "female",
+                "ranking": null
+              },
+              {
+                "label": "male",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "354",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Telephones - mobile cellular",
+            "data": "<strong>total subscriptions:</strong> 552.316 million (2022 est.)<br><br><strong>subscriptions per 100 inhabitants:</strong> 124 (2022 est.)",
+            "subfields": [
+              {
+                "label": "subscriptions per 100 inhabitants",
+                "ranking": null
+              },
+              {
+                "label": "total subscriptions",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "197",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Gini Index coefficient - distribution of family income",
+            "data": "30.8 (2016 est.)",
+            "subfields": [
+              {
+                "label": "Gini Index coefficient - distribution of family income 2016",
+                "ranking": null
+              },
+              {
+                "label": "Gini Index coefficient - distribution of family income 2015",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "223",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Inflation rate (consumer prices)",
+            "data": "6.3% (2023 est.)<br>8.83% (2022 est.)<br>2.55% (2021 est.)<br><br><b>note:</b> annual % change based on consumer prices",
+            "subfields": [
+              {
+                "label": "Inflation rate (consumer prices) 2023",
+                "ranking": null
+              },
+              {
+                "label": "Inflation rate (consumer prices) 2022",
+                "ranking": null
+              },
+              {
+                "label": "Inflation rate (consumer prices) 2021",
+                "ranking": null
+              },
+              {
+                "label": "Inflation rate (consumer prices) 2020",
+                "ranking": null
+              },
+              {
+                "label": "Inflation rate (consumer prices) 2019",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "229",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Current account balance",
+            "data": "$404.9 billion (2017 est.)<br>$359.7 billion (2016 est.)",
+            "subfields": [
+              {
+                "label": "Current account balance 2017",
+                "ranking": null
+              },
+              {
+                "label": "Current account balance 2016",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "238",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Real GDP per capita",
+            "data": "$54,400 (2023 est.)<br>$54,300 (2022 est.)<br>$52,500 (2021 est.)<br><br><b>note:</b> data in 2021 dollars",
+            "subfields": [
+              {
+                "label": "Real GDP per capita 2023",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP per capita 2022",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP per capita 2021",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP per capita 2020",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP per capita 2019",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "211",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Broadband - fixed subscriptions",
+            "data": "<strong>total:</strong> 172.888 million (2022 est.)<br><br><strong>subscriptions per 100 inhabitants:</strong> 39 (2022 est.)",
+            "subfields": [
+              {
+                "label": "subscriptions per 100 inhabitants",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "206",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Energy consumption per capita",
+            "data": "114.309 million Btu/person (2023 est.)",
+            "subfields": [
+              {
+                "label": "Total energy consumption per capita 2023",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "441",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Death rate",
+            "data": "11.2 deaths/1,000 population (2024 est.)",
+            "subfields": [
+              {
+                "label": "total population death rate",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "346",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Birth rate",
+            "data": "8.9 births/1,000 population (2024 est.)",
+            "subfields": [
+              {
+                "label": "total population birth rate",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "345",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Electricity",
+            "data": "<strong>installed generating capacity:</strong> 1.142 billion kW (2023 est.)<br><br><strong>consumption:</strong> 2.511 trillion kWh (2023 est.)<br><br><strong>exports:</strong> 407.824 billion kWh (2023 est.)<br><br><strong>imports:</strong> 405.154 billion kWh (2023 est.)<br><br><strong>transmission/distribution losses:</strong> 169.694 billion kWh (2023 est.)",
+            "subfields": [
+              {
+                "label": "transmission/distribution losses",
+                "ranking": null
+              },
+              {
+                "label": "imports",
+                "ranking": null
+              },
+              {
+                "label": "installed generating capacity",
+                "ranking": null
+              },
+              {
+                "label": "consumption",
+                "ranking": null
+              },
+              {
+                "label": "exports",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "435",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Children under the age of 5 years underweight",
+            "data": "NA",
+            "subfields": [
+              {
+                "label": "underweight rate",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "368",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Imports",
+            "data": "$8.969 trillion (2023 est.)<br>$9.061 trillion (2022 est.)<br>$8.022 trillion (2021 est.)<br><br><b>note:</b> balance of payments - imports of goods and services in current dollars",
+            "subfields": [
+              {
+                "label": "Imports 2023",
+                "ranking": null
+              },
+              {
+                "label": "Imports 2022",
+                "ranking": null
+              },
+              {
+                "label": "Imports 2021",
+                "ranking": null
+              },
+              {
+                "label": "Imports 2020",
+                "ranking": null
+              },
+              {
+                "label": "Imports 2019",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "242",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Exports",
+            "data": "$9.667 trillion (2023 est.)<br>$9.41 trillion (2022 est.)<br>$8.712 trillion (2021 est.)<br><br><b>note:</b> balance of payments - exports of goods and services in current dollars",
+            "subfields": [
+              {
+                "label": "Exports 2023",
+                "ranking": null
+              },
+              {
+                "label": "Exports 2022",
+                "ranking": null
+              },
+              {
+                "label": "Exports 2021",
+                "ranking": null
+              },
+              {
+                "label": "Exports 2020",
+                "ranking": null
+              },
+              {
+                "label": "Exports 2019",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "239",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Heliports",
+            "data": "2,069 (2025)",
+            "subfields": [
+              {
+                "label": "Heliports",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "382",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Telephones - fixed lines",
+            "data": "<strong>total subscriptions:</strong> 155.005 million (2022 est.)<br><br><strong>subscriptions per 100 inhabitants:</strong> 36 (2022 est.)",
+            "subfields": [
+              {
+                "label": "subscriptions per 100 inhabitants",
+                "ranking": null
+              },
+              {
+                "label": "total subscriptions",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "196",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Life expectancy at birth",
+            "data": "<strong>total population:</strong> 77.63 years (2021)<br><br><strong>male:</strong> 72.98 years<br><br><strong>female:</strong> 82.51 years",
+            "subfields": [
+              {
+                "label": "total population",
+                "ranking": null
+              },
+              {
+                "label": "female",
+                "ranking": null
+              },
+              {
+                "label": "male",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "355",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Real GDP growth rate",
+            "data": "0.43% (2023 est.)<br>3.5% (2022 est.)<br>6.01% (2021 est.)<br><br><b>note:</b> annual GDP % growth based on constant local currency",
+            "subfields": [
+              {
+                "label": "Real GDP growth rate 2023",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP growth rate 2022",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP growth rate 2021",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP growth rate 2020",
+                "ranking": null
+              },
+              {
+                "label": "Real GDP growth rate 2019",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "210",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Industrial production growth rate",
+            "data": "-0.93% (2023 est.)<br><br><b>note:</b> annual % change in industrial value added based on constant local currency",
+            "subfields": [
+              {
+                "label": "Industrial production growth rate",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "217",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "GDP - composition, by sector of origin",
+            "data": "<strong>agriculture:</strong> 1.7% (2023 est.)<br><br><strong>industry:</strong> 23.3% (2023 est.)<br><br><strong>services:</strong> 65.5% (2023 est.)<br><br><b>note:</b> figures may not total 100% due to non-allocated consumption not captured in sector-reported data",
+            "subfields": [
+              {
+                "label": "services",
+                "ranking": null
+              },
+              {
+                "label": "industry",
+                "ranking": null
+              },
+              {
+                "label": "agriculture",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "214",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Revenue from forest resources",
+            "data": "0.05% of GDP (2018 est.)",
+            "subfields": [
+              {
+                "label": "forest revenues",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "420",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Revenue from coal",
+            "data": "0.02% of GDP (2018 est.)",
+            "subfields": [
+              {
+                "label": "coal revenues",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "421",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Education expenditures",
+            "data": "5% of GDP (2020 est.)",
+            "subfields": [
+              {
+                "label": "total education expenditures",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "369",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Population growth rate",
+            "data": "0.1% (2021 est.)",
+            "subfields": [
+              {
+                "label": "total population growth rate",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "344",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          }
+        ]
+      },
+      "travelFact": null,
+      "rep": {
+        "seo": {
+          "metaDesc": "",
+          "title": "$title - The World Factbook",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": null
+        }
+      }
+    },
+    "pageContext": {
+      "id": "3950c008-25d1-5d9a-a074-882641db44b3",
+      "placeCode": "EE",
+      "uriBase": "/countries/"
+    }
+  },
+  "staticQueryHashes": [
+    "2962548448",
+    "3419350533",
+    "4121375890",
+    "4279206597",
+    "800385335"
+  ],
+  "slicesMap": {}
+}

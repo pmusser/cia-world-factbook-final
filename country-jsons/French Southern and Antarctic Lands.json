@@ -1,0 +1,1527 @@
+{
+  "componentChunkName": "component---src-templates-country-js",
+  "path": "/countries/french-southern-and-antarctic-lands/",
+  "result": {
+    "data": {
+      "country": {
+        "name": "French Southern and Antarctic Lands",
+        "region": "Antarctica",
+        "locations": [
+          "place",
+          "summary"
+        ],
+        "updated": "April 23, 2025",
+        "rank": true,
+        "flag": {
+          "childImageSharp": {
+            "gatsbyImageData": {
+              "layout": "fullWidth",
+              "images": {
+                "fallback": {
+                  "src": "/the-world-factbook/static/6ff09e3ae4da489810f797ab1cf8e366/28380/FS-flag.jpg",
+                  "srcSet": "/the-world-factbook/static/6ff09e3ae4da489810f797ab1cf8e366/28380/FS-flag.jpg 500w",
+                  "sizes": "100vw"
+                },
+                "sources": [
+                  {
+                    "srcSet": "/the-world-factbook/static/6ff09e3ae4da489810f797ab1cf8e366/76f01/FS-flag.webp 500w",
+                    "type": "image/webp",
+                    "sizes": "100vw"
+                  }
+                ]
+              },
+              "width": 1,
+              "height": 0.668
+            }
+          }
+        },
+        "map": {
+          "childImageSharp": {
+            "gatsbyImageData": {
+              "layout": "fullWidth",
+              "images": {
+                "fallback": {
+                  "src": "/the-world-factbook/static/5d5848db4d97f02debfe5ba885d319d7/c0ff5/FS-map.jpg",
+                  "srcSet": "/the-world-factbook/static/5d5848db4d97f02debfe5ba885d319d7/c0ff5/FS-map.jpg 690w",
+                  "sizes": "100vw"
+                },
+                "sources": [
+                  {
+                    "srcSet": "/the-world-factbook/static/5d5848db4d97f02debfe5ba885d319d7/dc244/FS-map.webp 690w",
+                    "type": "image/webp",
+                    "sizes": "100vw"
+                  }
+                ]
+              },
+              "width": 1,
+              "height": 1.2855072463768116
+            }
+          }
+        },
+        "locatorMap": {
+          "childImageSharp": {
+            "gatsbyImageData": {
+              "layout": "fullWidth",
+              "images": {
+                "fallback": {
+                  "src": "/the-world-factbook/static/f58af979a7c8d503d4fe9a9b9821b362/1706f/FS-locator-map.jpg",
+                  "srcSet": "/the-world-factbook/static/f58af979a7c8d503d4fe9a9b9821b362/b1ff4/FS-locator-map.jpg 750w,\n/the-world-factbook/static/f58af979a7c8d503d4fe9a9b9821b362/1706f/FS-locator-map.jpg 772w",
+                  "sizes": "100vw"
+                },
+                "sources": [
+                  {
+                    "srcSet": "/the-world-factbook/static/f58af979a7c8d503d4fe9a9b9821b362/a0770/FS-locator-map.webp 750w,\n/the-world-factbook/static/f58af979a7c8d503d4fe9a9b9821b362/1b3fd/FS-locator-map.webp 772w",
+                    "type": "image/webp",
+                    "sizes": "100vw"
+                  }
+                ]
+              },
+              "width": 1,
+              "height": 0.5077720207253886
+            }
+          }
+        },
+        "images": [],
+        "special": []
+      },
+      "fields": {
+        "nodes": [
+          {
+            "name": "Dependency status",
+            "data": "overseas territory of France since 1955",
+            "subfields": [
+              {
+                "label": "Dependency status",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "298",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Diplomatic representation from the US",
+            "data": "<strong>embassy:</strong> none (overseas territory of France)",
+            "subfields": [
+              {
+                "label": "email address and website",
+                "ranking": null
+              },
+              {
+                "label": "consulate(s)",
+                "ranking": null
+              },
+              {
+                "label": "branch office(s)",
+                "ranking": null
+              },
+              {
+                "label": "consulate(s) general",
+                "ranking": null
+              },
+              {
+                "label": "FAX",
+                "ranking": null
+              },
+              {
+                "label": "telephone",
+                "ranking": null
+              },
+              {
+                "label": "mailing address",
+                "ranking": null
+              },
+              {
+                "label": "embassy",
+                "ranking": null
+              },
+              {
+                "label": "chief of mission",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "319",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Geographic coordinates",
+            "data": "<p><strong>Ile Amsterdam (Ile Amsterdam et Ile Saint-Paul):</strong> 37 50 S, 77 32 E; </p><p><strong>Ile Saint-Paul (Ile Amsterdam et Ile Saint-Paul):</strong> 38 72 S, 77 53 E; </p><p><strong>Iles Crozet:</strong> 46 25 S, 51 00 E; </p><p><strong>Iles Kerguelen:</strong> 49 15 S, 69 35 E; </p><p><strong>Bassas da India (Iles Eparses):</strong> 21 30 S, 39 50 E; </p><p><strong>Europa Island (Iles Eparses):</strong> 22 20 S, 40 22 E; </p><p><strong>Glorioso Islands (Iles Eparses):</strong> 11 30 S, 47 20 E; </p><p><strong>Juan de Nova Island (Iles Eparses):</strong> 17 03 S, 42 45 E; </p><p><strong>Tromelin Island (Iles Eparses):</strong> 15 52 S, 54 25 E</p>",
+            "subfields": [
+              {
+                "label": "Geographic coordinates",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "277",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Natural hazards",
+            "data": "<p>Ile Amsterdam and Ile Saint-Paul are inactive volcanoes; Iles Eparses subject to periodic cyclones; Bassas da India is a maritime hazard since it is under water for a period of three hours prior to and following the high tide and surrounded by reefs</p><p><strong>volcanism:</strong> Reunion Island - Piton de la Fournaise (2,632 m), which has erupted many times in recent years including 2010, 2015, and 2017, is one of the world's most active volcanoes; although rare, eruptions outside the volcano's caldera could threaten nearby cities</p>",
+            "subfields": [
+              {
+                "label": "Natural hazards",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "292",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Area - comparative",
+            "data": "<p><strong>Ile Amsterdam (Ile Amsterdam et Ile Saint-Paul):</strong> less than one-half the size of Washington, D.C.;</p> <p><strong>Ile Saint-Paul (Ile Amsterdam et Ile Saint-Paul):</strong> more than 10 times the size of the National Mall in Washington, D.C.;</p> <p><strong>Iles Crozet:</strong> about twice the size of Washington, D.C.;</p> <p><strong>Iles Kerguelen:</strong> slightly larger than Delaware;</p> <p><strong>Bassas da India (Iles Eparses):</strong> land area about one-third the size of the National Mall in Washington, D.C.;</p> <p><strong>Europa Island (Iles Eparses):</strong> about one-sixth the size of Washington, D.C.;</p> <p><strong>Glorioso Islands (Iles Eparses):</strong> about eight times the size of the National Mall in Washington, D.C.;</p> <p><strong>Juan de Nova Island (Iles Eparses):</strong> about seven times the size of the National Mall in Washington, D.C.;</p> <p><strong>Tromelin Island (Iles Eparses):</strong> about 1.7 times the size of the National Mall in Washington, D.C.</p>",
+            "subfields": [
+              {
+                "label": "Area - comparative",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "280",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Background",
+            "data": "<p>In 2007, the Iles Eparses became an integral part of the French Southern and Antarctic Lands (TAAF). The Southern Lands are now divided into five administrative districts, two of which are archipelagos, the Iles Crozet and Iles Kerguelen; the third is a district composed of two volcanic islands, Ile Saint-Paul and Ile Amsterdam; the fourth, Iles Eparses, consists of five scattered tropical islands around Madagascar. They contain no permanent inhabitants and are visited only by researchers studying the native fauna, scientists at the various scientific stations, fishermen, and military personnel. The fifth district is the Antarctic portion, which consists of \"Adelie Land,\" a thin slice of the Antarctic continent discovered and claimed by the French in 1840.</p> <p><strong>Ile Amsterdam:</strong> Discovered but not named in 1522 by the Spanish, the island subsequently received the appellation of Nieuw Amsterdam from a Dutchman; it was claimed by France in 1843. A short-lived attempt at cattle farming began in 1871. A French meteorological station established on the island in 1949 is still in use.</p> <p><strong>Ile Saint Paul:</strong> Claimed by France since 1893, the island was a fishing industry center from 1843 to 1914. In 1928, a spiny lobster cannery was established, but when the company went bankrupt in 1931, seven workers were abandoned. Only two survived until 1934 when rescue finally arrived.</p> <p><strong>Iles Crozet:</strong> A large archipelago formed from the Crozet Plateau, Iles Crozet is divided into two main groups: L'Occidental (the West), which includes Ile aux Cochons, Ilots des Apotres, Ile des Pingouins, and the reefs Brisants de l'Heroine; and L'Oriental (the East), which includes Ile d'Est and Ile de la Possession, the largest island of the Crozets. Discovered and claimed by France in 1772, the islands were used for seal hunting and as a base for whaling. Originally administered as a dependency of Madagascar, they became part of the TAAF in 1955.</p> <p><strong>Iles Kerguelen:</strong> This island group, discovered in 1772, consists of one large island (Ile Kerguelen) and about 300 smaller islands. A permanent group of 50 to 100 scientists resides at the main base at Port-aux-Francais.</p> <p><strong>Adelie Land:</strong> The only non-insular district of the TAAF is the Antarctic claim known as \"Adelie Land.\" The US Government does not recognize it as a French dependency.</p> <p><strong>Bassas da India:</strong> A French possession since 1897, this atoll is a volcanic rock surrounded by reefs and is awash at high tide.</p> <p><strong>Europa Island:</strong> This heavily wooded island has been a French possession since 1897; it is the site of a small military garrison that staffs a weather station.</p> <p><strong>Glorioso Islands:</strong> A French possession since 1892, the Glorioso Islands are composed of two lushly vegetated coral islands (Ile Glorieuse and Ile du Lys) and three rock islets. A military garrison operates a weather and radio station on Ile Glorieuse.</p> <p><strong>Juan de Nova Island:</strong> Named after a famous 15th-century Spanish navigator and explorer, the island has been a French possession since 1897. It has been exploited for its guano and phosphate. Presently a small military garrison oversees a meteorological station.</p> <p><strong>Tromelin Island:</strong> First explored by the French in 1776, the island came under the jurisdiction of Reunion in 1814. At present, it serves as a sea turtle sanctuary and is the site of an important meteorological station.</p>",
+            "subfields": [
+              {
+                "label": "Summary",
+                "ranking": null
+              },
+              {
+                "label": "Background",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "325",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Environment - current issues",
+            "data": "introduction of foreign species on Iles Crozet has caused severe damage to the original ecosystem; overfishing of Patagonian toothfish around Iles Crozet and Iles Kerguelen",
+            "subfields": [
+              {
+                "label": "Environment - current issues",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "293",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Administrative divisions",
+            "data": "none (overseas territory of France); there are no first-order administrative divisions as defined by the US Government, but there are 5 administrative districts named Iles Crozet, Iles &Eacute;parses, Iles Kerguelen, Ile Saint-Paul et Ile Amsterdam; the fifth district is the \"Adelie Land\" claim in Antarctica that the US does not recognize",
+            "subfields": [
+              {
+                "label": "Administrative divisions",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "302",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Climate",
+            "data": "<p><strong>Ile Amsterdam et Ile Saint-Paul:</strong> oceanic with persistent westerly winds and high humidity; </p><p><strong>Iles Crozet:</strong> windy, cold, wet, and cloudy; </p><p><strong>Iles Kerguelen:</strong> oceanic, cold, overcast, windy; </p><p><strong>Iles Eparses:</strong> tropical</p>",
+            "subfields": [
+              {
+                "label": "Climate",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "284",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Coastline",
+            "data": "<strong>Ile Amsterdam (Ile Amsterdam et Ile Saint-Paul): </strong>28 km<br /> <strong>Ile Saint-Paul (Ile Amsterdam et Ile Saint-Paul): </strong><br /> <strong>Iles Kerguelen: </strong>2,800 km<br /> <strong>Bassas da India (Iles Eparses): </strong>35.2 km<br /> <strong>Europa Island (Iles Eparses): </strong>22.2 km<br /> <strong>Glorioso Islands (Iles Eparses): </strong>35.2 km<br /> <strong>Juan de Nova Island (Iles Eparses): </strong>24.1 km<br /> <strong>Tromelin Island (Iles Eparses): </strong>3.7 km",
+            "subfields": [],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "282",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Executive branch",
+            "data": "<strong>chief of state:</strong> President Emmanuel MACRON (since 14 May 2017), represented by Prefect Florence JEANBLANC-RISLER (since 5 October 2022)",
+            "subfields": [
+              {
+                "label": "election results",
+                "ranking": null
+              },
+              {
+                "label": "elections/appointments",
+                "ranking": null
+              },
+              {
+                "label": "cabinet",
+                "ranking": null
+              },
+              {
+                "label": "head of government",
+                "ranking": null
+              },
+              {
+                "label": "chief of state",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "312",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Flag description",
+            "data": "the flag of France is used",
+            "subfields": [
+              {
+                "label": "Flag description",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "320",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Land boundaries",
+            "data": "<strong>total:</strong> 0 km",
+            "subfields": [
+              {
+                "label": "regional borders",
+                "ranking": null
+              },
+              {
+                "label": "border countries",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "281",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Legal system",
+            "data": "the laws of France, where applicable, apply",
+            "subfields": [
+              {
+                "label": "Legal system",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "308",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Maritime claims",
+            "data": "<strong>territorial sea:</strong> 12 nm<br><br><strong>exclusive economic zone:</strong> 200 nm from Iles Kerguelen and Iles Eparses (does not include the rest of French Southern and Antarctic Lands); Juan de Nova Island and Tromelin Island claim a continental shelf of 200-m depth or to the depth of exploitation",
+            "subfields": [
+              {
+                "label": "exclusive economic zone",
+                "ranking": null
+              },
+              {
+                "label": "territorial sea",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "283",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "International organization participation",
+            "data": "UPU",
+            "subfields": [
+              {
+                "label": "International organization participation",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "317",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Natural resources",
+            "data": "fish, crayfish, note, Glorioso Islands and Tromelin Island (Iles Eparses) have guano, phosphates, and coconuts<br><br><strong>note:</strong> in the 1950's and 1960's, several species of trout were introduced to Iles Kerguelen of which two, brown trout and brook trout, survived to establish wild populations; reindeer were also introduced to Iles Kerguelen in 1956 as a source of fresh meat for whaling crews -- the herd today, one of two in the Southern Hemisphere, is estimated to number around 4,000",
+            "subfields": [
+              {
+                "label": "Natural resources",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "287",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Geography - note",
+            "data": "<p>islands' component is widely scattered across remote locations in the southern Indian Ocean</p><p><strong>Bassas da India (Iles Eparses):</strong> atoll is a circular reef atop a long-extinct, submerged volcano; </p><p><strong>Europa Island and Juan de Nova Island (Iles Eparses):</strong> wildlife sanctuary for seabirds and sea turtles; </p><p><strong>Glorioso Island (Iles Eparses):</strong> islands and rocks are surrounded by an extensive reef system; </p><p><strong>Tromelin Island (Iles Eparses):</strong> climatologically important location for forecasting cyclones in the western Indian Ocean; wildlife sanctuary (seabirds, tortoises)</p>",
+            "subfields": [
+              {
+                "label": "Geography - note",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "295",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Economic overview",
+            "data": "very small, fishing-based, domestic economic activity; military base servicing",
+            "subfields": [
+              {
+                "label": "Summary",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "207",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Terrain",
+            "data": "<p><strong>Ile Amsterdam (Ile Amsterdam et Ile Saint-Paul):</strong> a volcanic island with steep coastal cliffs; the center floor of the volcano is a large plateau; </p><p><strong>Ile Saint-Paul (Ile Amsterdam et Ile Saint-Paul):</strong> triangular in shape, the island is the top of a volcano, rocky with steep cliffs on the eastern side; has active thermal springs; </p><p><strong>Iles Crozet:</strong> a large archipelago formed from the Crozet Plateau is divided into two groups of islands; </p><p><strong>Iles Kerguelen:</strong> the interior of the large island of Ile Kerguelen is composed of high mountains, hills, valleys, and plains with peninsulas stretching off its coasts; </p><p><strong>Bassas da India (Iles Eparses):</strong> atoll, awash at high tide; shallow (15 m) lagoon; </p><p><strong>Europa Island, Glorioso Islands, Juan de Nova Island:</strong> low, flat, and sandy; </p><p><strong>Tromelin Island (Iles Eparses):</strong> low, flat, sandy; likely volcanic seamount</p>",
+            "subfields": [
+              {
+                "label": "Terrain",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "285",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Military - note",
+            "data": "defense is the responsibility of France; the French military maintains a Foreign Legion detachment on Mayotte to maintain France&rsquo;s presence in the region and support French forces operating in the southern zone of the Indian Ocean and the east coast of Africa; the detachment regularly deploys to the outlying Glorioso Islands",
+            "subfields": [
+              {
+                "label": "Military - note",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "332",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Communications - note",
+            "data": "has one or more meteorological stations on each possession",
+            "subfields": [
+              {
+                "label": "Communications - note",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "205",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Country name",
+            "data": "<strong>conventional long form:</strong> Territory of the French Southern and Antarctic Lands<br><br><strong>conventional short form:</strong> French Southern and Antarctic Lands<br><br><strong>local long form:</strong> Terres australes et antarctiques fran&ccedil;aises<br><br><strong>local short form:</strong> Terres Australes et Antarctiques Fran&ccedil;aises<br><br><strong>abbreviation:</strong> TAAF<br><br><strong>etymology:</strong> self-descriptive name specifying the territories' affiliation and location in the Southern Hemisphere",
+            "subfields": [
+              {
+                "label": "former",
+                "ranking": null
+              },
+              {
+                "label": "etymology",
+                "ranking": null
+              },
+              {
+                "label": "abbreviation",
+                "ranking": null
+              },
+              {
+                "label": "local short form",
+                "ranking": null
+              },
+              {
+                "label": "local long form",
+                "ranking": null
+              },
+              {
+                "label": "conventional short form",
+                "ranking": null
+              },
+              {
+                "label": "conventional long form",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "296",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Location",
+            "data": "southeast and east of Africa, islands in the southern Indian Ocean, some near Madagascar and others about equidistant between Africa, Antarctica, and Australia; note - French Southern and Antarctic Lands include Ile Amsterdam, Ile Saint-Paul, Iles Crozet, Iles Kerguelen, Bassas da India, Europa Island, Glorioso Islands, Juan de Nova Island, and Tromelin Island in the southern Indian Ocean, along with the French-claimed sector of Antarctica, \"Adelie Land\"; the US does not recognize the French claim to \"Adelie Land\"",
+            "subfields": [
+              {
+                "label": "Location",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "276",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Map references",
+            "data": "Antarctic RegionAfrica",
+            "subfields": [
+              {
+                "label": "Map references",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "278",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Diplomatic representation in the US",
+            "data": "none (overseas territory of France)",
+            "subfields": [
+              {
+                "label": "honorary consulate(s)",
+                "ranking": null
+              },
+              {
+                "label": "embassy",
+                "ranking": null
+              },
+              {
+                "label": "consulate(s)",
+                "ranking": null
+              },
+              {
+                "label": "consulate(s) general",
+                "ranking": null
+              },
+              {
+                "label": "email address and website",
+                "ranking": null
+              },
+              {
+                "label": "FAX",
+                "ranking": null
+              },
+              {
+                "label": "telephone",
+                "ranking": null
+              },
+              {
+                "label": "chancery",
+                "ranking": null
+              },
+              {
+                "label": "chief of mission",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "318",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Internet country code",
+            "data": ".tf",
+            "subfields": [
+              {
+                "label": "Internet country code",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "202",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "National anthem",
+            "data": "<strong>note:</strong> as a territory of France, \"La Marseillaise\" is official (see France)",
+            "subfields": [
+              {
+                "label": "lyrics/music",
+                "ranking": null
+              },
+              {
+                "label": "name",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "322",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": [
+              {
+                "type": "audio",
+                "altText": "",
+                "caption": "This is an audio of the National Anthem for French Southern and Antarctic Lands. The national anthem is generally a patriotic musical composition - usually in the form of a song or hymn of praise - that evokes and eulogizes the history, traditions, or struggles of a nation or its people. National anthems can be officially recognized as a national song by a country's constitution or by an enacted law, or simply by tradition. Although most anthems contain lyrics, some do not.",
+                "localFile": {
+                  "publicURL": "/the-world-factbook/static/ab3df4de316b1bc16c86c224e8aa67a7/FS.mp3",
+                  "childImageSharp": null
+                }
+              }
+            ]
+          },
+          {
+            "name": "Citizenship",
+            "data": "see France",
+            "subfields": [
+              {
+                "label": "residency requirement for naturalization",
+                "ranking": null
+              },
+              {
+                "label": "dual citizenship recognized",
+                "ranking": null
+              },
+              {
+                "label": "citizenship by descent only",
+                "ranking": null
+              },
+              {
+                "label": "citizenship by birth",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "310",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Elevation",
+            "data": "<strong>highest point:</strong> <span style=\"display: inline !important; float: none; background-color: #ffffff; color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 18px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">Mont de la Dives on Ile Amsterdam (Ile Amsterdam et Ile Saint-Paul) 867 m</span><br><br><strong>lowest point:</strong> Indian Ocean 0 m<br><br><span style=\"display: inline !important; float: none; background-color: #ffffff; color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 18px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\"><strong>highest points throughout the French Southern and Antarctic Lands:&nbsp;</strong>Cr&ecirc;te de la Novara on Ile Saint-Paul (Ile Amsterdam et Ile Saint-Paul) 284 m; Pic Marion-Dufresne in Iles Crozet 1090 m; Mont Ross in Iles Kerguelen 1850 m; unnamed location on Bassas de India (Iles Eparses) 2.4 m; 24 unnamed location on Europa Island (Iles Eparses) 6 m; unnamed location on Glorioso Islands (Iles Eparses) 12 m; unnamed location on Juan de Nova Island (Iles Eparses) 10 m; unnamed location on Tromelin Island (Iles Eparses) 7 m</span>",
+            "subfields": [
+              {
+                "label": "highest point",
+                "ranking": null
+              },
+              {
+                "label": "lowest point",
+                "ranking": null
+              },
+              {
+                "label": "mean elevation",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "407",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Imports - partners",
+            "data": "France 41%, Ireland 15%, Germany 11%, Poland 7%, Netherlands 7% (2023)<br><br><b>note:</b> top five import partners based on percentage share of imports",
+            "subfields": [
+              {
+                "label": "Imports - partners",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "403",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Exports - commodities",
+            "data": "fish (2023)<br><br><strong>note:</strong> top export commodities based on value in dollars over $500,000",
+            "subfields": [
+              {
+                "label": "Exports - commodities",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "240",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Exports - partners",
+            "data": "France 47%, USA 34%, Poland 9%, Singapore 3%, Saudi Arabia 2% (2023)<br><br><b>note:</b> top five export partners based on percentage share of exports",
+            "subfields": [
+              {
+                "label": "Exports - partners",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "241",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Imports - commodities",
+            "data": "scented mixtures, industrial acids/oils/alcohols, surveying equipment, fish, refined petroleum (2023)<br><br><b>note:</b> top five import commodities based on value in dollars",
+            "subfields": [
+              {
+                "label": "Imports - commodities",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": false,
+                "databaseId": "243",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Population",
+            "data": "<strong>total:</strong> no indigenous inhabitants<br><br><strong>Ile Amsterdam (Ile Amsterdam et Ile Saint-Paul): </strong>uninhabited but has a meteorological station<br /><strong>Ile Saint-Paul (Ile Amsterdam et Ile Saint-Paul): </strong>uninhabited but is frequently visited by fishermen and has a scientific research cabin for short stays<br /><strong>Iles Crozet</strong>: uninhabited except for 18 to 30 people staffing the Alfred Faure research station on Ile del la Possession<br /><strong>Iles Kerguelen:</strong> 50 to 100 scientists are located at the main base at Port-aux-Francais on Ile Kerguelen<br /><strong><span class=\"category\">Bassas da India (Iles Eparses): </span></strong>uninhabitable<br /><strong><span class=\"category\">Europa Island, Glorioso Islands, Juan de Nova Island (Iles Eparses): </span></strong>a small French military garrison and a few meteorologists on each possession; visited by scientists<br /><strong><span class=\"category\">Tromelin Island (Iles Eparses): </span></strong>uninhabited, visited by scientists",
+            "subfields": [
+              {
+                "label": "female",
+                "ranking": null
+              },
+              {
+                "label": "male",
+                "ranking": null
+              },
+              {
+                "label": "total",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "335",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Area",
+            "data": "<strong>Ile Amsterdam (Ile Amsterdam et Ile Saint-Paul): </strong>total - 55 sq km; land - 55 sq km; water - 0 sq km<br /> <strong>Ile Saint-Paul (Ile Amsterdam et Ile Saint-Paul): </strong>total - 7 sq km; land - 7 sq km; water - 0 sq km<br /> <strong>Iles Crozet: </strong>total - 352 sq km; land - 352 sq km; water - 0 sq km<br /> <strong>Iles Kerguelen: </strong>total - 7,215 sq km; land - 7,215 sq km; water - 0 sq km<br /> <strong>Bassas da India (Iles Eparses): </strong>total - 80 sq km; land - 0.2 sq km; water - 79.8 sq km (lagoon)<br /> <strong>Europa Island (Iles Eparses): </strong>total - 28 sq km; land - 28 sq km; water - 0 sq km<br /> <strong>Glorioso Islands (Iles Eparses): </strong>total - 5 sq km; land - 5 sq km; water - 0 sq km<br /> <strong>Juan de Nova Island (Iles Eparses): </strong>total - 4.4 sq km; land - 4.4 sq km; water - 0 sq km<br /> <strong>Tromelin Island (Iles Eparses): </strong>total - 1 sq km; land - 1 sq km; water - 0 sq km<br /> <strong>note: </strong>excludes \"Adelie Land\" claim of about 500,000 sq km in Antarctica that is not recognized by the US",
+            "subfields": [],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "279",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Airports",
+            "data": "4 (2025)",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": 184
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "379",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Merchant marine",
+            "data": "<strong>total:</strong> 2 (2023)<br><br><strong>by type:</strong> other 2",
+            "subfields": [
+              {
+                "label": "total",
+                "ranking": 179
+              },
+              {
+                "label": "by type",
+                "ranking": null
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "387",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  },
+                  {
+                    "databaseId": null,
+                    "rank": false
+                  }
+                ]
+              }
+            ],
+            "media": []
+          },
+          {
+            "name": "Heliports",
+            "data": "3 (2025)",
+            "subfields": [
+              {
+                "label": "Heliports",
+                "ranking": 116
+              }
+            ],
+            "fieldLabel": [
+              {
+                "rank": true,
+                "databaseId": "382",
+                "toggleWithId": null,
+                "toggleType": null,
+                "subfieldLabels": [
+                  {
+                    "databaseId": null,
+                    "rank": true
+                  }
+                ]
+              }
+            ],
+            "media": []
+          }
+        ]
+      },
+      "travelFact": null,
+      "rep": {
+        "seo": {
+          "metaDesc": "",
+          "title": "$title - The World Factbook",
+          "twitterDescription": "",
+          "twitterTitle": "",
+          "twitterImage": null
+        }
+      }
+    },
+    "pageContext": {
+      "id": "ce8dcd90-7704-5472-9017-2ca29925bfc4",
+      "placeCode": "FS",
+      "uriBase": "/countries/"
+    }
+  },
+  "staticQueryHashes": [
+    "2962548448",
+    "3419350533",
+    "4121375890",
+    "4279206597",
+    "800385335"
+  ],
+  "slicesMap": {}
+}
