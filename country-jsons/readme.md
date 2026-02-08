@@ -1,1 +1,1 @@
-These jsons contain the most recent provided data from the CIA world fact book, parsed out by country. 
+These jsons contain the most recent provided data from the CIA world fact book, parsed out by country. You can find out how recent a given image is by checking [country-jsons/snapshot_log.csv](country-jsons/snapshot_log.csv), which lists the countries, filenames, and the timestamp from when the snapshot was taken by internet archive.
