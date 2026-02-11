@@ -2,6 +2,8 @@
 
 In the interest of LOCKSS, I'm sharing the content I got from the internet archive on 2/6/2026 and 2/7/2026. It's a bit of a mess and very much raw-data-y, but you can find formatted versions of the data, including images, audio, and recreated PDF's of the fact sheets and travel sheets [here](https://digitalpublicgoodslibrary.org/ark/search?f.search=World+Factbook).
 
+The jsons in `country/jsons` contain the most recent provided data from the CIA world fact book, parsed out by country. You can find out how recent a given image is by checking [country-jsons/snapshot_log.csv](country-jsons/snapshot_log.csv), which lists the countries, filenames, and the timestamp from when the snapshot was taken by internet archive.
+
 If you like this and want to support more data rescue efforts focusing on educational resources, let me know. Anywho, more elaborate information:
 
 # What's in a CIA World Factbook JSON
